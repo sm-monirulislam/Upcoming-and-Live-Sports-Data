@@ -2,9 +2,30 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:29:18 AM 23-05-2026",
+    "last_update_time": "08:58:52 AM 23-05-2026",
     "total_matches": 30,
     "matches": [
+        {
+            "status": "LIVE",
+            "id": "418",
+            "event_name": "Illawarra Dragons vs New Zealand",
+            "eventInfo": {
+                "teamA": "St. George Illawarra",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4267/image",
+                "eventName": "Illawarra Dragons vs New Zealand",
+                "startTime": "2026/05/23 07:30:00 +0000",
+                "endTime": "2026/05/23 09:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093717/219028-321030/manifest-d.mpd"
+                }
+            ]
+        },
         {
             "status": "UPCOMING",
             "id": "312",
@@ -844,27 +865,6 @@
                     "Channel_Name": "PREMIER SPORTS",
                     "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "418",
-            "event_name": "Illawarra Dragons vs New Zealand",
-            "eventInfo": {
-                "teamA": "St. George Illawarra",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4267/image",
-                "eventName": "Illawarra Dragons vs New Zealand",
-                "startTime": "2026/05/23 07:30:00 +0000",
-                "endTime": "2026/05/23 09:45:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093717/219028-321030/manifest-d.mpd"
                 }
             ]
         },
