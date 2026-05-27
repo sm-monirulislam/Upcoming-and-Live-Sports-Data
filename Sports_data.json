@@ -2,12 +2,58 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:58:07 AM 27-05-2026",
+    "last_update_time": "10:56:16 AM 27-05-2026",
     "total_matches": 13,
     "matches": [
         {
+            "status": "LIVE",
+            "id": 50019,
+            "event_name": "Roland-Garros",
+            "eventInfo": {
+                "teamA": "Roland-Garros",
+                "teamB": "Roland-Garros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
+                "eventName": "Roland-Garros",
+                "startTime": "2026/05/27 09:00:00 +0000",
+                "endTime": "2026/05/27 17:59:00 +0000"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "id": 50022,
+            "event_name": "Ireland vs New Zealand",
+            "eventInfo": {
+                "teamA": "IRE",
+                "teamB": "NZ",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+                "eventName": "Ireland vs New Zealand, One-off Test",
+                "startTime": "2026/05/27 10:00:00 +0000",
+                "endTime": "2026/05/27 17:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "WILLOW [Ad-Free]",
+                    "drm_key": "738abe1e048c4c1457e592cd5fe781b5:ef5e8ef6ce1f0b5813911212673969d2",
+                    "stream_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6le5p4wncm/out/v1/276f12039b4d4fb2a85693c85b6e7bb2/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "TNT SPORTS FHD",
+                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd"
+                }
+            ]
+        },
+        {
             "status": "UPCOMING",
-            "id": "312",
+            "id": 50002,
             "event_name": "Formula 1",
             "eventInfo": {
                 "teamA": "Formula 1",
@@ -93,7 +139,7 @@
         },
         {
             "status": "UPCOMING",
-            "id": "313",
+            "id": 50003,
             "event_name": "MotoGP",
             "eventInfo": {
                 "teamA": "MotoGP",
@@ -149,7 +195,7 @@
         },
         {
             "status": "UPCOMING",
-            "id": "324",
+            "id": 50004,
             "event_name": "UFC",
             "eventInfo": {
                 "teamA": "Y. Song",
@@ -160,160 +206,11 @@
                 "startTime": "2026/05/30 07:00:00 +0000",
                 "endTime": "2026/05/30 15:00:00 +0000"
             },
-            "streams": [
-                {
-                    "Channel_Name": "TNT Sports",
-                    "drm_key": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
-                    "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SportzX UFC",
-                    "drm_key": "",
-                    "stream_url": "https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8"
-                },
-                {
-                    "Channel_Name": "SportzX FHD",
-                    "drm_key": "",
-                    "stream_url": "https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8?|Referer=https://ppv.to/&Origin=https://ppv.to"
-                },
-                {
-                    "Channel_Name": "SportzX TV+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://red9.lumenlyra.space/playlist/41184/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Low",
-                    "drm_key": "",
-                    "stream_url": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-                },
-                {
-                    "Channel_Name": "SportzX HD",
-                    "drm_key": "",
-                    "stream_url": "https://azplay.live/hls/NFLHD30/index.m3u8?|Referer=https://arizonaplay.club/&Origin=https://arizonaplay.club"
-                },
-                {
-                    "Channel_Name": "FAST Server",
-                    "drm_key": "",
-                    "stream_url": "https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8"
-                },
-                {
-                    "Channel_Name": "UFC+ - AQ",
-                    "drm_key": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
-                    "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd"
-                }
-            ]
+            "streams": []
         },
         {
             "status": "UPCOMING",
-            "id": "327",
-            "event_name": "ONE Friday Fights",
-            "eventInfo": {
-                "teamA": "Friday Fights",
-                "teamB": "Friday Fights",
-                "teamAFlag": "https://iili.io/FDjaT1R.md.png",
-                "teamBFlag": "https://iili.io/FDjaT1R.md.png",
-                "eventName": "ONE Friday Fights",
-                "startTime": "2026/05/29 12:30:00 +0000",
-                "endTime": "2026/05/29 16:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "One Fight FHD",
-                    "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
-                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
-                },
-                {
-                    "Channel_Name": "ESPN SPORTS FHD",
-                    "drm_key": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779529113~acl=%2f*~id=f8a0f7f6-5eb8-49c9-a19f-2655d8d88a1a~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=569a3a475b804e495e8abbeef2fc2c9e6b659df245657a3d63e14366c2b7b0f0/dash/live/2093723/219038-321034/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "Server 2",
-                    "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
-                    "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd"
-                },
-                {
-                    "Channel_Name": "Server 3",
-                    "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
-                    "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "328",
-            "event_name": "WWE Raw",
-            "eventInfo": {
-                "teamA": "WWE",
-                "teamB": "WWE",
-                "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
-                "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
-                "eventName": "🥊 WWE Monday Night RAW",
-                "startTime": "2026/06/02 00:00:00 +0000",
-                "endTime": "2026/06/02 02:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX HD",
-                    "drm_key": "",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "Backup SD",
-                    "drm_key": "",
-                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "Tap Sport LQ",
-                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "329",
-            "event_name": "WWE Smackdown",
-            "eventInfo": {
-                "teamA": "WWE",
-                "teamB": "WWE",
-                "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-                "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-                "eventName": "🥊 WWE Friday Night SmackDown",
-                "startTime": "2026/05/30 00:00:00 +0000",
-                "endTime": "2026/05/30 02:45:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "Backup HD",
-                    "drm_key": "",
-                    "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "Backup SD",
-                    "drm_key": "",
-                    "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com"
-                },
-                {
-                    "Channel_Name": "USA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "USA TV (USA VPN)",
-                    "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
-                    "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "337",
+            "id": 50005,
             "event_name": "WWE NXT",
             "eventInfo": {
                 "teamA": "NXT",
@@ -344,7 +241,7 @@
         },
         {
             "status": "UPCOMING",
-            "id": "354",
+            "id": 50006,
             "event_name": "WWE",
             "eventInfo": {
                 "teamA": "AEW",
@@ -385,155 +282,115 @@
         },
         {
             "status": "UPCOMING",
-            "id": "366",
-            "event_name": "IPL - 01",
+            "id": 50009,
+            "event_name": "ONE Friday Fights",
             "eventInfo": {
-                "teamA": "SRH",
-                "teamB": "RR",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
-                "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
-                "startTime": "2026/05/27 14:00:00 +0000",
-                "endTime": "2026/05/27 18:00:00 +0000"
+                "teamA": "Friday Fights",
+                "teamB": "Friday Fights",
+                "teamAFlag": "https://iili.io/FDjaT1R.md.png",
+                "teamBFlag": "https://iili.io/FDjaT1R.md.png",
+                "eventName": "ONE Friday Fights",
+                "startTime": "2026/05/29 12:30:00 +0000",
+                "endTime": "2026/05/29 16:30:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "PRIME VIDEO",
-                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
+                    "Channel_Name": "One Fight FHD",
+                    "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
                 },
                 {
-                    "Channel_Name": "WILLOW [Ad Free]",
-                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
-                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
+                    "Channel_Name": "ESPN SPORTS FHD",
+                    "drm_key": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779529113~acl=%2f*~id=f8a0f7f6-5eb8-49c9-a19f-2655d8d88a1a~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=569a3a475b804e495e8abbeef2fc2c9e6b659df245657a3d63e14366c2b7b0f0/dash/live/2093723/219038-321034/manifest-d.mpd"
                 },
                 {
-                    "Channel_Name": "PRIME HINDI",
-                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                    "Channel_Name": "Server 2",
+                    "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+                    "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd"
                 },
                 {
-                    "Channel_Name": "SKY SPORTS - AQ",
-                    "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
-                },
-                {
-                    "Channel_Name": "PTV Sports",
-                    "drm_key": "",
-                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
-                },
-                {
-                    "Channel_Name": "S©portzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
-                },
-                {
-                    "Channel_Name": "JIO HOTSTAR",
-                    "drm_key": "",
-                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
-                },
-                {
-                    "Channel_Name": "WILLOW HD",
-                    "drm_key": "",
-                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
-                },
-                {
-                    "Channel_Name": "Star Sports [HIN]",
-                    "drm_key": "",
-                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
-                },
-                {
-                    "Channel_Name": "STAR ENG - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR HIN - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR TAM - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR TEL - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR KAN - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                    "Channel_Name": "Server 3",
+                    "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+                    "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd"
                 }
             ]
         },
         {
             "status": "UPCOMING",
-            "id": "367",
-            "event_name": "Ireland vs New Zealand",
+            "id": 50010,
+            "event_name": "WWE Raw",
             "eventInfo": {
-                "teamA": "IRE",
-                "teamB": "NZ",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-                "eventName": "Ireland vs New Zealand, One-off Test",
-                "startTime": "2026/05/27 10:00:00 +0000",
-                "endTime": "2026/05/27 17:30:00 +0000"
+                "teamA": "WWE",
+                "teamB": "WWE",
+                "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+                "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+                "eventName": "🥊 WWE Monday Night RAW",
+                "startTime": "2026/06/02 00:00:00 +0000",
+                "endTime": "2026/06/02 02:30:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "TNT SPORTS FHD",
-                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
+                    "Channel_Name": "SportzX HD",
+                    "drm_key": "",
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
                 },
                 {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd"
+                    "Channel_Name": "Backup SD",
+                    "drm_key": "",
+                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
+                },
+                {
+                    "Channel_Name": "Tap Sport LQ",
+                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd"
                 }
             ]
         },
         {
             "status": "UPCOMING",
-            "id": "372",
-            "event_name": "Roland-Garros",
+            "id": 50011,
+            "event_name": "WWE Smackdown",
             "eventInfo": {
-                "teamA": "Roland-Garros",
-                "teamB": "Roland-Garros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
-                "eventName": "Roland-Garros",
-                "startTime": "2026/05/27 09:00:00 +0000",
-                "endTime": "2026/05/27 17:59:00 +0000"
+                "teamA": "WWE",
+                "teamB": "WWE",
+                "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+                "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+                "eventName": "🥊 WWE Friday Night SmackDown",
+                "startTime": "2026/05/30 00:00:00 +0000",
+                "endTime": "2026/05/30 02:45:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "TNT Sports 4",
-                    "drm_key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "WILLOW (Ad Free)",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
                 },
                 {
-                    "Channel_Name": "WILLOW FHD",
-                    "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "WILLOW SD",
+                    "Channel_Name": "Backup HD",
                     "drm_key": "",
-                    "stream_url": "https://crichdplayer.com/willow-cricket-live-stream-2026"
+                    "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/"
+                },
+                {
+                    "Channel_Name": "Backup SD",
+                    "drm_key": "",
+                    "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com"
+                },
+                {
+                    "Channel_Name": "USA TV HD",
+                    "drm_key": "",
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
+                },
+                {
+                    "Channel_Name": "USA TV (USA VPN)",
+                    "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+                    "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd"
                 }
             ]
         },
         {
             "status": "UPCOMING",
-            "id": "402",
+            "id": 50023,
             "event_name": "Palace vs Rayo Vallecano",
             "eventInfo": {
                 "teamA": "Crystal Palace",
@@ -554,7 +411,7 @@
         },
         {
             "status": "UPCOMING",
-            "id": "403",
+            "id": 50024,
             "event_name": "Leicestershire vs Derbyshire",
             "eventInfo": {
                 "teamA": "LEI",
@@ -572,6 +429,21 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
                 }
             ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50025,
+            "event_name": "IPL - 01",
+            "eventInfo": {
+                "teamA": "SRH",
+                "teamB": "RR",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+                "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
+                "startTime": "2026/05/27 14:00:00 +0000",
+                "endTime": "2026/05/27 18:00:00 +0000"
+            },
+            "streams": []
         }
     ]
 }
