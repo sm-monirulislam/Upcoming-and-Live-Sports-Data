@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:47:54 AM 28-05-2026",
-    "total_matches": 15,
+    "last_update_time": "02:32:13 PM 28-05-2026",
+    "total_matches": 28,
     "matches": [
         {
             "status": "LIVE",
@@ -48,27 +48,79 @@
                     "Channel_Name": "SKY SPORTS FHD",
                     "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
                     "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779983862~acl=%2F*~id=ff48809a-1ed0-485b-8e2c-05b8ca345bdb~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0OTImZWlkPTk2MzI0MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=43b4cb5bdc5747d5cc9a966de9e41b3439b2d750fbf8fc742200802ada806293/dash/live/2093710/219026-321025/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS 4k",
+                    "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779983860~acl=%2F*~id=5096b6f1-6686-4eb0-8833-c1b5fdc2211f~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0ODkmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ce24aa29a40245f2927bdb8605c0aa72489d18f48ff789588539286e382f49bf/dash/live/2093666/294921-318514/manifest-d.mpd"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "id": 50056,
-            "event_name": "St Kilda Saints vs Hawthorn Hawks",
+            "id": 50057,
+            "event_name": "Canada vs USA",
             "eventInfo": {
-                "teamA": "St Kilda Saints",
-                "teamB": "Hawthorn Hawks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4445/image",
-                "eventName": "St Kilda Saints vs Hawthorn Hawks",
-                "startTime": "2026/05/28 09:30:00 +0000",
-                "endTime": "2026/05/28 12:30:00 +0000"
+                "teamA": "Canada",
+                "teamB": "USA",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5738/image",
+                "eventName": "Canada vs USA",
+                "startTime": "2026/05/28 14:20:00 +0000",
+                "endTime": "2026/05/28 17:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "FOX SPORTS 2",
-                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
+                    "Channel_Name": "TSN 4",
+                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": 50058,
+            "event_name": "Finland vs Czechia",
+            "eventInfo": {
+                "teamA": "Finland",
+                "teamB": "Czechia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5731/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5730/image",
+                "eventName": "Finland vs Czechia",
+                "startTime": "2026/05/28 14:20:00 +0000",
+                "endTime": "2026/05/28 17:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN 2",
+                    "drm_key": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": 50064,
+            "event_name": "Bangladesh W vs Maldives W",
+            "eventInfo": {
+                "teamA": "Bangladesh",
+                "teamB": "Maldives",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/214194/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/214193/image",
+                "eventName": "Bangladesh W vs Maldives W",
+                "startTime": "2026/05/28 14:00:00 +0000",
+                "endTime": "2026/05/28 16:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "",
+                    "stream_url": "https://fncd.kuvuslov.cymru/mumbai/142938_english_hls_22877b817639891_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://pulltx.jdnzrgm.com/live/sd-6Mwe5WYW4sj4FMUisx.m3u8?txSecret=2547810161c2935a12247447391f8886&txTime=6A187419"
                 }
             ]
         },
@@ -160,6 +212,62 @@
         },
         {
             "status": "UPCOMING",
+            "id": 50003,
+            "event_name": "MotoGP",
+            "eventInfo": {
+                "teamA": "MotoGP",
+                "teamB": "MotoGP",
+                "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+                "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+                "eventName": "MotoGP - Gran Premio d Italia",
+                "startTime": "2026/05/29 08:45:00 +0000",
+                "endTime": "2026/05/29 14:15:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "MotoGP",
+                    "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+                    "stream_url": "https://live-emt-pv-ta.amazon.fastly-edge.com/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xn1ww1wqze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/2d4c0663-3f53-410f-9c43-2129136c9eb1-cenc.mpd?aws.sessionId=600a1abb-f5f1-44f2-b042-7fad259e4c9b"
+                },
+                {
+                    "Channel_Name": "TNT SPORTS - AQ",
+                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SPO TV - AQ",
+                    "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+                    "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd"
+                },
+                {
+                    "Channel_Name": "ZIGGO SPORT - AQ",
+                    "drm_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+                    "stream_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621"
+                },
+                {
+                    "Channel_Name": "TNT SPORTS SD",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                },
+                {
+                    "Channel_Name": "DAZN SPORTS",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                },
+                {
+                    "Channel_Name": "CANAL+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
             "id": 50004,
             "event_name": "UFC",
             "eventInfo": {
@@ -172,6 +280,27 @@
                 "endTime": "2026/05/30 15:00:00 +0000"
             },
             "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50007,
+            "event_name": "Baltimore Orioles",
+            "eventInfo": {
+                "teamA": "Orioles",
+                "teamB": "Blue Jays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "eventName": "Baltimore Orioles vs Blue Jays",
+                "startTime": "2026/05/28 22:35:00 +0000",
+                "endTime": "2026/05/29 01:35:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -283,6 +412,32 @@
         },
         {
             "status": "UPCOMING",
+            "id": 50012,
+            "event_name": "Oklahoma City Thunder",
+            "eventInfo": {
+                "teamA": "Spurs",
+                "teamB": "Thunder",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                "eventName": "Spurs vs Thunder",
+                "startTime": "2026/05/29 00:30:00 +0000",
+                "endTime": "2026/05/29 03:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                },
+                {
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
             "id": 50025,
             "event_name": "IPL - 01",
             "eventInfo": {
@@ -298,8 +453,50 @@
         },
         {
             "status": "UPCOMING",
+            "id": 50032,
+            "event_name": "Pittsburgh Pirates",
+            "eventInfo": {
+                "teamA": "Pirates",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "eventName": "Pittsburgh Pirates vs Chicago Cubs",
+                "startTime": "2026/05/28 22:40:00 +0000",
+                "endTime": "2026/05/29 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX LIVE",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50033,
+            "event_name": "Texas Rangers",
+            "eventInfo": {
+                "teamA": "Rangers",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "Texas Rangers vs Houston Astros",
+                "startTime": "2026/05/29 00:05:00 +0000",
+                "endTime": "2026/05/29 03:05:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
             "id": 50041,
-            "event_name": "England W vs New Zealand W",
+            "event_name": "England W vs India W",
             "eventInfo": {
                 "teamA": "ENG-W",
                 "teamB": "IND-W",
@@ -307,7 +504,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
                 "eventName": "England W vs India W",
                 "startTime": "2026/05/28 17:30:00 +0000",
-                "endTime": "2026/05/28 21:00:00 +0000"
+                "endTime": "2026/05/28 21:15:00 +0000"
             },
             "streams": [
                 {
@@ -316,19 +513,9 @@
                     "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093710/219026-321025/manifest-d.mpd"
                 },
                 {
-                    "Channel_Name": "SKY SPORTS 4k",
-                    "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093666/294921-318514/manifest-d.mpd"
-                },
-                {
                     "Channel_Name": "WILLOW FHD",
                     "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SKY CRICKET HD",
-                    "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
                 }
             ]
         },
@@ -337,13 +524,13 @@
             "id": 50052,
             "event_name": "Ireland W vs West Indies W",
             "eventInfo": {
-                "teamA": "Ireland Women",
-                "teamB": "West Indies Women",
+                "teamA": "IRE-W",
+                "teamB": "WI-W",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-                "eventName": "Ireland Women vs West Indies Women",
+                "eventName": "Ireland W vs West Indies W",
                 "startTime": "2026/05/28 15:00:00 +0000",
-                "endTime": "2026/05/28 19:00:00 +0000"
+                "endTime": "2026/05/28 18:45:00 +0000"
             },
             "streams": [
                 {
@@ -368,9 +555,9 @@
             },
             "streams": [
                 {
-                    "Channel_Name": "DEFAULT",
-                    "drm_key": null,
-                    "stream_url": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1"
+                    "Channel_Name": "FOX DEPORTES",
+                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
                 }
             ]
         },
@@ -389,9 +576,14 @@
             },
             "streams": [
                 {
-                    "Channel_Name": "DEFAULT",
-                    "drm_key": null,
-                    "stream_url": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1"
+                    "Channel_Name": "FOX SPORTS FHD",
+                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SporTV BR FHD",
+                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
                 }
             ]
         },
@@ -413,6 +605,111 @@
                     "Channel_Name": "DEFAULT",
                     "drm_key": null,
                     "stream_url": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50059,
+            "event_name": "Switzerland vs Sweden",
+            "eventInfo": {
+                "teamA": "Switzerland",
+                "teamB": "Sweden",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5735/image",
+                "eventName": "Switzerland vs Sweden",
+                "startTime": "2026/05/28 18:20:00 +0000",
+                "endTime": "2026/05/28 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN 2",
+                    "drm_key": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50060,
+            "event_name": "Norway vs Latvia",
+            "eventInfo": {
+                "teamA": "Norway",
+                "teamB": "Latvia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5913/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5739/image",
+                "eventName": "Norway vs Latvia",
+                "startTime": "2026/05/28 18:20:00 +0000",
+                "endTime": "2026/05/28 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN 4",
+                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50061,
+            "event_name": "Detroit Tigers vs Angels",
+            "eventInfo": {
+                "teamA": "Tigers",
+                "teamB": "Angels",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "eventName": "Detroit Tigers vs Angels",
+                "startTime": "2026/05/28 17:10:00 +0000",
+                "endTime": "2026/05/28 20:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50062,
+            "event_name": "White Sox vs Minnesota Twins",
+            "eventInfo": {
+                "teamA": "White Sox",
+                "teamB": "Twins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "eventName": "White Sox vs Minnesota Twins",
+                "startTime": "2026/05/28 18:10:00 +0000",
+                "endTime": "2026/05/28 21:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50063,
+            "event_name": "Red Sox vs Atlanta Braves",
+            "eventInfo": {
+                "teamA": "Red Sox",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "Red Sox vs Atlanta Braves",
+                "startTime": "2026/05/28 20:10:00 +0000",
+                "endTime": "2026/05/28 23:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -454,6 +751,27 @@
                     "Channel_Name": "BACKUP SD",
                     "drm_key": "",
                     "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": 50056,
+            "event_name": "St Kilda Saints vs Hawthorn Hawks",
+            "eventInfo": {
+                "teamA": "St Kilda Saints",
+                "teamB": "Hawthorn Hawks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4445/image",
+                "eventName": "St Kilda Saints vs Hawthorn Hawks",
+                "startTime": "2026/05/28 09:30:00 +0000",
+                "endTime": "2026/05/28 12:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "FOX SPORTS 2",
+                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
                 }
             ]
         }
