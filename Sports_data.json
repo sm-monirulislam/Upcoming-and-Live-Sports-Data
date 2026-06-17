@@ -2,10 +2,41 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:05 AM 17-06-2026",
-    "total_matches": 105,
-    "live_match": 7,
+    "last_update_time": "07:30:05 AM 17-06-2026",
+    "total_matches": 104,
+    "live_match": 6,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Argentina Vs Algeria | World Cup",
+            "eventInfo": {
+                "teamA": "Argentina",
+                "teamB": "Algeria",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1532.png",
+                "eventName": "World Cup",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=52dda3e3fbc92d197358d83dbd7f052fa217d164&x-sign=1012e0390949f4ab2711e40e5dc623ba&x-time=1781658960",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781745395-Kv4cPTAAP5YTi-52dda3e3fbc92d197358d83dbd7f052fa217d164-f65da05d89c419743139c7905b462f0e",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781745395-Kv4cPTAAP5YTi-52dda3e3fbc92d197358d83dbd7f052fa217d164-3bae2fb5ecd6dfed65cb22b923c8fd49",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=52dda3e3fbc92d197358d83dbd7f052fa217d164&x-sign=ff49b4f5e412124b0f95335f45408094&x-time=1781658960",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -22,37 +53,6 @@
                 {
                     "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "drm_key": "b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Argentina Vs Algeria | World Cup",
-            "eventInfo": {
-                "teamA": "Argentina",
-                "teamB": "Algeria",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1532.png",
-                "eventName": "World Cup",
-                "startTime": "7:00 AM 17-06-2026"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=dad000d4d10dbf415d93f146a70ca574&x-time=1781657160",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781743598-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-73afd3b9b7de653ed7b9163e4e3eafd8",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 3": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781743599-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-5b8f8e3586e6ca3d238814bd854fa7c5",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 4": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=068226885184ecd7cc8d8210ccabded0&x-time=1781657160",
-                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -113,29 +113,6 @@
             "streams": []
         },
         {
-            "status": "LIVE",
-            "Category": "Serie B",
-            "event_name": "Fortaleza Ec Vs America Mineiro | Serie B",
-            "eventInfo": {
-                "teamA": "Fortaleza Ec",
-                "teamB": "America Mineiro",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/154.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/125.png",
-                "eventName": "Serie B",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=88d3cb47e07137192b3fd7d440103613&x-time=1781657160",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=1781743594-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-3fbf8a0b6e9d3166a572c3f91f6437e4",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
             "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "England Vs New Zealand",
@@ -194,20 +171,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Canada Vs Qatar | World Cup",
-            "eventInfo": {
-                "teamA": "Canada",
-                "teamB": "Qatar",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5529.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1569.png",
-                "eventName": "World Cup",
-                "startTime": "4:00 AM 19-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Mexico Vs South Korea | World Cup",
             "eventInfo": {
                 "teamA": "Mexico",
@@ -236,14 +199,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Switzerland Vs Bosnia & Herzegovina | World Cup",
+            "event_name": "Canada Vs Qatar | World Cup",
             "eventInfo": {
-                "teamA": "Switzerland",
-                "teamB": "Bosnia & Herzegovina",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1113.png",
+                "teamA": "Canada",
+                "teamB": "Qatar",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5529.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1569.png",
                 "eventName": "World Cup",
-                "startTime": "1:00 AM 19-06-2026"
+                "startTime": "4:00 AM 19-06-2026"
             },
             "streams": []
         },
@@ -264,14 +227,28 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Czechia Vs South Africa | World Cup",
+            "event_name": "Switzerland Vs Bosnia & Herzegovina | World Cup",
             "eventInfo": {
-                "teamA": "Czechia",
-                "teamB": "South Africa",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1531.png",
+                "teamA": "Switzerland",
+                "teamB": "Bosnia & Herzegovina",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1113.png",
                 "eventName": "World Cup",
-                "startTime": "10:00 PM 18-06-2026"
+                "startTime": "1:00 AM 19-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Uzbekistan Vs Colombia | World Cup",
+            "eventInfo": {
+                "teamA": "Uzbekistan",
+                "teamB": "Colombia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1568.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8.png",
+                "eventName": "World Cup",
+                "startTime": "8:00 AM 18-06-2026"
             },
             "streams": []
         },
@@ -663,14 +640,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Uzbekistan Vs Colombia | World Cup",
+            "event_name": "Czechia Vs South Africa | World Cup",
             "eventInfo": {
-                "teamA": "Uzbekistan",
-                "teamB": "Colombia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1568.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8.png",
+                "teamA": "Czechia",
+                "teamB": "South Africa",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1531.png",
                 "eventName": "World Cup",
-                "startTime": "8:00 AM 18-06-2026"
+                "startTime": "10:00 PM 18-06-2026"
             },
             "streams": []
         },
@@ -957,14 +934,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Mohali Monsters Vs Moga Mongoose",
+            "event_name": "Bangladesh Vs Australia",
             "eventInfo": {
-                "teamA": "Mohali Monsters",
-                "teamB": "Moga Mongoose",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMO@2x.png",
-                "eventName": "Punjab T10 2026",
-                "startTime": "19-06-2026 04:00 PM"
+                "teamA": "Bangladesh",
+                "teamB": "Australia",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                "eventName": "Australia Tour Of Bangladesh, 2026",
+                "startTime": "17-06-2026 01:30 PM"
             },
             "streams": []
         },
@@ -999,14 +976,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Bangladesh Vs Australia",
+            "event_name": "Mohali Monsters Vs Moga Mongoose",
             "eventInfo": {
-                "teamA": "Bangladesh",
-                "teamB": "Australia",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                "eventName": "Australia Tour Of Bangladesh, 2026",
-                "startTime": "17-06-2026 01:30 PM"
+                "teamA": "Mohali Monsters",
+                "teamB": "Moga Mongoose",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMO@2x.png",
+                "eventName": "Punjab T10 2026",
+                "startTime": "19-06-2026 04:00 PM"
             },
             "streams": []
         },
@@ -1150,15 +1127,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Day 1 Free Practice 1 Dekra Lausitzring",
+            "Category": "Tennis",
+            "event_name": "Atp 500 Terra Wortmann Open 2026",
             "eventInfo": {
-                "teamA": "Day 1 Free Practice 1 - Dekra Lausitzring",
-                "teamB": "Schipkau, Germany",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Dtm 2026",
-                "startTime": "19-06-2026 03:05 PM"
+                "teamA": "Atp 500 - Terra Wortmann Open 2026",
+                "teamB": "Halle, Germany",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 500 - Terra Wortmann Open 2026",
+                "startTime": "19-06-2026 02:30 PM"
             },
             "streams": []
         },
@@ -1503,15 +1480,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Atp 500 Terra Wortmann Open 2026",
+            "Category": "Motorsports",
+            "event_name": "Day 1 Free Practice 1 Dekra Lausitzring",
             "eventInfo": {
-                "teamA": "Atp 500 - Terra Wortmann Open 2026",
-                "teamB": "Halle, Germany",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 500 - Terra Wortmann Open 2026",
-                "startTime": "19-06-2026 02:30 PM"
+                "teamA": "Day 1 Free Practice 1 - Dekra Lausitzring",
+                "teamB": "Schipkau, Germany",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Dtm 2026",
+                "startTime": "19-06-2026 03:05 PM"
             },
             "streams": []
         },
