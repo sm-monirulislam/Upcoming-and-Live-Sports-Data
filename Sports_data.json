@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:47 PM 03-07-2026",
+    "last_update_time": "03:50:17 PM 03-07-2026",
     "total_matches": 128,
-    "live_match": 50,
+    "live_match": 53,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Sri Lanka Vs West Indies",
+            "eventInfo": {
+                "teamA": "Sri Lanka",
+                "teamB": "West Indies",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "03-07-2026 07:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171805~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/*~Signature=Ac2BFenuXhfRr1QY9bI_UpFencoe2k9ZEmcu8OIz2rbhe2UEOs7Izkub3T5yvQD313WArA2EjuuxikLxRzLRZ5xg4aYH"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -62,19 +80,56 @@
         },
         {
             "status": "LIVE",
-            "Category": "Motorsports",
-            "event_name": "Qualifying Session",
+            "Category": "Golf",
+            "event_name": "Day 2",
             "eventInfo": {
-                "teamA": "Qualifying Session",
-                "teamB": "Silverstone",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "F3 Great Britain 2026",
-                "startTime": "03-07-2026 06:30 PM"
+                "teamA": "Day 2",
+                "teamB": "Hulencourt Golf Club, Belgium",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "Hulencourt Women'S Open 2026",
+                "startTime": "03-07-2026 07:30 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783173067~_GO=Generated~acl=/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/*~Signature=Ac2BFenUaN1JeW8i5mcTUNex6CfwDaECHdj8xexXkOy6JeNibIAayM2iVoWFNmzZAkNVkq4cL1nVzxVFgZ6aeecnOqgH"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Formula 1",
+            "event_name": "Sprint Qualifying",
+            "eventInfo": {
+                "teamA": "Sprint Qualifying",
+                "teamB": "Great Britain",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                "eventName": "F1 Pirelli British Grand Prix 2026",
+                "startTime": "03-07-2026 09:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd",
+                    "drm_key": "b5af666ee4b84628964aa31efb35badc:9e1521ab35df1b8f62c26c7e9d8b2723"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Golf",
+            "event_name": "Day 2 Am",
+            "eventInfo": {
+                "teamA": "Day 2 - Am",
+                "teamB": "United States Of America",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "Us Senior Open Championship 2026",
+                "startTime": "03-07-2026 09:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/1080p.m3u8"
                 }
             ]
         },
@@ -1163,20 +1218,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "West Indies Vs Sri Lanka",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                "eventName": "Sri Lanka Tour Of West Indies 2026",
-                "startTime": "03-07-2026 07:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Chinnamasta Lions Vs Itahari Super Kings",
             "eventInfo": {
                 "teamA": "Chinnamasta Lions",
@@ -1572,7 +1613,7 @@
                 "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c8fb00c8-fe30-4c12-9c1c-de339954f9dd/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c8fb00c8-fe30-4c12-9c1c-de339954f9dd/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Sri Lanka Tour Of West Indies 2026 - 2Nd Test - West Indies Vs Sri Lanka",
-                "startTime": "Live At 8 Pm Bdt"
+                "startTime": "8 PM BDT"
             },
             "streams": []
         },
@@ -1825,62 +1866,6 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d37dfb68-514a-4189-ac71-b4f45fd2b283/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Major League Cricket 2026 - 25Th Match - Mi New York Vs Seattle Orcas",
                 "startTime": "Sat, Jul 11 2:30 AM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Qualifying Session",
-            "eventInfo": {
-                "teamA": "Qualifying Session",
-                "teamB": "Silverstone",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "F2 Great Britain 2026",
-                "startTime": "03-07-2026 07:25 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Day 2",
-            "eventInfo": {
-                "teamA": "Day 2",
-                "teamB": "Hulencourt Golf Club, Belgium",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "Hulencourt Women'S Open 2026",
-                "startTime": "03-07-2026 07:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Formula 1",
-            "event_name": "Sprint Qualifying",
-            "eventInfo": {
-                "teamA": "Sprint Qualifying",
-                "teamB": "Great Britain",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                "eventName": "F1 Pirelli British Grand Prix 2026",
-                "startTime": "03-07-2026 09:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Day 2 Am",
-            "eventInfo": {
-                "teamA": "Day 2 - Am",
-                "teamB": "United States Of America",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "Us Senior Open Championship 2026",
-                "startTime": "03-07-2026 09:00 PM"
             },
             "streams": []
         },
@@ -2161,6 +2146,34 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                 "eventName": "F2 Great Britain 2026",
                 "startTime": "05-07-2026 03:45 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Motorsports",
+            "event_name": "Dtm Race 2 Norisring",
+            "eventInfo": {
+                "teamA": "Dtm Race 2 - Norisring",
+                "teamB": "Norisring",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Dtm 2026",
+                "startTime": "05-07-2026 05:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Golf",
+            "event_name": "Day 4 Main Feed",
+            "eventInfo": {
+                "teamA": "Day 4 - Main Feed",
+                "teamB": "Tpc Deere Run Silvis, Illinois",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "John Deere Classic 2026",
+                "startTime": "05-07-2026 06:15 PM"
             },
             "streams": []
         },
