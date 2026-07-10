@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:44 AM 10-07-2026",
-    "total_matches": 42,
-    "live_match": 9,
+    "last_update_time": "10:30:43 AM 10-07-2026",
+    "total_matches": 43,
+    "live_match": 12,
     "matches": [
         {
             "status": "LIVE",
@@ -45,6 +45,24 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
+            "event_name": "Ireland Women Vs West Indies Women",
+            "eventInfo": {
+                "teamA": "Ireland Women",
+                "teamB": "West Indies Women",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "eventName": "West Indies Women Tour Of Ireland, 2026",
+                "startTime": "10-07-2026 03:15 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
             "event_name": "Namibia Vs Vidarbha",
             "eventInfo": {
                 "teamA": "Namibia",
@@ -63,12 +81,12 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Shivamogga Yodhas Vs Mysore Warriors",
+            "event_name": "Mysore Warriors Vs Shivamogga Yodhas",
             "eventInfo": {
-                "teamA": "Shivamogga Yodhas",
-                "teamB": "Mysore Warriors",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
+                "teamA": "Mysore Warriors",
+                "teamB": "Shivamogga Yodhas",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
                 "eventName": "Maharaja T20 Trophy, 2026",
                 "startTime": "10-07-2026 02:00 PM"
             },
@@ -82,12 +100,12 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Shivamogga Yodhas Vs Mysore Warriors",
+            "event_name": "Mysore Warriors Vs Shivamogga Yodhas",
             "eventInfo": {
-                "teamA": "Shivamogga Yodhas",
-                "teamB": "Mysore Warriors",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
+                "teamA": "Mysore Warriors",
+                "teamB": "Shivamogga Yodhas",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
                 "eventName": "Maharaja T20 Trophy, 2026",
                 "startTime": "10-07-2026 02:00 PM"
             },
@@ -95,6 +113,41 @@
                 {
                     "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143445_kannada_dash_80127_1drmta-di_h264/index.mpd",
                     "drm_key": "d457fc3ba60746bbacd1200a86511e5b:08e2eec4fcb92e25ffdf134cd6050615"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Bost Defenders Vs Band E Amir Dragons",
+            "eventInfo": {
+                "teamA": "Bost Defenders",
+                "teamB": "Band-E-Amir Dragons",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
+                "eventName": "Shpageeza Cricket League, 2026",
+                "startTime": "10-07-2026 03:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143597_english_hls_24fb1ae5995567_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "event_name": "Gentlemen'S Singles Semi-Finals",
+            "eventInfo": {
+                "teamA": "Gentlemen'S Singles Semi-Finals",
+                "teamB": "",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783508050540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783508050540x302.jpg",
+                "eventName": "Wimbledon 2026",
+                "startTime": "10-07-2026 04:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
                 }
             ]
         },
@@ -117,23 +170,6 @@
         },
         {
             "status": "LIVE",
-            "event_name": "Dota 2 - Day 4 - Feed 2",
-            "eventInfo": {
-                "teamA": "Feed 2",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783580854540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783580854540x302.jpg",
-                "eventName": "Esports World Cup 2026 (Ewc)",
-                "startTime": "10-07-2026 03:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
             "event_name": "Dota 2 - Day 4 - Feed 1",
             "eventInfo": {
                 "teamA": "Feed 1",
@@ -146,6 +182,23 @@
             "streams": [
                 {
                     "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "event_name": "Dota 2 - Day 4 - Feed 2",
+            "eventInfo": {
+                "teamA": "Feed 2",
+                "teamB": "",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783580854540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783580854540x302.jpg",
+                "eventName": "Esports World Cup 2026 (Ewc)",
+                "startTime": "10-07-2026 03:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
                 }
             ]
         },
@@ -166,20 +219,6 @@
                     "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/139957_english_hls_365866262751348_1ta-di_h264/1080p5.m3u8"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Ireland Women Vs West Indies Women",
-            "eventInfo": {
-                "teamA": "Ireland Women",
-                "teamB": "West Indies Women",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "eventName": "West Indies Women Tour Of Ireland, 2026",
-                "startTime": "10-07-2026 03:15 PM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -254,20 +293,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Bost Defenders Vs Band E Amir Dragons",
-            "eventInfo": {
-                "teamA": "Bost Defenders",
-                "teamB": "Band-E-Amir Dragons",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-                "eventName": "Shpageeza Cricket League, 2026",
-                "startTime": "10-07-2026 03:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Zimbabwe Vs Bangladesh",
             "eventInfo": {
                 "teamA": "Zimbabwe",
@@ -324,20 +349,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Bost Defenders Vs Mis E Ainak Knights",
-            "eventInfo": {
-                "teamA": "Bost Defenders",
-                "teamB": "Mis-E-Ainak Knights",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
-                "eventName": "Shpageeza Cricket League, 2026",
-                "startTime": "11-07-2026 03:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "West Indies Vs New Zealand",
             "eventInfo": {
                 "teamA": "West Indies",
@@ -346,6 +357,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
                 "eventName": "New Zealand Tour Of West Indies, 2026",
                 "startTime": "12-07-2026 12:00 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Bost Defenders Vs Mis E Ainak Knights",
+            "eventInfo": {
+                "teamA": "Bost Defenders",
+                "teamB": "Mis-E-Ainak Knights",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
+                "eventName": "Shpageeza Cricket League, 2026",
+                "startTime": "11-07-2026 03:00 PM"
             },
             "streams": []
         },
