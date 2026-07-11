@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:19 PM 11-07-2026",
+    "last_update_time": "07:30:19 PM 11-07-2026",
     "total_matches": 44,
-    "live_match": 1,
+    "live_match": 2,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs New Zealand",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                "eventName": "New Zealand Tour Of West Indies, 2026",
+                "startTime": "12-07-2026 12:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143603_english_hls_e17d5121b699620_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "event_name": "West Indies Vs New Zealand",
@@ -22,20 +40,6 @@
                     "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs New Zealand",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                "eventName": "New Zealand Tour Of West Indies, 2026",
-                "startTime": "12-07-2026 12:00 AM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -138,28 +142,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Ireland Women Vs West Indies Women",
+            "event_name": "Amo Sharks Vs Bost Defenders",
             "eventInfo": {
-                "teamA": "Ireland Women",
-                "teamB": "West Indies Women",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "eventName": "West Indies Women Tour Of Ireland, 2026",
-                "startTime": "10-07-2026 03:15 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Belgium Vs Serbia",
-            "eventInfo": {
-                "teamA": "Belgium",
-                "teamB": "Serbia",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
-                "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
-                "startTime": "10-07-2026 07:00 PM"
+                "teamA": "Amo Sharks",
+                "teamB": "Bost Defenders",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
+                "eventName": "Shpageeza Cricket League, 2026",
+                "startTime": "12-07-2026 03:00 PM"
             },
             "streams": []
         },
@@ -174,20 +164,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                 "eventName": "Bangladesh Tour Of Zimbabwe, 2026",
                 "startTime": "11-07-2026 01:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Amo Sharks Vs Bost Defenders",
-            "eventInfo": {
-                "teamA": "Amo Sharks",
-                "teamB": "Bost Defenders",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
-                "eventName": "Shpageeza Cricket League, 2026",
-                "startTime": "12-07-2026 03:00 PM"
             },
             "streams": []
         },
@@ -361,6 +337,34 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Zimbabwe Vs Bangladesh",
+            "eventInfo": {
+                "teamA": "Zimbabwe",
+                "teamB": "Bangladesh",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                "eventName": "Bangladesh Tour Of Zimbabwe, 2026",
+                "startTime": "15-07-2026 04:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Tbc Vs Tbc",
+            "eventInfo": {
+                "teamA": "Tbc",
+                "teamB": "Tbc",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+                "eventName": "Shpageeza Cricket League, 2026",
+                "startTime": "15-07-2026 02:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "event_name": "Mcgregor Vs Holloway 2",
             "eventInfo": {
                 "teamA": "Mcgregor",
@@ -443,20 +447,6 @@
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Motogp",
-            "event_name": "Day 2",
-            "eventInfo": {
-                "teamA": "Day 2",
-                "teamB": "Sachsenring",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                "eventName": "Liqui Moly Grand Prix Of Germany 2026",
-                "startTime": "11-07-2026 12:10 PM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -637,6 +627,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
                 "startTime": "14-07-2026 03:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Live Events",
+            "event_name": "Day 8",
+            "eventInfo": {
+                "teamA": "Day 8",
+                "teamB": "Goa",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Dream Utt Juniors 2026",
+                "startTime": "15-07-2026 09:00 AM"
             },
             "streams": []
         }
