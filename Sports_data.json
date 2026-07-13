@@ -2,25 +2,25 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:55 PM 13-07-2026",
+    "last_update_time": "02:31:07 PM 13-07-2026",
     "total_matches": 41,
-    "live_match": 3,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Amo Sharks Vs Mis E Ainak Knights",
+            "event_name": "Estonia Vs Turkiye",
             "eventInfo": {
-                "teamA": "Amo Sharks",
-                "teamB": "Mis-E-Ainak Knights",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
-                "eventName": "Shpageeza Cricket League, 2026",
-                "startTime": "13-07-2026 03:00 PM"
+                "teamA": "Estonia",
+                "teamB": "Turkiye",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TURK@2x.png",
+                "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
+                "startTime": "13-07-2026 07:00 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/1080p.m3u8"
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/1080p.m3u8"
                 }
             ]
         },
@@ -61,18 +61,22 @@
             ]
         },
         {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Estonia Vs Turkiye",
+            "status": "LIVE",
+            "Category": "Tennis",
+            "event_name": "Day 1 World Feed",
             "eventInfo": {
-                "teamA": "Estonia",
-                "teamB": "Turkiye",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TURK@2x.png",
-                "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
-                "startTime": "13-07-2026 07:00 PM"
+                "teamA": "Day 1 - World Feed",
+                "teamB": "Croatia",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
+                "startTime": "13-07-2026 07:30 PM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -365,20 +369,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Day 1 World Feed",
-            "eventInfo": {
-                "teamA": "Day 1 - World Feed",
-                "teamB": "Croatia",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
-                "startTime": "13-07-2026 07:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Live Events",
             "event_name": "Day 7",
             "eventInfo": {
@@ -598,6 +588,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "The Open 2026",
                 "startTime": "17-07-2026 11:00 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Motorsports",
+            "event_name": "Practice Session",
+            "eventInfo": {
+                "teamA": "Practice Session",
+                "teamB": "Spa-Francorchamps",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "F3 Belgium 2026",
+                "startTime": "17-07-2026 01:25 PM"
             },
             "streams": []
         }
