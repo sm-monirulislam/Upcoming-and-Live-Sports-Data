@@ -2,10 +2,45 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:55 PM 13-07-2026",
-    "total_matches": 40,
-    "live_match": 2,
+    "last_update_time": "06:30:54 PM 13-07-2026",
+    "total_matches": 41,
+    "live_match": 4,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs New Zealand",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                "eventName": "New Zealand Tour Of West Indies, 2026",
+                "startTime": "14-07-2026 12:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "event_name": "West Indies Vs New Zealand",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783668024540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783668024540x302.jpg",
+                "eventName": "New Zealand Tour Of West Indies 2026",
+                "startTime": "14-07-2026 12:30 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Tennis",
@@ -38,23 +73,9 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784051465~_GO=Generated~acl=/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/*~Signature=AfBeBzhYrbbIjuJKRceXxtj2S20sqyUp-RdeIJuF_8Zsa-CE8L46exJQt5Fx3xGSdUgH9kKtgJSFul_-qbqYCGUN09gP"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs New Zealand",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                "eventName": "New Zealand Tour Of West Indies, 2026",
-                "startTime": "14-07-2026 12:00 AM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -137,34 +158,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
                 "eventName": "Shpageeza Cricket League, 2026",
                 "startTime": "14-07-2026 03:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Gibraltar Vs Serbia",
-            "eventInfo": {
-                "teamA": "Gibraltar",
-                "teamB": "Serbia",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
-                "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
-                "startTime": "12-07-2026 07:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Hungary Vs Turkiye",
-            "eventInfo": {
-                "teamA": "Hungary",
-                "teamB": "Turkiye",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TURK@2x.png",
-                "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
-                "startTime": "12-07-2026 07:00 PM"
             },
             "streams": []
         },
@@ -576,6 +569,34 @@
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "Atp 250 - Nordea Open 2026",
+                "startTime": "17-07-2026 03:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Day 5",
+            "eventInfo": {
+                "teamA": "Day 5",
+                "teamB": "Switzerland",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
+                "startTime": "17-07-2026 03:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Day 5",
+            "eventInfo": {
+                "teamA": "Day 5",
+                "teamB": "Croatia",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
                 "startTime": "17-07-2026 03:00 PM"
             },
             "streams": []
