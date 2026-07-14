@@ -2,30 +2,12 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:25 AM 14-07-2026",
+    "last_update_time": "09:30:24 AM 14-07-2026",
     "total_matches": 45,
-    "live_match": 1,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Bost Defenders Vs Speen Ghar Tigers",
-            "eventInfo": {
-                "teamA": "Bost Defenders",
-                "teamB": "Speen Ghar Tigers",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-                "eventName": "Shpageeza Cricket League, 2026",
-                "startTime": "14-07-2026 10:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "Serbia Vs Estonia",
             "eventInfo": {
@@ -36,10 +18,14 @@
                 "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
                 "startTime": "14-07-2026 02:00 PM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8"
+                }
+            ]
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "Category": "Cricket",
             "event_name": "Belgium Vs Hungary",
             "eventInfo": {
@@ -50,7 +36,47 @@
                 "eventName": "Icc Men'S T20 World Cup Europe Sub Regional Qualifier B, 2026",
                 "startTime": "14-07-2026 02:00 PM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Tennis",
+            "event_name": "Day 2 World Feed",
+            "eventInfo": {
+                "teamA": "Day 2 - World Feed",
+                "teamB": "Switzerland",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
+                "startTime": "14-07-2026 02:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Tennis",
+            "event_name": "Day 2 World Feed",
+            "eventInfo": {
+                "teamA": "Day 2 - World Feed",
+                "teamB": "Sweden",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Nordea Open 2026",
+                "startTime": "14-07-2026 02:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -222,23 +248,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_name": "England Vs India",
-            "eventInfo": {
-                "teamA": "England",
-                "teamB": "India",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1783925015540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1783925015540x302.jpg",
-                "eventName": "India Tour Of England 2026",
-                "startTime": "14-07-2026 04:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "event_name": "Zimbabwe Vs Bangladesh",
             "eventInfo": {
                 "teamA": "Zimbabwe",
@@ -264,6 +273,23 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784014598540x302.jpg",
                 "eventName": "Vitality Blast Men 2026",
                 "startTime": "15-07-2026 09:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "event_name": "England Vs India",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "India",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784019768540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784019768540x302.jpg",
+                "eventName": "India Tour Of England 2026",
+                "startTime": "16-07-2026 06:00 PM"
             },
             "streams": [
                 {
@@ -304,34 +330,6 @@
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Day 2 World Feed",
-            "eventInfo": {
-                "teamA": "Day 2 - World Feed",
-                "teamB": "Switzerland",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
-                "startTime": "14-07-2026 02:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Day 2 World Feed",
-            "eventInfo": {
-                "teamA": "Day 2 - World Feed",
-                "teamB": "Sweden",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Nordea Open 2026",
-                "startTime": "14-07-2026 02:30 PM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -651,6 +649,20 @@
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "Corales Puntacana Championship 2026",
+                "startTime": "17-07-2026 10:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Motorsports",
+            "event_name": "Practice Session",
+            "eventInfo": {
+                "teamA": "Practice Session",
+                "teamB": "Spa-Francorchamps",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Porsche Mobil 1 Supercup 2026",
                 "startTime": "17-07-2026 10:00 PM"
             },
             "streams": []
