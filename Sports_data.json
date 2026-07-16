@@ -2,27 +2,10 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:31:14 AM 16-07-2026",
-    "total_matches": 49,
+    "last_update_time": "06:01:12 AM 16-07-2026",
+    "total_matches": 48,
     "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "event_name": "Individual Race - Stage 6 - Gonghe - Gangcha Live",
-            "eventInfo": {
-                "teamA": "Gangcha",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784019039540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784019040540x302.jpg",
-                "eventName": "Tour Of Magnificent Qinghai 2026",
-                "startTime": "16-07-2026 11:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-                }
-            ]
-        },
         {
             "status": "LIVE",
             "Category": "Live Events",
@@ -42,6 +25,24 @@
             ]
         },
         {
+            "status": "LIVE",
+            "Category": "Golf",
+            "event_name": "Day 1",
+            "eventInfo": {
+                "teamA": "Day 1",
+                "teamB": "Royal Birkdale",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TON@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "The Open 2026",
+                "startTime": "16-07-2026 11:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/4246808_english_hls_cd63cc5f7314604_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784265544~_GO=Generated~acl=/mumbai/4246808_english_hls_cd63cc5f7314604_1ta-di_h264/*~Signature=AeRM5cWSbdqbkleZIUynyoJXPHGAbL_seZDCiJv_rg7wc-BV7BzAyNmrLWUqzlLpYgD5jvdQlD-rc1I8Es5EeCu3uRAD"
+                }
+            ]
+        },
+        {
             "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "West Indies Vs New Zealand",
@@ -52,6 +53,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
                 "eventName": "New Zealand Tour Of West Indies, 2026",
                 "startTime": "17-07-2026 12:00 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Zimbabwe Vs Bangladesh",
+            "eventInfo": {
+                "teamA": "Zimbabwe",
+                "teamB": "Bangladesh",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                "eventName": "Bangladesh Tour Of Zimbabwe, 2026",
+                "startTime": "17-07-2026 04:00 PM"
             },
             "streams": []
         },
@@ -94,20 +109,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                 "eventName": "Bangladesh Tour Of Zimbabwe, 2026",
                 "startTime": "15-07-2026 04:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Zimbabwe Vs Bangladesh",
-            "eventInfo": {
-                "teamA": "Zimbabwe",
-                "teamB": "Bangladesh",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                "eventName": "Bangladesh Tour Of Zimbabwe, 2026",
-                "startTime": "17-07-2026 04:00 PM"
             },
             "streams": []
         },
@@ -305,57 +306,43 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Day 1",
-            "eventInfo": {
-                "teamA": "Day 1",
-                "teamB": "Royal Birkdale",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TON@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "The Open 2026",
-                "startTime": "16-07-2026 11:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Tennis",
-            "event_name": "Day 4",
+            "event_name": "Day 4 World Feed",
             "eventInfo": {
-                "teamA": "Day 4",
-                "teamB": "Sweden",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Nordea Open 2026",
-                "startTime": "16-07-2026 03:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Day 4",
-            "eventInfo": {
-                "teamA": "Day 4",
+                "teamA": "Day 4 - World Feed",
                 "teamB": "Switzerland",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
-                "startTime": "16-07-2026 03:00 PM"
+                "startTime": "16-07-2026 02:00 PM"
             },
             "streams": []
         },
         {
             "status": "UPCOMING",
             "Category": "Tennis",
-            "event_name": "Day 4",
+            "event_name": "Day 4 World Feed",
             "eventInfo": {
-                "teamA": "Day 4",
+                "teamA": "Day 4 - World Feed",
+                "teamB": "Sweden",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Nordea Open 2026",
+                "startTime": "16-07-2026 02:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Day 4 World Feed",
+            "eventInfo": {
+                "teamA": "Day 4 - World Feed",
                 "teamB": "Croatia",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
-                "startTime": "16-07-2026 03:00 PM"
+                "startTime": "16-07-2026 07:30 PM"
             },
             "streams": []
         },
