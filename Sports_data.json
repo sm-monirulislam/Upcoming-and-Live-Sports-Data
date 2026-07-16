@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:01:13 PM 16-07-2026",
+    "last_update_time": "07:31:12 PM 16-07-2026",
     "total_matches": 55,
     "live_match": 7,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs New Zealand",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                "eventName": "New Zealand Tour Of West Indies, 2026",
+                "startTime": "17-07-2026 12:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784311504~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cXly0E7X3BCueAReteDgo_DYRKY3OhMPTTqygVlVyOnprv5JvL2epHx_0YJS7bC1RyT9fseumcgGhNFVXk90IUK"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "event_name": "England Vs India",
@@ -64,24 +82,6 @@
             "event_name": "Day 4 World Feed",
             "eventInfo": {
                 "teamA": "Day 4 - World Feed",
-                "teamB": "Switzerland",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
-                "startTime": "16-07-2026 02:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784305805~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cVQYHHt9YEUVCb3oyIINJxCNb55T0vfkIzfAjo9dTqVuZbxlqeknQRLhBr581q-yqZZ876aHLkf74yPVthRtLwM"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "Day 4 World Feed",
-            "eventInfo": {
-                "teamA": "Day 4 - World Feed",
                 "teamB": "Sweden",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -129,20 +129,6 @@
                     "stream_url": "https://bd-mc-flive.fancode.com/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784306644~_GO=Generated~acl=/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/*~Signature=AeRM5cVYRc268gLF2iX3w7IJDfDm6cN0aCXAqJjH86-qpVqSJsVUQcLE8Cqq8bhbS6Z5KB-07A-TNqji3OvBGxrVJuIN"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs New Zealand",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                "eventName": "New Zealand Tour Of West Indies, 2026",
-                "startTime": "17-07-2026 12:00 AM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -238,6 +224,20 @@
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
                 "eventName": "New Zealand Tour Of West Indies, 2026",
+                "startTime": "19-07-2026 07:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Colombo Kaps Vs Kandy Royals",
+            "eventInfo": {
+                "teamA": "Colombo Kaps",
+                "teamB": "Kandy Royals",
+                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
+                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+                "eventName": "Lanka Premier League, 2026",
                 "startTime": "19-07-2026 07:30 PM"
             },
             "streams": []
