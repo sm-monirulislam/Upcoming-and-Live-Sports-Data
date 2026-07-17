@@ -2,28 +2,10 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:37 AM 17-07-2026",
+    "last_update_time": "08:30:38 AM 17-07-2026",
     "total_matches": 55,
     "live_match": 2,
     "matches": [
-        {
-            "status": "LIVE",
-            "Category": "Live Events",
-            "event_name": "Day 10",
-            "eventInfo": {
-                "teamA": "Day 10",
-                "teamB": "Goa",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Dream Utt Juniors 2026",
-                "startTime": "17-07-2026 09:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/4246608_english_hls_876a03769910786_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784344745~_GO=Generated~acl=/mumbai/4246608_english_hls_876a03769910786_1ta-di_h264/*~Signature=AeRM5cWtPRzA1tmT2anS41Kv7ZBUkEE4HKSeeTdTDmPHJ-2K-w4ofo_zN-pPf3RgrRoLFWsh04ODlP6Y3tUqpNYCR9IO"
-                }
-            ]
-        },
         {
             "status": "LIVE",
             "Category": "Golf",
@@ -39,6 +21,24 @@
             "streams": [
                 {
                     "stream_url": "https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784351945~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cWNEnU8YbbLnhWvqCrACnqJGryB1R2VjtdnI5YZEqPk8OYqwn-AhMAMYsE946SjSeZsAURtELLNPGu-tgWDkyIJ"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Motorsports",
+            "event_name": "Practice Session",
+            "eventInfo": {
+                "teamA": "Practice Session",
+                "teamB": "Spa-Francorchamps",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "F3 Belgium 2026",
+                "startTime": "17-07-2026 01:25 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139729_english_hls_d6eab4e4d762581_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784361065~_GO=Generated~acl=/mumbai/139729_english_hls_d6eab4e4d762581_1ta-di_h264/*~Signature=AeRM5cU-n5oxo37MWvNQ-3EInn9Zn7yXjByJ7-zKKKFEsTioYhEZmfaboBZo9Z9XCeUBKkAiKEWXTDJCcMrRoLGc-TII"
                 }
             ]
         },
@@ -87,20 +87,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "West Indies Vs New Zealand",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                "eventName": "New Zealand Tour Of West Indies, 2026",
-                "startTime": "17-07-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Galle Gallants Vs Colombo Kaps",
             "eventInfo": {
                 "teamA": "Galle Gallants",
@@ -109,6 +95,20 @@
                 "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
                 "eventName": "Lanka Premier League, 2026",
                 "startTime": "18-07-2026 07:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs New Zealand",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                "eventName": "New Zealand Tour Of West Indies, 2026",
+                "startTime": "17-07-2026 12:00 AM"
             },
             "streams": []
         },
@@ -459,15 +459,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Practice Session",
+            "Category": "Tennis",
+            "event_name": "Day 5 World Feed",
             "eventInfo": {
-                "teamA": "Practice Session",
-                "teamB": "Spa-Francorchamps",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "F3 Belgium 2026",
-                "startTime": "17-07-2026 01:25 PM"
+                "teamA": "Day 5 - World Feed",
+                "teamB": "Switzerland",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
+                "startTime": "17-07-2026 02:00 PM"
             },
             "streams": []
         },
@@ -496,34 +496,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                 "eventName": "F2 Belgium 2026",
                 "startTime": "17-07-2026 02:35 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Day 5",
-            "eventInfo": {
-                "teamA": "Day 5",
-                "teamB": "Switzerland",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Efg Swiss Open Gstaad 2026",
-                "startTime": "17-07-2026 03:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Day 5",
-            "eventInfo": {
-                "teamA": "Day 5",
-                "teamB": "Croatia",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
-                "startTime": "17-07-2026 03:00 PM"
             },
             "streams": []
         },
@@ -580,6 +552,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
                 "eventName": "F1 Moet & Chandon Belgian Grand Prix 2026",
                 "startTime": "17-07-2026 08:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Day 5 World Feed",
+            "eventInfo": {
+                "teamA": "Day 5 - World Feed",
+                "teamB": "Croatia",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Plava Laguna Croatia Open Umag 2026",
+                "startTime": "17-07-2026 10:00 PM"
             },
             "streams": []
         },
@@ -832,6 +818,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
                 "eventName": "The Open 2026",
                 "startTime": "19-07-2026 01:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Day 7",
+            "eventInfo": {
+                "teamA": "Day 7",
+                "teamB": "Sweden",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Nordea Open 2026",
+                "startTime": "19-07-2026 03:00 PM"
             },
             "streams": []
         }
