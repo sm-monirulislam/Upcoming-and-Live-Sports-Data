@@ -2,28 +2,10 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:30:32 AM 22-07-2026",
+    "last_update_time": "04:00:40 AM 22-07-2026",
     "total_matches": 43,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "New Zealand Vs West Indies",
-            "eventInfo": {
-                "teamA": "New Zealand",
-                "teamB": "West Indies",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                "eventName": "New Zealand Tour Of West Indies, 2026",
-                "startTime": "22-07-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784761924~_GO=Generated~acl=/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/*~Signature=AeouRp5Frq7EoFpImM6QWfIW18gV_aBew3-uS_af7P84fptiP5Zm-YCxuw_b7wV9FsVNYNEc_D-gtNgOmO354_gIcTsG"
-                }
-            ]
-        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -41,6 +23,20 @@
                     "stream_url": "https://bd-mc-flive.fancode.com/mumbai/4247196_english_hls_e3229a54d026585_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784771463~_GO=Generated~acl=/mumbai/4247196_english_hls_e3229a54d026585_1ta-di_h264/*~Signature=AeouRp4VZw2bcvHONo8oiAqYhJtDyXRL59ExIPPUTMG4WKMiN4rFuh_K1Pjb1bjsk5HPyi_IC46XMI0kAKN4Z1bi87MA"
                 }
             ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "New Zealand Vs West Indies",
+            "eventInfo": {
+                "teamA": "New Zealand",
+                "teamB": "West Indies",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "eventName": "New Zealand Tour Of West Indies, 2026",
+                "startTime": "22-07-2026 12:00 AM"
+            },
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -87,34 +83,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Nepal Vs Namibia",
-            "eventInfo": {
-                "teamA": "Nepal",
-                "teamB": "Namibia",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-                "eventName": "Icc Cwc League 2 Netherlands, 2026",
-                "startTime": "21-07-2026 02:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Kandy Royals Vs Dambulla Sixers",
-            "eventInfo": {
-                "teamA": "Kandy Royals",
-                "teamB": "Dambulla Sixers",
-                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
-                "eventName": "Lanka Premier League, 2026",
-                "startTime": "21-07-2026 07:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Netherlands Vs Nepal",
             "eventInfo": {
                 "teamA": "Netherlands",
@@ -137,6 +105,34 @@
                 "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
                 "eventName": "Lanka Premier League, 2026",
                 "startTime": "23-07-2026 03:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Nepal Vs Namibia",
+            "eventInfo": {
+                "teamA": "Nepal",
+                "teamB": "Namibia",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+                "eventName": "Icc Cwc League 2 Netherlands, 2026",
+                "startTime": "21-07-2026 02:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Kandy Royals Vs Dambulla Sixers",
+            "eventInfo": {
+                "teamA": "Kandy Royals",
+                "teamB": "Dambulla Sixers",
+                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
+                "eventName": "Lanka Premier League, 2026",
+                "startTime": "21-07-2026 07:30 PM"
             },
             "streams": []
         },
