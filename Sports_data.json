@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:34 PM 23-07-2026",
+    "last_update_time": "11:30:38 PM 23-07-2026",
     "total_matches": 82,
-    "live_match": 9,
+    "live_match": 10,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "San Francisco Unicorns Vs Guyana Amazon Warriors",
+            "eventInfo": {
+                "teamA": "San Francisco Unicorns",
+                "teamB": "Guyana Amazon Warriors",
+                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/San-Francisco-Unicorns.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png",
+                "eventName": "Global Super League, 2026",
+                "startTime": "24-07-2026 04:30 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -278,20 +296,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Guyana Amazon Warriors Vs San Francisco Unicorns",
-            "eventInfo": {
-                "teamA": "Guyana Amazon Warriors",
-                "teamB": "San Francisco Unicorns",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png",
-                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/San-Francisco-Unicorns.png",
-                "eventName": "Global Super League, 2026",
-                "startTime": "24-07-2026 04:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Lahore Qalandars Vs Desert Vipers",
             "eventInfo": {
                 "teamA": "Lahore Qalandars",
@@ -328,6 +332,34 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUN@2x.png",
                 "eventName": "Club Friendlies 2026",
                 "startTime": "24-07-2026 09:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
+            "eventInfo": {
+                "teamA": "Malaysia Xi",
+                "teamB": "Sea Hawks Cricket Club",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
+                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Seahawks.png",
+                "eventName": "Malaysia And Sea Hawks Cricket Club 2026",
+                "startTime": "25-07-2026 07:00 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Sri Lanka Women Vs Pakistan Women",
+            "eventInfo": {
+                "teamA": "Sri Lanka Women",
+                "teamB": "Pakistan Women",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+                "eventName": "Pakistan Women'S Tour Of Sri Lanka, 2026",
+                "startTime": "25-07-2026 10:00 AM"
             },
             "streams": []
         },
@@ -412,34 +444,6 @@
                 "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Perth-Scorchers-XI.png",
                 "eventName": "Global Super League, 2026",
                 "startTime": "23-07-2026 07:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
-            "eventInfo": {
-                "teamA": "Malaysia Xi",
-                "teamB": "Sea Hawks Cricket Club",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Seahawks.png",
-                "eventName": "Malaysia And Sea Hawks Cricket Club 2026",
-                "startTime": "25-07-2026 07:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Sri Lanka Women Vs Pakistan Women",
-            "eventInfo": {
-                "teamA": "Sri Lanka Women",
-                "teamB": "Pakistan Women",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-                "eventName": "Pakistan Women'S Tour Of Sri Lanka, 2026",
-                "startTime": "25-07-2026 10:00 AM"
             },
             "streams": []
         },
