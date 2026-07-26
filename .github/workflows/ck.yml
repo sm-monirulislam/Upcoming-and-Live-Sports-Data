@@ -2,9 +2,11 @@ name: Auto Generate Sports M3U Playlist
 
 on:
   schedule:
-    # প্রতিদিন প্রতি ৬ ঘন্টা পর পর অটো রান হবে (UTC সময় অনুযায়ী)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # এটি আপনাকে GitHub Actions থেকে ম্যানুয়ালি বাটন চেপে রান করার সুবিধা দেবে
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- এটা না থাকলে push এ 403 error আসবে
 
 jobs:
   build:
@@ -22,65 +24,91 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests pytz
 
       - name: Fetch API and Generate M3U
         run: |
           python - << 'EOF'
           import requests
-          import json
+          import re
+          from datetime import datetime
+          import pytz
 
-          # API Endpoint URL
           API_URL = "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.json"
-          
+
           try:
-              response = requests.get(API_URL)
+              response = requests.get(API_URL, timeout=30)
               response.raise_for_status()
               data = response.json()
           except Exception as e:
               print(f"Error fetching API: {e}")
               exit(1)
 
-          m3u_lines = ["#EXTM3U"]
+          bd_tz = pytz.timezone('Asia/Dhaka')
+          bd_time = datetime.now(bd_tz).strftime('%Y-%m-%d %I:%M:%S %p')
+
+          stream_blocks = []
+          total_channels = 0
 
           for match in data.get("matches", []):
               category = match.get("Category", "Sports")
               event_name = match.get("event_name", "Live Event")
-              status = match.get("status", "")
-              
-              event_info = match.get("eventInfo", {})
+
+              event_info = match.get("eventInfo") or {}
               logo = event_info.get("teamAFlag", "")
-              tournament = event_info.get("eventName", "")
 
               for stream in match.get("streams", []):
-                  stream_name = stream.get("name", "Stream")
-                  stream_url = stream.get("stream_url", "")
+                  stream_name = stream.get("name", "")
+                  raw_stream_url = stream.get("stream_url", "")
                   drm_key = stream.get("drm_key", "")
 
-                  # M3U Title Formatter
-                  title = f"{event_name} - {stream_name}"
-                  if tournament:
-                      title = f"[{tournament}] {title}"
-                  if status:
-                      title = f"[{status}] {title}"
+                  if not raw_stream_url:
+                      continue
 
-                  # Write EXTINF line with Metadata
-                  extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}", {title}'
-                  m3u_lines.append(extinf)
+                  parts = raw_stream_url.split('|')
+                  clean_url = parts[0].strip()
+                  headers_string = parts[1] if len(parts) > 1 else ""
 
-                  # Handle DRM keys (Clearkey / KODI style)
+                  display_name = f"{event_name} - {stream_name}" if stream_name else event_name
+
+                  block_lines = []
+                  extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}", {display_name}'
+                  block_lines.append(extinf)
+
+                  if headers_string:
+                      params = dict(re.findall(r'([^&=]+)=([^&]+)', headers_string))
+
+                      referer = params.get('Referer') or params.get('referer') or params.get('Origin') or params.get('origin')
+                      if referer:
+                          block_lines.append(f'#EXTVLCOPT:http-referrer={referer}')
+
+                      user_agent = params.get('User-Agent') or params.get('user-agent')
+                      if user_agent:
+                          block_lines.append(f'#EXTVLCOPT:http-user-agent={user_agent}')
+
                   if drm_key:
-                      m3u_lines.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey')
-                      m3u_lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm_key}')
+                      block_lines.append('#KODIPROP:inputstream.adaptive.license_type=clearkey')
+                      block_lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm_key}')
 
-                  m3u_lines.append(stream_url)
+                  block_lines.append(clean_url)
+                  stream_blocks.append("\n".join(block_lines))
+                  total_channels += 1
 
-          # Save to M3U file
-          playlist_content = "\n".join(m3u_lines)
+          header = f"""#EXTM3U
+#=================================
+#  Developed by: Monirul Islam
+#  Telegram: https://t.me/monirul_Islam_SM
+#  Telegram channel : https://t.me/sm_iptv_bd
+#  Last Updated: {bd_time} (BD Time)
+#  Channels Count: {total_channels}
+#================================="""
+
+          playlist_content = header + "\n\n" + "\n\n".join(stream_blocks)
+
           with open("playlist.m3u", "w", encoding="utf-8") as f:
               f.write(playlist_content)
 
-          print("playlist.m3u successfully generated!")
+          print(f"playlist.m3u generated successfully with {total_channels} channels!")
           EOF
 
       - name: Commit and Push M3U Playlist
@@ -88,4 +116,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist.m3u" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist header and channel names" && git push)
