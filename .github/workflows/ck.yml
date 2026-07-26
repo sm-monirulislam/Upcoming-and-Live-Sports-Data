@@ -1,0 +1,91 @@
+name: Auto Generate Sports M3U Playlist
+
+on:
+  schedule:
+    # প্রতিদিন প্রতি ৬ ঘন্টা পর পর অটো রান হবে (UTC সময় অনুযায়ী)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # এটি আপনাকে GitHub Actions থেকে ম্যানুয়ালি বাটন চেপে রান করার সুবিধা দেবে
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Fetch API and Generate M3U
+        run: |
+          python - << 'EOF'
+          import requests
+          import json
+
+          # API Endpoint URL
+          API_URL = "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.json"
+          
+          try:
+              response = requests.get(API_URL)
+              response.raise_for_status()
+              data = response.json()
+          except Exception as e:
+              print(f"Error fetching API: {e}")
+              exit(1)
+
+          m3u_lines = ["#EXTM3U"]
+
+          for match in data.get("matches", []):
+              category = match.get("Category", "Sports")
+              event_name = match.get("event_name", "Live Event")
+              status = match.get("status", "")
+              
+              event_info = match.get("eventInfo", {})
+              logo = event_info.get("teamAFlag", "")
+              tournament = event_info.get("eventName", "")
+
+              for stream in match.get("streams", []):
+                  stream_name = stream.get("name", "Stream")
+                  stream_url = stream.get("stream_url", "")
+                  drm_key = stream.get("drm_key", "")
+
+                  # M3U Title Formatter
+                  title = f"{event_name} - {stream_name}"
+                  if tournament:
+                      title = f"[{tournament}] {title}"
+                  if status:
+                      title = f"[{status}] {title}"
+
+                  # Write EXTINF line with Metadata
+                  extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}", {title}'
+                  m3u_lines.append(extinf)
+
+                  # Handle DRM keys (Clearkey / KODI style)
+                  if drm_key:
+                      m3u_lines.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey')
+                      m3u_lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm_key}')
+
+                  m3u_lines.append(stream_url)
+
+          # Save to M3U file
+          playlist_content = "\n".join(m3u_lines)
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write(playlist_content)
+
+          print("playlist.m3u successfully generated!")
+          EOF
+
+      - name: Commit and Push M3U Playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist.m3u" && git push)
