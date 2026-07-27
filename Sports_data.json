@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:30:18 PM 27-07-2026",
-    "total_matches": 104,
-    "live_match": 34,
+    "last_update_time": "02:00:32 PM 27-07-2026",
+    "total_matches": 107,
+    "live_match": 37,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Pakistan",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Pakistan",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1784550745540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1784550745540x302.jpg",
+                "eventName": "Pakistan Tour Of West Indies 2026",
+                "startTime": "25-07-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -27,6 +45,24 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
+            "event_name": "Southern Brave Vs Mi London - Women",
+            "eventInfo": {
+                "teamA": "Women",
+                "teamB": "",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785136536540x302women.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785136536540x302women.jpg",
+                "eventName": "The Hundred Women'S Competition 2026",
+                "startTime": "27-07-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
             "event_name": "Namibia Vs Nepal",
             "eventInfo": {
                 "teamA": "Namibia",
@@ -39,6 +75,24 @@
             "streams": [
                 {
                     "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Pakistan",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Pakistan",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+                "eventName": "Pakistan Tour Of West Indies, 2026",
+                "startTime": "25-07-2026 07:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8"
                 }
             ]
         },
@@ -658,20 +712,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Chelsea Vs Western Sydney Wanderers",
-            "eventInfo": {
-                "teamA": "Chelsea",
-                "teamB": "Western Sydney Wanderers",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHEL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-                "eventName": "Club Friendlies 2026",
-                "startTime": "28-07-2026 03:15 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "Colombo Kaps Vs Jaffna Kings",
             "eventInfo": {
@@ -686,29 +726,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Jaffna Kings Vs Kandy Royals",
+            "Category": "Football",
+            "event_name": "Chelsea Vs Western Sydney Wanderers",
             "eventInfo": {
-                "teamA": "Jaffna Kings",
-                "teamB": "Kandy Royals",
-                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
-                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
-                "eventName": "Lanka Premier League, 2026",
-                "startTime": "26-07-2026 03:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "India Vs Zimbabwe",
-            "eventInfo": {
-                "teamA": "India",
-                "teamB": "Zimbabwe",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                "eventName": "India Tour Of Zimbabwe, 2026",
-                "startTime": "26-07-2026 04:30 PM"
+                "teamA": "Chelsea",
+                "teamB": "Western Sydney Wanderers",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHEL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+                "eventName": "Club Friendlies 2026",
+                "startTime": "28-07-2026 03:15 PM"
             },
             "streams": []
         },
@@ -919,6 +945,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-PB@2x.png",
                 "eventName": "Global Super League, 2026",
                 "startTime": "01-08-2026 04:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "South Delhi Superstarz Vs East Delhi Riders",
+            "eventInfo": {
+                "teamA": "South Delhi Superstarz",
+                "teamB": "East Delhi Riders",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png",
+                "eventName": "Delhi Premier League, 2026",
+                "startTime": "01-08-2026 01:30 PM"
             },
             "streams": []
         },
@@ -1395,6 +1435,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                 "eventName": "Rocket Classic 2026",
                 "startTime": "31-07-2026 04:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Golf",
+            "event_name": "World Feed Day 2",
+            "eventInfo": {
+                "teamA": "World Feed - Day 2",
+                "teamB": "Detroit Golf Club - Detroit, Michigan",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "Rocket Classic 2026",
+                "startTime": "01-08-2026 12:30 AM"
             },
             "streams": []
         },
