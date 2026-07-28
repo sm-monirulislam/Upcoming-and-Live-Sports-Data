@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:17 AM 28-07-2026",
-    "total_matches": 102,
+    "last_update_time": "05:30:14 AM 28-07-2026",
+    "total_matches": 103,
     "live_match": 37,
     "matches": [
         {
@@ -27,18 +27,36 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "San Francisco Unicorns Vs Desert Vipers",
+            "event_name": "Nepal Vs Kazakhstan",
             "eventInfo": {
-                "teamA": "San Francisco Unicorns",
-                "teamB": "Desert Vipers",
-                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/San-Francisco-Unicorns.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVDD@2x.png",
-                "eventName": "Global Super League, 2026",
-                "startTime": "28-07-2026 04:30 AM"
+                "teamA": "Nepal",
+                "teamB": "Kazakhstan",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1785159623540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1785159623540x302.jpg",
+                "eventName": "Cava Men'S Volleyball Championship 2026",
+                "startTime": "28-07-2026 11:30 AM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247440_english_hls_4a73bf788950453_1ta-di_h264/index.m3u8"
+                    "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Pakistan Women Vs Sri Lanka Women",
+            "eventInfo": {
+                "teamA": "Pakistan Women",
+                "teamB": "Sri Lanka Women",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                "eventName": "Pakistan Women'S Tour Of Sri Lanka, 2026",
+                "startTime": "28-07-2026 10:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8"
                 }
             ]
         },
@@ -282,24 +300,6 @@
                 "startTime": "25-07-2026 12:00 AM"
             },
             "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "World Feed Day 1",
-            "eventInfo": {
-                "teamA": "World Feed - Day 1",
-                "teamB": "Washington, United States",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 500 - Mubadala Dc Open 2026",
-                "startTime": "27-07-2026 08:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-pdlive.fancode.com/mumbai/143640_english_hls_6cd30c2cc670542_1ta-di_h264/index.m3u8"
-                }
-            ]
         },
         {
             "status": "LIVE",
@@ -643,20 +643,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Sri Lanka Women Vs Pakistan Women",
-            "eventInfo": {
-                "teamA": "Sri Lanka Women",
-                "teamB": "Pakistan Women",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-                "eventName": "Pakistan Women'S Tour Of Sri Lanka, 2026",
-                "startTime": "28-07-2026 10:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Colombo Kaps Vs Jaffna Kings",
             "eventInfo": {
                 "teamA": "Colombo Kaps",
@@ -699,6 +685,34 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Nepal Vs Netherlands",
+            "eventInfo": {
+                "teamA": "Nepal",
+                "teamB": "Netherlands",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                "eventName": "Icc Cwc League 2 Netherlands, 2026",
+                "startTime": "29-07-2026 02:30 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Galle Gallants Vs Kandy Royals",
+            "eventInfo": {
+                "teamA": "Galle Gallants",
+                "teamB": "Kandy Royals",
+                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
+                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+                "eventName": "Lanka Premier League, 2026",
+                "startTime": "29-07-2026 03:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "Guyana Amazon Warriors Vs Lahore Qalandars",
             "eventInfo": {
                 "teamA": "Guyana Amazon Warriors",
@@ -727,28 +741,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Nepal Vs Netherlands",
+            "event_name": "San Francisco Unicorns Vs Desert Vipers",
             "eventInfo": {
-                "teamA": "Nepal",
-                "teamB": "Netherlands",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                "eventName": "Icc Cwc League 2 Netherlands, 2026",
-                "startTime": "29-07-2026 02:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Galle Gallants Vs Kandy Royals",
-            "eventInfo": {
-                "teamA": "Galle Gallants",
-                "teamB": "Kandy Royals",
-                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
-                "teamBFlag": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
-                "eventName": "Lanka Premier League, 2026",
-                "startTime": "29-07-2026 03:00 PM"
+                "teamA": "San Francisco Unicorns",
+                "teamB": "Desert Vipers",
+                "teamAFlag": "https://www.fancode.com/skillup-uploads/cms-media/San-Francisco-Unicorns.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVDD@2x.png",
+                "eventName": "Global Super League, 2026",
+                "startTime": "28-07-2026 04:30 AM"
             },
             "streams": []
         },
@@ -903,6 +903,20 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-THO@2x.png",
                 "eventName": "Club Friendlies 2026",
                 "startTime": "01-08-2026 03:15 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Delhi Lions Vs New Delhi Tigers",
+            "eventInfo": {
+                "teamA": "West Delhi Lions",
+                "teamB": "New Delhi Tigers",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WDL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NDT-CR2@2x.png",
+                "eventName": "Delhi Premier League, 2026",
+                "startTime": "01-08-2026 07:00 PM"
             },
             "streams": []
         },
