@@ -33,15 +33,15 @@ jobs:
           REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
         run: |
           git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
-          mkdir -p App
-          cp private_code/App/sports_image.py App/
+          mkdir -p 
+          cp private_code/sports_image.py
           rm -rf private_code
 
       - name: Run Scraper Script
-        run: python App/sports_image.py
+        run: python sports_image.py
 
       - name: Clean up Python Script
-        run: rm -f App/sports_image.py
+        run: rm -f sports_image.py
 
       - name: Commit and Push M3U and Match Images
         env:
