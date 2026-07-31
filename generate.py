@@ -9,6 +9,9 @@ from PIL import Image
 API_URL = "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.json"
 POSTER_DIR = "posters"
 
+# 🔗 আপনার GitHub Raw URL Base
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/posters/"
+
 def sanitize_filename(name):
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
@@ -66,9 +69,13 @@ for match in data.get("matches", []):
     poster_filename = f"{safe_name}.jpg"
     poster_path = os.path.join(POSTER_DIR, poster_filename)
 
+    # 🌐 URL-এর জন্য স্পেস বা স্পেশাল ক্যারেক্টার এনকোড করা (%20)
+    encoded_filename = requests.utils.quote(poster_filename)
+    github_poster_url = f"{GITHUB_RAW_BASE}{encoded_filename}"
+
     if logoA and logoB:
         if create_combined_poster(logoA, logoB, poster_path):
-            final_logo = poster_path
+            final_logo = github_poster_url
         else:
             final_logo = logoA
     else:
@@ -121,4 +128,4 @@ header = "\n".join([line.strip() for line in header.split("\n")])
 with open("Sports_data.m3u", "w", encoding="utf-8") as f:
     f.write(header + "\n\n" + "\n\n".join(stream_blocks))
 
-print("Sports_data.m3u and posters generated successfully!")
+print("Sports_data.m3u and posters generated successfully with Raw GitHub links!")
