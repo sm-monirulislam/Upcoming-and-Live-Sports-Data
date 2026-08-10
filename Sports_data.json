@@ -2,317 +2,128 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:30:23 PM 10-08-2026",
-    "total_matches": 93,
-    "live_match": 30,
+    "last_update_time": "01:00:35 PM 10-08-2026",
+    "total_matches": 54,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Sl Vs Wef",
+            "event_name": "The Hundred W Vs The Hundred W",
             "eventInfo": {
-                "teamA": "Sl",
-                "teamB": "Wef",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
-                "eventName": "The Hundred",
-                "startTime": "09-08-2026 07:30 PM"
+                "teamA": "The Hundred W",
+                "teamB": "The Hundred W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
+                "eventName": "The Hundred Women",
+                "startTime": "10-08-2026 08:00 PM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hfggzozkzw/out/v1/5a0e7944b83942b4afeba99b1385ec89/cenc.mpd",
+                    "name": "WILLOW FHD",
+                    "drm_key": "b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f"
+                },
+                {
+                    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hfggzozkzw/out/v1/5a0e7944b83942b4afeba99b1385ec89/cenc.mpd",
+                    "name": "WILLOW ALT",
+                    "drm_key": "b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/GGGGGAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "name": "LOW SERVER"
+                }
+            ]
         },
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Lns Vs Bph",
+            "event_name": "Ire Vs Afg",
             "eventInfo": {
-                "teamA": "Lns",
-                "teamB": "Bph",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/377175/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
+                "teamA": "Ire",
+                "teamB": "Afg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+                "eventName": "One Day International",
+                "startTime": "10-08-2026 03:45 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd",
+                    "name": "WILLOW FHD",
+                    "drm_key": "d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037"
+                },
+                {
+                    "stream_url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
+                    "name": "ATN SPORTS"
+                },
+                {
+                    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd",
+                    "name": "WILLOW ALT",
+                    "drm_key": "d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037"
+                },
+                {
+                    "stream_url": "https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "name": "FANCODE (IND)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Calcutta Premier Division Vs Calcutta Premier Division",
+            "eventInfo": {
+                "teamA": "Calcutta Premier Division",
+                "teamB": "Calcutta Premier Division",
+                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+                "eventName": "Calcutta Premier Division",
+                "startTime": "10-08-2026 03:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://live-n10.videostech.cloud/match/behalasssportingclub_vs_railwayfc/HLS/master.m3u8",
+                    "name": "live"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Durand Cup Vs Durand Cup",
+            "eventInfo": {
+                "teamA": "Durand Cup",
+                "teamB": "Durand Cup",
+                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
+                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
+                "eventName": "Durand Cup 2026",
+                "startTime": "10-08-2026 04:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8?hdnea=exp=1786398625~acl=/*~id=eb42a817fb10f4ee6c0b951f20df64c3-1786355402474~hmac=dd1e0f1c173a59b93113b0e2c317f2573af6c235d7a64ab291b1487d0282774d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=eb42a817fb10f4ee6c0b951f20df64c3-1786355402474",
+                    "name": "Mohun Bagan SG vs CISF Protectors"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Trt Vs Sob",
+            "eventInfo": {
+                "teamA": "Trt",
+                "teamB": "Sob",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377177/image",
                 "eventName": "The Hundred",
-                "startTime": "09-08-2026 11:00 PM"
+                "startTime": "10-08-2026 11:30 PM"
             },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Zwolle Vs Ajax",
-            "eventInfo": {
-                "teamA": "Zwolle",
-                "teamB": "Ajax",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-                "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "09-08-2026 06:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Mansfield Vs Sheffield Utd",
-            "eventInfo": {
-                "teamA": "Mansfield",
-                "teamB": "Sheffield Utd",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/70/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-                "eventName": "Efl Cup",
-                "startTime": "09-08-2026 09:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Jdt Vs Chelsea",
-            "eventInfo": {
-                "teamA": "Jdt",
-                "teamB": "Chelsea",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "09-08-2026 06:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Kilmarnock Vs Celtic",
-            "eventInfo": {
-                "teamA": "Kilmarnock",
-                "teamB": "Celtic",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2347/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-                "eventName": "Scottish Premiership",
-                "startTime": "09-08-2026 06:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Liverpool Vs As Monaco",
-            "eventInfo": {
-                "teamA": "Liverpool",
-                "teamB": "As Monaco",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "09-08-2026 07:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Sparta Vs Feyenoord",
-            "eventInfo": {
-                "teamA": "Sparta",
-                "teamB": "Feyenoord",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-                "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "09-08-2026 04:15 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Rangers Vs Hibernian",
-            "eventInfo": {
-                "teamA": "Rangers",
-                "teamB": "Hibernian",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-                "eventName": "Scottish Premiership",
-                "startTime": "09-08-2026 09:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Groningen Vs Utrecht",
-            "eventInfo": {
-                "teamA": "Groningen",
-                "teamB": "Utrecht",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-                "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "09-08-2026 06:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "St. Pauli Vs Fürth",
-            "eventInfo": {
-                "teamA": "St. Pauli",
-                "teamB": "Fürth",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-                "eventName": "2. Bundesliga",
-                "startTime": "09-08-2026 05:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Nürnberg Vs Dresden",
-            "eventInfo": {
-                "teamA": "Nürnberg",
-                "teamB": "Dresden",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-                "eventName": "2. Bundesliga",
-                "startTime": "09-08-2026 05:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Cruzeiro Vs Mirassol",
-            "eventInfo": {
-                "teamA": "Cruzeiro",
-                "teamB": "Mirassol",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "09-08-2026 08:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Motherwell Vs Falkirk",
-            "eventInfo": {
-                "teamA": "Motherwell",
-                "teamB": "Falkirk",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2363/image",
-                "eventName": "Scottish Premiership",
-                "startTime": "09-08-2026 08:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Hearts Vs Dundee Utd",
-            "eventInfo": {
-                "teamA": "Hearts",
-                "teamB": "Dundee Utd",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2349/image",
-                "eventName": "Scottish Premiership",
-                "startTime": "09-08-2026 08:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Cottbus Vs Hannover",
-            "eventInfo": {
-                "teamA": "Cottbus",
-                "teamB": "Hannover",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-                "eventName": "2. Bundesliga",
-                "startTime": "09-08-2026 05:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Man City Vs Atl. Madrid",
-            "eventInfo": {
-                "teamA": "Man City",
-                "teamB": "Atl. Madrid",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "09-08-2026 05:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Heerenveen Vs Twente",
-            "eventInfo": {
-                "teamA": "Heerenveen",
-                "teamB": "Twente",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-                "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "09-08-2026 08:45 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Porto Vs Alverca",
-            "eventInfo": {
-                "teamA": "Porto",
-                "teamB": "Alverca",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-                "eventName": "Liga Portugal Betclic",
-                "startTime": "09-08-2026 11:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Cameroon Vs Nigeria",
-            "eventInfo": {
-                "teamA": "Cameroon",
-                "teamB": "Nigeria",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/69218/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7420/image",
-                "eventName": "Women'S Africa Cup Of Nations",
-                "startTime": "09-08-2026 11:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Marseille Vs Athletic Club",
-            "eventInfo": {
-                "teamA": "Marseille",
-                "teamB": "Athletic Club",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "09-08-2026 09:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Arsenal Vs Dortmund",
-            "eventInfo": {
-                "teamA": "Arsenal",
-                "teamB": "Dortmund",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "09-08-2026 07:00 PM"
-            },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "LIVE",
@@ -324,7 +135,7 @@
                 "teamAFlag": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                 "teamBFlag": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                 "eventName": "Atp & Wta Tennis",
-                "startTime": "09-08-2026 09:00 PM"
+                "startTime": "10-08-2026 09:00 PM"
             },
             "streams": [
                 {
@@ -351,104 +162,6 @@
                     "name": "Toronto (WTA)"
                 }
             ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Pirates Vs Mets",
-            "eventInfo": {
-                "teamA": "Pirates",
-                "teamB": "Mets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-                "eventName": "Mlb",
-                "startTime": "09-08-2026 11:35 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Red Sox Vs Athletics",
-            "eventInfo": {
-                "teamA": "Red Sox",
-                "teamB": "Athletics",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-                "eventName": "Mlb",
-                "startTime": "09-08-2026 11:35 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Marlins Vs Angels",
-            "eventInfo": {
-                "teamA": "Marlins",
-                "teamB": "Angels",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-                "eventName": "Mlb",
-                "startTime": "09-08-2026 11:40 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Yankees Vs Braves",
-            "eventInfo": {
-                "teamA": "Yankees",
-                "teamB": "Braves",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "eventName": "Mlb",
-                "startTime": "09-08-2026 11:35 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Phillies Vs Blue Jays",
-            "eventInfo": {
-                "teamA": "Phillies",
-                "teamB": "Blue Jays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-                "eventName": "Mlb",
-                "startTime": "09-08-2026 11:35 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Nationals Vs Reds",
-            "eventInfo": {
-                "teamA": "Nationals",
-                "teamB": "Reds",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-                "eventName": "Mlb",
-                "startTime": "09-08-2026 10:15 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Basketball",
-            "event_name": "Liberty Vs Aces",
-            "eventInfo": {
-                "teamA": "Liberty",
-                "teamB": "Aces",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-                "eventName": "Wnba",
-                "startTime": "09-08-2026 10:30 PM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -561,22 +274,22 @@
                 "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
                 "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
                 "eventName": "Caribbean Premier League T20",
-                "startTime": "10-08-2026 05:00 AM"
+                "startTime": "12-08-2026 05:00 AM"
             },
             "streams": [
                 {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd",
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nwlpftqadx/out/v1/eb355c59d99443d7aaf05b6f9f6afd75/cenc.mpd",
                     "name": "WILLOW FHD",
-                    "drm_key": "25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea"
+                    "drm_key": "ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396"
                 },
                 {
                     "stream_url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
                     "name": "FOX CRICKET HD"
                 },
                 {
-                    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd",
+                    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nwlpftqadx/out/v1/eb355c59d99443d7aaf05b6f9f6afd75/cenc.mpd",
                     "name": "WILLOW ALT",
-                    "drm_key": "25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea"
+                    "drm_key": "ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396"
                 },
                 {
                     "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8",
@@ -599,39 +312,19 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "The Hundred W Vs The Hundred W",
+            "event_name": "National Cup Vs National Cup",
             "eventInfo": {
-                "teamA": "The Hundred W",
-                "teamB": "The Hundred W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
-                "eventName": "The Hundred Women",
-                "startTime": "10-08-2026 08:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Ire Vs Afg",
-            "eventInfo": {
-                "teamA": "Ire",
-                "teamB": "Afg",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-                "eventName": "One Day International",
-                "startTime": "10-08-2026 03:45 PM"
+                "teamA": "National Cup",
+                "teamB": "National Cup",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpnm37Bj0VP9MXI2YZb3vbBWBfoJaQe6N_7h7QiQTow&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpnm37Bj0VP9MXI2YZb3vbBWBfoJaQe6N_7h7QiQTow&s=10",
+                "eventName": "National Champions League, Odi",
+                "startTime": "11-08-2026 04:00 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd|user-agent=Mozilla/5.0",
-                    "name": "WILLOW FHD",
-                    "drm_key": "37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec"
-                },
-                {
-                    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd",
-                    "name": "WILLOW ALT",
-                    "drm_key": "37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec"
+                    "stream_url": "ok",
+                    "name": "Link 1"
                 }
             ]
         },
@@ -956,272 +649,78 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Calcutta Premier Division Vs Calcutta Premier Division",
+            "event_name": "Santa Clara Vs Nacional",
             "eventInfo": {
-                "teamA": "Calcutta Premier Division",
-                "teamB": "Calcutta Premier Division",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "eventName": "Calcutta Premier Division",
-                "startTime": "10-08-2026 03:30 PM"
+                "teamA": "Santa Clara",
+                "teamB": "Nacional",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3011/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
+                "eventName": "Liga Portugal Betclic",
+                "startTime": "11-08-2026 01:15 AM"
             },
             "streams": [
                 {
-                    "stream_url": "https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_calcuttapoliceclub/HLS/master.m3u8",
-                    "name": "Mohammedan SC Reserves vs Calcutta Police"
-                },
-                {
-                    "stream_url": "https://live-n10.videostech.cloud/match/coalindiaspa_vs_measurersclub/HLS/master.m3u8",
-                    "name": "Coal India Spa vs Measures Club"
-                },
-                {
-                    "stream_url": "https://live-n10.videostech.cloud/match/wariathleticclub_vs_aryanclub/HLS/master.m3u8",
-                    "name": "Wari Athletic Club vs Techno Aryan"
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
                 }
             ]
         },
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Durand Cup Vs Durand Cup",
+            "event_name": "Jong Psv Vs Volendam",
             "eventInfo": {
-                "teamA": "Durand Cup",
-                "teamB": "Durand Cup",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                "eventName": "Durand Cup 2026",
-                "startTime": "10-08-2026 04:30 PM"
+                "teamA": "Jong Psv",
+                "teamB": "Volendam",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/46168/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2968/image",
+                "eventName": "Eerste Divisie",
+                "startTime": "11-08-2026 12:00 AM"
             },
             "streams": [
                 {
-                    "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13",
-                    "name": "Shillong Lajong FC vs Mumbay FC"
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
                 }
             ]
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Sco Vs Uae",
+            "Category": "Football",
+            "event_name": "Plymouth Vs Exeter",
             "eventInfo": {
-                "teamA": "Sco",
-                "teamB": "Uae",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187576/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187771/image",
-                "eventName": "Icc Cwc League 2",
-                "startTime": "09-08-2026 04:00 PM"
+                "teamA": "Plymouth",
+                "teamB": "Exeter",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/71/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/86/image",
+                "eventName": "Efl Cup",
+                "startTime": "11-08-2026 01:00 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Arezzo Vs Union Brescia",
+            "event_name": "Jong Az Vs Eindhoven",
             "eventInfo": {
-                "teamA": "Arezzo",
-                "teamB": "Union Brescia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2731/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1110141/image",
-                "eventName": "Coppa Italia",
-                "startTime": "09-08-2026 11:45 PM"
+                "teamA": "Jong Az",
+                "teamB": "Eindhoven",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/46161/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2994/image",
+                "eventName": "Eerste Divisie",
+                "startTime": "11-08-2026 12:00 AM"
             },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Bahia Vs Vasco",
-            "eventInfo": {
-                "teamA": "Bahia",
-                "teamB": "Vasco",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "10-08-2026 01:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "San Lorenzo Vs Huracán",
-            "eventInfo": {
-                "teamA": "San Lorenzo",
-                "teamB": "Huracán",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3201/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
-                "eventName": "Liga Profesional De Fútbol",
-                "startTime": "10-08-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Palmeiras Vs Internacional",
-            "eventInfo": {
-                "teamA": "Palmeiras",
-                "teamB": "Internacional",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "10-08-2026 01:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Benevento Vs Ravenna",
-            "eventInfo": {
-                "teamA": "Benevento",
-                "teamB": "Ravenna",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2759/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5318/image",
-                "eventName": "Coppa Italia",
-                "startTime": "10-08-2026 01:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Gil Vicente Vs Rio Ave",
-            "eventInfo": {
-                "teamA": "Gil Vicente",
-                "teamB": "Rio Ave",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3010/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-                "eventName": "Liga Portugal Betclic",
-                "startTime": "10-08-2026 01:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Santos Vs Athletico",
-            "eventInfo": {
-                "teamA": "Santos",
-                "teamB": "Athletico",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "10-08-2026 03:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Benfica Vs Académico Viseu",
-            "eventInfo": {
-                "teamA": "Benfica",
-                "teamB": "Académico Viseu",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3022/image",
-                "eventName": "Liga Portugal Betclic",
-                "startTime": "10-08-2026 01:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Flamengo Vs Vitória",
-            "eventInfo": {
-                "teamA": "Flamengo",
-                "teamB": "Vitória",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "10-08-2026 04:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Moreirense Vs Braga",
-            "eventInfo": {
-                "teamA": "Moreirense",
-                "teamB": "Braga",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-                "eventName": "Liga Portugal Betclic",
-                "startTime": "10-08-2026 01:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Rb Bragantino Vs Corinthians",
-            "eventInfo": {
-                "teamA": "Rb Bragantino",
-                "teamB": "Corinthians",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "10-08-2026 03:30 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Malawi Vs Ghana",
-            "eventInfo": {
-                "teamA": "Malawi",
-                "teamB": "Ghana",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/298498/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7417/image",
-                "eventName": "Women'S Africa Cup Of Nations",
-                "startTime": "10-08-2026 02:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Cruz Azul Vs Ny City",
-            "eventInfo": {
-                "teamA": "Cruz Azul",
-                "teamB": "Ny City",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
-                "eventName": "Leagues Cup",
-                "startTime": "10-08-2026 05:40 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "América Vs Portland",
-            "eventInfo": {
-                "teamA": "América",
-                "teamB": "Portland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                "eventName": "Leagues Cup",
-                "startTime": "10-08-2026 08:15 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Frosinone Vs Lazio",
-            "eventInfo": {
-                "teamA": "Frosinone",
-                "teamB": "Lazio",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "10-08-2026 12:45 AM"
-            },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -1414,170 +913,230 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Padres Vs Astros",
-            "eventInfo": {
-                "teamA": "Padres",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "eventName": "Mlb",
-                "startTime": "10-08-2026 06:20 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Giants Vs Tigers",
-            "eventInfo": {
-                "teamA": "Giants",
-                "teamB": "Tigers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-                "eventName": "Mlb",
-                "startTime": "10-08-2026 02:05 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Diamondbacks Vs Dodgers",
-            "eventInfo": {
-                "teamA": "Diamondbacks",
-                "teamB": "Dodgers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-                "eventName": "Mlb",
-                "startTime": "10-08-2026 02:10 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Rangers Vs Orioles",
-            "eventInfo": {
-                "teamA": "Rangers",
-                "teamB": "Orioles",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-                "eventName": "Mlb",
-                "startTime": "10-08-2026 12:35 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Mariners Vs Rays",
-            "eventInfo": {
-                "teamA": "Mariners",
-                "teamB": "Rays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "eventName": "Mlb",
-                "startTime": "10-08-2026 02:10 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Cardinals Vs Rockies",
+            "event_name": "Cardinals Vs Phillies",
             "eventInfo": {
                 "teamA": "Cardinals",
-                "teamB": "Rockies",
+                "teamB": "Phillies",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "eventName": "Mlb",
+                "startTime": "11-08-2026 05:45 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Diamondbacks Vs Rockies",
+            "eventInfo": {
+                "teamA": "Diamondbacks",
+                "teamB": "Rockies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
                 "eventName": "Mlb",
-                "startTime": "10-08-2026 12:15 AM"
+                "startTime": "11-08-2026 07:40 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Royals Vs Cubs",
+            "event_name": "Giants Vs Astros",
             "eventInfo": {
-                "teamA": "Royals",
-                "teamB": "Cubs",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "teamA": "Giants",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
                 "eventName": "Mlb",
-                "startTime": "10-08-2026 12:10 AM"
+                "startTime": "11-08-2026 07:45 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "White Sox Vs Guardians",
+            "event_name": "Dodgers Vs Royals",
             "eventInfo": {
-                "teamA": "White Sox",
-                "teamB": "Guardians",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamA": "Dodgers",
+                "teamB": "Royals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
                 "eventName": "Mlb",
-                "startTime": "10-08-2026 12:10 AM"
+                "startTime": "11-08-2026 08:10 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Brewers Vs Twins",
+            "event_name": "Angels Vs Rangers",
             "eventInfo": {
-                "teamA": "Brewers",
-                "teamB": "Twins",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "teamA": "Angels",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
                 "eventName": "Mlb",
-                "startTime": "10-08-2026 12:10 AM"
+                "startTime": "11-08-2026 07:38 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Twins Vs Orioles",
+            "eventInfo": {
+                "teamA": "Twins",
+                "teamB": "Orioles",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "eventName": "Mlb",
+                "startTime": "11-08-2026 05:40 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Braves Vs Mets",
+            "eventInfo": {
+                "teamA": "Braves",
+                "teamB": "Mets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "eventName": "Mlb",
+                "startTime": "11-08-2026 05:15 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Blue Jays Vs Red Sox",
+            "eventInfo": {
+                "teamA": "Blue Jays",
+                "teamB": "Red Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "eventName": "Mlb",
+                "startTime": "11-08-2026 05:07 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Athletics Vs Rays",
+            "eventInfo": {
+                "teamA": "Athletics",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "Mlb",
+                "startTime": "11-08-2026 07:40 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Padres Vs Brewers",
+            "eventInfo": {
+                "teamA": "Padres",
+                "teamB": "Brewers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "eventName": "Mlb",
+                "startTime": "11-08-2026 07:40 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
             "Category": "Basketball",
-            "event_name": "Sparks Vs Valkyries",
+            "event_name": "Dream Vs Tempo",
             "eventInfo": {
-                "teamA": "Sparks",
-                "teamB": "Valkyries",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                "teamA": "Dream",
+                "teamB": "Tempo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
                 "eventName": "Wnba",
-                "startTime": "10-08-2026 05:00 AM"
+                "startTime": "11-08-2026 06:00 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
             "Category": "Basketball",
-            "event_name": "Mystics Vs Mercury",
+            "event_name": "Storm Vs Sky",
             "eventInfo": {
-                "teamA": "Mystics",
-                "teamB": "Mercury",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+                "teamA": "Storm",
+                "teamB": "Sky",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
                 "eventName": "Wnba",
-                "startTime": "10-08-2026 01:00 AM"
+                "startTime": "11-08-2026 08:00 AM"
             },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Basketball",
-            "event_name": "Lynx Vs Wings",
-            "eventInfo": {
-                "teamA": "Lynx",
-                "teamB": "Wings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-                "eventName": "Wnba",
-                "startTime": "10-08-2026 01:30 AM"
-            },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "name": "Link 1"
+                }
+            ]
         },
         {
             "status": "FINISHED",
