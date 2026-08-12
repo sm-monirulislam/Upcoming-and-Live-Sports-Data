@@ -2,28 +2,10 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:30:25 PM 12-08-2026",
+    "last_update_time": "02:00:23 PM 12-08-2026",
     "total_matches": 91,
     "live_match": 25,
     "matches": [
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Welsh Fire Vs London Spirit - Women",
-            "eventInfo": {
-                "teamA": "Women",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786450224540x302women.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786450224540x302women.jpg",
-                "eventName": "The Hundred Women'S Competition 2026",
-                "startTime": "12-08-2026 04:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-                }
-            ]
-        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -39,6 +21,24 @@
             "streams": [
                 {
                     "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Welsh Fire Vs London Spirit",
+            "eventInfo": {
+                "teamA": "Welsh Fire",
+                "teamB": "London Spirit",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1786450540540x302men.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1786450540540x302men.jpg",
+                "eventName": "The Hundred Men'S Competition 2026",
+                "startTime": "12-08-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
                 }
             ]
         },
