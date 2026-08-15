@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:30:19 AM 15-08-2026",
-    "total_matches": 78,
-    "live_match": 38,
+    "last_update_time": "05:00:19 AM 15-08-2026",
+    "total_matches": 44,
+    "live_match": 13,
     "matches": [
         {
             "status": "LIVE",
@@ -52,24 +52,51 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
                 "eventName": "Icc World Test Championship",
-                "startTime": "15-08-2026 10:30 AM"
+                "startTime": "15-08-2026 10:20 AM"
             },
             "streams": [
                 {
-                    "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f",
-                    "name": "SONYLIV "
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vsbkktsjpw/out/v1/a73da2deccb14219939a675c0b3d99cf/cenc.mpd",
+                    "name": "WILLOW FHD",
+                    "drm_key": "97a5513689d3b2f6a4e31bfedb2ea2d6:19ba11eba39303ebd05986d92d974a02"
                 },
                 {
-                    "stream_url": "",
-                    "name": "SONY TEN HD"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "name": "TNT SPORTS FHD",
+                    "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
                 },
                 {
-                    "stream_url": "",
-                    "name": "SONY TEN HD "
+                    "stream_url": "https://cdn72834346.blzcdn.net/dx15hd/index.m3u8|referer=https://copyright.com/",
+                    "name": "WILLOW HD"
                 },
                 {
-                    "stream_url": "",
-                    "name": "WILLOW HF"
+                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "name": "WILLOW HD",
+                    "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "name": "SonyLiv [ENG]"
+                },
+                {
+                    "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "name": "SonyLiv [HIN]"
+                },
+                {
+                    "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "name": "SonyLiv [TAM]"
+                },
+                {
+                    "stream_url": "https://cdn72834346.blzcdn.net/dx15md/index.m3u8|referer=https://copyright.com/",
+                    "name": "WILLOW SD"
+                },
+                {
+                    "stream_url": "http://193.47.62.190/hls/KKKK.m3u8|referer=http://www.fawanews.sc/",
+                    "name": "LOW SERVER"
+                },
+                {
+                    "stream_url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+                    "name": "WILLOW HD"
                 }
             ]
         },
@@ -237,337 +264,6 @@
         },
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Al-Ettifaq Vs Al-Riyadh",
-            "eventInfo": {
-                "teamA": "Al-Ettifaq",
-                "teamB": "Al-Riyadh",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-                "eventName": "Saudi Pro League",
-                "startTime": "15-08-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://hls.live123.fans/live/4599544.m3u8",
-                    "name": "HD SERVER "
-                },
-                {
-                    "stream_url": "https://live.vivo200.com/live/sd-1-4599544.m3u8?txSecret=a9c71d0bc2840ee2084dd3e6827e3d69&txTime=6A7F6B92|Referer=https://player.online909.com/",
-                    "name": "HD QUALITY"
-                },
-                {
-                    "stream_url": "http://193.47.62.193/hls/ITTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Al-Hilal Vs Al Faisaly",
-            "eventInfo": {
-                "teamA": "Al-Hilal",
-                "teamB": "Al Faisaly",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-                "eventName": "Saudi Pro League",
-                "startTime": "15-08-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                    "name": "FOX DEPORTES FHD",
-                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/54611/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "name": "HD SERVER"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4599545.m3u8",
-                    "name": "HD QUALITY"
-                },
-                {
-                    "stream_url": "https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/",
-                    "name": "SPORT TV HD"
-                },
-                {
-                    "stream_url": "http://162.251.160.53:8089/78/index.m3u8",
-                    "name": "SD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Telstar Vs Sparta",
-            "eventInfo": {
-                "teamA": "Telstar",
-                "teamB": "Sparta",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2972/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-                "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "15-08-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live.vivo200.com/live/sd-1-4552156.m3u8?txSecret=9126fa4f43d5d562b10b9445fb68fb64&txTime=6A7F6AF3|Referer=https://player.online909.com/",
-                    "name": "HD SERVER"
-                },
-                {
-                    "stream_url": "http://193.47.62.193/hls/IPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Wolves Vs Blackburn",
-            "eventInfo": {
-                "teamA": "Wolves",
-                "teamB": "Blackburn",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-                "eventName": "Championship",
-                "startTime": "15-08-2026 01:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "name": "beiN ENGLISH FHD",
-                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-                },
-                {
-                    "stream_url": "https://rdcstream.life/live/espn1/index.m3u8?|Referer=https://bolodechocolate.fit/",
-                    "name": "ESPN SPORTS HD"
-                },
-                {
-                    "stream_url": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-                    "name": "SPORT TV HD"
-                },
-                {
-                    "stream_url": "https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/",
-                    "name": "HD QUALITY"
-                },
-                {
-                    "stream_url": "http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "SD QUALITY"
-                },
-                {
-                    "stream_url": "http://162.251.160.53:8089/112/index.m3u8",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Galatasaray Vs Çorum",
-            "eventInfo": {
-                "teamA": "Galatasaray",
-                "teamB": "Çorum",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-                "eventName": "Trendyol Süper Lig",
-                "startTime": "15-08-2026 12:30 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.191/hls/DMMMA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "HD SERVER"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
-                    "name": "beiN SPORTS HD"
-                },
-                {
-                    "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-                    "name": "HD QUALITY"
-                },
-                {
-                    "stream_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1786735620-0-0-c69b32e0dfe5e91d242b5251b8d41881",
-                    "name": "SD SERVER "
-                },
-                {
-                    "stream_url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786735620-0-0-31aef0aa6b91dc25d04003ec5952865f",
-                    "name": "LOW QUALITY "
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Fiorentina Vs Benevento",
-            "eventInfo": {
-                "teamA": "Fiorentina",
-                "teamB": "Benevento",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
-                "eventName": "Coppa Italia",
-                "startTime": "15-08-2026 01:15 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-                    "name": "ITALIA 1 FHD",
-                    "drm_key": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587"
-                },
-                {
-                    "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-                    "name": "SPORT 1 CZ FHD",
-                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "name": "D SPORTS FHD",
-                    "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-                },
-                {
-                    "stream_url": "https://cast.zlive.st/p/auto-sport-tv2-0/index.m3u8|referer=https://zlive.st/",
-                    "name": "SD SERVER"
-                },
-                {
-                    "stream_url": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-                    "name": "HD SERVER"
-                },
-                {
-                    "stream_url": "http://193.47.62.194/hls/siiiiaaaaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Monza Vs Avellino",
-            "eventInfo": {
-                "teamA": "Monza",
-                "teamB": "Avellino",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2730/image",
-                "eventName": "Coppa Italia",
-                "startTime": "15-08-2026 12:45 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "name": "PREMIER SPORTS FHD",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "name": "CBS SPORTS FHD",
-                    "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-                    "name": "D SPORTS FHD",
-                    "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-                },
-                {
-                    "stream_url": "http://193.47.62.190/hls/siiiia.m3u8|referer=http://www.fawanews.sc/",
-                    "name": "SD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Real Sociedad B Vs Castellón",
-            "eventInfo": {
-                "teamA": "Real Sociedad B",
-                "teamB": "Castellón",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-                "eventName": "Laliga 2",
-                "startTime": "15-08-2026 12:30 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/",
-                    "name": "LaLiga TV FHD"
-                },
-                {
-                    "stream_url": "http://193.47.62.191/hls/DMMMAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "LOW QUALITY "
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Coventry Vs As Monaco",
-            "eventInfo": {
-                "teamA": "Coventry",
-                "teamB": "As Monaco",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "15-08-2026 12:30 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.191/hls/DMMMAAAAA.m3u8|referer=http://www.fawanews.sc/",
-                    "name": "HD SERVER "
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Sporting Vs Vitória",
-            "eventInfo": {
-                "teamA": "Sporting",
-                "teamB": "Vitória",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
-                "eventName": "Liga Portugal Betclic",
-                "startTime": "15-08-2026 01:15 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "name": "SportDigital Fussball",
-                    "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-                    "name": "D SPORTS FHD",
-                    "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-                },
-                {
-                    "stream_url": "http://193.47.62.194/hls/siiiiaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "SD QUALITY"
-                },
-                {
-                    "stream_url": "http://162.251.160.53:8089/899/index.m3u8",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Atalanta Vs Athletic Club",
-            "eventInfo": {
-                "teamA": "Atalanta",
-                "teamB": "Athletic Club",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "15-08-2026 12:45 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.191/hls/DMMMAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
             "Category": "Boxing",
             "event_name": "Smackdown Vs Smackdown",
             "eventInfo": {
@@ -604,63 +300,6 @@
         {
             "status": "LIVE",
             "Category": "Baseball",
-            "event_name": "Guardians Vs Padres",
-            "eventInfo": {
-                "teamA": "Guardians",
-                "teamB": "Padres",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 05:10 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Pirates Vs Red Sox",
-            "eventInfo": {
-                "teamA": "Pirates",
-                "teamB": "Red Sox",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 04:40 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Rays Vs Orioles",
-            "eventInfo": {
-                "teamA": "Rays",
-                "teamB": "Orioles",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 05:10 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
             "event_name": "Athletics Vs Rangers",
             "eventInfo": {
                 "teamA": "Athletics",
@@ -674,44 +313,6 @@
                 {
                     "stream_url": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Braves Vs Diamondbacks",
-            "eventInfo": {
-                "teamA": "Braves",
-                "teamB": "Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 05:15 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Reds Vs Marlins",
-            "eventInfo": {
-                "teamA": "Reds",
-                "teamB": "Marlins",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 04:10 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
                 }
             ]
         },
@@ -764,75 +365,6 @@
         {
             "status": "LIVE",
             "Category": "Baseball",
-            "event_name": "Cubs Vs Cardinals",
-            "eventInfo": {
-                "teamA": "Cubs",
-                "teamB": "Cardinals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 12:20 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/54622/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "name": "HD SERVER "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
-                },
-                {
-                    "stream_url": "http://193.47.62.190/hls/ITTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "name": "LOW QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Astros Vs Mariners",
-            "eventInfo": {
-                "teamA": "Astros",
-                "teamB": "Mariners",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 06:10 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/54645/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "name": "MLB HD"
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Tigers Vs White Sox",
-            "eventInfo": {
-                "teamA": "Tigers",
-                "teamB": "White Sox",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 04:40 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
             "event_name": "Angels Vs Royals",
             "eventInfo": {
                 "teamA": "Angels",
@@ -845,44 +377,6 @@
             "streams": [
                 {
                     "stream_url": "https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Mets Vs Nationals",
-            "eventInfo": {
-                "teamA": "Mets",
-                "teamB": "Nationals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 05:10 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Blue Jays Vs Yankees",
-            "eventInfo": {
-                "teamA": "Blue Jays",
-                "teamB": "Yankees",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-                "eventName": "Mlb",
-                "startTime": "15-08-2026 05:15 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "name": "HD SERVER"
                 }
             ]
@@ -903,82 +397,6 @@
                 {
                     "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Basketball",
-            "event_name": "Fever Vs Wings",
-            "eventInfo": {
-                "teamA": "Fever",
-                "teamB": "Wings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-                "eventName": "Wnba",
-                "startTime": "15-08-2026 05:30 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "American Football",
-            "event_name": "Commanders Vs Dolphins",
-            "eventInfo": {
-                "teamA": "Commanders",
-                "teamB": "Dolphins",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4432/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-                "eventName": "Nfl Preseason",
-                "startTime": "15-08-2026 05:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "American Football",
-            "event_name": "Jets Vs Buccaneers",
-            "eventInfo": {
-                "teamA": "Jets",
-                "teamB": "Buccaneers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4427/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4388/image",
-                "eventName": "Nfl Preseason",
-                "startTime": "15-08-2026 05:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "American Football",
-            "event_name": "Falcons Vs Broncos",
-            "eventInfo": {
-                "teamA": "Falcons",
-                "teamB": "Broncos",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4393/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-                "eventName": "Nfl Preseason",
-                "startTime": "15-08-2026 05:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/qsdnajbq32.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "name": "HD SERVER "
                 }
             ]
         },
@@ -1309,44 +727,6 @@
             ]
         },
         {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Klaksvík Vs Lech",
-            "eventInfo": {
-                "teamA": "Klaksvík",
-                "teamB": "Lech",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5194/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
-                "eventName": "Uefa Europa League",
-                "startTime": "15-08-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "name": "Link 1"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Vancouver Vs Pacific",
-            "eventInfo": {
-                "teamA": "Vancouver",
-                "teamB": "Pacific",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/463097/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/309888/image",
-                "eventName": "Canadian Premier League",
-                "startTime": "15-08-2026 07:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "name": "Link 1"
-                }
-            ]
-        },
-        {
             "status": "FINISHED",
             "Category": "Cricket",
             "event_name": "The Hundred W Vs The Hundred W",
@@ -1399,104 +779,6 @@
                 "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
                 "eventName": "Durand Cup 2026",
                 "startTime": "12-08-2026 04:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Cricket",
-            "event_name": "Msg Vs Sl",
-            "eventInfo": {
-                "teamA": "Msg",
-                "teamB": "Sl",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-                "eventName": "The Hundred",
-                "startTime": "14-08-2026 11:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Marseille Vs Atl. Madrid",
-            "eventInfo": {
-                "teamA": "Marseille",
-                "teamB": "Atl. Madrid",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-                "eventName": "Club Friendly Games",
-                "startTime": "14-08-2026 09:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Neom Vs Al-Fayha",
-            "eventInfo": {
-                "teamA": "Neom",
-                "teamB": "Al-Fayha",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-                "eventName": "Saudi Pro League",
-                "startTime": "14-08-2026 10:50 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Cagliari Vs Arezzo",
-            "eventInfo": {
-                "teamA": "Cagliari",
-                "teamB": "Arezzo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2731/image",
-                "eventName": "Coppa Italia",
-                "startTime": "14-08-2026 10:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Kiel Vs St. Pauli",
-            "eventInfo": {
-                "teamA": "Kiel",
-                "teamB": "St. Pauli",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-                "eventName": "2. Bundesliga",
-                "startTime": "14-08-2026 10:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Braunschweig Vs Bochum",
-            "eventInfo": {
-                "teamA": "Braunschweig",
-                "teamB": "Bochum",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-                "eventName": "2. Bundesliga",
-                "startTime": "14-08-2026 10:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Parma Vs Catania",
-            "eventInfo": {
-                "teamA": "Parma",
-                "teamB": "Catania",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2725/image",
-                "eventName": "Coppa Italia",
-                "startTime": "14-08-2026 10:00 PM"
             },
             "streams": []
         },
