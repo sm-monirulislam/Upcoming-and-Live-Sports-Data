@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:19 PM 19-08-2026",
+    "last_update_time": "11:30:19 PM 19-08-2026",
     "total_matches": 156,
-    "live_match": 15,
+    "live_match": 17,
     "matches": [
         {
             "status": "LIVE",
@@ -236,6 +236,47 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Atlético Ottawa Vs Vancouver Fc",
+            "eventInfo": {
+                "teamA": "Atlético Ottawa",
+                "teamB": "Vancouver Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/342076/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/463097/image",
+                "eventName": "Canadian Premier League",
+                "startTime": "20/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/325018/index.json?&e=.m3u8",
+                    "channel_name": "FOX SOCCER "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Forge Fc Vs Fc Supra Du Quebec",
+            "eventInfo": {
+                "teamA": "Forge Fc",
+                "teamB": "Fc Supra Du Quebec",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/313716/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1165894/image",
+                "eventName": "Canadian Premier League",
+                "startTime": "20/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "channel_name": "FOX2 SPORTS FHD ",
+                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "Racing Louisville Vs Seattle Reign Fc",
             "eventInfo": {
                 "teamA": "Racing Louisville",
@@ -255,29 +296,50 @@
         },
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Rionegro Águilas Doradas Vs Llaneros Fc",
+            "Category": "Cricket",
+            "event_name": "Saint Lucia Kings Vs Guyana Amazon Warriors",
             "eventInfo": {
-                "teamA": "Rionegro Águilas Doradas",
-                "teamB": "Llaneros Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/48244/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/89374/image",
+                "teamA": "Saint Lucia Kings",
+                "teamB": "Guyana Amazon Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187825/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187823/image",
+                "eventName": "Caribbean Premier League",
+                "startTime": "20/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TNT1 SPORTS FHD ",
+                    "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+                    "channel_name": "SKY1 NZ HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Cúcuta Deportivo Vs Internacional De Bogotá",
+            "eventInfo": {
+                "teamA": "Cúcuta Deportivo",
+                "teamB": "Internacional De Bogotá",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6108/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
                 "eventName": "Primera A",
-                "startTime": "20/08/2026 03:00:00 AM",
+                "startTime": "20/08/2026 05:00:00 AM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4569225.m3u8",
-                    "channel_name": "HD QUALITY "
+                    "stream_url": "",
+                    "channel_name": "WIN PLUS "
                 },
                 {
                     "stream_url": "",
-                    "channel_name": "HD 1"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 2"
+                    "channel_name": "FANATIZ a "
                 }
             ]
         },
@@ -522,50 +584,6 @@
             ]
         },
         {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Boston Red Sox Vs Arizona Diamondbacks",
-            "eventInfo": {
-                "teamA": "Boston Red Sox",
-                "teamB": "Arizona Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "Mlb",
-                "startTime": "20/08/2026 02:10:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "MLB TV "
-                },
-                {
-                    "stream_url": "https://ftv.dlhd.net/MLBTVARI/B0002/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "MLB TV 2 "
-                },
-                {
-                    "stream_url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "SERVER + TV"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD TV "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD TV 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/OPPPAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
             "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "China Vs South Africa - W",
@@ -757,47 +775,6 @@
                     "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
                     "channel_name": "TNT3 SPORTS FHD",
                     "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Atlético Ottawa Vs Vancouver Fc",
-            "eventInfo": {
-                "teamA": "Atlético Ottawa",
-                "teamB": "Vancouver Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/342076/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/463097/image",
-                "eventName": "Canadian Premier League",
-                "startTime": "20/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/325018/index.json?&e=.m3u8",
-                    "channel_name": "FOX SOCCER "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Forge Fc Vs Fc Supra Du Quebec",
-            "eventInfo": {
-                "teamA": "Forge Fc",
-                "teamB": "Fc Supra Du Quebec",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/313716/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1165894/image",
-                "eventName": "Canadian Premier League",
-                "startTime": "20/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "channel_name": "FOX2 SPORTS FHD ",
-                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
                 }
             ]
         },
@@ -1489,31 +1466,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Saint Lucia Kings Vs Guyana Amazon Warriors",
-            "eventInfo": {
-                "teamA": "Saint Lucia Kings",
-                "teamB": "Guyana Amazon Warriors",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187825/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187823/image",
-                "eventName": "Caribbean Premier League",
-                "startTime": "20/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT1 SPORTS FHD ",
-                    "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
-                    "channel_name": "SKY1 NZ HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Football",
             "event_name": "Cd Fas Vs Csd Municipal",
             "eventInfo": {
@@ -1599,30 +1551,6 @@
                 {
                     "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
                     "channel_name": "CBS NETWORK HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Cúcuta Deportivo Vs Internacional De Bogotá",
-            "eventInfo": {
-                "teamA": "Cúcuta Deportivo",
-                "teamB": "Internacional De Bogotá",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6108/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
-                "eventName": "Primera A",
-                "startTime": "20/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "",
-                    "channel_name": "WIN PLUS "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "FANATIZ a "
                 }
             ]
         },
@@ -2224,6 +2152,34 @@
                 {
                     "stream_url": "",
                     "channel_name": "TUDN US"
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Football",
+            "event_name": "Rionegro Águilas Doradas Vs Llaneros Fc",
+            "eventInfo": {
+                "teamA": "Rionegro Águilas Doradas",
+                "teamB": "Llaneros Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/48244/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/89374/image",
+                "eventName": "Primera A",
+                "startTime": "20/08/2026 03:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://hls.live123.fans/live/4569225.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 1"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 2"
                 }
             ]
         },
@@ -4515,6 +4471,50 @@
                 {
                     "stream_url": "",
                     "channel_name": "HD TV 2 "
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Baseball",
+            "event_name": "Boston Red Sox Vs Arizona Diamondbacks",
+            "eventInfo": {
+                "teamA": "Boston Red Sox",
+                "teamB": "Arizona Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "Mlb",
+                "startTime": "20/08/2026 02:10:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVARI/B0002/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
+                {
+                    "stream_url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD TV "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD TV 2 "
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/OPPPAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
