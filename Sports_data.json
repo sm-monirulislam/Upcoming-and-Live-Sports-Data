@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:30:20 PM 19-08-2026",
-    "total_matches": 172,
-    "live_match": 13,
+    "last_update_time": "04:00:18 PM 19-08-2026",
+    "total_matches": 171,
+    "live_match": 12,
     "matches": [
         {
             "status": "LIVE",
@@ -116,6 +116,10 @@
             },
             "streams": [
                 {
+                    "stream_url": "http://193.47.62.191/hls/UGGGGQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "QUALITY (USE VPN)"
+                },
+                {
                     "stream_url": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 },
@@ -132,32 +136,24 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Krylya Sovetov Samara Vs Zenit St. Petersburg",
+            "event_name": "Rubin Kazan Vs Fc Spartak Moscow",
             "eventInfo": {
-                "teamA": "Krylya Sovetov Samara",
-                "teamB": "Zenit St. Petersburg",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2322/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2321/image",
+                "teamA": "Rubin Kazan",
+                "teamB": "Fc Spartak Moscow",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2333/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2323/image",
                 "eventName": "Russian Cup",
-                "startTime": "19/08/2026 07:15:00 PM",
+                "startTime": "19/08/2026 09:30:00 PM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4566133.m3u8",
+                    "stream_url": "http://193.47.62.41/hls/OFFFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "SERVER + TV"
                 },
                 {
-                    "stream_url": "http://193.47.62.41/hls/UGGGGQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.41/hls/OFFFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4566133.m3u8?txSecret=b9b2fa112b94c634843396284d17898b&txTime=6A86EE98",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "MATCH TV"
                 }
             ]
         },
@@ -182,42 +178,6 @@
                 {
                     "stream_url": "http://193.47.62.190/hls/OFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Other",
-            "event_name": "Pakistan Vs India",
-            "eventInfo": {
-                "teamA": "Pakistan",
-                "teamB": "India",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-                "eventName": "Hockey 🏑",
-                "startTime": "01/08/2026 07:00:00 PM",
-                "event_logo": "Hockey"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/852141/index.json?&e=.m3u8",
-                    "channel_name": "SS TV HD"
-                },
-                {
-                    "stream_url": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8",
-                    "channel_name": "HD QUALITY 2 "
-                },
-                {
-                    "stream_url": "https://live.incableinternet.com/ptv-sports/720p.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-                    "channel_name": "TOP IP 2"
-                },
-                {
-                    "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
-                    "channel_name": "TOP IP PK"
                 }
             ]
         },
@@ -438,6 +398,14 @@
                 {
                     "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
                     "channel_name": "CBS NETWORK HD"
+                },
+                {
+                    "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
+                    "channel_name": "TOP TV HD"
+                },
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+                    "channel_name": "TOP TV 1"
                 }
             ]
         },
@@ -864,6 +832,11 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                    "channel_name": "FOX DEPORTES",
+                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+                },
+                {
                     "stream_url": "http://162.251.160.53:8089/6/index.m3u8",
                     "channel_name": "HD QUALITY TV "
                 },
@@ -1171,6 +1144,30 @@
                 {
                     "stream_url": "",
                     "channel_name": "FOX ONE HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "DISNEY "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "FOX ONE HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN PE HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "FOX AR HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "TUDN US"
                 }
             ]
         },
@@ -1188,6 +1185,11 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                    "channel_name": "BEIN SPORTS FHD",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                },
                 {
                     "stream_url": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "channel_name": "SPORTS1 TV HD"
@@ -1688,6 +1690,11 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                    "channel_name": "BEIN SPORTS FHD ",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                },
+                {
                     "stream_url": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "channel_name": "SPORT TV HD"
                 },
@@ -2115,30 +2122,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Rubin Kazan Vs Fc Spartak Moscow",
-            "eventInfo": {
-                "teamA": "Rubin Kazan",
-                "teamB": "Fc Spartak Moscow",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2333/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2323/image",
-                "eventName": "Russian Cup",
-                "startTime": "19/08/2026 09:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.41/hls/OFFFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "SERVER + TV"
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/OFFFAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Dynamo Moscow Vs Fc Krasnodar",
             "eventInfo": {
                 "teamA": "Dynamo Moscow",
@@ -2365,6 +2348,38 @@
                 {
                     "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4612553.m3u8?txSecret=2b9ffec99443e04a4b46b73bcfe6c790&txTime=6A86EAD8",
                     "channel_name": "HD QUALITY "
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Football",
+            "event_name": "Krylya Sovetov Samara Vs Zenit St. Petersburg",
+            "eventInfo": {
+                "teamA": "Krylya Sovetov Samara",
+                "teamB": "Zenit St. Petersburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2322/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2321/image",
+                "eventName": "Russian Cup",
+                "startTime": "19/08/2026 07:15:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://hls.live123.fans/live/4566133.m3u8",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/UGGGGQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4566133.m3u8?txSecret=b9b2fa112b94c634843396284d17898b&txTime=6A86EE98",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "MATCH TV"
                 }
             ]
         },
@@ -2741,6 +2756,14 @@
                     "channel_name": "XTREME FHD"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVMIL/B0016/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
+                {
                     "stream_url": "",
                     "channel_name": "HD TV "
                 },
@@ -2771,6 +2794,14 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/hefbafbakx28.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVLAA/B0001/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
                 },
                 {
                     "stream_url": "",
@@ -2805,6 +2836,14 @@
                     "channel_name": "XTREME FHD"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVTEX/B0029/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
+                {
                     "stream_url": "",
                     "channel_name": "HD TV "
                 },
@@ -2835,6 +2874,14 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVLAD/B0015/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
                 },
                 {
                     "stream_url": "",
@@ -2869,6 +2916,14 @@
                     "channel_name": "XTREME FHD"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/kjhfzua25.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVATH/B0021/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
+                {
                     "stream_url": "",
                     "channel_name": "HD TV "
                 },
@@ -2899,6 +2954,14 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVCLE/B0009/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
                 },
                 {
                     "stream_url": "",
@@ -2965,6 +3028,14 @@
                     "channel_name": "XTREME FHD"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/fskjanach24.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVTBR/B0028/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
+                {
                     "stream_url": "",
                     "channel_name": "HD TV "
                 },
@@ -2997,6 +3068,14 @@
                     "channel_name": "XTREME FHD"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/ojzkajnach21.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV."
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVBAL/B0004/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
+                {
                     "stream_url": "",
                     "channel_name": "HD TV "
                 },
@@ -3023,6 +3102,14 @@
                 {
                     "stream_url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVMIA/B0012/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
                 },
                 {
                     "stream_url": "",
@@ -3055,6 +3142,10 @@
                 {
                     "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
                     "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVDET/B0011/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUALITY "
                 },
                 {
                     "stream_url": "",
@@ -3130,6 +3221,14 @@
                     "channel_name": "SERVER + TV"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVATL/B0003/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2"
+                },
+                {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
                 },
@@ -3157,6 +3256,14 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVARI/B0002/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2 "
+                },
                 {
                     "stream_url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "SERVER + TV"
@@ -3194,6 +3301,14 @@
                     "channel_name": "SERVER + TV"
                 },
                 {
+                    "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVNYM/B0019/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV 2"
+                },
+                {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
                 },
@@ -3222,8 +3337,9 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "SERVER + TV"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TSN4 SPORTS FHD",
+                    "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
                 },
                 {
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -3231,13 +3347,16 @@
                     "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
                 },
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TSN4 SPORTS FHD",
-                    "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+                    "stream_url": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "SERVER + TV"
                 },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "NBA STREAM."
                 },
                 {
                     "stream_url": "",
@@ -3278,6 +3397,10 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "MLB TV "
                 },
                 {
                     "stream_url": "",
