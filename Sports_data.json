@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:30:31 PM 19-08-2026",
-    "total_matches": 173,
-    "live_match": 12,
+    "last_update_time": "03:00:17 PM 19-08-2026",
+    "total_matches": 174,
+    "live_match": 14,
     "matches": [
         {
             "status": "LIVE",
@@ -188,28 +188,45 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Shanghai Port Vs Dalian Yingbo Fc",
+            "event_name": "Fifa Golden Boot Vs 2026 Awards",
             "eventInfo": {
-                "teamA": "Shanghai Port",
-                "teamB": "Dalian Yingbo Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/474992/image",
-                "eventName": "Chinese Super League",
-                "startTime": "19/08/2026 05:35:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/649/image/dark"
+                "teamA": "Fifa Golden Boot",
+                "teamB": "2026 Awards",
+                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "eventName": "Fifa Golden Boot 2026 Awards",
+                "startTime": "19/08/2026 08:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4498922.m3u8",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd",
+                    "channel_name": "FIFA+",
+                    "drm_key": "26977ba93795552a60559679ab740b38:e75175191d0ed494da3dec258bbfd74f"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Fc Bihor Oradea Vs Fcv Farul Constanța",
+            "eventInfo": {
+                "teamA": "Fc Bihor Oradea",
+                "teamB": "Fcv Farul Constanța",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/368762/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3294/image",
+                "eventName": "Cupa României Betano",
+                "startTime": "19/08/2026 08:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/355/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.190/hls/OFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "SERVER + TV"
                 },
                 {
-                    "stream_url": "http://193.47.62.41/hls/UGGGGQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.190/hls/OFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4498922.m3u8?txSecret=6013abd859f6c0dbea07d216a96b78b0&txTime=6A86E178",
-                    "channel_name": "HD QUALITY "
                 }
             ]
         },
@@ -246,6 +263,38 @@
                 {
                     "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
                     "channel_name": "TOP IP PK"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Boxing",
+            "event_name": "Fifa Golden Boot Vs 2026 Awards",
+            "eventInfo": {
+                "teamA": "Fifa Golden Boot",
+                "teamB": "2026 Awards",
+                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+                "eventName": "Ceremony Golden Boot 2026 Awards",
+                "startTime": "19/08/2026 08:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://cdnapisec.kaltura.com/p/2090621/sp/209062100/playManifest/entryId/1_fnpd4js9/protocol/https/format/applehttp/flavorIds/1_hk0j7nkr,1_r4nuqa93,1_bsnnzxt3,1_6qxwkwqn,1_xv3jaqks/a.m3u8",
+                    "channel_name": "BAYERN TV"
+                },
+                {
+                    "stream_url": "https://video.fbjm1-1.fna.fbcdn.net/hvideo-atn-prn/_nc_cat-111/_nc_sr_t-4/v/rAScvm2dTBobNCL8BHU0v3wQPDUYYvHwsuUCjziCLAfUxyA/_nc_ohc--1DOMycU9wIQ7kNvwHoJo_F/live-dash/dash-abr-ibr-audio/1814979273319175.mpd?_nc_zt=28&ccb=2-4&ms=m_CN&sc_t=1&oh=00_AQG05-tHMc85pLQ6Ss_pLduR3bV_xk0CmZWksja8Je_G2w&oe=6A879B9E",
+                    "channel_name": "FIFA + HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "SERVER 1"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "SERVER 2"
                 }
             ]
         },
@@ -1997,27 +2046,6 @@
             ]
         },
         {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Fifa Golden Boot Vs 2026 Awards",
-            "eventInfo": {
-                "teamA": "Fifa Golden Boot",
-                "teamB": "2026 Awards",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-                "eventName": "Fifa Golden Boot 2026 Awards",
-                "startTime": "19/08/2026 08:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd",
-                    "channel_name": "FIFA+",
-                    "drm_key": "26977ba93795552a60559679ab740b38:e75175191d0ed494da3dec258bbfd74f"
-                }
-            ]
-        },
-        {
             "status": "FINISHED",
             "Category": "Cricket",
             "event_name": "Jamaica Kingsmen Vs St Kitts And Nevis Patriots",
@@ -2077,6 +2105,34 @@
         {
             "status": "FINISHED",
             "Category": "Football",
+            "event_name": "Shanghai Port Vs Dalian Yingbo Fc",
+            "eventInfo": {
+                "teamA": "Shanghai Port",
+                "teamB": "Dalian Yingbo Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/474992/image",
+                "eventName": "Chinese Super League",
+                "startTime": "19/08/2026 05:35:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/649/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://hls.live123.fans/live/4498922.m3u8",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/UGGGGQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4498922.m3u8?txSecret=6013abd859f6c0dbea07d216a96b78b0&txTime=6A86E178",
+                    "channel_name": "HD QUALITY "
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Football",
             "event_name": "Sangbad Pratidin Bhawanipore Vs Bss Sporting Club",
             "eventInfo": {
                 "teamA": "Sangbad Pratidin Bhawanipore",
@@ -2111,42 +2167,6 @@
                 {
                     "stream_url": "https://live-n10.videostech.cloud/match/tamlukkhelaghargeorgetelegraphsc_vs_kalighatmilansangha/HLS/master.m3u8",
                     "channel_name": "STREAM TV + HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Boxing",
-            "event_name": "Fifa Golden Boot Vs 2026 Awards",
-            "eventInfo": {
-                "teamA": "Fifa Golden Boot",
-                "teamB": "2026 Awards",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-                "eventName": "Fifa Golden Boot 2026 Awards",
-                "startTime": "19/08/2026 08:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "D SPORTS + FHD",
-                    "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-                    "channel_name": "D SPORTS2 + FHD",
-                    "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-                    "channel_name": "D SPORTS + FHD",
-                    "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd",
-                    "channel_name": "FIFA+",
-                    "drm_key": "26977ba93795552a60559679ab740b38:e75175191d0ed494da3dec258bbfd74f"
                 }
             ]
         },
