@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:16 AM 19-08-2026",
-    "total_matches": 96,
-    "live_match": 5,
+    "last_update_time": "10:30:21 AM 19-08-2026",
+    "total_matches": 102,
+    "live_match": 8,
     "matches": [
         {
             "status": "LIVE",
@@ -44,6 +44,61 @@
         },
         {
             "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "England Vs Pakistan",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "Pakistan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "eventName": "Icc World Test Championship",
+                "startTime": "19/08/2026 04:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd",
+                    "channel_name": "WILLOW FHD",
+                    "drm_key": "bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb"
+                },
+                {
+                    "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "channel_name": "CRICKET FHD"
+                },
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd",
+                    "channel_name": "WILLOW ALT",
+                    "drm_key": "bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb"
+                },
+                {
+                    "stream_url": "http://193.47.62.194/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY "
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+                    "channel_name": "SKY1 NZ HD"
+                },
+                {
+                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "channel_name": "WILLOW SPORTS",
+                    "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+                },
+                {
+                    "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+                    "channel_name": "SUPERSPORT HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "SKY CRICKET"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "SKY MAIN EVENT"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Football",
             "event_name": "Apia Leichhardt Fc Vs Melbourne Victory",
             "eventInfo": {
@@ -67,6 +122,46 @@
                 {
                     "stream_url": "http://193.47.62.190/hls/UGGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Sangbad Pratidin Bhawanipore Vs Bss Sporting Club",
+            "eventInfo": {
+                "teamA": "Sangbad Pratidin Bhawanipore",
+                "teamB": "Bss Sporting Club",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/296264/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/326588/image",
+                "eventName": "Calcutta Premier Division",
+                "startTime": "19/08/2026 03:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://live-n10.videostech.cloud/match/spbhawaniporefc_vs_behalasssportingclub/HLS/master.m3u8",
+                    "channel_name": "STREAM TV + HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "George Telegraph Fc Vs Kalighat Ms",
+            "eventInfo": {
+                "teamA": "George Telegraph Fc",
+                "teamB": "Kalighat Ms",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/271460/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/294591/image",
+                "eventName": "Calcutta Premier Division",
+                "startTime": "19/08/2026 03:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://live-n10.videostech.cloud/match/tamlukkhelaghargeorgetelegraphsc_vs_kalighatmilansangha/HLS/master.m3u8",
+                    "channel_name": "STREAM TV + HD"
                 }
             ]
         },
@@ -378,57 +473,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "England Vs Pakistan",
-            "eventInfo": {
-                "teamA": "England",
-                "teamB": "Pakistan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-                "eventName": "Icc World Test Championship",
-                "startTime": "19/08/2026 04:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd",
-                    "channel_name": "WILLOW FHD",
-                    "drm_key": "bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb"
-                },
-                {
-                    "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                    "channel_name": "CRICKET FHD"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd",
-                    "channel_name": "WILLOW ALT",
-                    "drm_key": "bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
-                    "channel_name": "SKY1 NZ HD"
-                },
-                {
-                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "channel_name": "WILLOW SPORTS",
-                    "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-                },
-                {
-                    "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
-                    "channel_name": "SUPERSPORT HD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "SKY CRICKET"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "SKY MAIN EVENT"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Football",
             "event_name": "Tanzania Vs Matches",
             "eventInfo": {
@@ -466,7 +510,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "http://193.47.62.41/hls/UGGGGQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "https://hls.live123.fans/live/4612553.m3u8",
                     "channel_name": "SERVER + TV"
                 },
                 {
@@ -490,7 +534,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "stream_url": "https://hls.live123.fans/live/4570044.m3u8",
                     "channel_name": "SERVER + TV"
                 }
             ]
@@ -510,7 +554,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "stream_url": "https://hls.live123.fans/live/4570042.m3u8",
                     "channel_name": "SERVER + TV"
                 }
             ]
@@ -550,8 +594,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "stream_url": "https://hls.live123.fans/live/4570055.m3u8",
                     "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "https://china-sp.pages.dev/ett.json?&.m3u8",
+                    "channel_name": "Link HD "
                 }
             ]
         },
@@ -589,6 +637,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://hls.live123.fans/live/4595895.m3u8",
+                    "channel_name": "HD QUICK "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "EVENTS TV"
@@ -635,8 +687,14 @@
                     "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
                 },
                 {
-                    "stream_url": "v",
-                    "channel_name": "D SPORTS FHD"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "D SPORTS FHD",
+                    "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                    "channel_name": "BEIN3 SPORTS FHD",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
                 },
                 {
                     "stream_url": "",
@@ -676,6 +734,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://hls.live123.fans/live/4608841.m3u8",
+                    "channel_name": "HD QUICK "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "HD TV "
@@ -735,6 +797,10 @@
                     "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
                 },
                 {
+                    "stream_url": "https://hls.live123.fans/live/4608845.m3u8",
+                    "channel_name": "HD QUALITY."
+                },
+                {
                     "stream_url": "",
                     "channel_name": "HD TV "
                 },
@@ -767,6 +833,10 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                     "channel_name": "CBS GAZALO FHD",
                     "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+                },
+                {
+                    "stream_url": "https://hls.live123.fans/live/4608831.m3u8",
+                    "channel_name": "HD QUALITY "
                 },
                 {
                     "stream_url": "",
@@ -1616,6 +1686,92 @@
                 {
                     "stream_url": "http://193.47.62.41/hls/UGGGGQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Cd Fas Vs Csd Municipal",
+            "eventInfo": {
+                "teamA": "Cd Fas",
+                "teamB": "Csd Municipal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24386/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7025/image",
+                "eventName": "Concacaf Central American Cup",
+                "startTime": "20/08/2026 09:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                    "channel_name": "CBS SPORTS FHD",
+                    "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Deportivo Mixco Vs Umecit",
+            "eventInfo": {
+                "teamA": "Deportivo Mixco",
+                "teamB": "Umecit",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/296034/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/379177/image",
+                "eventName": "Concacaf Central American Cup",
+                "startTime": "20/08/2026 07:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "SERVER + TV"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Cd Marathon Vs Alianza Fc",
+            "eventInfo": {
+                "teamA": "Cd Marathon",
+                "teamB": "Alianza Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/25355/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24383/image",
+                "eventName": "Concacaf Central American Cup",
+                "startTime": "20/08/2026 07:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                    "channel_name": "CBS SPORTS FHD",
+                    "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Phoenix Rising Fc Vs Colorado Springs Switchbacks Fc",
+            "eventInfo": {
+                "teamA": "Phoenix Rising Fc",
+                "teamB": "Colorado Springs Switchbacks Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/154018/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/197065/image",
+                "eventName": "Usl Championship",
+                "startTime": "20/08/2026 08:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13363/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7324/index.m3u8",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+                    "channel_name": "CBS NETWORK HD"
                 }
             ]
         },
