@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:30:33 PM 20-08-2026",
+    "last_update_time": "03:00:37 PM 20-08-2026",
     "total_matches": 171,
-    "live_match": 11,
+    "live_match": 12,
     "matches": [
         {
             "status": "LIVE",
@@ -27,24 +27,6 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "New Zealand Vs Spain - W",
-            "eventInfo": {
-                "teamA": "W",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787138866540x302WOMEN.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787138866540x302WOMEN.jpg",
-                "eventName": "Fih Hockey World Cup 2026",
-                "startTime": "2026-08-20 18:00:00"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
             "event_name": "India Vs England - W",
             "eventInfo": {
                 "teamA": "W",
@@ -57,6 +39,24 @@
             "streams": [
                 {
                     "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Ireland Vs Spain",
+            "eventInfo": {
+                "teamA": "Ireland",
+                "teamB": "Spain",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787137552540x302MEN.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787137552540x302MEN.jpg",
+                "eventName": "Fih Hockey World Cup 2026",
+                "startTime": "2026-08-20 21:00:00"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
                 }
             ]
         },
@@ -146,6 +146,26 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Al-Wakrah Vs Qatar Sc",
+            "eventInfo": {
+                "teamA": "Al-Wakrah",
+                "teamB": "Qatar Sc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/44440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/25914/image",
+                "eventName": "Stars League",
+                "startTime": "20/08/2026 08:15:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "STREAM + FHD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "Mohun Bagan Super Giant Vs Northeast United Fc",
             "eventInfo": {
                 "teamA": "Mohun Bagan Super Giant",
@@ -182,8 +202,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -585,26 +609,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Al-Wakrah Vs Qatar Sc",
-            "eventInfo": {
-                "teamA": "Al-Wakrah",
-                "teamB": "Qatar Sc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/44440/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/25914/image",
-                "eventName": "Stars League",
-                "startTime": "20/08/2026 08:15:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM + FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Mjällby Aif Vs Red Bull Salzburg",
             "eventInfo": {
                 "teamA": "Mjällby Aif",
@@ -616,6 +620,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/sdghjvqazhvg80.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING 2 "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -645,8 +653,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM + FHD"
+                    "stream_url": "http://162.251.160.53:8089/1210/index.m3u8",
+                    "channel_name": "HD QUICK "
                 }
             ]
         },
@@ -744,6 +752,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/jkhfsgqghjqsd85.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING 2 "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -913,8 +925,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM + FHD"
+                    "stream_url": "http://162.251.160.53:8089/1210/index.m3u8",
+                    "channel_name": "HD QUICK "
                 }
             ]
         },
@@ -932,6 +944,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/iozauyezaioyur82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -960,6 +976,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/nbvevzaheafgu87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING 2 "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -1009,8 +1029,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM + FHD"
+                    "stream_url": "http://162.251.160.53:8089/1665/index.m3u8",
+                    "channel_name": "HD BOX TV "
                 }
             ]
         },
@@ -1068,6 +1088,14 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "http://162.251.160.53:8089/1765/index.m3u8",
+                    "channel_name": "HD BOX TV "
+                },
+                {
+                    "stream_url": "https://edgestream1.pro/hls/dsqhjbjhsqd81.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -1149,6 +1177,10 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
                     "channel_name": "SportDigital Fussball",
                     "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+                },
+                {
+                    "stream_url": "http://162.251.160.53:8089/3310/index.m3u8",
+                    "channel_name": "HD BOX TV "
                 }
             ]
         },
@@ -1186,6 +1218,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/fghsqdgauduyagz88.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -1309,6 +1345,10 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://edgestream1.pro/hls/ioazuryeahrfvzed84.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING "
+                },
+                {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
                 },
@@ -1336,6 +1376,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/nbekiurtghjhfza83.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -1427,6 +1471,10 @@
                 {
                     "stream_url": "https://rdcstream.life/live/espn5/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "channel_name": "ESPN5 BR HD "
+                },
+                {
+                    "stream_url": "http://162.251.160.53:8089/1896/index.m3u8",
+                    "channel_name": "HD BOX TV "
                 }
             ]
         },
@@ -1522,6 +1570,10 @@
                 {
                     "stream_url": "https://spxt.hamrimullahchy.workers.dev/1201183/index.json?&e=.m3u8",
                     "channel_name": "ARABIC1 HD"
+                },
+                {
+                    "stream_url": "http://162.251.160.53:8089/1920/index.m3u8",
+                    "channel_name": "HD BOX TV "
                 }
             ]
         },
@@ -1861,8 +1913,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM + FHD"
+                    "stream_url": "http://162.251.160.53:8089/1118/index.m3u8",
+                    "channel_name": "HD BOX "
                 }
             ]
         },
@@ -1901,8 +1953,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1921,8 +1977,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1964,6 +2024,14 @@
                 {
                     "stream_url": "https://hls.live123.fans/live/4608869.m3u8",
                     "channel_name": "HD STREAMING "
+                },
+                {
+                    "stream_url": "https://edgestream1.pro/hls/xcxvvghzsadau86.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING 2 "
+                },
+                {
+                    "stream_url": "http://193.47.62.44/hls/WAWAWAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 },
                 {
                     "stream_url": "",
@@ -3283,6 +3351,10 @@
                 {
                     "stream_url": "",
                     "channel_name": "HD QUICK 2 "
+                },
+                {
+                    "stream_url": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD HD HD "
                 }
             ]
         },
@@ -3300,6 +3372,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://edgestream1.pro/hls/sfjnzabacah31.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
@@ -3679,7 +3755,7 @@
                     "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
                 },
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3711,7 +3787,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3743,7 +3819,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3775,7 +3851,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3812,7 +3888,7 @@
                     "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
                 },
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3844,7 +3920,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3876,7 +3952,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3908,7 +3984,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -3977,7 +4053,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -4009,7 +4085,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
@@ -4041,7 +4117,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM + FHD"
                 },
                 {
