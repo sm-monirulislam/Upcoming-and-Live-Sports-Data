@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:30:29 PM 20-08-2026",
-    "total_matches": 164,
-    "live_match": 29,
+    "last_update_time": "06:00:26 PM 20-08-2026",
+    "total_matches": 163,
+    "live_match": 30,
     "matches": [
         {
             "status": "LIVE",
@@ -27,24 +27,6 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Ireland Vs Spain",
-            "eventInfo": {
-                "teamA": "Ireland",
-                "teamB": "Spain",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787137552540x302MEN.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787137552540x302MEN.jpg",
-                "eventName": "Fih Hockey World Cup 2026",
-                "startTime": "2026-08-20 21:00:00"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
             "event_name": "Netherlands Vs Japan",
             "eventInfo": {
                 "teamA": "Netherlands",
@@ -57,6 +39,24 @@
             "streams": [
                 {
                     "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Al-Fayha Vs Al-Hilal",
+            "eventInfo": {
+                "teamA": "Al-Fayha",
+                "teamB": "Al-Hilal",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787228944540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787228945540x302.jpg",
+                "eventName": "Saudi Pro League 2026/27",
+                "startTime": "2026-08-21 00:00:00"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
                 }
             ]
         },
@@ -346,6 +346,11 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                    "channel_name": "SportDigital Fussball",
+                    "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+                },
+                {
                     "stream_url": "https://live.666666.zip/live/4608873.m3u8",
                     "channel_name": "HD BOX "
                 },
@@ -546,23 +551,87 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Young Africans Sc Vs Coastal Union",
+            "event_name": "Klaksvíkar Ítróttarfelag Vs Riga Fc",
             "eventInfo": {
-                "teamA": "Young Africans Sc",
-                "teamB": "Coastal Union",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/134320/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/212413/image",
-                "eventName": "Tanzanian Premier League",
-                "startTime": "20/08/2026 09:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark"
+                "teamA": "Klaksvíkar Ítróttarfelag",
+                "teamB": "Riga Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5194/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+                "eventName": "Uefa Conference League",
+                "startTime": "20/08/2026 11:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "https://live.666666.zip/live/4608886.m3u8",
                     "channel_name": "STREAM + FHD"
                 },
                 {
-                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.56/hls/FRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Paok Vs Sk Brann",
+            "eventInfo": {
+                "teamA": "Paok",
+                "teamB": "Sk Brann",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+                "eventName": "Uefa Conference League",
+                "startTime": "20/08/2026 11:45:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://live.666666.zip/live/4608907.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "https://edgestream1.pro/hls/nbvevzaheafgu87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD STREAMING 2 "
+                },
+                {
+                    "stream_url": "http://193.47.62.56/hls/FRRRAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Baltika Kaliningrad Vs Dinamo Makhachkala",
+            "eventInfo": {
+                "teamA": "Baltika Kaliningrad",
+                "teamB": "Dinamo Makhachkala",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7517/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/362016/image",
+                "eventName": "Russian Cup",
+                "startTime": "20/08/2026 11:45:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://162.251.160.53:8089/1118/index.m3u8",
+                    "channel_name": "HD BOX "
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/ETTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -996,40 +1065,6 @@
             ]
         },
         {
-            "status": "LIVE",
-            "Category": "Motorsports",
-            "event_name": "Formula Dutch Press Vs Formula Dutch Press",
-            "eventInfo": {
-                "teamA": "Formula Dutch Press",
-                "teamB": "Formula Dutch Press",
-                "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
-                "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
-                "eventName": "Formula Dutch Press",
-                "startTime": "20/08/2026 09:00:00 PM",
-                "event_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8",
-                    "channel_name": "Link 1"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Belgium Vs Ireland - W",
-            "eventInfo": {
-                "teamA": "W",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787219195540x302WOMEN.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787219195540x302WOMEN.jpg",
-                "eventName": "Fih Hockey World Cup 2026",
-                "startTime": "2026-08-21 00:30:00"
-            },
-            "streams": []
-        },
-        {
             "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "Rayo Vallecano Vs Alaves",
@@ -1200,30 +1235,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Klaksvíkar Ítróttarfelag Vs Riga Fc",
-            "eventInfo": {
-                "teamA": "Klaksvíkar Ítróttarfelag",
-                "teamB": "Riga Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5194/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
-                "eventName": "Uefa Conference League",
-                "startTime": "20/08/2026 11:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live.666666.zip/live/4608886.m3u8",
-                    "channel_name": "STREAM + FHD"
-                },
-                {
-                    "stream_url": "http://193.47.62.56/hls/FRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Ofi Crete Vs Cska Sofia",
             "eventInfo": {
                 "teamA": "Ofi Crete",
@@ -1236,8 +1247,16 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4608878.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "http://162.251.160.53:8089/1210/index.m3u8",
                     "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "http://193.47.62.49/hls/UOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1256,47 +1275,15 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4608861.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "https://edgestream1.pro/hls/iozauyezaioyur82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAMING "
                 },
                 {
-                    "stream_url": "",
-                    "channel_name": "XTREME + FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Paok Vs Sk Brann",
-            "eventInfo": {
-                "teamA": "Paok",
-                "teamB": "Sk Brann",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
-                "eventName": "Uefa Conference League",
-                "startTime": "20/08/2026 11:45:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live.666666.zip/live/4608907.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://edgestream1.pro/hls/nbvevzaheafgu87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "HD STREAMING 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.56/hls/FRRRAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.49/hls/UOOOAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 },
                 {
@@ -1328,8 +1315,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608858.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.49/hls/UOOOAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1348,8 +1339,16 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4608924.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "http://162.251.160.53:8089/1665/index.m3u8",
                     "channel_name": "HD BOX TV "
+                },
+                {
+                    "stream_url": "http://193.47.62.49/hls/UOOOA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1368,8 +1367,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608883.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.56/hls/FRRRAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1388,8 +1391,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608879.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.49/hls/UOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1408,8 +1415,16 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4608891.m3u8",
+                    "channel_name": "HD BOX 1"
+                },
+                {
                     "stream_url": "http://162.251.160.53:8089/1765/index.m3u8",
                     "channel_name": "HD BOX TV "
+                },
+                {
+                    "stream_url": "http://193.47.62.49/hls/UOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 },
                 {
                     "stream_url": "https://edgestream1.pro/hls/dsqhjbjhsqd81.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
@@ -1444,12 +1459,16 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608908.m3u8",
                     "channel_name": "STREAM + FHD"
                 },
                 {
                     "stream_url": "",
                     "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "http://193.47.62.42/hls/GLLL.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1468,8 +1487,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608928.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.42/hls/GLLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1496,6 +1519,18 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
                     "channel_name": "SportDigital Fussball",
                     "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+                },
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/54911/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "FOX SOCCER HD"
+                },
+                {
+                    "stream_url": "https://hls.live123.fans/live/4599548.m3u8",
+                    "channel_name": "HD SERVER "
+                },
+                {
+                    "stream_url": "https://stream.sports3.win/iptv/live/signal-4599548-41264.m3u8",
+                    "channel_name": "HD QUALITY 2"
                 },
                 {
                     "stream_url": "http://162.251.160.53:8089/3310/index.m3u8",
@@ -1526,8 +1561,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608904.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.42/hls/GLLLA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1546,8 +1585,16 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4608890.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "https://edgestream1.pro/hls/fghsqdgauduyagz88.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAMING "
+                },
+                {
+                    "stream_url": "http://193.47.62.53/hls/GLLLAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 },
                 {
                     "stream_url": "",
@@ -1578,8 +1625,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://live.666666.zip/live/4608903.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.53/hls/GLLLAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1598,8 +1649,12 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "stream_url": "https://hls.live123.fans/live/4608920.m3u8",
                     "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.49/hls/UOOOAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1697,8 +1752,16 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4617864.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "https://edgestream1.pro/hls/ioazuryeahrfvzed84.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAMING "
+                },
+                {
+                    "stream_url": "http://193.47.62.58/hls/IIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 },
                 {
                     "stream_url": "",
@@ -1729,8 +1792,16 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://live.666666.zip/live/4608895.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "https://edgestream1.pro/hls/nbekiurtghjhfza83.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAMING "
+                },
+                {
+                    "stream_url": "http://193.47.62.45/hls/RRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 },
                 {
                     "stream_url": "",
@@ -2329,30 +2400,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Baltika Kaliningrad Vs Dinamo Makhachkala",
-            "eventInfo": {
-                "teamA": "Baltika Kaliningrad",
-                "teamB": "Dinamo Makhachkala",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7517/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/362016/image",
-                "eventName": "Russian Cup",
-                "startTime": "20/08/2026 11:45:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://162.251.160.53:8089/1118/index.m3u8",
-                    "channel_name": "HD BOX "
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/ETTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Tacuary Vs Libertad",
             "eventInfo": {
                 "teamA": "Tacuary",
@@ -2412,6 +2459,30 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                     "channel_name": "CBS SPORTS FHD",
                     "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Football",
+            "event_name": "Young Africans Sc Vs Coastal Union",
+            "eventInfo": {
+                "teamA": "Young Africans Sc",
+                "teamB": "Coastal Union",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/134320/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/212413/image",
+                "eventName": "Tanzanian Premier League",
+                "startTime": "20/08/2026 09:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -4130,6 +4201,10 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/54918/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "HD QUALITY "
+                },
+                {
                     "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
                     "channel_name": "HD BOX 1"
                 },
@@ -4254,6 +4329,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/54917/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "HD QUALITY "
+                },
                 {
                     "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
                     "channel_name": "HD BOX 1"
@@ -4517,6 +4596,26 @@
                 {
                     "stream_url": "http://193.47.62.190/hls/eeeeAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "2 LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Motorsports",
+            "event_name": "Formula Dutch Press Vs Formula Dutch Press",
+            "eventInfo": {
+                "teamA": "Formula Dutch Press",
+                "teamB": "Formula Dutch Press",
+                "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+                "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+                "eventName": "Formula Dutch Press",
+                "startTime": "20/08/2026 09:00:00 PM",
+                "event_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8",
+                    "channel_name": "Link 1"
                 }
             ]
         }
