@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:31 PM 20-08-2026",
+    "last_update_time": "11:30:32 PM 20-08-2026",
     "total_matches": 154,
-    "live_match": 8,
+    "live_match": 10,
     "matches": [
         {
             "status": "LIVE",
@@ -21,6 +21,31 @@
             "streams": [
                 {
                     "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Antigua & Barbuda Falcons Vs St Kitts And Nevis Patriots",
+            "eventInfo": {
+                "teamA": "Antigua & Barbuda Falcons",
+                "teamB": "St Kitts And Nevis Patriots",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/514842/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/193209/image",
+                "eventName": "Caribbean Premier League",
+                "startTime": "21/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TNT2 SPORTS HD",
+                    "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xgv5.m3u8",
+                    "channel_name": "SKY3 NZ HD "
                 }
             ]
         },
@@ -144,6 +169,30 @@
                 {
                     "stream_url": "",
                     "channel_name": "ESPN ARGENTINA "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Real Cundinamarca Vs Internacional De Bogotá",
+            "eventInfo": {
+                "teamA": "Real Cundinamarca",
+                "teamB": "Internacional De Bogotá",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/484422/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
+                "eventName": "Copa Colombia",
+                "startTime": "21/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1335/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 1"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 2"
                 }
             ]
         },
@@ -514,31 +563,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Antigua & Barbuda Falcons Vs St Kitts And Nevis Patriots",
-            "eventInfo": {
-                "teamA": "Antigua & Barbuda Falcons",
-                "teamB": "St Kitts And Nevis Patriots",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/514842/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/193209/image",
-                "eventName": "Caribbean Premier League",
-                "startTime": "21/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT2 SPORTS HD",
-                    "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xgv5.m3u8",
-                    "channel_name": "SKY3 NZ HD "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Football",
             "event_name": "Corinthians Vs Rosario Central",
             "eventInfo": {
@@ -630,30 +654,6 @@
                 {
                     "stream_url": "",
                     "channel_name": "FANATIZ HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Real Cundinamarca Vs Internacional De Bogotá",
-            "eventInfo": {
-                "teamA": "Real Cundinamarca",
-                "teamB": "Internacional De Bogotá",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/484422/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
-                "eventName": "Copa Colombia",
-                "startTime": "21/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1335/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 1"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 2"
                 }
             ]
         },
