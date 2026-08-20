@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:30:19 AM 20-08-2026",
-    "total_matches": 154,
-    "live_match": 1,
+    "last_update_time": "08:00:20 AM 20-08-2026",
+    "total_matches": 156,
+    "live_match": 3,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "China Vs South Africa - W",
+            "eventInfo": {
+                "teamA": "W",
+                "teamB": "",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787138660540x302WOMEN.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787138660540x302WOMEN.jpg",
+                "eventName": "Fih Hockey World Cup 2026",
+                "startTime": "2026-08-20 13:30:00"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -28,6 +46,30 @@
                 {
                     "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
                     "channel_name": "SKY1 NZ HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Rugby",
+            "event_name": "Canterbury Vs Northland",
+            "eventInfo": {
+                "teamA": "Canterbury",
+                "teamB": "Northland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42727/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
+                "eventName": "National Provincial Championship",
+                "startTime": "20/08/2026 01:10:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "http://193.47.62.59/hls/ZVVVAAAaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -126,6 +168,20 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787134887540x302.jpg",
                 "eventName": "Laliga 2026/27",
                 "startTime": "2026-08-21 01:00:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Anitgua And Barbuda Falcons Vs St Kitts And Nevis Patriots",
+            "eventInfo": {
+                "teamA": "Anitgua And Barbuda Falcons",
+                "teamB": "St Kitts And Nevis Patriots",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787210464540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787210464540x302.jpg",
+                "eventName": "Caribbean Premier League 2026",
+                "startTime": "2026-08-21 05:00:00"
             },
             "streams": []
         },
@@ -3702,30 +3758,6 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Rugby",
-            "event_name": "Canterbury Vs Northland",
-            "eventInfo": {
-                "teamA": "Canterbury",
-                "teamB": "Northland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42727/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
-                "eventName": "National Provincial Championship",
-                "startTime": "20/08/2026 01:10:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
-                    "channel_name": "SERVER + TV"
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/ZVVVAAAaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
