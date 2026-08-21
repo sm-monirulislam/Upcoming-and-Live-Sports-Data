@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:29 PM 21-08-2026",
+    "last_update_time": "11:30:26 PM 21-08-2026",
     "total_matches": 287,
-    "live_match": 7,
+    "live_match": 13,
     "matches": [
         {
             "status": "LIVE",
@@ -51,6 +51,30 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Estudiantes De Río Cuarto Vs San Lorenzo",
+            "eventInfo": {
+                "teamA": "Estudiantes De Río Cuarto",
+                "teamB": "San Lorenzo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/266694/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3201/image",
+                "eventName": "Liga Profesional De Fútbol",
+                "startTime": "22/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://162.251.160.53:8089/961/index.m3u8",
+                    "channel_name": "TV SPORTS "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN PRM HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "Jaguares De Córdoba Vs Boyacá Chicó Fc",
             "eventInfo": {
                 "teamA": "Jaguares De Córdoba",
@@ -73,6 +97,36 @@
                 {
                     "stream_url": "",
                     "channel_name": "HD 3"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Saint Lucia Kings Vs Jamaica Kingsmen",
+            "eventInfo": {
+                "teamA": "Saint Lucia Kings",
+                "teamB": "Jamaica Kingsmen",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187825/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1220595/image",
+                "eventName": "Caribbean Premier League",
+                "startTime": "22/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+                    "channel_name": "TNT3 SPORTS FHD",
+                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TNT1 SPORTS FHD ",
+                    "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cfvg.m3u8",
+                    "channel_name": "SKY7 NZ HD "
                 }
             ]
         },
@@ -182,6 +236,198 @@
         },
         {
             "status": "LIVE",
+            "Category": "American Football",
+            "event_name": "Pittsburgh Steelers Vs New York Jets",
+            "eventInfo": {
+                "teamA": "Pittsburgh Steelers",
+                "teamB": "New York Jets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4427/image",
+                "eventName": "Nfl Preseason",
+                "startTime": "22/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "HD BOX TV "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 1"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUALITY 2"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "Baltimore Orioles Vs Tampa Bay Rays",
+            "eventInfo": {
+                "teamA": "Baltimore Orioles",
+                "teamB": "Tampa Bay Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "Mlb",
+                "startTime": "22/08/2026 05:15:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVTBR/B0028/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK 2 "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "Miami Marlins Vs Washington Nationals",
+            "eventInfo": {
+                "teamA": "Miami Marlins",
+                "teamB": "Washington Nationals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "eventName": "Mlb",
+                "startTime": "22/08/2026 05:10:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVMIA/B0012/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK 2 "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "New York Yankees Vs Toronto Blue Jays",
+            "eventInfo": {
+                "teamA": "New York Yankees",
+                "teamB": "Toronto Blue Jays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "eventName": "Mlb",
+                "startTime": "22/08/2026 05:05:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVNYY/B0020/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK 2 "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK.."
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "Boston Red Sox Vs San Francisco Giants",
+            "eventInfo": {
+                "teamA": "Boston Red Sox",
+                "teamB": "San Francisco Giants",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "eventName": "Mlb",
+                "startTime": "22/08/2026 05:10:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVSFG/B0025/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK 2 "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Baseball",
             "event_name": "Philadelphia Phillies Vs St. Louis Cardinals",
             "eventInfo": {
@@ -219,60 +465,6 @@
                     "channel_name": "HD QUICK 2 "
                 }
             ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Baseball",
-            "event_name": "Milwaukee Brewers Vs Atlanta Braves",
-            "eventInfo": {
-                "teamA": "Milwaukee Brewers",
-                "teamB": "Atlanta Braves",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "eventName": "Mlb",
-                "startTime": "22/08/2026 02:10:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM TV + HD"
-                },
-                {
-                    "stream_url": "https://ftv.dlhd.net/MLBTVATL/B0003/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK 2 "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME + FHD "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK.."
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Australia Vs Bangladesh",
-            "eventInfo": {
-                "teamA": "Australia",
-                "teamB": "Bangladesh",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787048102540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787048102540x302.jpg",
-                "eventName": "Bangladesh Tour Of Australia 2026",
-                "startTime": "2026-08-22 06:00:00"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -501,6 +693,20 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Athletic Vs Sevilla",
+            "eventInfo": {
+                "teamA": "Athletic",
+                "teamB": "Sevilla",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787310424540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787310424540x302.jpg",
+                "eventName": "Laliga 2026/27",
+                "startTime": "2026-08-22 21:00:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "Sri Lanka Vs India",
             "eventInfo": {
                 "teamA": "Sri Lanka",
@@ -599,30 +805,6 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME + FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Estudiantes De Río Cuarto Vs San Lorenzo",
-            "eventInfo": {
-                "teamA": "Estudiantes De Río Cuarto",
-                "teamB": "San Lorenzo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/266694/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3201/image",
-                "eventName": "Liga Profesional De Fútbol",
-                "startTime": "22/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://162.251.160.53:8089/961/index.m3u8",
-                    "channel_name": "TV SPORTS "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN PRM HD"
                 }
             ]
         },
@@ -945,36 +1127,6 @@
                     "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qg6trb939f/out/v1/19ef731d667348189f51557380caa6fe/cenc.mpd",
                     "channel_name": "WILLOW FHD",
                     "drm_key": "9be4ba39ca21b80b2b7301da1f3e4bbf:9eb7f96ea43b0ecafa6cd6d2906f19a4"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Saint Lucia Kings Vs Jamaica Kingsmen",
-            "eventInfo": {
-                "teamA": "Saint Lucia Kings",
-                "teamB": "Jamaica Kingsmen",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187825/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1220595/image",
-                "eventName": "Caribbean Premier League",
-                "startTime": "22/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-                    "channel_name": "TNT3 SPORTS FHD",
-                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT1 SPORTS FHD ",
-                    "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cfvg.m3u8",
-                    "channel_name": "SKY7 NZ HD "
                 }
             ]
         },
@@ -5541,38 +5693,6 @@
         {
             "status": "UPCOMING",
             "Category": "American Football",
-            "event_name": "Pittsburgh Steelers Vs New York Jets",
-            "eventInfo": {
-                "teamA": "Pittsburgh Steelers",
-                "teamB": "New York Jets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4345/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4427/image",
-                "eventName": "Nfl Preseason",
-                "startTime": "22/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "HD BOX TV "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME + FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 1"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUALITY 2"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "American Football",
             "event_name": "Jacksonville Jaguars Vs Carolina Panthers",
             "eventInfo": {
                 "teamA": "Jacksonville Jaguars",
@@ -6225,46 +6345,6 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Baltimore Orioles Vs Tampa Bay Rays",
-            "eventInfo": {
-                "teamA": "Baltimore Orioles",
-                "teamB": "Tampa Bay Rays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "eventName": "Mlb",
-                "startTime": "22/08/2026 05:15:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM TV + HD"
-                },
-                {
-                    "stream_url": "https://ftv.dlhd.net/MLBTVTBR/B0028/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK 2 "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME+ FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
             "event_name": "Houston Astros Vs Athletics",
             "eventInfo": {
                 "teamA": "Houston Astros",
@@ -6305,46 +6385,6 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Miami Marlins Vs Washington Nationals",
-            "eventInfo": {
-                "teamA": "Miami Marlins",
-                "teamB": "Washington Nationals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "eventName": "Mlb",
-                "startTime": "22/08/2026 05:10:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM TV + HD"
-                },
-                {
-                    "stream_url": "https://ftv.dlhd.net/MLBTVMIA/B0012/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK 2 "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME+ FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
             "event_name": "Kansas City Royals Vs Detroit Tigers",
             "eventInfo": {
                 "teamA": "Kansas City Royals",
@@ -6366,86 +6406,6 @@
                 },
                 {
                     "stream_url": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME+ FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "New York Yankees Vs Toronto Blue Jays",
-            "eventInfo": {
-                "teamA": "New York Yankees",
-                "teamB": "Toronto Blue Jays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-                "eventName": "Mlb",
-                "startTime": "22/08/2026 05:05:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM TV + HD"
-                },
-                {
-                    "stream_url": "https://ftv.dlhd.net/MLBTVNYY/B0020/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK 2 "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME + FHD "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK.."
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Boston Red Sox Vs San Francisco Giants",
-            "eventInfo": {
-                "teamA": "Boston Red Sox",
-                "teamB": "San Francisco Giants",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "eventName": "Mlb",
-                "startTime": "22/08/2026 05:10:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "STREAM TV + HD"
-                },
-                {
-                    "stream_url": "https://ftv.dlhd.net/MLBTVSFG/B0025/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
-                    "channel_name": "HD QUICK 2 "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
                     "channel_name": "HD QUICK "
                 },
                 {
@@ -7061,6 +7021,46 @@
                 {
                     "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
                     "channel_name": "TOP IP PK"
+                }
+            ]
+        },
+        {
+            "status": "FINISHED",
+            "Category": "Baseball",
+            "event_name": "Milwaukee Brewers Vs Atlanta Braves",
+            "eventInfo": {
+                "teamA": "Milwaukee Brewers",
+                "teamB": "Atlanta Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "Mlb",
+                "startTime": "22/08/2026 02:10:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "https://ftv.dlhd.net/MLBTVATL/B0003/master.m3u8|referer=https%3A%2F%2Fxyzstreams.st%2F&origin=https%3A%2F%2Fxyzstreams.st%2F&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUICK 2 "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK.."
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
                 }
             ]
         },
