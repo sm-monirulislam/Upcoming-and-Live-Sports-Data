@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:28 AM 21-08-2026",
-    "total_matches": 186,
-    "live_match": 4,
+    "last_update_time": "08:30:27 AM 21-08-2026",
+    "total_matches": 187,
+    "live_match": 6,
     "matches": [
         {
             "status": "LIVE",
@@ -120,6 +120,86 @@
         {
             "status": "LIVE",
             "Category": "Rugby",
+            "event_name": "Canberra Raiders Vs Brisbane Broncos",
+            "eventInfo": {
+                "teamA": "Canberra Raiders",
+                "teamB": "Brisbane Broncos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4256/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
+                "eventName": "Nrl",
+                "startTime": "21/08/2026 02:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+                    "channel_name": "SKY2 NZ HD "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Other",
+            "event_name": "Hockey 🏑 Vs Hockey 🏑",
+            "eventInfo": {
+                "teamA": "Hockey 🏑",
+                "teamB": "Hockey 🏑",
+                "teamAFlag": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg",
+                "teamBFlag": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg",
+                "eventName": "Field Hockey World Cup",
+                "startTime": "21/08/2026 01:30:00 PM",
+                "event_logo": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8",
+                    "channel_name": "HD QUALITY 2 "
+                },
+                {
+                    "stream_url": "https://live.incableinternet.com/ptv-sports/720p.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8",
+                    "channel_name": "HD QUALITY 3"
+                },
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+                    "channel_name": "PK IP SPORTS "
+                },
+                {
+                    "stream_url": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/FIH-HWCC2026-abr/playlist.m3u8",
+                    "channel_name": "PK2 IP SPORTS "
+                },
+                {
+                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/852141/index.json?&e=.m3u8",
+                    "channel_name": "SS TV HD"
+                },
+                {
+                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/441099/index.json?&e=.m3u8",
+                    "channel_name": "LIVE2 HOCKEY"
+                },
+                {
+                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/441097/index.json?&e=.m3u8",
+                    "channel_name": "LIVE3 HOCKEY"
+                },
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+                    "channel_name": "TOP IP 2"
+                },
+                {
+                    "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
+                    "channel_name": "TOP IP PK"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Rugby",
             "event_name": "Hawke'S Bay Vs Manawatu",
             "eventInfo": {
                 "teamA": "Hawke'S Bay",
@@ -136,20 +216,6 @@
                     "channel_name": "SERVER + TV"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "France Vs South Africa",
-            "eventInfo": {
-                "teamA": "France",
-                "teamB": "South Africa",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787292646540x302MEN.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787292646540x302MEN.jpg",
-                "eventName": "Fih Hockey World Cup 2026",
-                "startTime": "2026-08-21 15:00:00"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -302,6 +368,34 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787297878540x302.jpg",
                 "eventName": "Euro Beach Kabaddi Championship 2026",
                 "startTime": "2026-08-22 16:10:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "England Vs Hungary - W",
+            "eventInfo": {
+                "teamA": "W",
+                "teamB": "",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787298129540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787298129540x302.jpg",
+                "eventName": "Euro Beach Kabaddi Championship 2026",
+                "startTime": "2026-08-22 16:35:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Poland Vs Hungary",
+            "eventInfo": {
+                "teamA": "Poland",
+                "teamB": "Hungary",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787298541540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787298541540x302.jpg",
+                "eventName": "Euro Beach Kabaddi Championship 2026",
+                "startTime": "2026-08-22 17:30:00"
             },
             "streams": []
         },
@@ -2445,8 +2539,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
                 }
             ]
         },
@@ -2505,8 +2599,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2545,8 +2639,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2565,8 +2659,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2605,8 +2699,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2625,8 +2719,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2705,8 +2799,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2745,8 +2839,8 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "STREAM TV + HD"
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -2781,30 +2875,6 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image",
                 "eventName": "Nrl",
                 "startTime": "21/08/2026 04:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-                    "channel_name": "SKY2 NZ HD "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME + FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Rugby",
-            "event_name": "Canberra Raiders Vs Brisbane Broncos",
-            "eventInfo": {
-                "teamA": "Canberra Raiders",
-                "teamB": "Brisbane Broncos",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4256/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
-                "eventName": "Nrl",
-                "startTime": "21/08/2026 02:00:00 PM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
             },
             "streams": [
@@ -3654,62 +3724,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Other",
-            "event_name": "Hockey 🏑 Vs Hockey 🏑",
-            "eventInfo": {
-                "teamA": "Hockey 🏑",
-                "teamB": "Hockey 🏑",
-                "teamAFlag": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg",
-                "teamBFlag": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg",
-                "eventName": "Field Hockey World Cup",
-                "startTime": "21/08/2026 03:00:00 PM",
-                "event_logo": "https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8",
-                    "channel_name": "HD QUALITY 2 "
-                },
-                {
-                    "stream_url": "https://live.incableinternet.com/ptv-sports/720p.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8",
-                    "channel_name": "HD QUALITY 3"
-                },
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-                    "channel_name": "PK IP SPORTS "
-                },
-                {
-                    "stream_url": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/FIH-HWCC2026-abr/playlist.m3u8",
-                    "channel_name": "PK2 IP SPORTS "
-                },
-                {
-                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/852141/index.json?&e=.m3u8",
-                    "channel_name": "SS TV HD"
-                },
-                {
-                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/441099/index.json?&e=.m3u8",
-                    "channel_name": "LIVE2 HOCKEY"
-                },
-                {
-                    "stream_url": "https://spxt.hamrimullahchy.workers.dev/441097/index.json?&e=.m3u8",
-                    "channel_name": "LIVE3 HOCKEY"
-                },
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-                    "channel_name": "TOP IP 2"
-                },
-                {
-                    "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
-                    "channel_name": "TOP IP PK"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Rugby",
             "event_name": "Tasman Vs Southland",
             "eventInfo": {
@@ -3985,6 +3999,10 @@
                 {
                     "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
@@ -4025,6 +4043,10 @@
                 {
                     "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM TV + HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME + FHD "
                 }
             ]
         },
