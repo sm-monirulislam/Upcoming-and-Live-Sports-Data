@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:23 AM 21-08-2026",
-    "total_matches": 178,
-    "live_match": 2,
+    "last_update_time": "07:30:23 AM 21-08-2026",
+    "total_matches": 180,
+    "live_match": 3,
     "matches": [
         {
             "status": "LIVE",
@@ -100,6 +100,26 @@
             ]
         },
         {
+            "status": "LIVE",
+            "Category": "Rugby",
+            "event_name": "Hawke'S Bay Vs Manawatu",
+            "eventInfo": {
+                "teamA": "Hawke'S Bay",
+                "teamB": "Manawatu",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42723/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/42722/image",
+                "eventName": "National Provincial Championship",
+                "startTime": "21/08/2026 01:10:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://file.genoads.com/ch1.m3u8",
+                    "channel_name": "SERVER + TV"
+                }
+            ]
+        },
+        {
             "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "France Vs South Africa",
@@ -172,6 +192,20 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Australia Vs Belgium",
+            "eventInfo": {
+                "teamA": "Australia",
+                "teamB": "Belgium",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787294476540x302MEN.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787294476540x302MEN.jpg",
+                "eventName": "Fih Hockey World Cup 2026",
+                "startTime": "2026-08-22 00:30:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "St Lucia Kings Vs Jamaica Kingsmen",
             "eventInfo": {
                 "teamA": "St Lucia Kings",
@@ -208,6 +242,20 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787214929540x302.jpg",
                 "eventName": "Pfl 2026",
                 "startTime": "2026-08-23 03:30:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Anitgua And Barbuda Falcons Vs Trinbago Knight Riders",
+            "eventInfo": {
+                "teamA": "Anitgua And Barbuda Falcons",
+                "teamB": "Trinbago Knight Riders",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787295520540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787295520540x302.jpg",
+                "eventName": "Caribbean Premier League 2026",
+                "startTime": "2026-08-23 05:00:00"
             },
             "streams": []
         },
@@ -3569,26 +3617,6 @@
                 {
                     "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8",
                     "channel_name": "TOP IP PK"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Rugby",
-            "event_name": "Hawke'S Bay Vs Manawatu",
-            "eventInfo": {
-                "teamA": "Hawke'S Bay",
-                "teamB": "Manawatu",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42723/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/42722/image",
-                "eventName": "National Provincial Championship",
-                "startTime": "21/08/2026 01:10:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "SERVER + TV"
                 }
             ]
         },
