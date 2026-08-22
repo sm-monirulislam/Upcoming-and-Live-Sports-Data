@@ -2,28 +2,10 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:29 PM 22-08-2026",
-    "total_matches": 179,
-    "live_match": 45,
+    "last_update_time": "07:30:26 PM 22-08-2026",
+    "total_matches": 164,
+    "live_match": 48,
     "matches": [
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "England Vs Argentina",
-            "eventInfo": {
-                "teamA": "England",
-                "teamB": "Argentina",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787412569540x302MEN.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787412569540x302MEN.jpg",
-                "eventName": "Fih Hockey World Cup 2026",
-                "startTime": "2026-08-22 23:00:00"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-                }
-            ]
-        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -57,6 +39,24 @@
             "streams": [
                 {
                     "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Argentina Vs Spain - W",
+            "eventInfo": {
+                "teamA": "W",
+                "teamB": "",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787417405540x302WOMEN.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787417405540x302WOMEN.jpg",
+                "eventName": "Fih Hockey World Cup 2026",
+                "startTime": "2026-08-23 00:30:00"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
                 }
             ]
         },
@@ -162,77 +162,6 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Albacete Balompié Vs Real Sociedad B",
-            "eventInfo": {
-                "teamA": "Albacete Balompié",
-                "teamB": "Real Sociedad B",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-                "eventName": "Laliga 2",
-                "startTime": "22/08/2026 11:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-                    "channel_name": "LaLiga2 Hyp FHD",
-                    "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-                    "channel_name": "D SPORTS2 + FHD",
-                    "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4567225.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4567225.m3u8?txSecret=ecd44c96ef5281c7ce8b02bedee72ce5&txTime=6A8B1721",
-                    "channel_name": "HD QUALITY 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Ad Ceuta Vs Ud Las Palmas",
-            "eventInfo": {
-                "teamA": "Ad Ceuta",
-                "teamB": "Ud Las Palmas",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-                "eventName": "Laliga 2",
-                "startTime": "22/08/2026 11:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-                    "channel_name": "LALIGA1 HYP FHD",
-                    "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4567227.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4567227.m3u8?txSecret=bbe8bf770c958acc45daa04fb6ea0062&txTime=6A8B1799",
-                    "channel_name": "HD QUALITY 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
             "event_name": "Parma Vs Cagliari",
             "eventInfo": {
                 "teamA": "Parma",
@@ -268,6 +197,30 @@
                 {
                     "stream_url": "",
                     "channel_name": "ELEVEN SPORTS "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Universidad Católica Del Ecuador Vs Manta Fc",
+            "eventInfo": {
+                "teamA": "Universidad Católica Del Ecuador",
+                "teamB": "Manta Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21942/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/33561/image",
+                "eventName": "Ligapro Serie A",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/240/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "SERVER + TV"
                 }
             ]
         },
@@ -347,7 +300,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://tmaxapp.site/ligue6sc6/ligue2.m3u8",
+                    "stream_url": "https://tmaxapp.site/ligue6sc6/ligue3.m3u8",
                     "channel_name": "LIGUE + HD"
                 },
                 {
@@ -455,6 +408,10 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://tmaxapp.site/ligue6sc6/ligue6.m3u8",
+                    "channel_name": "Ligue1+"
+                },
+                {
                     "stream_url": "https://edgestream3.pro/hls/ioazuryeahrfvzed84.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "channel_name": "HD QUALITY "
                 },
@@ -491,7 +448,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://tmaxapp.site/ligue6sc6/ligue4.m3u8",
+                    "stream_url": "https://tmaxapp.site/ligue6sc6/ligue5.m3u8",
                     "channel_name": "LIGUE + HD"
                 },
                 {
@@ -533,6 +490,66 @@
                 {
                     "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4564098.m3u8?txSecret=b6eec33ee23e3803c6fa96fb118425c9&txTime=6A8B1979",
                     "channel_name": "HD SERVER 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Gimnasia Y Esgrima Vs Gimnasia Y Esgrima Mendoza",
+            "eventInfo": {
+                "teamA": "Gimnasia Y Esgrima",
+                "teamB": "Gimnasia Y Esgrima Mendoza",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/188441/image",
+                "eventName": "Liga Profesional De Fútbol",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN PRM HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN PRM HD2"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Atlético Tucumán Vs Instituto De Córdoba",
+            "eventInfo": {
+                "teamA": "Atlético Tucumán",
+                "teamB": "Instituto De Córdoba",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36833/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4937/image",
+                "eventName": "Liga Profesional De Fútbol",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "TNT SPORTS "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "TNT SPORTS HD AR"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "TNT HD AR2"
                 }
             ]
         },
@@ -670,24 +687,28 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Sparta Rotterdam Vs Fc Utrecht",
+            "event_name": "Sc Heerenveen Vs Pec Zwolle",
             "eventInfo": {
-                "teamA": "Sparta Rotterdam",
-                "teamB": "Fc Utrecht",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
+                "teamA": "Sc Heerenveen",
+                "teamB": "Pec Zwolle",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
                 "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "22/08/2026 10:45:00 PM",
+                "startTime": "23/08/2026 01:00:00 AM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4552167.m3u8",
-                    "channel_name": "HD QUALITY "
+                    "stream_url": "https://live.vivo200.com/live/sd-1-4552168.m3u8?txSecret=3cff27fb5baeb3eb763f7ab541317b48&txTime=6A8A021C|Referer=https://player.online909.com/",
+                    "channel_name": "HD QUICK "
                 },
                 {
-                    "stream_url": "http://193.47.62.44/hls/UUUUAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN NL"
                 },
                 {
                     "stream_url": "",
@@ -742,23 +763,23 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Carrarese Vs Mantova",
+            "event_name": "Empoli Vs Cremonese",
             "eventInfo": {
-                "teamA": "Carrarese",
-                "teamB": "Mantova",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2745/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
+                "teamA": "Empoli",
+                "teamB": "Cremonese",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2705/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
                 "eventName": "Serie B",
-                "startTime": "22/08/2026 11:00:00 PM",
+                "startTime": "23/08/2026 01:00:00 AM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "SERVER + TV"
                 },
                 {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -766,23 +787,47 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Südtirol Vs Virtus Entella",
+            "event_name": "Benevento Vs Modena",
             "eventInfo": {
-                "teamA": "Südtirol",
-                "teamB": "Virtus Entella",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/43680/image",
+                "teamA": "Benevento",
+                "teamB": "Modena",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2759/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2706/image",
                 "eventName": "Serie B",
-                "startTime": "22/08/2026 11:00:00 PM",
+                "startTime": "23/08/2026 01:00:00 AM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "SERVER + TV"
                 },
                 {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Us Avellino 1912 Vs Arezzo",
+            "eventInfo": {
+                "teamA": "Us Avellino 1912",
+                "teamB": "Arezzo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2730/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2731/image",
+                "eventName": "Serie B",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -816,80 +861,6 @@
                 {
                     "stream_url": "",
                     "channel_name": "CANAL SPORTS "
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Dundee United Vs Dundee Fc",
-            "eventInfo": {
-                "teamA": "Dundee United",
-                "teamB": "Dundee Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2349/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-                "eventName": "Scottish Premiership",
-                "startTime": "22/08/2026 10:45:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                    "channel_name": "BeIN2 SPORTS FHD",
-                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                    "channel_name": "PREMIER1 SPORTS FHD ",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4557566.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4557566.m3u8?txSecret=1c7312253763db5e4af3b7c561bc643a&txTime=6A8B1631",
-                    "channel_name": "HD SERVER 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/YPPPAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Estoril Praia Vs Rio Ave",
-            "eventInfo": {
-                "teamA": "Estoril Praia",
-                "teamB": "Rio Ave",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-                "eventName": "Liga Portugal Betclic",
-                "startTime": "22/08/2026 11:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
-                    "channel_name": "Sport2 TV PT"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4578168.m3u8",
-                    "channel_name": "HD SERVER "
-                },
-                {
-                    "stream_url": "https://live.vivo200.com/live/sd-1-4578168.m3u8?txSecret=8a994b9bd18262367f141123dcb802ac&txTime=6A89E79A|Referer=https://player.online909.com/",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4578168.m3u8?txSecret=ef5c86283305eea3e810e25dd0fcf4b9&txTime=6A8B1721",
-                    "channel_name": "HD SERVER 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/EEUUUQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -1004,6 +975,36 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Fluminense Vs Remo",
+            "eventInfo": {
+                "teamA": "Fluminense",
+                "teamB": "Remo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+                "eventName": "Brasileirão Betano",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                    "channel_name": "PREMIERER1 FHD",
+                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "PREMIERER 2 BR",
+                    "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
+                },
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "Royal Antwerp Fc Vs Krc Genk",
             "eventInfo": {
                 "teamA": "Royal Antwerp Fc",
@@ -1022,6 +1023,26 @@
                 {
                     "stream_url": "http://193.47.62.53/hls/ztttAAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Sportivo Ameliano Vs Recoleta Fc",
+            "eventInfo": {
+                "teamA": "Sportivo Ameliano",
+                "teamB": "Recoleta Fc",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/323510/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+                "eventName": "Primera División",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "",
+                    "channel_name": "FANATIZ a "
                 }
             ]
         },
@@ -1504,6 +1525,38 @@
         },
         {
             "status": "LIVE",
+            "Category": "Rugby",
+            "event_name": "Catalans Dragons Vs Hull",
+            "eventInfo": {
+                "teamA": "Catalans Dragons",
+                "teamB": "Hull",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7945/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4271/image",
+                "eventName": "Super League",
+                "startTime": "23/08/2026 01:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.40/hls/RNNNAAAAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8",
+                    "channel_name": "SKY SPORT Action"
+                },
+                {
+                    "stream_url": "https://lucky-cloud-c0be.tigerisalive80.workers.dev/1290271/index.json?&e=.m3u8",
+                    "channel_name": "HD QUICK "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Other",
             "event_name": "Hockey 🏑 Vs Hockey 🏑",
             "eventInfo": {
@@ -1889,15 +1942,27 @@
                 },
                 {
                     "stream_url": "https://chatgpt.hereisman.net/playlist/55037/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "SERVER+ HD"
+                    "channel_name": "ESPN ENGLISH HD"
                 },
                 {
                     "stream_url": "https://chatgpt.hereisman.net/playlist/55038/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "SERVER HD 2"
+                    "channel_name": "ESPN DEPORTES HD"
                 },
                 {
                     "stream_url": "",
                     "channel_name": "XTREME+ FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.48/hls/AIIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "https://edgestream6.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "channel_name": "HD STREAMING "
+                },
+                {
+                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4565331.m3u8?txSecret=9a09e99145e7fd3631025c951706e105&txTime=6A8A039C|Referer=https://player.online909.com/",
+                    "channel_name": "HD FAST TV"
                 }
             ]
         },
@@ -1915,6 +1980,11 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+                    "channel_name": "TNT SPORTS 3 FHD ",
+                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+                },
                 {
                     "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "channel_name": "WILLOW SPORTS",
@@ -1938,11 +2008,6 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "channel_name": "TNT4 SPORTS FHD",
                     "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-                    "channel_name": "TNT3 SPORTS FHD",
-                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
                 }
             ]
         },
@@ -2020,14 +2085,16 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd",
-                    "channel_name": "WILLOW FHD",
-                    "drm_key": "9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970"
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/fox501sd955VCg47.m3u8",
+                    "channel_name": "FOX NEWS HD "
                 },
                 {
-                    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd",
-                    "channel_name": "WILLOW ALT",
-                    "drm_key": "9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970"
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8",
+                    "channel_name": "SKY5 NZ HD"
+                },
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
+                    "channel_name": "HD QUALITY "
                 },
                 {
                     "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8",
@@ -2040,14 +2107,6 @@
                 {
                     "stream_url": "https://crimson-cloud-807f.kamrukhanchy.workers.dev/441307/index.json?&e=.m3u8",
                     "channel_name": "FOX SPORTS HD"
-                },
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz85df.m3u8",
-                    "channel_name": "SKY5 NZ HD"
                 }
             ]
         },
@@ -2069,26 +2128,10 @@
                     "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
                     "channel_name": "LALIGA1 HYP FHD",
                     "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Universidad Católica Del Ecuador Vs Manta Fc",
-            "eventInfo": {
-                "teamA": "Universidad Católica Del Ecuador",
-                "teamB": "Manta Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21942/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/33561/image",
-                "eventName": "Ligapro Serie A",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/240/image/dark"
-            },
-            "streams": [
+                },
                 {
-                    "stream_url": "",
-                    "channel_name": "SERVER + TV"
+                    "stream_url": "http://193.47.62.40/hls/AIIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -2180,30 +2223,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Gimnasia Y Esgrima Vs Gimnasia Y Esgrima Mendoza",
-            "eventInfo": {
-                "teamA": "Gimnasia Y Esgrima",
-                "teamB": "Gimnasia Y Esgrima Mendoza",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/188441/image",
-                "eventName": "Liga Profesional De Fútbol",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN PRM HD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN PRM HD2"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Newell'S Old Boys Vs Banfield",
             "eventInfo": {
                 "teamA": "Newell'S Old Boys",
@@ -2218,34 +2237,6 @@
                 {
                     "stream_url": "https://file.genoads.com/ch1.m3u8",
                     "channel_name": "SERVER + TV"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Atlético Tucumán Vs Instituto De Córdoba",
-            "eventInfo": {
-                "teamA": "Atlético Tucumán",
-                "teamB": "Instituto De Córdoba",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/36833/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4937/image",
-                "eventName": "Liga Profesional De Fútbol",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "",
-                    "channel_name": "TNT SPORTS "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "TNT SPORTS HD AR"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "TNT HD AR2"
                 }
             ]
         },
@@ -2379,94 +2370,6 @@
                 {
                     "stream_url": "",
                     "channel_name": "ESPN MX HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Sc Heerenveen Vs Pec Zwolle",
-            "eventInfo": {
-                "teamA": "Sc Heerenveen",
-                "teamB": "Pec Zwolle",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-                "eventName": "Vriendenloterij Eredivisie",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live.vivo200.com/live/sd-1-4552168.m3u8?txSecret=3cff27fb5baeb3eb763f7ab541317b48&txTime=6A8A021C|Referer=https://player.online909.com/",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN NL"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN NL HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Empoli Vs Cremonese",
-            "eventInfo": {
-                "teamA": "Empoli",
-                "teamB": "Cremonese",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2705/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-                "eventName": "Serie B",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "SERVER + TV"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Benevento Vs Modena",
-            "eventInfo": {
-                "teamA": "Benevento",
-                "teamB": "Modena",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2759/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2706/image",
-                "eventName": "Serie B",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "SERVER + TV"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Us Avellino 1912 Vs Arezzo",
-            "eventInfo": {
-                "teamA": "Us Avellino 1912",
-                "teamB": "Arezzo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2730/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2731/image",
-                "eventName": "Serie B",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://file.genoads.com/ch1.m3u8",
-                    "channel_name": "SERVER + TV"
                 }
             ]
         },
@@ -3057,6 +2960,14 @@
                 {
                     "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
                     "channel_name": "Sport TV PT"
+                },
+                {
+                    "stream_url": "https://live.vivo200.com/live/sd-1-4578175.m3u8?txSecret=0f3e558196d6579eb3bd97534f3675b5&txTime=6A8A0246|Referer=https://player.online909.com/",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "http://193.47.62.40/hls/AIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
@@ -3160,143 +3071,39 @@
             ]
         },
         {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Fluminense Vs Remo",
-            "eventInfo": {
-                "teamA": "Fluminense",
-                "teamB": "Remo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-                "eventName": "Brasileirão Betano",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-                    "channel_name": "PREMIERER1 FHD",
-                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "PREMIERER 2 BR",
-                    "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Sportivo Ameliano Vs Recoleta Fc",
-            "eventInfo": {
-                "teamA": "Sportivo Ameliano",
-                "teamB": "Recoleta Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/323510/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
-                "eventName": "Primera División",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "",
-                    "channel_name": "FANATIZ a "
-                }
-            ]
-        },
-        {
             "status": "FINISHED",
             "Category": "Football",
-            "event_name": "Athletic Club Vs Sevilla",
+            "event_name": "Albacete Balompié Vs Real Sociedad B",
             "eventInfo": {
-                "teamA": "Athletic Club",
-                "teamB": "Sevilla",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-                "eventName": "Laliga",
-                "startTime": "22/08/2026 09:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+                "teamA": "Albacete Balompié",
+                "teamB": "Real Sociedad B",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+                "eventName": "Laliga 2",
+                "startTime": "22/08/2026 11:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-                    "channel_name": "BeIN1 SPORTSFHD ",
-                    "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+                    "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+                    "channel_name": "LaLiga2 Hyp FHD",
+                    "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
                 },
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "D SPORTS + FHD",
-                    "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                    "channel_name": "D SPORTS2 + FHD",
+                    "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
                 },
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-                    "channel_name": "CANAL 5FHD",
-                    "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/55016/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "ESPN DEPORTES HD"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/55017/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "ESPN ENGLISH HD"
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/FIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4565327.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "HD QUALITY"
-                },
-                {
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4565327.m3u8?txSecret=bf398277f511acb4bb29de72f5e0ce77&txTime=6A89C44E|Referer=https://player.online909.com/",
-                    "channel_name": "SPORTS TV+ HD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "SPANISH SD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN+ 🇪🇸"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Udinese Vs Como",
-            "eventInfo": {
-                "teamA": "Udinese",
-                "teamB": "Como",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-                "eventName": "Serie A",
-                "startTime": "22/08/2026 10:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/75kaqwxo8b/out/v1/0fd73b1ac3b74b2fa3bf55b91d10f948/d47885f0-a02e-4abb-9a1d-565248189cfe-cenc.mpd?aws_sessionId=18c24752-1ba4-4854-81b9-3d042721bf91",
-                    "channel_name": "PARAMOUNT+ FHD ",
-                    "drm_key": "e6abc56a32fd36e479f76db419f7d093:877b08ed57e5d90a7b29e23e28c0d8a9"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/55024/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "ITALY + HD"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                    "channel_name": "CBS NETWORK HD"
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4549159.m3u8",
+                    "stream_url": "https://hls.live123.fans/live/4567225.m3u8",
                     "channel_name": "HD QUALITY "
                 },
                 {
-                    "stream_url": "http://193.47.62.44/hls/YPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4567225.m3u8?txSecret=ecd44c96ef5281c7ce8b02bedee72ce5&txTime=6A8B1721",
+                    "channel_name": "HD QUALITY 2 "
+                },
+                {
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -3304,51 +3111,32 @@
         {
             "status": "FINISHED",
             "Category": "Football",
-            "event_name": "Inter Vs Monza",
+            "event_name": "Ad Ceuta Vs Ud Las Palmas",
             "eventInfo": {
-                "teamA": "Inter",
-                "teamB": "Monza",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-                "eventName": "Serie A",
-                "startTime": "22/08/2026 10:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+                "teamA": "Ad Ceuta",
+                "teamB": "Ud Las Palmas",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+                "eventName": "Laliga 2",
+                "startTime": "22/08/2026 11:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vyshtdn3mr/out/v1/f0211d64141d45db9dab1ca00756b096/39219638-fe45-4518-b356-155a1bb6801e-cenc.mpd?aws_sessionId=5ef7bbe1-a933-47f2-94e7-e5d5e2f94bad",
-                    "channel_name": "PARAMOUNT+ FHD",
-                    "drm_key": "667d505c72f15c08c00d714ad9e898c7:38d43b73b6cf9277d52a2b16268586a2"
+                    "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+                    "channel_name": "LALIGA1 HYP FHD",
+                    "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
                 },
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "BEIN3 SPORTS FHD",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                    "stream_url": "https://hls.live123.fans/live/4567227.m3u8",
+                    "channel_name": "HD QUALITY "
                 },
                 {
-                    "stream_url": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-                    "channel_name": "CBS GAZALO FHD",
-                    "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4567227.m3u8?txSecret=bbe8bf770c958acc45daa04fb6ea0062&txTime=6A8B1799",
+                    "channel_name": "HD QUALITY 2 "
                 },
                 {
-                    "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-                    "channel_name": "Sport 1 CZ FHD",
-                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/55025/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "ITALIA+ HD"
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/hd-en-1-4549142.m3u8?txSecret=78016be0238447f63ba1725e5b176744&txTime=6A8B1541",
-                    "channel_name": "HD SERVER "
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4549142.m3u8",
-                    "channel_name": "HD SERVER 2 "
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/YPPPA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -3356,123 +3144,23 @@
         {
             "status": "FINISHED",
             "Category": "Football",
-            "event_name": "Akhmat Grozny Vs Fc Rostov",
+            "event_name": "Carrarese Vs Mantova",
             "eventInfo": {
-                "teamA": "Akhmat Grozny",
-                "teamB": "Fc Rostov",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5131/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2326/image",
-                "eventName": "Russian Premier League",
-                "startTime": "22/08/2026 09:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/203/image/dark"
+                "teamA": "Carrarese",
+                "teamB": "Mantova",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2745/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
+                "eventName": "Serie B",
+                "startTime": "22/08/2026 11:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4564091.m3u8",
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "SERVER + TV"
                 },
                 {
-                    "stream_url": "http://193.47.62.41/hls/FIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4564091.m3u8?txSecret=90429d77a2204455dc87d036fb0ca338&txTime=6A8B06B9",
-                    "channel_name": "HD QUALITY "
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Brentford Vs Tottenham Hotspur",
-            "eventInfo": {
-                "teamA": "Brentford",
-                "teamB": "Tottenham Hotspur",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
-                "eventName": "Premier League",
-                "startTime": "22/08/2026 10:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/soeo23j7q3/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd",
-                    "channel_name": "FUBO SPORTS FHD",
-                    "drm_key": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "FUBO SPORTS FHD ",
-                    "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/55026/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "EPL TV + HD"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-                    "channel_name": "FUBO SPORTS FHD ALT ",
-                    "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8",
-                    "channel_name": "Sky Sports PL"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8",
-                    "channel_name": "Sky8 Sport NZ"
-                },
-                {
-                    "stream_url": "https://live.666666.zip/live/4558461.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://hls.live123.fans/live/4558461.m3u8",
-                    "channel_name": "HD STREAM "
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports3tr.m3u8",
-                    "channel_name": "BEIN3 TR HD"
-                },
-                {
-                    "stream_url": "http://193.47.62.50/hls/LLLLQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "https://lucky-cloud-c0be.tigerisalive80.workers.dev/1201183/index.json?&e=.m3u8",
-                    "channel_name": "ARABIC HD1"
-                },
-                {
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4558461.m3u8?txSecret=620e684b0ab18a69f056f654f87e9765&txTime=6A89E19E|Referer=https://player.online909.com/",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "https://play1.315nb.com/live/72221164_6da9791550aac6489819e36fd7ee1d24_540p.m3u8?auth_key=1787430496-0-0-6b839d02c1c8bb45be77f2239e17202c",
-                    "channel_name": "HD QUALITY "
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Al-Ain Vs Khor Fakkan",
-            "eventInfo": {
-                "teamA": "Al-Ain",
-                "teamB": "Khor Fakkan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/234227/image",
-                "eventName": "Uae Pro League",
-                "startTime": "22/08/2026 10:35:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
-                    "channel_name": "AD1 SPORTS FHD",
-                    "drm_key": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
-                },
-                {
-                    "stream_url": "http://193.47.62.44/hls/UUUUAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -3480,27 +3168,23 @@
         {
             "status": "FINISHED",
             "Category": "Football",
-            "event_name": "Al-Kholood Vs Al-Taawoun",
+            "event_name": "Südtirol Vs Virtus Entella",
             "eventInfo": {
-                "teamA": "Al-Kholood",
-                "teamB": "Al-Taawoun",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-                "eventName": "Saudi Pro League",
-                "startTime": "22/08/2026 10:10:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+                "teamA": "Südtirol",
+                "teamB": "Virtus Entella",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2760/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/43680/image",
+                "eventName": "Serie B",
+                "startTime": "22/08/2026 11:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4599555.m3u8",
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "SERVER + TV"
                 },
                 {
-                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4599555.m3u8?txSecret=321dfedda4b828aea6d843e5fb03fad5&txTime=6A8B1450",
-                    "channel_name": "HD SERVER "
-                },
-                {
-                    "stream_url": "http://193.47.62.44/hls/UUUUA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -3508,79 +3192,35 @@
         {
             "status": "FINISHED",
             "Category": "Football",
-            "event_name": "Al-Sadd Vs Al-Ahli Doha",
+            "event_name": "Estoril Praia Vs Rio Ave",
             "eventInfo": {
-                "teamA": "Al-Sadd",
-                "teamB": "Al-Ahli Doha",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/39733/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/44443/image",
-                "eventName": "Stars League",
-                "startTime": "22/08/2026 10:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://lucky-cloud-c0be.tigerisalive80.workers.dev/1201182/index.json?&e=.m3u8",
-                    "channel_name": "BEIN SPORTS 2 AR"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Cs Marítimo Vs Académico Viseu Fc",
-            "eventInfo": {
-                "teamA": "Cs Marítimo",
-                "teamB": "Académico Viseu Fc",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+                "teamA": "Estoril Praia",
+                "teamB": "Rio Ave",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
                 "eventName": "Liga Portugal Betclic",
-                "startTime": "22/08/2026 08:30:00 PM",
+                "startTime": "22/08/2026 11:00:00 PM",
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://hls.live123.fans/live/4578172.m3u8",
-                    "channel_name": "HD QUALITY "
+                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+                    "channel_name": "Sport2 TV PT"
                 },
                 {
-                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
-                    "channel_name": "Sport TV 1"
+                    "stream_url": "https://hls.live123.fans/live/4578168.m3u8",
+                    "channel_name": "HD SERVER "
                 },
                 {
-                    "stream_url": "http://193.47.62.41/hls/BCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
+                    "stream_url": "https://live.vivo200.com/live/sd-1-4578168.m3u8?txSecret=8a994b9bd18262367f141123dcb802ac&txTime=6A89E79A|Referer=https://player.online909.com/",
+                    "channel_name": "HD QUICK "
                 },
                 {
-                    "stream_url": "",
-                    "channel_name": "SPORT TV"
+                    "stream_url": "https://pul-tenm.gkykp.com/live/sd-1-4578168.m3u8?txSecret=ef5c86283305eea3e810e25dd0fcf4b9&txTime=6A8B1721",
+                    "channel_name": "HD SERVER 2 "
                 },
                 {
-                    "stream_url": "https://live.vivo200.com/live/sd-1-4578172.m3u8?txSecret=98d2d9a7605e1a15ccaf473fc0f0ec7a&txTime=6A89C135|referer=https://player.online909.com/",
-                    "channel_name": "HD SERVER"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Sekhukhune Vs Orlando Pirates",
-            "eventInfo": {
-                "teamA": "Sekhukhune",
-                "teamB": "Orlando Pirates",
-                "teamAFlag": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-                "teamBFlag": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-                "eventName": "South Africa League",
-                "startTime": "22/08/2026 07:00:00 PM",
-                "event_logo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.192/hls/LLLL.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "STREAM TV + HD"
-                },
-                {
-                    "stream_url": "http://193.47.62.192/hls/LLLL.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "stream_url": "http://193.47.62.59/hls/EEUUUQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -3990,34 +3630,6 @@
         {
             "status": "UPCOMING",
             "Category": "Rugby",
-            "event_name": "Catalans Dragons Vs Hull",
-            "eventInfo": {
-                "teamA": "Catalans Dragons",
-                "teamB": "Hull",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7945/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4271/image",
-                "eventName": "Super League",
-                "startTime": "23/08/2026 01:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8",
-                    "channel_name": "SKY SPORT Action"
-                },
-                {
-                    "stream_url": "https://lucky-cloud-c0be.tigerisalive80.workers.dev/1290271/index.json?&e=.m3u8",
-                    "channel_name": "HD QUICK "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Rugby",
             "event_name": "Toyota Cheetahs Vs Sanlam Boland Kavaliers",
             "eventInfo": {
                 "teamA": "Toyota Cheetahs",
@@ -4089,6 +3701,14 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55039/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "NFL HD "
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl10.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
                 {
                     "stream_url": "https://edgestream4.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "channel_name": "HD QUALITY "
@@ -4164,6 +3784,10 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl12.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
+                {
                     "stream_url": "https://edgestream2.pro/hls/jkhazabcka36.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAM "
                 },
@@ -4221,6 +3845,10 @@
                     "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
                 },
                 {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl14.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
+                {
                     "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAM "
                 },
@@ -4253,6 +3881,10 @@
             },
             "streams": [
                 {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl14.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
+                {
                     "stream_url": "https://edgestream2.pro/hls/ysvbxwnbc38.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAM "
                 },
@@ -4284,6 +3916,10 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl13.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
                 {
                     "stream_url": "https://edgestream2.pro/hls/yetehznecs37.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAM "
@@ -4336,6 +3972,14 @@
                 "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
             },
             "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55040/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "NFL TV HD "
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl11.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
                 {
                     "stream_url": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "HD STREAM "
@@ -4744,6 +4388,14 @@
                     "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
                 },
                 {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55042/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/nfl69ssss46/nfl11.m3u8",
+                    "channel_name": "NFL PASS HD "
+                },
+                {
                     "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "STREAM TV + HD"
                 },
@@ -5147,60 +4799,6 @@
         },
         {
             "status": "FINISHED",
-            "Category": "Other",
-            "event_name": "Cycling Vs Cycling",
-            "eventInfo": {
-                "teamA": "Cycling",
-                "teamB": "Cycling",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5BW3mjkkiVlWjCeC-VbX7d1NP_usMoGkMQ7CkurVlI_b0s8mSZIGwp4&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5BW3mjkkiVlWjCeC-VbX7d1NP_usMoGkMQ7CkurVlI_b0s8mSZIGwp4&s=10",
-                "eventName": "Cycling",
-                "startTime": "22/08/2026 08:05:00 PM",
-                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5BW3mjkkiVlWjCeC-VbX7d1NP_usMoGkMQ7CkurVlI_b0s8mSZIGwp4&s=10"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT4 SPORTS FHD",
-                    "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT2 SPORTS HD",
-                    "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT1 SPORTS FHD ",
-                    "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-                },
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-                    "channel_name": "TNT3 SPORTS FHD",
-                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-                },
-                {
-                    "stream_url": "http://193.47.62.190/hls/EEEA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "Cycling Tour of Limousin"
-                },
-                {
-                    "stream_url": "http://193.47.62.191/hls/UUUUAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "Cycling Tour of Czech"
-                },
-                {
-                    "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-                    "channel_name": "EUROSPORT",
-                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-                },
-                {
-                    "stream_url": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-                    "channel_name": "EUROSPORT",
-                    "drm_key": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
             "Category": "Boxing",
             "event_name": "Tna Impact Vs Tna Impact",
             "eventInfo": {
@@ -5224,31 +4822,6 @@
                 {
                     "stream_url": "",
                     "channel_name": "SD QUALITY"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Other",
-            "event_name": "Iaaf Diamond League Vs Iaaf Diamond League",
-            "eventInfo": {
-                "teamA": "Iaaf Diamond League",
-                "teamB": "Iaaf Diamond League",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPmYECuB2Brgw0xMlMuNEu5b88ae83n65ekfr-vROEA&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPmYECuB2Brgw0xMlMuNEu5b88ae83n65ekfr-vROEA&s=10",
-                "eventName": "Iaaf Diamond League",
-                "startTime": "22/08/2026 12:00:00 AM",
-                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPmYECuB2Brgw0xMlMuNEu5b88ae83n65ekfr-vROEA&s=10"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-                    "channel_name": "Sport Tv BR FHD",
-                    "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8",
-                    "channel_name": "BBC Two FHD"
                 }
             ]
         },
@@ -5301,26 +4874,6 @@
                 {
                     "stream_url": "https://lucky-cloud-c0be.tigerisalive80.workers.dev/1290277/index.json?&e=.m3u8",
                     "channel_name": "Server 1"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Baseball",
-            "event_name": "Little League Vs World Series",
-            "eventInfo": {
-                "teamA": "Little League",
-                "teamB": "World Series",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-                "eventName": "Little League Baseball World Series",
-                "startTime": "22/08/2026 10:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/54863/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "channel_name": "Link 1"
                 }
             ]
         },
