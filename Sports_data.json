@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:30:46 AM 24-08-2026",
-    "total_matches": 74,
-    "live_match": 16,
+    "last_update_time": "07:00:42 AM 24-08-2026",
+    "total_matches": 75,
+    "live_match": 22,
     "matches": [
         {
             "status": "LIVE",
@@ -110,26 +110,51 @@
         },
         {
             "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
+            "Category": "Football",
+            "event_name": "Racing Club Vs Boca Juniors",
             "eventInfo": {
-                "teamA": "Antigua & Barbuda Falcons",
-                "teamB": "Guyana Amazon Warriors",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/514842/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187823/image",
-                "eventName": "Caribbean Premier League",
-                "startTime": "24/08/2026 05:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+                "teamA": "Racing Club",
+                "teamB": "Boca Juniors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "eventName": "Liga Profesional De Fútbol",
+                "startTime": "24/08/2026 06:30:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-                    "channel_name": "TNT3 SPORTS FHD",
-                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "PREMIERE2 SPORTS FHD",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
                 },
                 {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8",
-                    "channel_name": "SKY6 NZ HD "
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "D SPORTS FHD",
+                    "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+                },
+                {
+                    "stream_url": "http://193.47.62.44/hls/RRRRRQAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+                    "channel_name": "SPORT TV HD"
+                },
+                {
+                    "stream_url": "http://162.251.160.53:8089/200/index.m3u8",
+                    "channel_name": "SD QUALITY "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN PRM HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 2"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 3"
                 }
             ]
         },
@@ -158,6 +183,31 @@
                 {
                     "stream_url": "",
                     "channel_name": "LIGA ECDF2"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
+            "eventInfo": {
+                "teamA": "Antigua & Barbuda Falcons",
+                "teamB": "Guyana Amazon Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/514842/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187823/image",
+                "eventName": "Caribbean Premier League",
+                "startTime": "24/08/2026 05:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+                    "channel_name": "TNT3 SPORTS FHD",
+                    "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8",
+                    "channel_name": "SKY6 NZ HD "
                 }
             ]
         },
@@ -215,42 +265,79 @@
         },
         {
             "status": "LIVE",
-            "Category": "Other",
-            "event_name": "Golf Eventos Vs Golf Eventos",
+            "Category": "Football",
+            "event_name": "Pumas Unam Vs Club Necaxa",
             "eventInfo": {
-                "teamA": "Golf Eventos",
-                "teamB": "Golf Eventos",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-                "eventName": "Golf Eventos",
-                "startTime": "24/08/2026 07:05:00 AM",
-                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s"
+                "teamA": "Pumas Unam",
+                "teamB": "Club Necaxa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+                "eventName": "Liga Mx, Apertura",
+                "startTime": "24/08/2026 07:00:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
             },
             "streams": [
                 {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8",
-                    "channel_name": "SERVICE HD"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TUDN MEXICO FHD",
+                    "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
                 },
                 {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TSN3 SPORTS FHD",
-                    "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "CANAL 5",
+                    "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
                 },
                 {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
-                    "channel_name": "SKY1 NZ HD"
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/DEDEDEAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "Golf Nexo Championship"
+                    "stream_url": "http://193.47.62.44/hls/RRRRRQAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": " QUALITY (USE VPN)"
                 },
                 {
                     "stream_url": "",
-                    "channel_name": "TNT SPORTS"
+                    "channel_name": "XTREME MX "
                 },
                 {
-                    "stream_url": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "PGA BMW "
+                    "stream_url": "",
+                    "channel_name": "TUDN"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "TUDN US HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD QUICK 2 "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Junior Barranquilla Vs Once Caldas",
+            "eventInfo": {
+                "teamA": "Junior Barranquilla",
+                "teamB": "Once Caldas",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6105/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6118/image",
+                "eventName": "Primera A",
+                "startTime": "24/08/2026 07:15:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 1"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 2.."
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "HD 3"
                 }
             ]
         },
@@ -350,6 +437,110 @@
                 {
                     "stream_url": "",
                     "channel_name": "XTREME ESPANOL "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Motorsports",
+            "event_name": "Indycar Series Racing Vs Indycar Series Racing",
+            "eventInfo": {
+                "teamA": "Indycar Series Racing",
+                "teamB": "Indycar Series Racing",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
+                "eventName": "Indycar Series Racing",
+                "startTime": "24/08/2026 07:05:00 AM",
+                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "channel_name": "FOX2 SPORTS FHD ",
+                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                    "channel_name": "FOX1 SPORTS FHD",
+                    "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                    "channel_name": "FOX DEPORTES FHD",
+                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8",
+                    "channel_name": "SKY3 NZ HD "
+                },
+                {
+                    "stream_url": "http://193.47.62.55/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Motorsports",
+            "event_name": "Nascar Cup Series Vs Nascar Cup Series",
+            "eventInfo": {
+                "teamA": "Nascar Cup Series",
+                "teamB": "Nascar Cup Series",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+                "eventName": "Nascar",
+                "startTime": "24/08/2026 07:05:00 AM",
+                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8",
+                    "channel_name": "USA NETWROK"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv5.m3u8",
+                    "channel_name": "SPORTS5 TV HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Other",
+            "event_name": "Golf Eventos Vs Golf Eventos",
+            "eventInfo": {
+                "teamA": "Golf Eventos",
+                "teamB": "Golf Eventos",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+                "eventName": "Golf Eventos",
+                "startTime": "24/08/2026 07:05:00 AM",
+                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8",
+                    "channel_name": "SERVICE HD"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TSN3 SPORTS FHD",
+                    "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+                    "channel_name": "SKY1 NZ HD"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/DEDEDEAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "Golf Nexo Championship"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "TNT SPORTS"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "PGA BMW "
                 }
             ]
         },
@@ -619,6 +810,55 @@
                     "channel_name": "HD QUICK 2 "
                 }
             ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Motorsports",
+            "event_name": "World Champ Vs Netherlands Mx2",
+            "eventInfo": {
+                "teamA": "World Champ",
+                "teamB": "Netherlands Mx2",
+                "teamAFlag": "https://i.ibb.co/CKKNc9gD/car-1.png",
+                "teamBFlag": "https://i.ibb.co/CKKNc9gD/car-1.png",
+                "eventName": "World Champ Netherlands Mx2",
+                "startTime": "24/08/2026 07:05:00 AM",
+                "event_logo": "https://iili.io/CtxaAQa.png"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+                    "channel_name": "EURO ES 2 - FHD ",
+                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+                    "channel_name": "EURO ES 2 - FHD ",
+                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                },
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+                    "channel_name": "CBS NETWORK HD"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "channel_name": "TNT4 SPORTS FHD",
+                    "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "New Zealand Vs Pakistan",
+            "eventInfo": {
+                "teamA": "New Zealand",
+                "teamB": "Pakistan",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787553546540x302MEN.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787553546540x302MEN.jpg",
+                "eventName": "Fih Hockey World Cup 2026",
+                "startTime": "2026-08-24 16:30:00"
+            },
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -1298,134 +1538,6 @@
                 {
                     "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
                     "channel_name": "Beix Sports XTRA "
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Racing Club Vs Boca Juniors",
-            "eventInfo": {
-                "teamA": "Racing Club",
-                "teamB": "Boca Juniors",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-                "eventName": "Liga Profesional De Fútbol",
-                "startTime": "24/08/2026 06:30:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "PREMIERE2 SPORTS FHD",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "D SPORTS FHD",
-                    "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-                },
-                {
-                    "stream_url": "http://193.47.62.44/hls/RRRRRQAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
-                    "channel_name": "SPORT TV HD"
-                },
-                {
-                    "stream_url": "http://162.251.160.53:8089/200/index.m3u8",
-                    "channel_name": "SD QUALITY "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN PRM HD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 2"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 3"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Pumas Unam Vs Club Necaxa",
-            "eventInfo": {
-                "teamA": "Pumas Unam",
-                "teamB": "Club Necaxa",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-                "eventName": "Liga Mx, Apertura",
-                "startTime": "24/08/2026 07:00:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TUDN MEXICO FHD",
-                    "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "CANAL 5",
-                    "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-                },
-                {
-                    "stream_url": "http://193.47.62.44/hls/RRRRRQAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": " QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME MX "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "TUDN"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "TUDN US HD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD QUICK 2 "
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Junior Barranquilla Vs Once Caldas",
-            "eventInfo": {
-                "teamA": "Junior Barranquilla",
-                "teamB": "Once Caldas",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6105/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/6118/image",
-                "eventName": "Primera A",
-                "startTime": "24/08/2026 07:15:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 1"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 2.."
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "HD 3"
                 }
             ]
         },
@@ -2128,104 +2240,6 @@
                 {
                     "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "SERVER + TV"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Motorsports",
-            "event_name": "Indycar Series Racing Vs Indycar Series Racing",
-            "eventInfo": {
-                "teamA": "Indycar Series Racing",
-                "teamB": "Indycar Series Racing",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-                "eventName": "Indycar Series Racing",
-                "startTime": "24/08/2026 07:05:00 AM",
-                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "channel_name": "FOX2 SPORTS FHD ",
-                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-                    "channel_name": "FOX1 SPORTS FHD",
-                    "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                    "channel_name": "FOX DEPORTES FHD",
-                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8",
-                    "channel_name": "SKY3 NZ HD "
-                },
-                {
-                    "stream_url": "http://193.47.62.55/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Motorsports",
-            "event_name": "Nascar Cup Series Vs Nascar Cup Series",
-            "eventInfo": {
-                "teamA": "Nascar Cup Series",
-                "teamB": "Nascar Cup Series",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-                "eventName": "Nascar",
-                "startTime": "24/08/2026 07:05:00 AM",
-                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8",
-                    "channel_name": "USA NETWROK"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/pt658svs/sporttv5.m3u8",
-                    "channel_name": "SPORTS5 TV HD"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Motorsports",
-            "event_name": "World Champ Vs Netherlands Mx2",
-            "eventInfo": {
-                "teamA": "World Champ",
-                "teamB": "Netherlands Mx2",
-                "teamAFlag": "https://i.ibb.co/CKKNc9gD/car-1.png",
-                "teamBFlag": "https://i.ibb.co/CKKNc9gD/car-1.png",
-                "eventName": "World Champ Netherlands Mx2",
-                "startTime": "24/08/2026 07:05:00 AM",
-                "event_logo": "https://iili.io/CtxaAQa.png"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-                    "channel_name": "EURO ES 2 - FHD ",
-                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-                },
-                {
-                    "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-                    "channel_name": "EURO ES 2 - FHD ",
-                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-                },
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-                    "channel_name": "CBS NETWORK HD"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "channel_name": "TNT4 SPORTS FHD",
-                    "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
                 }
             ]
         }
