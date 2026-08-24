@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:30:45 PM 24-08-2026",
+    "last_update_time": "11:00:40 PM 24-08-2026",
     "total_matches": 77,
-    "live_match": 21,
+    "live_match": 27,
     "matches": [
         {
             "status": "LIVE",
@@ -138,6 +138,81 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Osasuna Vs Levante Ud",
+            "eventInfo": {
+                "teamA": "Osasuna",
+                "teamB": "Levante Ud",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+                "eventName": "Laliga",
+                "startTime": "24/08/2026 11:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                    "channel_name": "BeIN2 SPORTS FHD",
+                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                    "channel_name": "PREMIER1 SPORTS FHD ",
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                    "channel_name": "FANCODE1 FHD",
+                    "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+                },
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55161/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+                    "channel_name": "ESPN DEPORTES HD"
+                },
+                {
+                    "stream_url": "https://play3.315nb.com/live/72478500_52855242940d2b43aca84c472b1a4577.m3u8?auth_key=887606793-0-0-79c83483b4b0f6753d7b6fdbbd69c519",
+                    "channel_name": "HD QUICK "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "ESPANOL HD"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/G444AAAaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": " QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "MOVISTAR+ LALIGA"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN DEPORTES"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "DISNEY+"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "DAZN 🇵🇹"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ARENA PREMIUM"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "ESPN"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "COSMOTE SPORT"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "Maccabi Netanya Vs Bnei Sakhnin",
             "eventInfo": {
                 "teamA": "Maccabi Netanya",
@@ -152,6 +227,30 @@
                 {
                     "stream_url": "https://file.genoads.com/ch1.m3u8",
                     "channel_name": "STREAM TV + HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Baltika Kaliningrad Vs Rubin Kazan",
+            "eventInfo": {
+                "teamA": "Baltika Kaliningrad",
+                "teamB": "Rubin Kazan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7517/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2333/image",
+                "eventName": "Russian Premier League",
+                "startTime": "24/08/2026 11:30:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/203/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.41/hls/G444AAAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "MATCH PREMIER"
                 }
             ]
         },
@@ -465,6 +564,30 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Coastal Union Vs Tra United",
+            "eventInfo": {
+                "teamA": "Coastal Union",
+                "teamB": "Tra United",
+                "teamAFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+                "teamBFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+                "eventName": "Tanzania League",
+                "startTime": "24/08/2026 11:30:00 PM",
+                "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.41/hls/G444AAAaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "Link 1"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/G444AAAaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "1. Fsv Mainz 05 Vs Sv Werder Bremen",
             "eventInfo": {
                 "teamA": "1. Fsv Mainz 05",
@@ -550,6 +673,90 @@
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
                     "channel_name": "FOX1 SPORTS FHD",
                     "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "Detroit Tigers Vs Tampa Bay Rays",
+            "eventInfo": {
+                "teamA": "Detroit Tigers",
+                "teamB": "Tampa Bay Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "Mlb",
+                "startTime": "25/08/2026 04:40:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55168/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "WWE TV HD "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "Miami Marlins Vs Boston Red Sox",
+            "eventInfo": {
+                "teamA": "Miami Marlins",
+                "teamB": "Boston Red Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "eventName": "Mlb",
+                "startTime": "25/08/2026 04:40:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55166/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "MLB TV HD "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Baseball",
+            "event_name": "Washington Nationals Vs Colorado Rockies",
+            "eventInfo": {
+                "teamA": "Washington Nationals",
+                "teamB": "Colorado Rockies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "eventName": "Mlb",
+                "startTime": "25/08/2026 04:45:00 AM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/55169/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "WWE TV HD "
+                },
+                {
+                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "channel_name": "SERVER + TV"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME+ FHD"
                 }
             ]
         },
@@ -1405,105 +1612,6 @@
         {
             "status": "FINISHED",
             "Category": "Football",
-            "event_name": "Osasuna Vs Levante Ud",
-            "eventInfo": {
-                "teamA": "Osasuna",
-                "teamB": "Levante Ud",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-                "eventName": "Laliga",
-                "startTime": "24/08/2026 11:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                    "channel_name": "BeIN2 SPORTS FHD",
-                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                    "channel_name": "PREMIER1 SPORTS FHD ",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                    "channel_name": "FANCODE1 FHD",
-                    "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-                },
-                {
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/55161/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-                    "channel_name": "ESPN DEPORTES HD"
-                },
-                {
-                    "stream_url": "https://play3.315nb.com/live/72478500_52855242940d2b43aca84c472b1a4577.m3u8?auth_key=887606793-0-0-79c83483b4b0f6753d7b6fdbbd69c519",
-                    "channel_name": "HD QUICK "
-                },
-                {
-                    "stream_url": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "ESPANOL HD"
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/G444AAAaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": " QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "MOVISTAR+ LALIGA"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN DEPORTES"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "DISNEY+"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "DAZN 🇵🇹"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ARENA PREMIUM"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "ESPN"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "COSMOTE SPORT"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Baltika Kaliningrad Vs Rubin Kazan",
-            "eventInfo": {
-                "teamA": "Baltika Kaliningrad",
-                "teamB": "Rubin Kazan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7517/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2333/image",
-                "eventName": "Russian Premier League",
-                "startTime": "24/08/2026 11:30:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/203/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.41/hls/G444AAAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "MATCH PREMIER"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
             "event_name": "As Roma Vs Fiorentina",
             "eventInfo": {
                 "teamA": "As Roma",
@@ -1755,30 +1863,6 @@
                 },
                 {
                     "stream_url": "http://193.47.62.41/hls/dbbbba.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Football",
-            "event_name": "Coastal Union Vs Tra United",
-            "eventInfo": {
-                "teamA": "Coastal Union",
-                "teamB": "Tra United",
-                "teamAFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-                "teamBFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-                "eventName": "Tanzania League",
-                "startTime": "24/08/2026 11:30:00 PM",
-                "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.41/hls/G444AAAaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "Link 1"
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/G444AAAaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -2143,10 +2227,14 @@
                 "teamAFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
                 "teamBFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
                 "eventName": "Monday Night Raw",
-                "startTime": "25/08/2026 06:00:00 AM",
+                "startTime": "25/08/2026 05:00:00 AM",
                 "event_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png"
             },
             "streams": [
+                {
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/54800/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "channel_name": "WWE TV HD "
+                },
                 {
                     "stream_url": "",
                     "channel_name": "FHD SERVER"
@@ -2324,30 +2412,6 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Detroit Tigers Vs Tampa Bay Rays",
-            "eventInfo": {
-                "teamA": "Detroit Tigers",
-                "teamB": "Tampa Bay Rays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "eventName": "Mlb",
-                "startTime": "25/08/2026 04:40:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "SERVER + TV"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME+ FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
             "event_name": "Chicago White Sox Vs Texas Rangers",
             "eventInfo": {
                 "teamA": "Chicago White Sox",
@@ -2361,54 +2425,6 @@
             "streams": [
                 {
                     "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "SERVER + TV"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME+ FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Miami Marlins Vs Boston Red Sox",
-            "eventInfo": {
-                "teamA": "Miami Marlins",
-                "teamB": "Boston Red Sox",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-                "eventName": "Mlb",
-                "startTime": "25/08/2026 04:40:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-                    "channel_name": "SERVER + TV"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME+ FHD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Washington Nationals Vs Colorado Rockies",
-            "eventInfo": {
-                "teamA": "Washington Nationals",
-                "teamB": "Colorado Rockies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "eventName": "Mlb",
-                "startTime": "25/08/2026 04:45:00 AM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "channel_name": "SERVER + TV"
                 },
                 {
