@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:30:58 PM 26-08-2026",
+    "last_update_time": "03:00:46 PM 26-08-2026",
     "total_matches": 172,
-    "live_match": 13,
+    "live_match": 14,
     "matches": [
         {
             "status": "LIVE",
@@ -48,6 +48,30 @@
                 },
                 {
                     "stream_url": "http://193.47.62.41/hls/GTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Smouha Vs Asyut Petroleum",
+            "eventInfo": {
+                "teamA": "Smouha",
+                "teamB": "Asyut Petroleum",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/43563/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/270807/image",
+                "eventName": "Egyptian Premier League",
+                "startTime": "26/08/2026 08:00:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark"
+            },
+            "streams": [
+                {
+                    "stream_url": "http://193.47.62.41/hls/GTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "STREAM + FHD"
+                },
+                {
+                    "stream_url": "http://193.47.62.41/hls/GTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
@@ -268,42 +292,6 @@
         },
         {
             "status": "LIVE",
-            "Category": "Boxing",
-            "event_name": "Tszyu Vs Mahoney",
-            "eventInfo": {
-                "teamA": "Tszyu",
-                "teamB": "Mahoney",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
-                "eventName": "Ufc",
-                "startTime": "26/08/2026 02:00:00 PM",
-                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/fox503dg959zDF.m3u8",
-                    "channel_name": "FOX SPORTS HD "
-                },
-                {
-                    "stream_url": "http://193.47.62.59/hls/eyyy.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": " QUALITY (USE VPN)"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "XTREME FHD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "DAZN SPORTS HD"
-                },
-                {
-                    "stream_url": "",
-                    "channel_name": "DAZN SPORTS SD"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
             "Category": "Other",
             "event_name": "Pdc Darts Vs Pdc Darts",
             "eventInfo": {
@@ -462,6 +450,42 @@
                 {
                     "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8",
                     "channel_name": "SKY1 NZ HD"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Boxing",
+            "event_name": "Tszyu Vs Mahoney",
+            "eventInfo": {
+                "teamA": "Tszyu",
+                "teamB": "Mahoney",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+                "eventName": "Ufc",
+                "startTime": "26/08/2026 02:00:00 PM",
+                "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/fox503dg959zDF.m3u8",
+                    "channel_name": "FOX SPORTS HD "
+                },
+                {
+                    "stream_url": "http://193.47.62.59/hls/eyyy.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": " QUALITY (USE VPN)"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "XTREME FHD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "DAZN SPORTS HD"
+                },
+                {
+                    "stream_url": "",
+                    "channel_name": "DAZN SPORTS SD"
                 }
             ]
         },
@@ -1133,30 +1157,6 @@
                 {
                     "stream_url": "https://file.genoads.com/ch1.m3u8",
                     "channel_name": "STREAM TV + HD"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Smouha Vs Asyut Petroleum",
-            "eventInfo": {
-                "teamA": "Smouha",
-                "teamB": "Asyut Petroleum",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/43563/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/270807/image",
-                "eventName": "Egyptian Premier League",
-                "startTime": "26/08/2026 08:00:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "http://193.47.62.41/hls/GTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "STREAM + FHD"
-                },
-                {
-                    "stream_url": "http://193.47.62.41/hls/GTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         },
