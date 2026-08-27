@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:01:26 PM 27-08-2026",
+    "last_update_time": "12:31:23 PM 27-08-2026",
     "total_matches": 178,
-    "live_match": 22,
+    "live_match": 24,
     "matches": [
         {
             "status": "LIVE",
@@ -519,6 +519,44 @@
         {
             "status": "LIVE",
             "Category": "Other",
+            "event_name": "Horse Racing Vs Horse Racing",
+            "eventInfo": {
+                "teamA": "Horse Racing",
+                "teamB": "Horse Racing",
+                "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+                "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+                "eventName": "Horse Racing",
+                "startTime": "27/08/2026 06:00:00 PM",
+                "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8",
+                    "channel_name": "HD QUALITY "
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "channel_name": "FOX2 SPORTS FHD ",
+                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+                },
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                    "channel_name": "FOX1 SPORTS FHD",
+                    "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+                },
+                {
+                    "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "1 TV Use VPN "
+                },
+                {
+                    "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "2 TV Use VPN "
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Other",
             "event_name": "Hockey 🏑 Vs Hockey 🏑",
             "eventInfo": {
                 "teamA": "Hockey 🏑",
@@ -819,32 +857,28 @@
             ]
         },
         {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "India Vs Germany - W",
+            "status": "LIVE",
+            "Category": "Rugby",
+            "event_name": "Southland Vs Hawke'S Bay",
             "eventInfo": {
-                "teamA": "W",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787810926540x302WOMEN.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787810926540x302WOMEN.jpg",
-                "eventName": "Fih Hockey World Cup 2026",
-                "startTime": "2026-08-27 19:00:00"
+                "teamA": "Southland",
+                "teamB": "Hawke'S Bay",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42719/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/42723/image",
+                "eventName": "National Provincial Championship",
+                "startTime": "27/08/2026 01:10:00 PM",
+                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark"
             },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Edinburgh Castle Rockers Vs Glasgow Cosmic",
-            "eventInfo": {
-                "teamA": "Edinburgh Castle Rockers",
-                "teamB": "Glasgow Cosmic",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787814555540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787814555540x302.jpg",
-                "eventName": "European T20 Premier League 2026",
-                "startTime": "2026-08-27 19:15:00"
-            },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8",
+                    "channel_name": "SKY1 NZ HD"
+                },
+                {
+                    "stream_url": "http://193.47.62.58/hls/YGGGa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "channel_name": "LOW QUALITY (USE VPN)"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -1053,6 +1087,34 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787822575540x302.jpg",
                 "eventName": "Socca World Cup 2026",
                 "startTime": "2026-08-28 15:00:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Maheshate Vs Flowers",
+            "eventInfo": {
+                "teamA": "Maheshate",
+                "teamB": "Flowers",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787830487540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787830487540x302.jpg",
+                "eventName": "Ufc 2026",
+                "startTime": "2026-08-28 15:00:00"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Ukraine Vs Lebanon Live",
+            "eventInfo": {
+                "teamA": "Ukraine",
+                "teamB": "Lebanon",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787822860540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1787822860540x302.jpg",
+                "eventName": "Socca World Cup 2026",
+                "startTime": "2026-08-28 16:00:00"
             },
             "streams": []
         },
@@ -2835,44 +2897,6 @@
         {
             "status": "UPCOMING",
             "Category": "Other",
-            "event_name": "Horse Racing Vs Horse Racing",
-            "eventInfo": {
-                "teamA": "Horse Racing",
-                "teamB": "Horse Racing",
-                "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                "eventName": "Horse Racing",
-                "startTime": "27/08/2026 06:00:00 PM",
-                "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8",
-                    "channel_name": "HD QUALITY "
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "channel_name": "FOX2 SPORTS FHD ",
-                    "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-                },
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-                    "channel_name": "FOX1 SPORTS FHD",
-                    "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-                },
-                {
-                    "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "1 TV Use VPN "
-                },
-                {
-                    "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "2 TV Use VPN "
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Other",
             "event_name": "Cycling Vs Cycling",
             "eventInfo": {
                 "teamA": "Cycling",
@@ -4544,30 +4568,6 @@
                 {
                     "stream_url": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "channel_name": "SKY SPORTS HD"
-                }
-            ]
-        },
-        {
-            "status": "FINISHED",
-            "Category": "Rugby",
-            "event_name": "Southland Vs Hawke'S Bay",
-            "eventInfo": {
-                "teamA": "Southland",
-                "teamB": "Hawke'S Bay",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42719/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/42723/image",
-                "eventName": "National Provincial Championship",
-                "startTime": "27/08/2026 01:10:00 PM",
-                "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8",
-                    "channel_name": "SKY1 NZ HD"
-                },
-                {
-                    "stream_url": "http://193.47.62.58/hls/YGGGa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "channel_name": "LOW QUALITY (USE VPN)"
                 }
             ]
         }
