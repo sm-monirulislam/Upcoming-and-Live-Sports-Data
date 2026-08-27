@@ -49,5 +49,7 @@ jobs:
             echo "No changes detected."
           else
             git commit -m "🔁 Update sports data"
-            git push origin HEAD
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
