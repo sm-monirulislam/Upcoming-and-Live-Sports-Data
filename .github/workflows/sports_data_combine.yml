@@ -2,6 +2,7 @@ name: Sports Data Auto Update
 
 on:
   workflow_dispatch:
+  workflow_call:
 
 permissions:
   contents: write
