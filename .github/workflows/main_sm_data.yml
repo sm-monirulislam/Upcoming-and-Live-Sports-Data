@@ -2,8 +2,7 @@ name: Sports Data By SM
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *'
+  workflow_call:
 
 permissions:
   contents: write
