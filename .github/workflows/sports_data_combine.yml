@@ -55,5 +55,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "⚡ Sports Data Auto-updated"
-            git push origin HEAD
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
