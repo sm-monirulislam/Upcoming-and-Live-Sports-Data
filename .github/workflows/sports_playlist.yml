@@ -1,9 +1,8 @@
-name: Sports Data Playlist 
+name: Sports Data Playlist
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর স্বয়ংক্রিয়ভাবে চলার জন্য
+  workflow_call:
 
 permissions:
   contents: write
@@ -50,7 +49,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # তৈরি হওয়া M3U প্লেলিস্ট এবং ইমেজ ফোল্ডার যোগ করা
           git add Sports_data.m3u match_image/
 
           if git diff --cached --quiet; then
