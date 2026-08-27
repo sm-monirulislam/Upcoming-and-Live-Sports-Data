@@ -12,22 +12,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Public Repository
+      - name: 📦 Checkout Public Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Install Dependencies
+      - name: 📥 Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install cloudscraper beautifulsoup4 requests pytz Pillow
 
-      - name: Fetch Python Script from Private Repo
+      - name: 🔐 Fetch Python Script from Private Repo
         env:
           REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
         run: |
@@ -36,13 +36,15 @@ jobs:
           cp private_code/App/sports_image.py App/
           rm -rf private_code
 
-      - name: Run Scraper Script
-        run: python App/sports_image.py
+      - name: ▶️ Run Scraper Script
+        run: |
+          python App/sports_image.py
 
-      - name: Clean up Python Script
-        run: rm -f App/sports_image.py
+      - name: 🧹 Clean up Python Script
+        run: |
+          rm -f App/sports_image.py
 
-      - name: Commit and Push M3U and Match Images
+      - name: 💾 Commit and Push M3U and Match Images
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -52,8 +54,21 @@ jobs:
           git add Sports_data.m3u match_image/
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "⚡ Sports Data & Match Posters Auto-updated"
-            git push origin HEAD
+            echo "⚠️ No changes detected."
+            exit 0
           fi
+
+          echo "🟢 Changes found, committing..."
+
+          git commit -m "⚡ Sports Data & Match Posters Auto-updated"
+
+          echo "📥 Fetching latest main branch..."
+          git fetch origin main
+
+          echo "🔄 Rebasing on latest main..."
+          git rebase origin/main
+
+          echo "📤 Pushing changes to main..."
+          git push origin HEAD:main
+
+          echo "✅ Playlist and match images updated successfully."
