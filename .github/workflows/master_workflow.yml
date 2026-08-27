@@ -1,9 +1,7 @@
-name: 🚀 Run All Sports Updates (Main Controller)
+name: Run All Sports Updates (Main Controller)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
 
 jobs:
 
