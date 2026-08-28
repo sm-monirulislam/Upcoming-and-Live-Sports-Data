@@ -12,32 +12,51 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Private Repository
+      # Public Repository checkout
+      - name: Checkout Public Repository
         uses: actions/checkout@v4
         with:
-          repository: sm-monirulislam/${{ secrets.SECRET_REPO_NAME }}
-          token: ${{ secrets.GH_PAT }}
           fetch-depth: 0
 
+      # Python setup
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
+      # Install dependencies
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
+      # Private Repo থেকে শুধু Python script আনা
+      - name: Fetch Python Script from Private Repo
+        env:
+          REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git clone https://x-access-token:${GH_PAT}@github.com/sm-monirulislam/${REPO_NAME}.git private_code
+          cp private_code/App/sports_ap_sm.py ./
+          rm -rf private_code
+
+      # Private Python script run
       - name: Run Sports Scraper
         run: |
-          python App/sports_ap_sm.py > sports_data.json
+          python sports_ap_sm.py > sports_data.json
 
+      # Generated file check
       - name: Show Generated Data
         run: |
           echo "Generated sports_data.json:"
           ls -lh sports_data.json
 
+      # Python script remove
+      - name: Clean Up Python Script
+        run: |
+          rm -f sports_ap_sm.py
+
+      # শুধু JSON Public Repo-তে push
       - name: Commit and Push Data
         run: |
           git config user.name "github-actions[bot]"
