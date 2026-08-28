@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:46 PM 28-08-2026",
-  "total_matches": 191,
-  "live_match": 46,
+  "last_update_time": "02:30:45 PM 28-08-2026",
+  "total_matches": 192,
+  "live_match": 47,
   "matches": [
     {
       "status": "LIVE",
@@ -528,30 +528,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Shenzhen Peng City Vs Shanghai Port",
-      "eventInfo": {
-        "teamA": "Shenzhen Peng City",
-        "teamB": "Shanghai Port",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/281331/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-        "eventName": "Chinese Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/649/image/dark",
-        "startTime": "28/08/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "http://193.47.62.44/hls/LDDDQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/LDDDQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "South Sudan Vs Nigeria",
       "eventInfo": {
@@ -635,6 +611,32 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Namibia Vs South Africa",
+      "eventInfo": {
+        "teamA": "Namibia",
+        "teamB": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "eventName": "T20I Tri-Series in Namibia",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark",
+        "startTime": "28/08/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM + FHD",
+          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1787946628~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=b41d14633584fff20b9aac9873b9724e25dc580309c740deea26cb77ff853ef5/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         }
       ]
     },
@@ -5330,6 +5332,30 @@
       ]
     },
     {
+      "status": "FINISHED",
+      "Category": "Football",
+      "event_name": "Shenzhen Peng City Vs Shanghai Port",
+      "eventInfo": {
+        "teamA": "Shenzhen Peng City",
+        "teamB": "Shanghai Port",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/281331/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41537/image",
+        "eventName": "Chinese Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/649/image/dark",
+        "startTime": "28/08/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "http://193.47.62.44/hls/LDDDQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/LDDDQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
       "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Iran Vs New Zealand",
@@ -5354,7 +5380,7 @@
       ]
     },
     {
-      "status": "FINISHED",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Syria Vs Australia",
       "eventInfo": {
