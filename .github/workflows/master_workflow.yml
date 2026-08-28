@@ -9,14 +9,8 @@ jobs:
     uses: ./.github/workflows/main_sm_data.yml
     secrets: inherit
 
-  sports_data_combine:
-    needs: main_sm_data
-    if: ${{ always() }}
-    uses: ./.github/workflows/sports_data_combine.yml
-    secrets: inherit
-
   sports_playlist:
-    needs: sports_data_combine
+    needs: main_sm_data
     if: ${{ always() }}
     uses: ./.github/workflows/sports_playlist.yml
     secrets: inherit
