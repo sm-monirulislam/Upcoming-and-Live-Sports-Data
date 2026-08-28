@@ -2,10 +2,64 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:58:04 PM 28-08-2026",
+  "last_update_time": "07:00:36 PM 28-08-2026",
   "total_matches": 263,
-  "live_match": 56,
+  "live_match": 62,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Manchester City Vs Crystal Palace",
+      "eventInfo": {
+        "teamA": "Manchester City",
+        "teamB": "Crystal Palace",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f"
+        },
+        {
+          "channel_name": "SETANTA SPORTS FHD",
+          "stream_url": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd",
+          "drm_key": "b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0"
+        },
+        {
+          "channel_name": "SKY MAIN EVENT",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
+        },
+        {
+          "channel_name": "SKY Premier League",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8"
+        },
+        {
+          "channel_name": "USA NETWROK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8"
+        },
+        {
+          "channel_name": "STAN SPORTS HD",
+          "stream_url": "https://tmaxapp.site/stan4s6c/stan1.m3u8"
+        },
+        {
+          "channel_name": "TV LIVE HD ",
+          "stream_url": "http://162.251.160.53:8089/4056/index.m3u8"
+        },
+        {
+          "channel_name": "HD BOX 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD BOX 2",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Motorsports",
@@ -248,6 +302,66 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "St Helens Vs Leeds Rhinos",
+      "eventInfo": {
+        "teamA": "St Helens",
+        "teamB": "Leeds Rhinos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4234/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4268/image",
+        "eventName": "Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORT Action",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Huddersfield Giants Vs Leigh Leopards",
+      "eventInfo": {
+        "teamA": "Huddersfield Giants",
+        "teamB": "Leigh Leopards",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4241/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4235/image",
+        "eventName": "Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM + FHD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Castleford Tigers Vs Catalans Dragons",
+      "eventInfo": {
+        "teamA": "Castleford Tigers",
+        "teamB": "Catalans Dragons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4274/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7945/image",
+        "eventName": "Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM + FHD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "PDC DARTS Vs PDC DARTS",
       "eventInfo": {
@@ -307,6 +421,27 @@
         {
           "channel_name": "SKY2 NZ HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CD Tenerife Vs Sporting Gijón",
+      "eventInfo": {
+        "teamA": "CD Tenerife",
+        "teamB": "Sporting Gijón",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LALIGA1 HYP FHD",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ]
     },
@@ -982,6 +1117,47 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wrexham Vs Birmingham City",
+      "eventInfo": {
+        "teamA": "Wrexham",
+        "teamB": "Birmingham City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "SPORTS7 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv7.m3u8"
+        },
+        {
+          "channel_name": "SKY FOOTBALL HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
+        },
+        {
+          "channel_name": "HD TV",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD BOX 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TV LIVE HD ",
+          "stream_url": "http://162.251.160.53:8089/4986/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Cameroon Vs Tunisia",
       "eventInfo": {
@@ -1110,38 +1286,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Ukraine Vs Greece",
-      "eventInfo": {
-        "teamA": "Ukraine",
-        "teamB": "Greece",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25377/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6128/image",
-        "eventName": "FIBA World Cup Qualification, Europe",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-        "startTime": "28/08/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/aiiiZa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Chicago Cubs Vs Cincinnati Reds",
       "eventInfo": {
@@ -1203,6 +1347,34 @@
         {
           "channel_name": "TV LIVE HD ",
           "stream_url": "http://162.251.160.53:8089/2233/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Spain Vs Portugal",
+      "eventInfo": {
+        "teamA": "Spain",
+        "teamB": "Portugal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6252/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7497/image",
+        "eventName": "FIBA World Cup Qualification, Europe",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
+        "startTime": "29/08/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 2",
+          "stream_url": ""
         }
       ]
     },
@@ -1275,60 +1447,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/QQQQAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Manchester City Vs Crystal Palace",
-      "eventInfo": {
-        "teamA": "Manchester City",
-        "teamB": "Crystal Palace",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
-        "eventName": "Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FUBO SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f"
-        },
-        {
-          "channel_name": "SETANTA SPORTS FHD",
-          "stream_url": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd",
-          "drm_key": "b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0"
-        },
-        {
-          "channel_name": "SKY MAIN EVENT",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
-        },
-        {
-          "channel_name": "SKY Premier League",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8"
-        },
-        {
-          "channel_name": "USA NETWROK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8"
-        },
-        {
-          "channel_name": "STAN SPORTS HD",
-          "stream_url": "https://tmaxapp.site/stan4s6c/stan1.m3u8"
-        },
-        {
-          "channel_name": "TV LIVE HD ",
-          "stream_url": "http://162.251.160.53:8089/4056/index.m3u8"
-        },
-        {
-          "channel_name": "HD BOX 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD BOX 2",
-          "stream_url": ""
         }
       ]
     },
@@ -1480,26 +1598,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "St Helens Vs Leeds Rhinos",
-      "eventInfo": {
-        "teamA": "St Helens",
-        "teamB": "Leeds Rhinos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4234/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4268/image",
-        "eventName": "Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORT Action",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Gold Coast Titans Vs Canberra Raiders",
       "eventInfo": {
         "teamA": "Gold Coast Titans",
@@ -1540,26 +1638,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "Huddersfield Giants Vs Leigh Leopards",
-      "eventInfo": {
-        "teamA": "Huddersfield Giants",
-        "teamB": "Leigh Leopards",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4235/image",
-        "eventName": "Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM + FHD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Sydney Roosters Vs Cronulla Sharks",
       "eventInfo": {
         "teamA": "Sydney Roosters",
@@ -1594,26 +1672,6 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Castleford Tigers Vs Catalans Dragons",
-      "eventInfo": {
-        "teamA": "Castleford Tigers",
-        "teamB": "Catalans Dragons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4274/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7945/image",
-        "eventName": "Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM + FHD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -2734,27 +2792,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "CD Tenerife Vs Sporting Gijón",
-      "eventInfo": {
-        "teamA": "CD Tenerife",
-        "teamB": "Sporting Gijón",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LALIGA1 HYP FHD",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Mushuc Runa SC Vs Delfín",
       "eventInfo": {
         "teamA": "Mushuc Runa SC",
@@ -3000,47 +3037,6 @@
         {
           "channel_name": "SERVER + TV",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wrexham Vs Birmingham City",
-      "eventInfo": {
-        "teamA": "Wrexham",
-        "teamB": "Birmingham City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "SPORTS7 TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv7.m3u8"
-        },
-        {
-          "channel_name": "SKY FOOTBALL HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
-        },
-        {
-          "channel_name": "HD TV",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD BOX 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TV LIVE HD ",
-          "stream_url": "http://162.251.160.53:8089/4986/index.m3u8"
         }
       ]
     },
@@ -3871,34 +3867,6 @@
         },
         {
           "channel_name": "TNT CHILE HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Spain Vs Portugal",
-      "eventInfo": {
-        "teamA": "Spain",
-        "teamB": "Portugal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6252/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7497/image",
-        "eventName": "FIBA World Cup Qualification, Europe",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-        "startTime": "29/08/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 2",
           "stream_url": ""
         }
       ]
@@ -6932,6 +6900,38 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/zpppqqQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "Basketball",
+      "event_name": "Ukraine Vs Greece",
+      "eventInfo": {
+        "teamA": "Ukraine",
+        "teamB": "Greece",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25377/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6128/image",
+        "eventName": "FIBA World Cup Qualification, Europe",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
+        "startTime": "28/08/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/aiiiZa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         },
         {
           "channel_name": "XTREME FHD",
