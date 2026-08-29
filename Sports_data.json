@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:37 PM 29-08-2026",
+  "last_update_time": "05:00:34 PM 29-08-2026",
   "total_matches": 219,
-  "live_match": 60,
+  "live_match": 68,
   "matches": [
     {
       "status": "LIVE",
@@ -69,6 +69,36 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/LDDDQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "WRC Rally Vs WRC Rally",
+      "eventInfo": {
+        "teamA": "WRC Rally",
+        "teamB": "WRC Rally",
+        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "eventName": "WRC Rally",
+        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
+        "startTime": "29/08/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RALLY TV HD",
+          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
         }
       ]
     },
@@ -187,71 +217,6 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "North Queensland Cowboys Vs Newcastle Knights",
-      "eventInfo": {
-        "teamA": "North Queensland Cowboys",
-        "teamB": "Newcastle Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/476456/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/476457/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "29/08/2026 01:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SKY4 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Sydney Roosters Vs Dolphins",
-      "eventInfo": {
-        "teamA": "Sydney Roosters",
-        "teamB": "Dolphins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/465010/image",
-        "eventName": "NRL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-        "startTime": "29/08/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORT Action",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZAZAZAZAC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
       "event_name": "North Queensland Cowboys Vs Wests Tigers",
       "eventInfo": {
         "teamA": "North Queensland Cowboys",
@@ -329,6 +294,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Other",
+      "event_name": "PDC DARTS Vs PDC DARTS",
+      "eventInfo": {
+        "teamA": "PDC DARTS",
+        "teamB": "PDC DARTS",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "29/08/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/LDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/LDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "EUROPEAN T20 Vs Premier League",
       "eventInfo": {
@@ -358,6 +347,39 @@
         {
           "channel_name": "FOX CRICKET HD",
           "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
+      "eventInfo": {
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "29/08/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY GOLF",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8"
+        },
+        {
+          "channel_name": "SKY MAIN EVENT HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "SKY3 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8"
         }
       ]
     },
@@ -432,6 +454,88 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Energie Cottbus Vs SpVgg Greuther Fürth",
+      "eventInfo": {
+        "teamA": "Energie Cottbus",
+        "teamB": "SpVgg Greuther Fürth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "29/08/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SKY5 BUNDESLIGA HD ",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "1. FC Heidenheim Vs SG Dynamo Dresden",
+      "eventInfo": {
+        "teamA": "1. FC Heidenheim",
+        "teamB": "SG Dynamo Dresden",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "29/08/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN1 SPORTSFHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "Sky4 Bundesliga HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Karlsruher SC Vs VfL Wolfsburg",
+      "eventInfo": {
+        "teamA": "Karlsruher SC",
+        "teamB": "VfL Wolfsburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "29/08/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SKY3 BUNDESLIGA HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Sanders Vs Gomez",
       "eventInfo": {
@@ -447,26 +551,6 @@
         {
           "channel_name": "Link 1",
           "stream_url": "https://chatgpt.hereisman.net/playlist/55414/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Manawatu Vs North Harbour",
-      "eventInfo": {
-        "teamA": "Manawatu",
-        "teamB": "North Harbour",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42722/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42715/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "29/08/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         }
       ]
     },
@@ -515,36 +599,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/EVVVAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "WRC Rally Vs WRC Rally",
-      "eventInfo": {
-        "teamA": "WRC Rally",
-        "teamB": "WRC Rally",
-        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "eventName": "WRC Rally",
-        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
-        "startTime": "29/08/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RALLY TV HD",
-          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
         }
       ]
     },
@@ -732,7 +786,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Cycling Vs Cycling",
       "eventInfo": {
@@ -844,7 +898,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Airlink Pumas Vs Toyota Cheetahs",
       "eventInfo": {
@@ -1341,63 +1395,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "PDC DARTS Vs PDC DARTS",
-      "eventInfo": {
-        "teamA": "PDC DARTS",
-        "teamB": "PDC DARTS",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "29/08/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/LDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/LDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "29/08/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY GOLF",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8"
-        },
-        {
-          "channel_name": "SKY MAIN EVENT HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "SKY3 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "TRA United SC Vs Dodoma Jiji FC",
@@ -1570,7 +1567,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Fakel Voronezh Vs Zenit St. Petersburg",
       "eventInfo": {
@@ -1634,7 +1631,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Liverpool FC Vs Nottingham Forest",
       "eventInfo": {
@@ -2195,88 +2192,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Energie Cottbus Vs SpVgg Greuther Fürth",
-      "eventInfo": {
-        "teamA": "Energie Cottbus",
-        "teamB": "SpVgg Greuther Fürth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "29/08/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SKY5 BUNDESLIGA HD ",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Heidenheim Vs SG Dynamo Dresden",
-      "eventInfo": {
-        "teamA": "1. FC Heidenheim",
-        "teamB": "SG Dynamo Dresden",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "29/08/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN1 SPORTSFHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "Sky4 Bundesliga HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Karlsruher SC Vs VfL Wolfsburg",
-      "eventInfo": {
-        "teamA": "Karlsruher SC",
-        "teamB": "VfL Wolfsburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "29/08/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SKY3 BUNDESLIGA HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Middlesbrough Vs West Bromwich Albion",
       "eventInfo": {
         "teamA": "Middlesbrough",
@@ -2304,7 +2219,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Derby County Vs Swansea City",
       "eventInfo": {
@@ -2344,7 +2259,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Wolverhampton Vs Stoke City",
       "eventInfo": {
@@ -3152,7 +3067,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "South Africa Vs Zimbabwe",
       "eventInfo": {
@@ -5005,6 +4920,31 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
+      "event_name": "North Queensland Cowboys Vs Newcastle Knights",
+      "eventInfo": {
+        "teamA": "North Queensland Cowboys",
+        "teamB": "Newcastle Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/476456/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/476457/image",
+        "eventName": "NRL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
+        "startTime": "29/08/2026 01:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SKY4 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
       "event_name": "Gold Coast Titans Vs Canberra Raiders",
       "eventInfo": {
         "teamA": "Gold Coast Titans",
@@ -5024,6 +4964,46 @@
         {
           "channel_name": "STREAM + FHD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Sydney Roosters Vs Dolphins",
+      "eventInfo": {
+        "teamA": "Sydney Roosters",
+        "teamB": "Dolphins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/465010/image",
+        "eventName": "NRL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+        "startTime": "29/08/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        },
+        {
+          "channel_name": "SKY SPORT Action",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/ZAZAZAZAC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -5788,6 +5768,26 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/ZAZAZAZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Manawatu Vs North Harbour",
+      "eventInfo": {
+        "teamA": "Manawatu",
+        "teamB": "North Harbour",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42722/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42715/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "29/08/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         }
       ]
     },
