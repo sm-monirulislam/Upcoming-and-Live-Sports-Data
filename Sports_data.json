@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:39 AM 31-08-2026",
+  "last_update_time": "05:00:35 AM 31-08-2026",
   "total_matches": 156,
-  "live_match": 136,
+  "live_match": 143,
   "matches": [
     {
       "status": "LIVE",
@@ -132,6 +132,40 @@
     },
     {
       "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Ottawa Redblacks Vs BC Lions",
+      "eventInfo": {
+        "teamA": "Ottawa Redblacks",
+        "teamB": "BC Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+        "eventName": "CFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+        "startTime": "31/08/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "CFL HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pacific FC Vs HFX Wanderers FC",
       "eventInfo": {
@@ -153,15 +187,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Argentinos Juniors Vs Aldosivi",
+      "event_name": "CA Independiente Vs Gimnasia y Esgrima Mendoza",
       "eventInfo": {
-        "teamA": "Argentinos Juniors",
-        "teamB": "Aldosivi",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3216/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+        "teamA": "CA Independiente",
+        "teamB": "Gimnasia y Esgrima Mendoza",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3209/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188441/image",
         "eventName": "Liga Profesional de Fútbol",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "31/08/2026 02:00:00 AM"
+        "startTime": "31/08/2026 04:15:00 AM"
       },
       "streams": [
         {
@@ -169,8 +203,34 @@
           "stream_url": "http://162.251.160.53:8089/1459/index.m3u8"
         },
         {
-          "channel_name": "TNT SPORTS AR",
+          "channel_name": "ESPN PRM HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bahia Vs Internacional",
+      "eventInfo": {
+        "teamA": "Bahia",
+        "teamB": "Internacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+        "eventName": "Brasileirão Betano",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "31/08/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "channel_name": "PREMIERER4 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+          "drm_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94"
         }
       ]
     },
@@ -224,43 +284,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Columbus Crew Vs New England Revolution",
+      "event_name": "St.Louis City Vs FC Dallas",
       "eventInfo": {
-        "teamA": "Columbus Crew",
-        "teamB": "New England Revolution",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2511/image",
+        "teamA": "St.Louis City",
+        "teamB": "FC Dallas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
         "eventName": "MLS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "31/08/2026 02:30:00 AM"
+        "startTime": "31/08/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "DISNEY ",
+          "channel_name": "XTREME+ FHD",
           "stream_url": ""
         },
         {
           "channel_name": "DISNEY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sport Boys Vs Club Sporting Cristal",
-      "eventInfo": {
-        "teamA": "Sport Boys",
-        "teamB": "Club Sporting Cristal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2312/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2302/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "31/08/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX",
           "stream_url": ""
         }
       ]
@@ -287,6 +327,55 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Seattle Reign FC Vs Houston Dash",
+      "eventInfo": {
+        "teamA": "Seattle Reign FC",
+        "teamB": "Houston Dash",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/151010/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151006/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "31/08/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons",
+      "eventInfo": {
+        "teamA": "St Kitts and Nevis Patriots",
+        "teamB": "Antigua & Barbuda Falcons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/193209/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/514842/image",
+        "eventName": "Caribbean Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+        "startTime": "31/08/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Seattle Storm Vs Los Angeles Sparks",
       "eventInfo": {
@@ -302,6 +391,30 @@
         {
           "channel_name": "WNBA TV + HD",
           "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Portland Fire Vs Golden State Valkyries",
+      "eventInfo": {
+        "teamA": "Portland Fire",
+        "teamB": "Golden State Valkyries",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "31/08/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WNBA TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
         },
         {
           "channel_name": "XTREME+ FHD",
@@ -350,30 +463,6 @@
         {
           "channel_name": "MLB TV + HD",
           "stream_url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "New York Mets Vs Houston Astros",
-      "eventInfo": {
-        "teamA": "New York Mets",
-        "teamB": "Houston Astros",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "31/08/2026 01:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
         },
         {
           "channel_name": "XTREME+ FHD",
@@ -469,7 +558,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "WWE NXT Vs WWE NXT",
       "eventInfo": {
@@ -539,114 +628,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Ottawa Redblacks Vs BC Lions",
-      "eventInfo": {
-        "teamA": "Ottawa Redblacks",
-        "teamB": "BC Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
-        "eventName": "CFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "startTime": "31/08/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "CFL HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CA Independiente Vs Gimnasia y Esgrima Mendoza",
-      "eventInfo": {
-        "teamA": "CA Independiente",
-        "teamB": "Gimnasia y Esgrima Mendoza",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3209/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188441/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "31/08/2026 04:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD TV LIVE ",
-          "stream_url": "http://162.251.160.53:8089/1459/index.m3u8"
-        },
-        {
-          "channel_name": "ESPN PRM HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Bahia Vs Internacional",
-      "eventInfo": {
-        "teamA": "Bahia",
-        "teamB": "Internacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-        "eventName": "Brasileirão Betano",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "31/08/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "channel_name": "PREMIERER4 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-          "drm_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "St.Louis City Vs FC Dallas",
-      "eventInfo": {
-        "teamA": "St.Louis City",
-        "teamB": "FC Dallas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "31/08/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "DISNEY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Cienciano Vs Cusco FC",
       "eventInfo": {
@@ -666,7 +647,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Coquimbo Unido Vs Huachipato",
       "eventInfo": {
@@ -714,7 +695,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CD Toluca Vs FC Juárez",
       "eventInfo": {
@@ -739,55 +720,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Seattle Reign FC Vs Houston Dash",
-      "eventInfo": {
-        "teamA": "Seattle Reign FC",
-        "teamB": "Houston Dash",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/151010/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/151006/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "31/08/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons",
-      "eventInfo": {
-        "teamA": "St Kitts and Nevis Patriots",
-        "teamB": "Antigua & Barbuda Falcons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/193209/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/514842/image",
-        "eventName": "Caribbean Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
-        "startTime": "31/08/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Guadalajara Vs Pumas UNAM",
       "eventInfo": {
@@ -838,30 +770,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Portland Fire Vs Golden State Valkyries",
-      "eventInfo": {
-        "teamA": "Portland Fire",
-        "teamB": "Golden State Valkyries",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "31/08/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WNBA TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Chicago Cubs Vs Cincinnati Reds",
       "eventInfo": {
@@ -909,7 +817,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Millonarios Vs Internacional de Bogotá",
       "eventInfo": {
@@ -3196,6 +3104,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Argentinos Juniors Vs Aldosivi",
+      "eventInfo": {
+        "teamA": "Argentinos Juniors",
+        "teamB": "Aldosivi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3216/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "31/08/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD TV LIVE ",
+          "stream_url": "http://162.251.160.53:8089/1459/index.m3u8"
+        },
+        {
+          "channel_name": "TNT SPORTS AR",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Banfield Vs River Plate",
       "eventInfo": {
         "teamA": "Banfield",
@@ -3295,6 +3227,50 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/RRRROA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Columbus Crew Vs New England Revolution",
+      "eventInfo": {
+        "teamA": "Columbus Crew",
+        "teamB": "New England Revolution",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2511/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "31/08/2026 02:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "DISNEY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sport Boys Vs Club Sporting Cristal",
+      "eventInfo": {
+        "teamA": "Sport Boys",
+        "teamB": "Club Sporting Cristal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2312/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2302/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "31/08/2026 02:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LIGA1 MAX",
+          "stream_url": ""
         }
       ]
     },
@@ -4267,6 +4243,30 @@
         {
           "channel_name": "MLB TV + HD",
           "stream_url": "https://edgestream2.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "New York Mets Vs Houston Astros",
+      "eventInfo": {
+        "teamA": "New York Mets",
+        "teamB": "Houston Astros",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "31/08/2026 01:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLB TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
         },
         {
           "channel_name": "XTREME+ FHD",
