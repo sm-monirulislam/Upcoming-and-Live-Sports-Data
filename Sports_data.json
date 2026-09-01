@@ -2,10 +2,64 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:44 PM 01-09-2026",
-  "total_matches": 141,
-  "live_match": 14,
+  "last_update_time": "09:00:39 PM 01-09-2026",
+  "total_matches": 140,
+  "live_match": 17,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Fakel Voronezh Vs FC Krasnodar",
+      "eventInfo": {
+        "teamA": "Fakel Voronezh",
+        "teamB": "FC Krasnodar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2317/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34425/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "01/09/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Pakistan Women Vs Thailand Women",
+      "eventInfo": {
+        "teamA": "Pakistan Women",
+        "teamB": "Thailand Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
+        "eventName": "Womens Asia Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark",
+        "startTime": "01/09/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd",
+          "drm_key": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd",
+          "drm_key": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -46,7 +100,11 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.41/hls/R777.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/R777.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
@@ -65,9 +123,18 @@
       },
       "streams": [
         {
+          "channel_name": "WILLOW",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd",
+          "drm_key": "264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b"
+        },
+        {
           "channel_name": "TNT2 SPORTS HD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SKY NZ HD 1",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         },
         {
           "channel_name": "Willow Cricbuzz - HD",
@@ -86,10 +153,6 @@
         {
           "channel_name": "FOX CRICKET HD",
           "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        },
-        {
-          "channel_name": "SKY NZ HD 1",
-          "stream_url": "hb"
         }
       ]
     },
@@ -185,7 +248,11 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.44/hls/KBBBAAAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KBBBAAAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
@@ -429,50 +496,46 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Women Vs Thailand Women",
+      "Category": "Football",
+      "event_name": "Parma Vs Cremonese",
       "eventInfo": {
-        "teamA": "Pakistan Women",
-        "teamB": "Thailand Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
-        "eventName": "Womens Asia Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark",
-        "startTime": "01/09/2026 08:30:00 PM"
+        "teamA": "Parma",
+        "teamB": "Cremonese",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+        "eventName": "Coppa Italia",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+        "startTime": "01/09/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "WILLOW HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+          "channel_name": "PREMIER1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "ITALIA 1 FHD",
+          "stream_url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+          "drm_key": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587"
+        },
+        {
+          "channel_name": "SPORTS2 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
         }
       ]
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fakel Voronezh Vs FC Krasnodar",
-      "eventInfo": {
-        "teamA": "Fakel Voronezh",
-        "teamB": "FC Krasnodar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2317/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34425/image",
-        "eventName": "Russian Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark",
-        "startTime": "01/09/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Singida Black Stars SC Vs Namungo FC",
       "eventInfo": {
@@ -487,32 +550,16 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Parma Vs Cremonese",
-      "eventInfo": {
-        "teamA": "Parma",
-        "teamB": "Cremonese",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-        "eventName": "Coppa Italia",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
-        "startTime": "01/09/2026 10:00:00 PM"
-      },
-      "streams": [
+          "stream_url": "http://193.47.62.44/hls/KBBBAAAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KBBBAAAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FK Austria Wien Vs SK Brann Kvinner",
       "eventInfo": {
@@ -527,7 +574,11 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
@@ -646,8 +697,18 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "DAZN1 DE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
         }
       ]
     },
@@ -2227,95 +2288,6 @@
         {
           "channel_name": "SKY SPORTS HD",
           "stream_url": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "FC Barcelona Vs Rayo Vallecano",
-      "eventInfo": {
-        "teamA": "FC Barcelona",
-        "teamB": "Rayo Vallecano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "01/09/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "DAZN LALIGA",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/daznlaliga1.m3u8"
-        },
-        {
-          "channel_name": "M+ LaLiga HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8"
-        },
-        {
-          "channel_name": "beIN ARABIC",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN DEPORTES HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/55591/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "MOVISTAR+ LALIGA",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN DEPORTES HD ",
-          "stream_url": "https://edgestream2.pro/hls/377qj1h2727.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0"
-        },
-        {
-          "channel_name": "Caze TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
-        },
-        {
-          "channel_name": "COSMOTE6 SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "DIESNY+ - HD",
-          "stream_url": "https://cdn4.zohanayaan.com:1686/hls/do52.m3u8?md5=cXngP6FiFf9x-X32bAD5cg&expires=1788210065|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com"
-        },
-        {
-          "channel_name": "TSN SPORTS - HD",
-          "stream_url": "https://cdn4.zohanayaan.com:1686/hls/do5.m3u8?md5=1lHMh3JtmSss1MgT2o613A&expires=1788210059|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com"
-        },
-        {
-          "channel_name": "MEX SPORTS - HD",
-          "stream_url": "https://cdn8.zohanayaan.com:1686/hls/do64.m3u8?md5=U21EK2gFoh3L0sw25ZRj1A&expires=1788210066|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com"
-        },
-        {
-          "channel_name": "ESPN DEPORTEES ",
-          "stream_url": "https://messi.damitv.st/live-hls/channel/laliga/2026-08-31/bar-ray/playlist.m3u8?tk=jvOhZg4z4Xs3mU4Eyupmqw&e=1788246049|origin=https://ondemand.st/embed/?id=laliga/2026-08-31/bar-ray&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://ondemand.st/embed/?id=laliga/2026-08-31/bar-ray"
-        },
-        {
-          "channel_name": "SD SPORTS - HD",
-          "stream_url": "http://193.47.62.58/hls/P333A.m3u8|Referer=http://www.fawanews.sc/"
         }
       ]
     },
