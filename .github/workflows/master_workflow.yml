@@ -9,8 +9,16 @@ jobs:
     uses: ./.github/workflows/main_sm_data.yml
     secrets: inherit
 
-  sports_playlist:
+  wait_1_minute:
     needs: main_sm_data
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for 1 minute
+        run: sleep 60
+
+  sports_playlist:
+    needs: wait_1_minute
     if: ${{ always() }}
     uses: ./.github/workflows/sports_playlist.yml
     secrets: inherit
