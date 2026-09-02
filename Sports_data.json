@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:39 PM 02-09-2026",
+  "last_update_time": "09:00:39 PM 02-09-2026",
   "total_matches": 70,
-  "live_match": 9,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka Women Vs Indonesia Women",
+      "eventInfo": {
+        "teamA": "Sri Lanka Women",
+        "teamB": "Indonesia Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/454472/image",
+        "eventName": "Womens Asia Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark",
+        "startTime": "02/09/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
+        },
+        {
+          "channel_name": "WILLOW TV ",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -128,30 +152,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/CCCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Yunnan Yukun Vs Chongqing Tonglianglong FC",
-      "eventInfo": {
-        "teamA": "Yunnan Yukun",
-        "teamB": "Chongqing Tonglianglong FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/474991/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/474989/image",
-        "eventName": "CFA Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/882/image/dark",
-        "startTime": "02/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/PTTTQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/PTTTQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
@@ -346,30 +346,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Sri Lanka Women Vs Indonesia Women",
-      "eventInfo": {
-        "teamA": "Sri Lanka Women",
-        "teamB": "Indonesia Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/454472/image",
-        "eventName": "Womens Asia Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark",
-        "startTime": "02/09/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
-        },
-        {
-          "channel_name": "WILLOW TV ",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "FC Zenit Vs Dinamo Makhachkala",
       "eventInfo": {
@@ -384,12 +360,16 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+          "stream_url": "http://193.47.62.41/hls/OUUUQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/OUUUQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Udinese Vs Venezia",
       "eventInfo": {
@@ -1988,6 +1968,30 @@
         {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Yunnan Yukun Vs Chongqing Tonglianglong FC",
+      "eventInfo": {
+        "teamA": "Yunnan Yukun",
+        "teamB": "Chongqing Tonglianglong FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/474991/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/474989/image",
+        "eventName": "CFA Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/882/image/dark",
+        "startTime": "02/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/PTTTQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/PTTTQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     }
