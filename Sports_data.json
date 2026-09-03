@@ -2,22 +2,42 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:09 PM 03-09-2026",
+  "last_update_time": "01:00:52 PM 03-09-2026",
   "total_matches": 163,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Northern Mariana Islands U20 Vs Guam U20",
+      "event_name": "Nepal U20 Vs Mongolia U20",
       "eventInfo": {
-        "teamA": "Northern Mariana Islands U20",
-        "teamB": "Guam U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/929260/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/929214/image",
+        "teamA": "Nepal U20",
+        "teamB": "Mongolia U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/829538/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/929255/image",
         "eventName": "AFC U20 Asian Cup Qualification",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23682/image/dark",
-        "startTime": "03/09/2026 10:00:00 AM"
+        "startTime": "03/09/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Philippines U20 Vs South Korea U20",
+      "eventInfo": {
+        "teamA": "Philippines U20",
+        "teamB": "South Korea U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/929257/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22713/image",
+        "eventName": "AFC U20 Asian Cup Qualification",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23682/image/dark",
+        "startTime": "03/09/2026 01:00:00 PM"
       },
       "streams": [
         {
@@ -162,46 +182,6 @@
         {
           "channel_name": "XTREME + FHD 3",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Nepal U20 Vs Mongolia U20",
-      "eventInfo": {
-        "teamA": "Nepal U20",
-        "teamB": "Mongolia U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/829538/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/929255/image",
-        "eventName": "AFC U20 Asian Cup Qualification",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23682/image/dark",
-        "startTime": "03/09/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Philippines U20 Vs South Korea U20",
-      "eventInfo": {
-        "teamA": "Philippines U20",
-        "teamB": "South Korea U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/929257/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22713/image",
-        "eventName": "AFC U20 Asian Cup Qualification",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23682/image/dark",
-        "startTime": "03/09/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -4475,6 +4455,26 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/HQQQAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Northern Mariana Islands U20 Vs Guam U20",
+      "eventInfo": {
+        "teamA": "Northern Mariana Islands U20",
+        "teamB": "Guam U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/929260/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/929214/image",
+        "eventName": "AFC U20 Asian Cup Qualification",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23682/image/dark",
+        "startTime": "03/09/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     }
