@@ -2,10 +2,64 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:01:10 PM 04-09-2026",
+  "last_update_time": "08:01:06 PM 04-09-2026",
   "total_matches": 161,
-  "live_match": 17,
+  "live_match": 23,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al Shamal SC Vs Al-Shahaniya",
+      "eventInfo": {
+        "teamA": "Al Shamal SC",
+        "teamB": "Al-Shahaniya",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/170364/image",
+        "eventName": "Stars League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
+        "startTime": "04/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "EUROPEAN T20 Vs Premier League",
+      "eventInfo": {
+        "teamA": "EUROPEAN T20",
+        "teamB": "Premier League",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "eventName": "EUROPEAN T20 Premier League",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "startTime": "04/09/2026 07:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "Willow Cricbuzz - HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -203,14 +257,19 @@
       },
       "streams": [
         {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
           "channel_name": "FANCODE1 FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "ICC TV FHD",
+          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788550217~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9a02cffb330a61c039a16a70f2445d5076027230aed6d25ff62cc22d1505af4a/manifest.mpd?vcfilter=ca22801e-7e91-45cf-98ff-6e3ce26bc0b7&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A155.0)%20Gecko%2F20100101%20Firefox%2F155.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
+          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         }
       ]
     },
@@ -663,60 +722,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "EUROPEAN T20 Vs Premier League",
-      "eventInfo": {
-        "teamA": "EUROPEAN T20",
-        "teamB": "Premier League",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "eventName": "EUROPEAN T20 Premier League",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "startTime": "04/09/2026 07:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "Willow Cricbuzz - HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al Shamal SC Vs Al-Shahaniya",
-      "eventInfo": {
-        "teamA": "Al Shamal SC",
-        "teamB": "Al-Shahaniya",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/170364/image",
-        "eventName": "Stars League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
-        "startTime": "04/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "United Arab Emirates Women Vs Indonesia Women",
       "eventInfo": {
         "teamA": "United Arab Emirates Women",
@@ -739,7 +744,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "ES Zarzis Vs ASC Diambars",
       "eventInfo": {
@@ -759,7 +764,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Panthere Sportive du Nde Vs Rayon Sports FC",
       "eventInfo": {
@@ -779,7 +784,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "ES Zarzis Vs ASC Diambars",
       "eventInfo": {
@@ -799,7 +804,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "AS PSI Vs CO Korhogo",
       "eventInfo": {
@@ -819,7 +824,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "AS Port-Louis 2000 Vs Jwaneng Galaxy FC",
       "eventInfo": {
