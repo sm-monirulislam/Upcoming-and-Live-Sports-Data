@@ -2,10 +2,98 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:01:04 PM 04-09-2026",
+  "last_update_time": "10:00:54 PM 04-09-2026",
   "total_matches": 161,
-  "live_match": 27,
+  "live_match": 35,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Abha Vs Al-Ettifaq",
+      "eventInfo": {
+        "teamA": "Abha",
+        "teamB": "Al-Ettifaq",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "04/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Dodoma Jiji FC Vs Mashujaa FC",
+      "eventInfo": {
+        "teamA": "Dodoma Jiji FC",
+        "teamB": "Mashujaa FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/360785/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "04/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM+ HD",
+          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Spain Vs Germany",
+      "eventInfo": {
+        "teamA": "Spain",
+        "teamB": "Germany",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6409/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/51616/image",
+        "eventName": "FIBA Women's World Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
+        "startTime": "04/09/2026 09:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "VAMOUS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "BEIN FR",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Belgium Vs Türkiye",
+      "eventInfo": {
+        "teamA": "Belgium",
+        "teamB": "Türkiye",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/51614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35783/image",
+        "eventName": "FIBA Women's World Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
+        "startTime": "04/09/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN FR",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -186,30 +274,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "TRA United SC Vs Mbeya City FC",
-      "eventInfo": {
-        "teamA": "TRA United SC",
-        "teamB": "Mbeya City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/380759/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/212414/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "04/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM+ HD",
-          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "One Friday Fights Vs One Friday Fights",
       "eventInfo": {
@@ -240,54 +304,6 @@
         {
           "channel_name": "HD QUALITY ",
           "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "South Korea Vs Nigeria",
-      "eventInfo": {
-        "teamA": "South Korea",
-        "teamB": "Nigeria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6404/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190344/image",
-        "eventName": "FIBA Women's World Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
-        "startTime": "04/09/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ABBBEEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "BEIN FR",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "USA Vs China",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "China",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6410/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6400/image",
-        "eventName": "FIBA Women's World Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
-        "startTime": "04/09/2026 06:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ABBBEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "Arena2 Sport Premium",
-          "stream_url": ""
         }
       ]
     },
@@ -845,94 +861,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Belgium Vs Türkiye",
-      "eventInfo": {
-        "teamA": "Belgium",
-        "teamB": "Türkiye",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/51614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35783/image",
-        "eventName": "FIBA Women's World Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
-        "startTime": "04/09/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN FR",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Spain Vs Germany",
-      "eventInfo": {
-        "teamA": "Spain",
-        "teamB": "Germany",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6409/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/51616/image",
-        "eventName": "FIBA Women's World Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
-        "startTime": "04/09/2026 09:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "VAMOUS",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "BEIN FR",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Abha Vs Al-Ettifaq",
-      "eventInfo": {
-        "teamA": "Abha",
-        "teamB": "Al-Ettifaq",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "04/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Dodoma Jiji FC Vs Mashujaa FC",
-      "eventInfo": {
-        "teamA": "Dodoma Jiji FC",
-        "teamB": "Mashujaa FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/360785/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "04/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM+ HD",
-          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Lusail SC Vs Al-Wakrah",
       "eventInfo": {
@@ -952,7 +880,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Wasl Vs Khor Fakkan",
       "eventInfo": {
@@ -972,7 +900,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hannover 96 Vs Karlsruher SC",
       "eventInfo": {
@@ -998,7 +926,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Arminia Bielefeld Vs FC St. Pauli",
       "eventInfo": {
@@ -1019,7 +947,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "TSG Hoffenheim Vs Bayer Leverkusen",
       "eventInfo": {
@@ -1039,7 +967,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Toulouse Olympique Vs Hull",
       "eventInfo": {
@@ -1059,7 +987,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Olympique Lyonnais Vs Auxerre",
       "eventInfo": {
@@ -1087,7 +1015,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Başakşehir FK Vs Galatasaray",
       "eventInfo": {
@@ -1107,7 +1035,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "AS Port Vs Zamalek SC",
       "eventInfo": {
@@ -1127,7 +1055,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Swehly SC Vs KVZ FC",
       "eventInfo": {
@@ -1147,7 +1075,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Hilal Al Sahil SC Vs Welwalu Adigrat",
       "eventInfo": {
@@ -2042,16 +1970,7 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "startTime": "05/09/2026 04:45:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "HD TV",
-          "stream_url": ""
-        }
-      ]
+      "streams": []
     },
     {
       "status": "UPCOMING",
@@ -4045,6 +3964,78 @@
         {
           "channel_name": "HD SERVER",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "USA Vs China",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6410/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6400/image",
+        "eventName": "FIBA Women's World Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
+        "startTime": "04/09/2026 06:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ABBBEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "Arena2 Sport Premium",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "South Korea Vs Nigeria",
+      "eventInfo": {
+        "teamA": "South Korea",
+        "teamB": "Nigeria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6404/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190344/image",
+        "eventName": "FIBA Women's World Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
+        "startTime": "04/09/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ABBBEEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "BEIN FR",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "TRA United SC Vs Mbeya City FC",
+      "eventInfo": {
+        "teamA": "TRA United SC",
+        "teamB": "Mbeya City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/380759/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/212414/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "04/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM+ HD",
+          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/NHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     }
