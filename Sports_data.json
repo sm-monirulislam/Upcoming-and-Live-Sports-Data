@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:52 PM 04-09-2026",
+  "last_update_time": "01:00:59 PM 04-09-2026",
   "total_matches": 169,
-  "live_match": 2,
+  "live_match": 4,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Premier Padel. Madrid (T2026) Vs Premier Padel. Madrid (T2026)",
+      "eventInfo": {
+        "teamA": "Premier Padel. Madrid (T2026)",
+        "teamB": "Premier Padel. Madrid (T2026)",
+        "teamAFlag": "g",
+        "teamBFlag": "h",
+        "eventName": "Premier Padel. Madrid (T2026)",
+        "event_logo": "c",
+        "startTime": "04/09/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD AR TV",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-6.m3u8"
+        },
+        {
+          "channel_name": "HD AR ",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -155,30 +179,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Premier Padel. Madrid (T2026) Vs Premier Padel. Madrid (T2026)",
-      "eventInfo": {
-        "teamA": "Premier Padel. Madrid (T2026)",
-        "teamB": "Premier Padel. Madrid (T2026)",
-        "teamAFlag": "g",
-        "teamBFlag": "h",
-        "eventName": "Premier Padel. Madrid (T2026)",
-        "event_logo": "c",
-        "startTime": "04/09/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD AR TV",
-          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-6.m3u8"
-        },
-        {
-          "channel_name": "HD AR ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "Hawke's Bay Vs Otago",
       "eventInfo": {
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Gold Coast Titans Vs Dolphins",
       "eventInfo": {
@@ -337,13 +337,27 @@
       },
       "streams": [
         {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         },
         {
-          "channel_name": "Sky Sport 5 NZ",
-          "stream_url": "TNT Sports 4 UK",
-          "drm_key": "TSN2,Fox Sports 2 USA"
+          "channel_name": "TNT4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "SKY5 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
