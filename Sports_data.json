@@ -2,10 +2,31 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:53 PM 05-09-2026",
+  "last_update_time": "03:00:47 PM 05-09-2026",
   "total_matches": 259,
-  "live_match": 13,
+  "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Brisbane Lions Vs GWS Giants",
+      "eventInfo": {
+        "teamA": "Brisbane Lions",
+        "teamB": "GWS Giants",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245151/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "05/09/2026 02:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3 SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Motorsports",
@@ -170,27 +191,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Japan Vs Canada",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Canada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7955/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7949/image",
-        "eventName": "Int. Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
-        "startTime": "05/09/2026 11:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Sydney Swans Vs Brisbane Lions",
       "eventInfo": {
@@ -224,34 +224,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/KSSSTQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Tasman Vs Wellington Lions",
-      "eventInfo": {
-        "teamA": "Tasman",
-        "teamB": "Wellington Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42717/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42716/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "05/09/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
-        },
-        {
-          "channel_name": "Sky2NZ HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/KSSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
@@ -569,27 +541,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Brisbane Lions Vs GWS Giants",
-      "eventInfo": {
-        "teamA": "Brisbane Lions",
-        "teamB": "GWS Giants",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245151/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "05/09/2026 02:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3 SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "EUROPEAN T20 Vs Premier League T20",
       "eventInfo": {
@@ -618,7 +569,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Mali Vs Spain",
       "eventInfo": {
@@ -654,7 +605,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Cronulla Sharks Vs Melbourne Storm",
       "eventInfo": {
@@ -686,7 +637,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Adelaide Crows Vs Western Bulldogs",
       "eventInfo": {
@@ -720,7 +671,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Cycling Vs Cycling",
       "eventInfo": {
@@ -769,7 +720,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Premier Padel Vs Madrid (T2026)",
       "eventInfo": {
@@ -817,7 +768,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hamburger SV Vs RB Leipzig",
       "eventInfo": {
@@ -837,7 +788,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "RCD Espanyol de Barcelona Vs FC Badalona",
       "eventInfo": {
@@ -857,7 +808,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "RCD Espanyol de Barcelona Vs FC Badalona",
       "eventInfo": {
@@ -877,7 +828,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Valencia Vs Madrid CFF",
       "eventInfo": {
@@ -6963,6 +6914,34 @@
     {
       "status": "ENDED",
       "Category": "Rugby",
+      "event_name": "Tasman Vs Wellington Lions",
+      "eventInfo": {
+        "teamA": "Tasman",
+        "teamB": "Wellington Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42717/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42716/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "05/09/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        },
+        {
+          "channel_name": "Sky2NZ HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KSSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
       "event_name": "North Queensland Cowboys Vs Sydney Roosters",
       "eventInfo": {
         "teamA": "North Queensland Cowboys",
@@ -6978,6 +6957,27 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Japan Vs Canada",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Canada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7949/image",
+        "eventName": "Int. Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
+        "startTime": "05/09/2026 11:50:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         }
       ]
     }
