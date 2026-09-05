@@ -2,10 +2,110 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:00:54 AM 05-09-2026",
-  "total_matches": 252,
-  "live_match": 16,
+  "last_update_time": "12:00:56 PM 05-09-2026",
+  "total_matches": 259,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Japan Vs Canada",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Canada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7949/image",
+        "eventName": "Int. Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
+        "startTime": "05/09/2026 11:50:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "North Queensland Cowboys Vs Sydney Roosters",
+      "eventInfo": {
+        "teamA": "North Queensland Cowboys",
+        "teamB": "Sydney Roosters",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/476456/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/411822/image",
+        "eventName": "NRL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
+        "startTime": "05/09/2026 11:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Sydney Swans Vs Brisbane Lions",
+      "eventInfo": {
+        "teamA": "Sydney Swans",
+        "teamB": "Brisbane Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4447/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+        "eventName": "AFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "startTime": "05/09/2026 11:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SKY6 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Tasman Vs Wellington Lions",
+      "eventInfo": {
+        "teamA": "Tasman",
+        "teamB": "Wellington Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42717/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42716/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "05/09/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        },
+        {
+          "channel_name": "Sky2NZ HD",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Rugby",
@@ -86,173 +186,6 @@
           "channel_name": "TNT2 SPORTS HD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Juárez Vs CF Pachuca",
-      "eventInfo": {
-        "teamA": "FC Juárez",
-        "teamB": "CF Pachuca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "05/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/TFFFQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Western Bulldogs Vs Sydney Swans",
-      "eventInfo": {
-        "teamA": "Western Bulldogs",
-        "teamB": "Sydney Swans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245076/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446334/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "05/09/2026 08:35:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "New Zealand Warriors Vs Cronulla Sharks",
-      "eventInfo": {
-        "teamA": "New Zealand Warriors",
-        "teamB": "Cronulla Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1043169/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/476460/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "05/09/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/KSSST.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Seattle Mariners Vs Athletics",
-      "eventInfo": {
-        "teamA": "Seattle Mariners",
-        "teamB": "Athletics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "05/09/2026 08:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLB TV HD",
-          "stream_url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "HD TV",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Los Angeles Dodgers Vs Washington Nationals",
-      "eventInfo": {
-        "teamA": "Los Angeles Dodgers",
-        "teamB": "Washington Nationals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "05/09/2026 08:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLB TV HD",
-          "stream_url": "https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "HD TV ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Bay of Plenty Vs Manawatu",
-      "eventInfo": {
-        "teamA": "Bay of Plenty",
-        "teamB": "Manawatu",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42725/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42722/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "05/09/2026 08:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/KSSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "SKY NZ",
-          "stream_url": ""
         }
       ]
     },
@@ -569,106 +502,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Tasman Vs Wellington Lions",
-      "eventInfo": {
-        "teamA": "Tasman",
-        "teamB": "Wellington Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42717/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42716/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "05/09/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
-        },
-        {
-          "channel_name": "Sky2NZ HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "North Queensland Cowboys Vs Sydney Roosters",
-      "eventInfo": {
-        "teamA": "North Queensland Cowboys",
-        "teamB": "Sydney Roosters",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/476456/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/411822/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "05/09/2026 11:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Sydney Swans Vs Brisbane Lions",
-      "eventInfo": {
-        "teamA": "Sydney Swans",
-        "teamB": "Brisbane Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4447/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-        "eventName": "AFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-        "startTime": "05/09/2026 11:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SKY6 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Japan Vs Canada",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Canada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7955/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7949/image",
-        "eventName": "Int. Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
-        "startTime": "05/09/2026 11:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "Waikato Vs Canterbury",
@@ -842,10 +675,10 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "EUROPEAN T20 Vs Premier League",
+      "event_name": "EUROPEAN T20 Vs Premier League T20",
       "eventInfo": {
         "teamA": "EUROPEAN T20",
-        "teamB": "Premier League",
+        "teamB": "Premier League T20",
         "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
         "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
         "eventName": "EUROPEAN T20 Premier League",
@@ -1089,6 +922,66 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs FC Badalona",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "FC Badalona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "05/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs FC Badalona",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "FC Badalona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "05/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Valencia Vs Madrid CFF",
+      "eventInfo": {
+        "teamA": "Valencia",
+        "teamB": "Madrid CFF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77909/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "05/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Motorsports",
       "event_name": "Formula 1 Vs Formula",
       "eventInfo": {
@@ -1235,8 +1128,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "MATCH PREMIER RUSSIA",
+          "stream_url": ""
         }
       ]
     },
@@ -1415,6 +1308,10 @@
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
         },
         {
+          "channel_name": "SKY MAIN EVENT HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
+        },
+        {
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
@@ -1423,10 +1320,6 @@
           "channel_name": "ESPN4 SPORTS FHD",
           "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
           "drm_key": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4"
-        },
-        {
-          "channel_name": "SKY MAIN EVENT HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
         }
       ]
     },
@@ -1477,6 +1370,10 @@
           "channel_name": "FANCODE FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "SKY6 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8"
         }
       ]
     },
@@ -1568,6 +1465,10 @@
         {
           "channel_name": "LALIGA 1ES",
           "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA HD HYP",
+          "stream_url": ""
         }
       ]
     },
@@ -1586,8 +1487,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "DAZN2 ES DH TV",
+          "stream_url": ""
         }
       ]
     },
@@ -1606,8 +1507,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "ROMÂ",
+          "stream_url": ""
         }
       ]
     },
@@ -1666,13 +1567,13 @@
       },
       "streams": [
         {
+          "channel_name": "DAZN LALIGA IT",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8"
+        },
+        {
           "channel_name": "ESPN3 SPORTS FHD",
           "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
           "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
-        },
-        {
-          "channel_name": "DAZN LALIGA IT",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8"
         },
         {
           "channel_name": "SPORT TV HD",
@@ -1699,8 +1600,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SuperSport PSL",
+          "stream_url": ""
         }
       ]
     },
@@ -1719,8 +1620,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "DAZN IT",
+          "stream_url": ""
         }
       ]
     },
@@ -1742,6 +1643,10 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "CARLOS HD",
+          "stream_url": ""
         }
       ]
     },
@@ -1759,6 +1664,11 @@
         "startTime": "05/09/2026 07:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
         {
           "channel_name": "FOX SOCCER ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8"
@@ -1820,8 +1730,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "MATCH PREMIER RUSSIA",
+          "stream_url": ""
         }
       ]
     },
@@ -1945,8 +1855,9 @@
       },
       "streams": [
         {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+          "channel_name": "AD1 SPORTS FHD",
+          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+          "drm_key": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
         }
       ]
     },
@@ -1965,8 +1876,37 @@
       },
       "streams": [
         {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+          "channel_name": "AD Sports 2 FHD",
+          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd",
+          "drm_key": "386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Premier League Vs Premier League",
+      "eventInfo": {
+        "teamA": "Premier League",
+        "teamB": "Premier League",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "05/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY8 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
+        },
+        {
+          "channel_name": "HUB PREMIER",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SKY8 NZ HD",
+          "stream_url": ""
         }
       ]
     },
@@ -1984,6 +1924,23 @@
         "startTime": "05/09/2026 08:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "ESPN1 SPORTS FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "DAZN1 ES HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8"
+        },
+        {
+          "channel_name": "USA NETWROK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8"
+        },
+        {
+          "channel_name": "ARABIC HD ",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8"
+        },
         {
           "channel_name": "BEIN SPORTS USA",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
@@ -2009,6 +1966,14 @@
       },
       "streams": [
         {
+          "channel_name": "SKY7 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
+        },
+        {
+          "channel_name": "ARABIC HD ",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-4.m3u8"
+        },
+        {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
         }
@@ -2029,13 +1994,21 @@
       },
       "streams": [
         {
-          "channel_name": "ESPN4 SPORTS FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
-          "drm_key": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4"
+          "channel_name": "SKY NZ SELECT HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
+        },
+        {
+          "channel_name": "ARABIC HD ",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-5.m3u8"
         },
         {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN4 SPORTS FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
+          "drm_key": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4"
         }
       ]
     },
@@ -2053,6 +2026,14 @@
         "startTime": "05/09/2026 08:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SKY6 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8"
+        },
+        {
+          "channel_name": "ARABIC HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-2.m3u8"
+        },
         {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
@@ -2076,6 +2057,10 @@
         {
           "channel_name": "SKY9 NZ HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
+        },
+        {
+          "channel_name": "ARABIC HD ",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-3.m3u8"
         },
         {
           "channel_name": "XTREME+ FHD",
@@ -2249,8 +2234,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "BEIN2 TR HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8"
         }
       ]
     },
@@ -2586,6 +2571,10 @@
         {
           "channel_name": "LALIGA 1ES",
           "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA HD HYP",
+          "stream_url": ""
         }
       ]
     },
@@ -2624,7 +2613,16 @@
       },
       "streams": [
         {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
           "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN2 NL",
           "stream_url": ""
         }
       ]
@@ -2644,8 +2642,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "ROMÂ",
+          "stream_url": ""
         }
       ]
     },
@@ -2753,8 +2751,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "DAZN IT",
+          "stream_url": ""
         }
       ]
     },
@@ -2813,8 +2811,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "Thmanyah3 FHD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8"
         }
       ]
     },
@@ -2833,8 +2831,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "Thmanyah2 FHD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8"
         }
       ]
     },
@@ -2901,8 +2899,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "MATCH PREMIER RUSSIA",
+          "stream_url": ""
         }
       ]
     },
@@ -2937,6 +2935,10 @@
         {
           "channel_name": "DAZN LALIGA IT",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8"
+        },
+        {
+          "channel_name": "DAZN2 DE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
         }
       ]
     },
@@ -2957,6 +2959,14 @@
         {
           "channel_name": "UNIVERSO HD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN MX HD2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN MX HD3",
+          "stream_url": ""
         }
       ]
     },
@@ -2974,6 +2984,11 @@
         "startTime": "05/09/2026 10:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
         {
           "channel_name": "FOX SOCCER",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8"
@@ -3024,6 +3039,27 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Shabab Al-Ahli Dubai Vs Al-Jazira",
+      "eventInfo": {
+        "teamA": "Shabab Al-Ahli Dubai",
+        "teamB": "Al-Jazira",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+        "eventName": "UAE Pro League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
+        "startTime": "05/09/2026 10:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "AD1 SPORTS FHD",
+          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+          "drm_key": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Real Valladolid Vs FC Andorra",
       "eventInfo": {
         "teamA": "Real Valladolid",
@@ -3036,8 +3072,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LALIGA HD HYP",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA 1ES",
+          "stream_url": ""
         }
       ]
     },
@@ -3056,8 +3096,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LALIGA 2ES",
+          "stream_url": ""
         }
       ]
     },
@@ -3093,6 +3133,10 @@
         {
           "channel_name": "ESPN DEPORTES ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "beiN ARABIC HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-2.m3u8"
         }
       ]
     },
@@ -3121,6 +3165,18 @@
         {
           "channel_name": "SKY MAIN EVENT HD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
+        },
+        {
+          "channel_name": "SKY8 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
+        },
+        {
+          "channel_name": "DAZN1 ES HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8"
+        },
+        {
+          "channel_name": "beiN ARABIC HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8"
         }
       ]
     },
@@ -3155,6 +3211,10 @@
         {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "SKY FOOTBALL HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
         }
       ]
     },
@@ -3203,6 +3263,10 @@
         {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN3 NL",
+          "stream_url": ""
         }
       ]
     },
@@ -3224,6 +3288,14 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "beIN1  TR HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
+        },
+        {
+          "channel_name": "SPORTS2 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
         },
         {
           "channel_name": "BEIN SPORTS USA",
@@ -3308,8 +3380,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "DAZN IT",
+          "stream_url": ""
         }
       ]
     },
@@ -3356,8 +3428,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "ROMÂ",
+          "stream_url": ""
         }
       ]
     },
@@ -3382,6 +3454,10 @@
         {
           "channel_name": "SPORTS2 TV HD",
           "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
+        },
+        {
+          "channel_name": "Thmanyah1 FHD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah1.m3u8"
         },
         {
           "channel_name": "SPORTS4 TV HD",
@@ -3415,6 +3491,11 @@
         "startTime": "06/09/2026 12:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
         {
           "channel_name": "XTREME+ FHD",
           "stream_url": ""
@@ -3486,6 +3567,62 @@
       "streams": [
         {
           "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sevilla FC Vs Fútbol Club Barcelona",
+      "eventInfo": {
+        "teamA": "Sevilla FC",
+        "teamB": "Fútbol Club Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77903/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "06/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
+        {
+          "channel_name": "DAZN2 ES DH TV",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DAZN2 ES DH",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sevilla FC Vs Fútbol Club Barcelona",
+      "eventInfo": {
+        "teamA": "Sevilla FC",
+        "teamB": "Fútbol Club Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77903/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "06/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
+        {
+          "channel_name": "DAZN2 ES DH TV",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DAZN2 ES DH",
           "stream_url": ""
         }
       ]
@@ -3798,6 +3935,10 @@
       "streams": [
         {
           "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN2 NL",
           "stream_url": ""
         }
       ]
@@ -5584,6 +5725,10 @@
         {
           "channel_name": "LALIGA 1ES",
           "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA HD HYP",
+          "stream_url": ""
         }
       ]
     },
@@ -6634,6 +6779,173 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.50/hls/TFFFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Bay of Plenty Vs Manawatu",
+      "eventInfo": {
+        "teamA": "Bay of Plenty",
+        "teamB": "Manawatu",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42725/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42722/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "05/09/2026 08:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KSSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "SKY NZ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Seattle Mariners Vs Athletics",
+      "eventInfo": {
+        "teamA": "Seattle Mariners",
+        "teamB": "Athletics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "05/09/2026 08:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLB TV HD",
+          "stream_url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+        },
+        {
+          "channel_name": "HD TV",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Los Angeles Dodgers Vs Washington Nationals",
+      "eventInfo": {
+        "teamA": "Los Angeles Dodgers",
+        "teamB": "Washington Nationals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "05/09/2026 08:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLB TV HD",
+          "stream_url": "https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+        },
+        {
+          "channel_name": "HD TV ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "New Zealand Warriors Vs Cronulla Sharks",
+      "eventInfo": {
+        "teamA": "New Zealand Warriors",
+        "teamB": "Cronulla Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1043169/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/476460/image",
+        "eventName": "NRL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
+        "startTime": "05/09/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KSSST.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
+      "event_name": "Western Bulldogs Vs Sydney Swans",
+      "eventInfo": {
+        "teamA": "Western Bulldogs",
+        "teamB": "Sydney Swans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245076/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446334/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "05/09/2026 08:35:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Juárez Vs CF Pachuca",
+      "eventInfo": {
+        "teamA": "FC Juárez",
+        "teamB": "CF Pachuca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "05/09/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/TFFFQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     }
