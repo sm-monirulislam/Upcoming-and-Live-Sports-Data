@@ -2,10 +2,69 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:00:59 AM 06-09-2026",
+  "last_update_time": "12:00:43 PM 06-09-2026",
   "total_matches": 220,
-  "live_match": 12,
+  "live_match": 13,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Carlton Blues Vs Collingwood Magpies",
+      "eventInfo": {
+        "teamA": "Carlton Blues",
+        "teamB": "Collingwood Magpies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245028/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245027/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "06/09/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SKY9 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "North Harbour Vs Northland",
+      "eventInfo": {
+        "teamA": "North Harbour",
+        "teamB": "Northland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "06/09/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + LIVE",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/dddddv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Aussie rules",
@@ -111,43 +170,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlas FC Vs Atlante FC",
-      "eventInfo": {
-        "teamA": "Atlas FC",
-        "teamB": "Atlante FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1949/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "06/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL5 MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/idddaaaAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN MX",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Richmond Tigers Vs Fremantle Dockers",
       "eventInfo": {
@@ -168,30 +190,6 @@
         {
           "channel_name": "FOX SOCCER HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Counties Manukau Vs Southland",
-      "eventInfo": {
-        "teamA": "Counties Manukau",
-        "teamB": "Southland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42724/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42719/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "06/09/2026 08:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/dddddv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
         }
       ]
     },
@@ -519,65 +517,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Carlton Blues Vs Collingwood Magpies",
-      "eventInfo": {
-        "teamA": "Carlton Blues",
-        "teamB": "Collingwood Magpies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245028/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245027/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "06/09/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SKY9 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "North Harbour Vs Northland",
-      "eventInfo": {
-        "teamA": "North Harbour",
-        "teamB": "Northland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "06/09/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/dddddv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "Penrith Panthers Vs Wests Tigers",
       "eventInfo": {
@@ -605,7 +544,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "Formula 2, 3 Vs Formula EVENTO",
       "eventInfo": {
@@ -639,7 +578,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Premier Padel Vs Madrid (T2026)",
       "eventInfo": {
@@ -3463,6 +3402,10 @@
         {
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -3587,6 +3530,10 @@
         {
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -3873,6 +3820,10 @@
         {
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -4071,6 +4022,10 @@
         {
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -4091,6 +4046,10 @@
         {
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -4272,6 +4231,10 @@
         {
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -4648,6 +4611,10 @@
         },
         {
           "channel_name": "MLB TV THD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME FHD",
           "stream_url": ""
         }
       ]
@@ -5902,6 +5869,30 @@
     },
     {
       "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Counties Manukau Vs Southland",
+      "eventInfo": {
+        "teamA": "Counties Manukau",
+        "teamB": "Southland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42724/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42719/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "06/09/2026 08:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/dddddv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Vancouver Whitecaps Vs St.Louis City",
       "eventInfo": {
@@ -5973,6 +5964,43 @@
         },
         {
           "channel_name": "SD TV QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlas FC Vs Atlante FC",
+      "eventInfo": {
+        "teamA": "Atlas FC",
+        "teamB": "Atlante FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1949/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1943/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "06/09/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL5 MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/idddaaaAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN MX",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US",
           "stream_url": ""
         }
       ]
