@@ -2,10 +2,107 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:01 PM 08-09-2026",
+  "last_update_time": "07:01:02 PM 08-09-2026",
   "total_matches": 94,
-  "live_match": 5,
+  "live_match": 8,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brazil U20 Vs Canada U20",
+      "eventInfo": {
+        "teamA": "Brazil U20",
+        "teamB": "Canada U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/43216/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48990/image",
+        "eventName": "U-20 Women's World Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
+        "startTime": "08/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Benin U20 Vs Argentina U20",
+      "eventInfo": {
+        "teamA": "Benin U20",
+        "teamB": "Argentina U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/395974/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48992/image",
+        "eventName": "U-20 Women's World Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
+        "startTime": "08/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mashujaa FC Vs Singida Black Stars SC",
+      "eventInfo": {
+        "teamA": "Mashujaa FC",
+        "teamB": "Singida Black Stars SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/376323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/353799/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "08/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + LIVE ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Brugge U19 Vs Aston Villa U19",
+      "eventInfo": {
+        "teamA": "Club Brugge U19",
+        "teamB": "Aston Villa U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/231976/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/90122/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "08/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GTTTAdd.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -32,35 +129,6 @@
         {
           "channel_name": "MUTV SPORTS HD 3",
           "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "AEK Athens U19 Vs LASK Linz U19",
-      "eventInfo": {
-        "teamA": "AEK Athens U19",
-        "teamB": "LASK Linz U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/297065/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "08/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/GTTTA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "GREECE",
-          "stream_url": ""
         }
       ]
     },
@@ -400,103 +468,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Brugge U19 Vs Aston Villa U19",
-      "eventInfo": {
-        "teamA": "Club Brugge U19",
-        "teamB": "Aston Villa U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/231976/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "08/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/GTTTAdd.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brazil U20 Vs Canada U20",
-      "eventInfo": {
-        "teamA": "Brazil U20",
-        "teamB": "Canada U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/43216/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/48990/image",
-        "eventName": "U-20 Women's World Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
-        "startTime": "08/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Benin U20 Vs Argentina U20",
-      "eventInfo": {
-        "teamA": "Benin U20",
-        "teamB": "Argentina U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/395974/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/48992/image",
-        "eventName": "U-20 Women's World Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
-        "startTime": "08/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mashujaa FC Vs Singida Black Stars SC",
-      "eventInfo": {
-        "teamA": "Mashujaa FC",
-        "teamB": "Singida Black Stars SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/376323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/353799/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "08/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Real Madrid U19 Vs Inter U19",
       "eventInfo": {
@@ -3091,6 +3062,35 @@
         },
         {
           "channel_name": "HD TV 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "AEK Athens U19 Vs LASK Linz U19",
+      "eventInfo": {
+        "teamA": "AEK Athens U19",
+        "teamB": "LASK Linz U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/297065/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "08/09/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GTTTA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "GREECE",
           "stream_url": ""
         }
       ]
