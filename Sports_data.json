@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:41 PM 08-09-2026",
-  "total_matches": 96,
-  "live_match": 3,
+  "last_update_time": "04:00:42 PM 08-09-2026",
+  "total_matches": 94,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -22,6 +22,15 @@
       "streams": [
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GTTTA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "GREECE",
           "stream_url": ""
         }
       ]
@@ -361,7 +370,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Porto U19 Vs Manchester City U19",
       "eventInfo": {
@@ -375,8 +384,17 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GTTTAd.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "MUTV SPORTS HD 2",
+          "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd"
+        },
+        {
+          "channel_name": "MUTV SPORTS HD 3",
+          "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
         }
       ]
     },
@@ -400,6 +418,11 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f3df7843080ae743bf865dc5fdf64c68",
           "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GTTTAdd.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -422,6 +445,13 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "kid": "09453ce820d65fbc675de3185f9e454c",
           "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
         }
       ]
     },
@@ -442,26 +472,6 @@
         {
           "channel_name": "FOX SOCCER HD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Lille U19 Vs Real Betis U19",
-      "eventInfo": {
-        "teamA": "Lille U19",
-        "teamB": "Real Betis U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296213/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/275789/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "08/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -506,26 +516,11 @@
         {
           "channel_name": "REAL MADRID TV - ES",
           "stream_url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Borussia Dortmund U19 Vs Villarreal U19",
-      "eventInfo": {
-        "teamA": "Borussia Dortmund U19",
-        "teamB": "Villarreal U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/43719/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/206355/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "08/09/2026 08:00:00 PM"
-      },
-      "streams": [
+        },
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SKY SPORT ",
+          "stream_url": "https://dlstreams.st/stream/stream-559.php",
+          "referer": "https://dlhd.st/"
         }
       ]
     },
@@ -544,8 +539,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW2 HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
         }
       ]
     },
@@ -564,8 +563,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TAMANYA ",
+          "stream_url": ""
         }
       ]
     },
@@ -584,8 +583,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TAMANYA ",
+          "stream_url": ""
         }
       ]
     },
@@ -628,6 +627,13 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "kid": "09453ce820d65fbc675de3185f9e454c",
           "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
+          "key": "0c5e6c0820a1ea28753721db00272411"
         }
       ]
     },
@@ -647,6 +653,10 @@
       "streams": [
         {
           "channel_name": "FOX SOCCER HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ARABIC HD ",
           "stream_url": ""
         }
       ]
@@ -720,8 +730,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "ESPN1 NL",
+          "stream_url": ""
         }
       ]
     },
