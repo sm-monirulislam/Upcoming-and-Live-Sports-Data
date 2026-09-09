@@ -2,10 +2,40 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:01:31 PM 09-09-2026",
+  "last_update_time": "02:01:19 PM 09-09-2026",
   "total_matches": 142,
   "live_match": 3,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Namibia Vs South Africa",
+      "eventInfo": {
+        "teamA": "Namibia",
+        "teamB": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "09/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW2 HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -345,36 +375,6 @@
         {
           "channel_name": "STREAM ",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Namibia Vs South Africa",
-      "eventInfo": {
-        "teamA": "Namibia",
-        "teamB": "South Africa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "09/09/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW2 HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
