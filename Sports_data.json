@@ -2,10 +2,61 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:01:11 PM 09-09-2026",
+  "last_update_time": "04:01:35 PM 09-09-2026",
   "total_matches": 142,
   "live_match": 5,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "England Vs Pakistan",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Pakistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "eventName": "ICC World Test Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "startTime": "09/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sydney FC Vs Melbourne Victory",
+      "eventInfo": {
+        "teamA": "Sydney FC",
+        "teamB": "Melbourne Victory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "eventName": "Australia Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1786/image/dark",
+        "startTime": "09/09/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + LIVE ",
+          "stream_url": "http://193.47.62.41/hls/DDDDA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DDDDA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "TV QUICK ",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -20,14 +71,6 @@
         "startTime": "09/09/2026 01:30:00 PM"
       },
       "streams": [
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW2 HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
         {
           "channel_name": "WILLOW SPORTS",
           "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
@@ -375,47 +418,6 @@
         {
           "channel_name": "STREAM ",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sydney FC Vs Melbourne Victory",
-      "eventInfo": {
-        "teamA": "Sydney FC",
-        "teamB": "Melbourne Victory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5971/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "eventName": "Australia Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1786/image/dark",
-        "startTime": "09/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "England Vs Pakistan",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Pakistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "eventName": "ICC World Test Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "09/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
         }
       ]
     },
