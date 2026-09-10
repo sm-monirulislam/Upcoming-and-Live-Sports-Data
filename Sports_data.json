@@ -2,10 +2,30 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:00:55 PM 10-09-2026",
+  "last_update_time": "02:00:48 PM 10-09-2026",
   "total_matches": 120,
-  "live_match": 4,
+  "live_match": 5,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Manawatu Vs Taranaki",
+      "eventInfo": {
+        "teamA": "Manawatu",
+        "teamB": "Taranaki",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42722/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42718/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "10/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -561,26 +581,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Manawatu Vs Taranaki",
-      "eventInfo": {
-        "teamA": "Manawatu",
-        "teamB": "Taranaki",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42722/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42718/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "10/09/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
