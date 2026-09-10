@@ -2,10 +2,56 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:01:05 PM 10-09-2026",
+  "last_update_time": "04:01:01 PM 10-09-2026",
   "total_matches": 120,
   "live_match": 7,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Sydney Roosters Vs Canterbury Bulldogs",
+      "eventInfo": {
+        "teamA": "Sydney Roosters",
+        "teamB": "Canterbury Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/411822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1043168/image",
+        "eventName": "NRL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
+        "startTime": "10/09/2026 03:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "USA Vs Hungary",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Hungary",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6410/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35781/image",
+        "eventName": "FIBA Women's World Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
+        "startTime": "10/09/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FR HD",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -627,52 +673,6 @@
         {
           "channel_name": "STREAM TV + LIVE ",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "USA Vs Hungary",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Hungary",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6410/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35781/image",
-        "eventName": "FIBA Women's World Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
-        "startTime": "10/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FR HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Sydney Roosters Vs Canterbury Bulldogs",
-      "eventInfo": {
-        "teamA": "Sydney Roosters",
-        "teamB": "Canterbury Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/411822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1043168/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "10/09/2026 03:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
         }
       ]
     },
