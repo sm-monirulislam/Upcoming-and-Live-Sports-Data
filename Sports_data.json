@@ -2,10 +2,59 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:23 AM 11-09-2026",
+  "last_update_time": "05:01:13 AM 11-09-2026",
   "total_matches": 137,
-  "live_match": 8,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Volleyball",
+      "event_name": "Brazil Vs Colombia",
+      "eventInfo": {
+        "teamA": "Brazil",
+        "teamB": "Colombia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/103101/image",
+        "eventName": "South American Championship, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37310/image/dark",
+        "startTime": "11/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "kid": "9009b7189e3e68cc09d17811f2beb55a",
+          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Barbados Tridents Vs St Kitts and Nevis Patriots",
+      "eventInfo": {
+        "teamA": "Barbados Tridents",
+        "teamB": "St Kitts and Nevis Patriots",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187795/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/193209/image",
+        "eventName": "Caribbean Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+        "startTime": "11/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Baseball",
@@ -32,60 +81,6 @@
         },
         {
           "channel_name": "SD TV",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Volleyball",
-      "event_name": "Venezuela Vs Peru",
-      "eventInfo": {
-        "teamA": "Venezuela",
-        "teamB": "Peru",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23638/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6718/image",
-        "eventName": "South American Championship, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37310/image/dark",
-        "startTime": "11/09/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "kid": "9009b7189e3e68cc09d17811f2beb55a",
-          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "GOLAZO SHOW Vs GOLAZO SHOW",
-      "eventInfo": {
-        "teamA": "GOLAZO SHOW",
-        "teamB": "GOLAZO SHOW",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "eventName": "UEFA Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "startTime": "11/09/2026 12:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN2 DE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
-        },
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD TV",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -674,55 +669,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Volleyball",
-      "event_name": "Brazil Vs Colombia",
-      "eventInfo": {
-        "teamA": "Brazil",
-        "teamB": "Colombia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/103101/image",
-        "eventName": "South American Championship, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37310/image/dark",
-        "startTime": "11/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "kid": "9009b7189e3e68cc09d17811f2beb55a",
-          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Barbados Tridents Vs St Kitts and Nevis Patriots",
-      "eventInfo": {
-        "teamA": "Barbados Tridents",
-        "teamB": "St Kitts and Nevis Patriots",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187795/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/193209/image",
-        "eventName": "Caribbean Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
-        "startTime": "11/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "New York Yankees Vs Colorado Rockies",
       "eventInfo": {
@@ -752,7 +698,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Chicago White Sox Vs Pittsburgh Pirates",
       "eventInfo": {
@@ -789,7 +735,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "TNA iMPACT Vs TNA iMPACT",
       "eventInfo": {
@@ -817,7 +763,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Miami Hurricanes Vs Florida A&M Rattlers",
       "eventInfo": {
@@ -3928,6 +3874,38 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "GOLAZO SHOW Vs GOLAZO SHOW",
+      "eventInfo": {
+        "teamA": "GOLAZO SHOW",
+        "teamB": "GOLAZO SHOW",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "eventName": "UEFA Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "startTime": "11/09/2026 12:50:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN2 DE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD TV",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "FC Bayern München Vs Bodø/Glimt",
       "eventInfo": {
         "teamA": "FC Bayern München",
@@ -4166,6 +4144,28 @@
         {
           "channel_name": "BEIN SPORTS USA",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Volleyball",
+      "event_name": "Venezuela Vs Peru",
+      "eventInfo": {
+        "teamA": "Venezuela",
+        "teamB": "Peru",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23638/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6718/image",
+        "eventName": "South American Championship, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37310/image/dark",
+        "startTime": "11/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "kid": "9009b7189e3e68cc09d17811f2beb55a",
+          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
         }
       ]
     }
