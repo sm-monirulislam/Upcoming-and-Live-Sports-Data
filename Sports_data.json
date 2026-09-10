@@ -2,10 +2,64 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:01 PM 10-09-2026",
+  "last_update_time": "05:01:07 PM 10-09-2026",
   "total_matches": 120,
-  "live_match": 7,
+  "live_match": 8,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "England Vs Pakistan",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Pakistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "eventName": "ICC World Test Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "startTime": "10/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kuqdfxtlty/out/v1/6159375de7de4fee9f81b7a9bc8cc61c/cenc.mpd",
+          "kid": "bb0ec9d372efb70167bf3db05c963393",
+          "key": "bd54e2afc4ece7d3853080cd601ea0ad"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd",
+          "kid": "bb0ec9d372efb70167bf3db05c963393",
+          "key": "bd54e2afc4ece7d3853080cd601ea0ad"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        },
+        {
+          "channel_name": "Sonyliv",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789069831~acl=/*~id=19927657169765548910464109461033~hmac=77d66150a6c4232949488650dcc1c86557054f4f8843c69f7deca967b4b1aa7f"
+        },
+        {
+          "channel_name": "Tapmad WW",
+          "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://tapmad.com/"
+        },
+        {
+          "channel_name": "Cricbuzz HD",
+          "stream_url": "https://criccoder.pages.dev/astro.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - PK",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Rugby",
@@ -100,26 +154,6 @@
         {
           "channel_name": "CHANNEL UK",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Manawatu Vs Taranaki",
-      "eventInfo": {
-        "teamA": "Manawatu",
-        "teamB": "Taranaki",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42722/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42718/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "10/09/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         }
       ]
     },
@@ -677,7 +711,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
@@ -2819,43 +2853,6 @@
     {
       "status": "ENDED",
       "Category": "Cricket",
-      "event_name": "England Vs Pakistan",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Pakistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "eventName": "ICC World Test Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "09/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd",
-          "kid": "690201218ff23b214db738b4f9dbd0e5",
-          "key": "3cc4af4885d71ac3cf41ed1de010156e"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd",
-          "kid": "690201218ff23b214db738b4f9dbd0e5",
-          "key": "3cc4af4885d71ac3cf41ed1de010156e"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
       "event_name": "EUROPEAN T20 Vs Premier League T20",
       "eventInfo": {
         "teamA": "EUROPEAN T20",
@@ -3643,6 +3640,26 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Manawatu Vs Taranaki",
+      "eventInfo": {
+        "teamA": "Manawatu",
+        "teamB": "Taranaki",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42722/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42718/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "10/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         }
       ]
     }
