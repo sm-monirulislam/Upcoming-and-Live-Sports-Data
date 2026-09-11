@@ -2,10 +2,39 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:01:27 AM 11-09-2026",
+  "last_update_time": "08:01:20 AM 11-09-2026",
   "total_matches": 187,
-  "live_match": 15,
+  "live_match": 13,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CD Marathon Vs LD Alajuelense",
+      "eventInfo": {
+        "teamA": "CD Marathon",
+        "teamB": "LD Alajuelense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25355/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6572/image",
+        "eventName": "CONCACAF Central American Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark",
+        "startTime": "11/09/2026 07:06:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.46/hls/CACACAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -399,28 +428,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Volleyball",
-      "event_name": "Brazil Vs Colombia",
-      "eventInfo": {
-        "teamA": "Brazil",
-        "teamB": "Colombia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/103101/image",
-        "eventName": "South American Championship, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37310/image/dark",
-        "startTime": "11/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "kid": "9009b7189e3e68cc09d17811f2beb55a",
-          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Barbados Tridents Vs St Kitts and Nevis Patriots",
       "eventInfo": {
@@ -456,32 +463,6 @@
         {
           "channel_name": "FOX CRICKET HD",
           "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Salcedo FC Vs Cibao FC",
-      "eventInfo": {
-        "teamA": "Salcedo FC",
-        "teamB": "Cibao FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/511055/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/229208/image",
-        "eventName": "CONCACAF Caribbean Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20931/image/dark",
-        "startTime": "11/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "http://193.47.62.43/hls/FJJJ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.43/hls/FJJJ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1344,35 +1325,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Marathon Vs LD Alajuelense",
-      "eventInfo": {
-        "teamA": "CD Marathon",
-        "teamB": "LD Alajuelense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25355/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6572/image",
-        "eventName": "CONCACAF Central American Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark",
-        "startTime": "11/09/2026 07:06:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.46/hls/CACACAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -4968,6 +4920,54 @@
         {
           "channel_name": "TV4 MOTOR",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Volleyball",
+      "event_name": "Brazil Vs Colombia",
+      "eventInfo": {
+        "teamA": "Brazil",
+        "teamB": "Colombia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/103101/image",
+        "eventName": "South American Championship, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37310/image/dark",
+        "startTime": "11/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "kid": "9009b7189e3e68cc09d17811f2beb55a",
+          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Salcedo FC Vs Cibao FC",
+      "eventInfo": {
+        "teamA": "Salcedo FC",
+        "teamB": "Cibao FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/511055/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/229208/image",
+        "eventName": "CONCACAF Caribbean Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20931/image/dark",
+        "startTime": "11/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + LIVE ",
+          "stream_url": "http://193.47.62.43/hls/FJJJ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.43/hls/FJJJ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     }
