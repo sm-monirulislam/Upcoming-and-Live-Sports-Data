@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:02:05 AM 14-09-2026",
+  "last_update_time": "02:01:25 AM 14-09-2026",
   "total_matches": 146,
-  "live_match": 59,
+  "live_match": 57,
   "matches": [
     {
       "status": "LIVE",
@@ -1178,6 +1178,38 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Argentinos Juniors Vs Gimnasia y Esgrima",
+      "eventInfo": {
+        "teamA": "Argentinos Juniors",
+        "teamB": "Gimnasia y Esgrima",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3216/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "14/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1963/index.m3u8"
+        },
+        {
+          "channel_name": "TNT AR HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR HD2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR HD3",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Tigre Vs Rosario Central",
       "eventInfo": {
         "teamA": "Tigre",
@@ -1244,46 +1276,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "FC Arouca Vs Santa Clara",
+      "event_name": "Famalicão Vs Sporting CP",
       "eventInfo": {
-        "teamA": "FC Arouca",
-        "teamB": "Santa Clara",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
+        "teamA": "Famalicão",
+        "teamB": "Sporting CP",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
         "eventName": "Liga Portugal Betclic",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "13/09/2026 11:00:00 PM"
+        "startTime": "14/09/2026 01:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "SPORTS2 TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/5523/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/zhhhQQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Benfica Vs Gil Vicente",
-      "eventInfo": {
-        "teamA": "Benfica",
-        "teamB": "Gil Vicente",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "13/09/2026 11:00:00 PM"
-      },
-      "streams": [
         {
           "channel_name": "D SPORTS FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
@@ -1292,22 +1301,19 @@
           "key": "ea07b87acdf2e45be824cde4a1cf3504"
         },
         {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/zhhhQQQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "SPORT TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
         },
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/6687/index.m3u8"
         },
         {
-          "channel_name": "BENFICA HD",
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1348,35 +1354,6 @@
         {
           "channel_name": "HD QUICK 4",
           "stream_url": "https://www.rtmpcdn.com/live/d4b66bb5-a4f0-42d3-959a-dfd87d39e8a5.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Corvinul Hunedoara Vs Universitatea Craiova",
-      "eventInfo": {
-        "teamA": "FC Corvinul Hunedoara",
-        "teamB": "Universitatea Craiova",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/148278/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "13/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1602/index.m3u8"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/AJKKKAAAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1432,31 +1409,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/TATATAAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "RAAL La Louvière Vs KV Kortrijk",
-      "eventInfo": {
-        "teamA": "RAAL La Louvière",
-        "teamB": "KV Kortrijk",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/368506/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4858/image",
-        "eventName": "Pro League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
-        "startTime": "13/09/2026 11:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/AJKKKAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         },
         {
@@ -1804,48 +1756,6 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Detroit Tigers Vs Colorado Rockies",
-      "eventInfo": {
-        "teamA": "Detroit Tigers",
-        "teamB": "Colorado Rockies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "13/09/2026 10:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY MLB ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56412/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream4.pro/hls/dazhfiach15.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "Home Feed",
-          "stream_url": "https://dlhd.net/MLBTVCOL/B0010/master.m3u8",
-          "referer": "https://xyzstreams.st/"
-        },
-        {
-          "channel_name": "Away Feed",
-          "stream_url": "https://dlhd.net/MLBTVDET/B0011/master.m3u8",
-          "referer": "https://xyzstreams.st/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/nn77QQQAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
       "event_name": "New York Yankees Vs New York Mets",
       "eventInfo": {
         "teamA": "New York Yankees",
@@ -2026,47 +1936,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Aston Villa Vs Manchester City",
-      "eventInfo": {
-        "teamA": "Aston Villa",
-        "teamB": "Manchester City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/266375/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "13/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "SKY NZ SELECT HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
-        },
-        {
-          "channel_name": "SKY FOOTBALL HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/9900/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/AJKKKAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "AE Kifisia Vs APO Levadiakos",
       "eventInfo": {
         "teamA": "AE Kifisia",
@@ -2177,39 +2046,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Galatasaray Vs Kocaelispor",
-      "eventInfo": {
-        "teamA": "Galatasaray",
-        "teamB": "Kocaelispor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "13/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN1  TR HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
-        },
-        {
-          "channel_name": "SPORT6 TV HD ",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv6.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1745/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/TOOOAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "USA Vs France",
       "eventInfo": {
@@ -2236,88 +2072,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Washington Spirit Vs Boston Legacy FC",
-      "eventInfo": {
-        "teamA": "Washington Spirit",
-        "teamB": "Boston Legacy FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/151012/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165118/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "13/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "85b277daf5aae05833fe43a68f587968",
-          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/zhhh.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "SD Eibar Vs FC Badalona",
-      "eventInfo": {
-        "teamA": "SD Eibar",
-        "teamB": "FC Badalona",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/362904/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77893/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "13/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/AJKKKAAAAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Amed Sportif Faaliyetler Vs Başakşehir FK",
-      "eventInfo": {
-        "teamA": "Amed Sportif Faaliyetler",
-        "teamB": "Başakşehir FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/207011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "13/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN2 TR HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1855/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/TOOOA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Tennis",
       "event_name": "Alexander Zverev Vs Ben Shelton",
       "eventInfo": {
@@ -2335,32 +2089,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "kid": "abc5b2883121012850ebda05b528c5ec",
           "key": "e5250924f4b738905f7163a0134587a7"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Pyramids FC Vs Gor Mahia FC",
-      "eventInfo": {
-        "teamA": "Pyramids FC",
-        "teamB": "Gor Mahia FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/175002/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134306/image",
-        "eventName": "CAF Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-        "startTime": "13/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "http://193.47.62.41/hls/Y444AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/Y444AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -2744,7 +2472,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Las Vegas Raiders Vs Miami Dolphins",
       "eventInfo": {
@@ -2841,7 +2569,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Los Angeles Chargers Vs Arizona Cardinals",
       "eventInfo": {
@@ -2883,7 +2611,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Minnesota Vikings Vs Green Bay Packers",
       "eventInfo": {
@@ -2929,7 +2657,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Philadelphia Eagles Vs Washington Commanders",
       "eventInfo": {
@@ -3029,7 +2757,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Atlético Grau Vs Alianza Atlético de Sullana",
       "eventInfo": {
@@ -3122,83 +2850,6 @@
         },
         {
           "channel_name": "ESPN PRM HD 3",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Argentinos Juniors Vs Gimnasia y Esgrima",
-      "eventInfo": {
-        "teamA": "Argentinos Juniors",
-        "teamB": "Gimnasia y Esgrima",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3216/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3205/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "14/09/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1963/index.m3u8"
-        },
-        {
-          "channel_name": "TNT AR HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT AR HD2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT AR HD3",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Famalicão Vs Sporting CP",
-      "eventInfo": {
-        "teamA": "Famalicão",
-        "teamB": "Sporting CP",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "14/09/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "D SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "key": "ea07b87acdf2e45be824cde4a1cf3504"
-        },
-        {
-          "channel_name": "SPORT TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/6687/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -3396,7 +3047,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Arizona Diamondbacks Vs Texas Rangers",
       "eventInfo": {
@@ -3460,7 +3111,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Athletics Vs Seattle Mariners",
       "eventInfo": {
@@ -3492,7 +3143,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Flamengo Vs Corinthians",
       "eventInfo": {
@@ -3538,7 +3189,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Colo-Colo Vs Deportes Concepción",
       "eventInfo": {
@@ -4874,6 +4525,77 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "FC Arouca Vs Santa Clara",
+      "eventInfo": {
+        "teamA": "FC Arouca",
+        "teamB": "Santa Clara",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "13/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTS2 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/5523/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/zhhhQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Benfica Vs Gil Vicente",
+      "eventInfo": {
+        "teamA": "Benfica",
+        "teamB": "Gil Vicente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "13/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/zhhhQQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/6687/index.m3u8"
+        },
+        {
+          "channel_name": "BENFICA HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "SC Freiburg Vs 1. FSV Mainz 05",
       "eventInfo": {
         "teamA": "SC Freiburg",
@@ -5000,6 +4722,35 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "FC Corvinul Hunedoara Vs Universitatea Craiova",
+      "eventInfo": {
+        "teamA": "FC Corvinul Hunedoara",
+        "teamB": "Universitatea Craiova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/148278/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "13/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1602/index.m3u8"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/AJKKKAAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Neom SC Vs Al-Fateh",
       "eventInfo": {
         "teamA": "Neom SC",
@@ -5019,6 +4770,31 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/nn77QQQAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "RAAL La Louvière Vs KV Kortrijk",
+      "eventInfo": {
+        "teamA": "RAAL La Louvière",
+        "teamB": "KV Kortrijk",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/368506/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4858/image",
+        "eventName": "Pro League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+        "startTime": "13/09/2026 11:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/AJKKKAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         },
         {
@@ -5054,6 +4830,48 @@
     },
     {
       "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Detroit Tigers Vs Colorado Rockies",
+      "eventInfo": {
+        "teamA": "Detroit Tigers",
+        "teamB": "Colorado Rockies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "13/09/2026 10:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY MLB ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56412/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream4.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "Home Feed",
+          "stream_url": "https://dlhd.net/MLBTVCOL/B0010/master.m3u8",
+          "referer": "https://xyzstreams.st/"
+        },
+        {
+          "channel_name": "Away Feed",
+          "stream_url": "https://dlhd.net/MLBTVDET/B0011/master.m3u8",
+          "referer": "https://xyzstreams.st/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/nn77QQQAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Universidad de Concepción Vs Huachipato",
       "eventInfo": {
@@ -5078,6 +4896,47 @@
         {
           "channel_name": "TNT CHILE HD 2",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Aston Villa Vs Manchester City",
+      "eventInfo": {
+        "teamA": "Aston Villa",
+        "teamB": "Manchester City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/266375/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "13/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SKY NZ SELECT HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
+        },
+        {
+          "channel_name": "SKY FOOTBALL HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/9900/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/AJKKKAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -5160,6 +5019,39 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Galatasaray Vs Kocaelispor",
+      "eventInfo": {
+        "teamA": "Galatasaray",
+        "teamB": "Kocaelispor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "13/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN1  TR HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
+        },
+        {
+          "channel_name": "SPORT6 TV HD ",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv6.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1745/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/TOOOAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Portugal U20 Vs Costa Rica U20",
       "eventInfo": {
         "teamA": "Portugal U20",
@@ -5221,6 +5113,114 @@
         {
           "channel_name": "CARLOS TV",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Washington Spirit Vs Boston Legacy FC",
+      "eventInfo": {
+        "teamA": "Washington Spirit",
+        "teamB": "Boston Legacy FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/151012/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165118/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "13/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "85b277daf5aae05833fe43a68f587968",
+          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/zhhh.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "SD Eibar Vs FC Badalona",
+      "eventInfo": {
+        "teamA": "SD Eibar",
+        "teamB": "FC Badalona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/362904/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "13/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/AJKKKAAAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "STREAM TV + LIVE ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Amed Sportif Faaliyetler Vs Başakşehir FK",
+      "eventInfo": {
+        "teamA": "Amed Sportif Faaliyetler",
+        "teamB": "Başakşehir FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/207011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "13/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN2 TR HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1855/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/TOOOA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Pyramids FC Vs Gor Mahia FC",
+      "eventInfo": {
+        "teamA": "Pyramids FC",
+        "teamB": "Gor Mahia FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/175002/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134306/image",
+        "eventName": "CAF Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+        "startTime": "13/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + LIVE ",
+          "stream_url": "http://193.47.62.41/hls/Y444AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/Y444AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
