@@ -2,10 +2,47 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:26 PM 15-09-2026",
+  "last_update_time": "04:00:23 PM 15-09-2026",
   "total_matches": 146,
   "live_match": 7,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "EUROPEAN T20 Vs Premier League T20",
+      "eventInfo": {
+        "teamA": "EUROPEAN T20",
+        "teamB": "Premier League T20",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "eventName": "EUROPEAN T20 Premier League",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "startTime": "15/09/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "Willow Cricbuzz - HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -27,6 +64,108 @@
         {
           "channel_name": "WILLOW HD",
           "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kashima Antlers Vs Newcastle Jets",
+      "eventInfo": {
+        "teamA": "Kashima Antlers",
+        "teamB": "Newcastle Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "15/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN2 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gamba Osaka Vs Công An Hà Nội",
+      "eventInfo": {
+        "teamA": "Gamba Osaka",
+        "teamB": "Công An Hà Nội",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "15/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Daejeon Hana Citizen Vs Kyoto Sanga FC",
+      "eventInfo": {
+        "teamA": "Daejeon Hana Citizen",
+        "teamB": "Kyoto Sanga FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7645/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3149/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "15/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN4 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein4ar.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ratchaburi Vs Shanghai Port",
+      "eventInfo": {
+        "teamA": "Ratchaburi",
+        "teamB": "Shanghai Port",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/85743/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41537/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "15/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN5 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "South Melbourne FC Vs Lions FC",
+      "eventInfo": {
+        "teamA": "South Melbourne FC",
+        "teamB": "Lions FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2944/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47708/image",
+        "eventName": "Australia Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1786/image/dark",
+        "startTime": "15/09/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + LIVE ",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -444,43 +583,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "EUROPEAN T20 Vs Premier League T20",
-      "eventInfo": {
-        "teamA": "EUROPEAN T20",
-        "teamB": "Premier League T20",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "eventName": "EUROPEAN T20 Premier League",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "startTime": "15/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "Willow Cricbuzz - HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "WWE NXT Vs WWE NXT",
@@ -664,86 +766,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kashima Antlers Vs Newcastle Jets",
-      "eventInfo": {
-        "teamA": "Kashima Antlers",
-        "teamB": "Newcastle Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "15/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN2 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Gamba Osaka Vs Công An Hà Nội",
-      "eventInfo": {
-        "teamA": "Gamba Osaka",
-        "teamB": "Công An Hà Nội",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "15/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Daejeon Hana Citizen Vs Kyoto Sanga FC",
-      "eventInfo": {
-        "teamA": "Daejeon Hana Citizen",
-        "teamB": "Kyoto Sanga FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "15/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN4 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein4ar.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ratchaburi Vs Shanghai Port",
-      "eventInfo": {
-        "teamA": "Ratchaburi",
-        "teamB": "Shanghai Port",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "15/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN5 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Mladost DG U19 Vs Kairat Almaty U19",
@@ -824,28 +846,6 @@
         {
           "channel_name": "BEIN1 ARABIC HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "South Melbourne FC Vs Lions FC",
-      "eventInfo": {
-        "teamA": "South Melbourne FC",
-        "teamB": "Lions FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2944/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47708/image",
-        "eventName": "Australia Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1786/image/dark",
-        "startTime": "15/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
