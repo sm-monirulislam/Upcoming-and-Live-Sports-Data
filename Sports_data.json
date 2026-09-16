@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:23 PM 16-09-2026",
-  "total_matches": 158,
-  "live_match": 5,
+  "last_update_time": "01:00:23 PM 16-09-2026",
+  "total_matches": 156,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -159,20 +159,46 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Iran Vs Bahrain",
+      "event_name": "China Vs Saudi Arabia",
       "eventInfo": {
-        "teamA": "Iran",
-        "teamB": "Bahrain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24305/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/55355/image",
+        "teamA": "China",
+        "teamB": "Saudi Arabia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6127/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/105669/image",
         "eventName": "Asian Games, Men",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10707/image/dark",
-        "startTime": "16/09/2026 10:00:00 AM"
+        "startTime": "16/09/2026 01:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Thailand U23 Vs Kyrgyzstan U23",
+      "eventInfo": {
+        "teamA": "Thailand U23",
+        "teamB": "Kyrgyzstan U23",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49102/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/49059/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+        "startTime": "16/09/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/FUUUQQaAaAAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/FUUUQQaAaAAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -318,16 +344,6 @@
           "key": "83837185529c0c4048f81386c2d36426"
         },
         {
-          "channel_name": "AEW HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/vvvv.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
         },
@@ -415,16 +431,6 @@
           "key": "e5250924f4b738905f7163a0134587a7"
         },
         {
-          "channel_name": "ESPN HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56194/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/55966/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "SKY TENNIS - FHD.",
           "stream_url": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
@@ -506,6 +512,60 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "16/09/2026 06:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY RACING - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
+        },
+        {
+          "channel_name": "ITV1 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "30089c52924f037b225b82c616fee2a5",
+          "key": "f55dc8b66ed4fc6753d6035ae7e17144"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+          "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "1 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "2 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "EUROPEAN T20 Vs Premier League T20",
       "eventInfo": {
@@ -524,12 +584,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f3df7843080ae743bf865dc5fdf64c68",
           "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1/4a463dfd04374d4284c21789dce6247e/cenc.mpd",
-          "kid": "4895c87726de3958e86b9a4557df4cea",
-          "key": "7af28b191fc23a1332c9b41400c15d3d"
         },
         {
           "channel_name": "Willow Cricbuzz - HD",
@@ -674,12 +728,23 @@
       },
       "streams": [
         {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
           "channel_name": "WILLOW HD",
           "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
         },
         {
           "channel_name": "FOX CRICKET HD",
           "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        },
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         }
       ]
     },
@@ -742,32 +807,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Barbados Tridents Vs Jamaica Kingsmen",
-      "eventInfo": {
-        "teamA": "Barbados Tridents",
-        "teamB": "Jamaica Kingsmen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187795/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1220595/image",
-        "eventName": "Caribbean Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
-        "startTime": "17/09/2026 05:00:00 AM"
-      },
-      "streams": [
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
         {
-          "channel_name": "STREAM TV + LIVE ",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "WILLOW 2 CRICKET",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
         }
       ]
     },
@@ -1746,26 +1791,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Hartford Athletic Vs SC Jacksonville",
-      "eventInfo": {
-        "teamA": "Hartford Athletic",
-        "teamB": "SC Jacksonville",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/310968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1077312/image",
-        "eventName": "USL Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13363/image/dark",
-        "startTime": "17/09/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Corinthians Vs Estudiantes de La Plata",
       "eventInfo": {
         "teamA": "Corinthians",
@@ -2089,52 +2114,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "China Vs Saudi Arabia",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "Saudi Arabia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6127/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/105669/image",
-        "eventName": "Asian Games, Men",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10707/image/dark",
-        "startTime": "16/09/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Thailand U23 Vs Kyrgyzstan U23",
-      "eventInfo": {
-        "teamA": "Thailand U23",
-        "teamB": "Kyrgyzstan U23",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49102/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/49059/image",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
-        "startTime": "16/09/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/FUUUQQaAaAAAAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/FUUUQQaAaAAAAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -2495,60 +2474,6 @@
         {
           "channel_name": "Table 4 (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/grrr.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "15/09/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
-        },
-        {
-          "channel_name": "ITV1 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "30089c52924f037b225b82c616fee2a5",
-          "key": "f55dc8b66ed4fc6753d6035ae7e17144"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
-          "key": "bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "1 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "2 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
@@ -5389,6 +5314,26 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.59/hls/f444AAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Iran Vs Bahrain",
+      "eventInfo": {
+        "teamA": "Iran",
+        "teamB": "Bahrain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24305/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55355/image",
+        "eventName": "Asian Games, Men",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10707/image/dark",
+        "startTime": "16/09/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     }
