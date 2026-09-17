@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:32 AM 17-09-2026",
+  "last_update_time": "08:00:27 AM 17-09-2026",
   "total_matches": 130,
-  "live_match": 30,
+  "live_match": 23,
   "matches": [
     {
       "status": "LIVE",
@@ -443,36 +443,66 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CF Montréal Vs Vancouver Whitecaps",
+      "event_name": "Angel City FC Vs Seattle Reign FC",
       "eventInfo": {
-        "teamA": "CF Montréal",
-        "teamB": "Vancouver Whitecaps",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-        "eventName": "Canadian Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9230/image/dark",
-        "startTime": "17/09/2026 05:00:00 AM"
+        "teamA": "Angel City FC",
+        "teamB": "Seattle Reign FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/408169/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "17/09/2026 08:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Denver Summit FC Vs Bay FC",
+      "eventInfo": {
+        "teamA": "Denver Summit FC",
+        "teamB": "Bay FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1165117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/505655/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "17/09/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         },
         {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "San Diego FC Vs Club Tijuana",
+      "eventInfo": {
+        "teamA": "San Diego FC",
+        "teamB": "Club Tijuana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image",
+        "eventName": "Club Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+        "startTime": "17/09/2026 08:00:00 AM"
+      },
+      "streams": [
         {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d3250252765347a0c2603c6cb4869f8c",
-          "key": "0c19319460da7e9ed816db46ce839b37"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -504,15 +534,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Columbus Crew Vs Orlando City SC",
+      "event_name": "Colorado Rapids Vs St.Louis City",
       "eventInfo": {
-        "teamA": "Columbus Crew",
-        "teamB": "Orlando City SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+        "teamA": "Colorado Rapids",
+        "teamB": "St.Louis City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
         "eventName": "US Open Cup",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
-        "startTime": "17/09/2026 05:00:00 AM"
+        "startTime": "17/09/2026 07:30:00 AM"
       },
       "streams": [
         {
@@ -525,48 +555,8 @@
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/PTTTAA.m3u8?",
+          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Cincinnati Reds Vs Los Angeles Dodgers",
-      "eventInfo": {
-        "teamA": "Cincinnati Reds",
-        "teamB": "Los Angeles Dodgers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "17/09/2026 04:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56545/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream3.pro/hls/jkzahzadach20.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/KHHHaaaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
         }
       ]
     },
@@ -594,46 +584,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Washington Nationals Vs Philadelphia Phillies",
-      "eventInfo": {
-        "teamA": "Washington Nationals",
-        "teamB": "Philadelphia Phillies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "17/09/2026 04:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56548/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/ijfnakfidch22.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/KHHHaaaqQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         },
         {
           "channel_name": "HD QUALITY ",
@@ -688,71 +638,26 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Pittsburgh Pirates Vs Milwaukee Brewers",
+      "event_name": "Arizona Diamondbacks Vs Miami Marlins",
       "eventInfo": {
-        "teamA": "Pittsburgh Pirates",
-        "teamB": "Milwaukee Brewers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "teamA": "Arizona Diamondbacks",
+        "teamB": "Miami Marlins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "17/09/2026 04:40:00 AM"
+        "startTime": "17/09/2026 07:40:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56546/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/ojzkajnach21.m3u8",
+          "stream_url": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/KHHHaaaqQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Tampa Bay Rays Vs Athletics",
-      "eventInfo": {
-        "teamA": "Tampa Bay Rays",
-        "teamB": "Athletics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "17/09/2026 04:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56547/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream3.pro/hls/bzagLHzach19.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/KHHHaaaqQQ.m3u8?",
+          "stream_url": "http://193.47.62.52/hls/AYYYA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         },
         {
@@ -872,6 +777,41 @@
     },
     {
       "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Los Angeles Angels Vs Seattle Mariners",
+      "eventInfo": {
+        "teamA": "Los Angeles Angels",
+        "teamB": "Seattle Mariners",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "17/09/2026 07:38:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLB TV + HD",
+          "stream_url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/AYYY.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Inter Miami CF Vs Cruz Azul",
       "eventInfo": {
@@ -919,15 +859,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Once Caldas Vs Deportes Tolima",
+      "event_name": "Internacional de Bogotá Vs Atlético Nacional",
       "eventInfo": {
-        "teamA": "Once Caldas",
-        "teamB": "Deportes Tolima",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+        "teamA": "Internacional de Bogotá",
+        "teamB": "Atlético Nacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
         "eventName": "Primera A",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "17/09/2026 05:15:00 AM"
+        "startTime": "17/09/2026 07:20:00 AM"
       },
       "streams": [
         {
@@ -946,6 +886,53 @@
         {
           "channel_name": "WIN PLUS HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Angel City FC Vs Seattle Reign FC",
+      "eventInfo": {
+        "teamA": "Angel City FC",
+        "teamB": "Seattle Reign FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/408169/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "17/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/AYYYAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/AYYYAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barranquilla vs Millonarios Vs Barranquilla vs Millonarios",
+      "eventInfo": {
+        "teamA": "Barranquilla vs Millonarios",
+        "teamB": "Barranquilla vs Millonarios",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+        "eventName": "Colombia Copa",
+        "event_logo": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+        "startTime": "17/09/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQ.m3u?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1392,72 +1379,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Angel City FC Vs Seattle Reign FC",
-      "eventInfo": {
-        "teamA": "Angel City FC",
-        "teamB": "Seattle Reign FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/408169/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "17/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Denver Summit FC Vs Bay FC",
-      "eventInfo": {
-        "teamA": "Denver Summit FC",
-        "teamB": "Bay FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1165117/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/505655/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "17/09/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "San Diego FC Vs Club Tijuana",
-      "eventInfo": {
-        "teamA": "San Diego FC",
-        "teamB": "Club Tijuana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image",
-        "eventName": "Club Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-        "startTime": "17/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "England U20 Vs Nigeria U20",
@@ -1537,138 +1458,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Colorado Rapids Vs St.Louis City",
-      "eventInfo": {
-        "teamA": "Colorado Rapids",
-        "teamB": "St.Louis City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-        "eventName": "US Open Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
-        "startTime": "17/09/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS NETWORK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/81757/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Arizona Diamondbacks Vs Miami Marlins",
-      "eventInfo": {
-        "teamA": "Arizona Diamondbacks",
-        "teamB": "Miami Marlins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "17/09/2026 07:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/AYYYA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Los Angeles Angels Vs Seattle Mariners",
-      "eventInfo": {
-        "teamA": "Los Angeles Angels",
-        "teamB": "Seattle Mariners",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "17/09/2026 07:38:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLB TV + HD",
-          "stream_url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/AYYY.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Internacional de Bogotá Vs Atlético Nacional",
-      "eventInfo": {
-        "teamA": "Internacional de Bogotá",
-        "teamB": "Atlético Nacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "17/09/2026 07:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/PTTTAAAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "WIN SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN2 SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN PLUS HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Atlético Bucaramanga Vs Independiente Medellín",
@@ -1721,32 +1510,6 @@
         {
           "channel_name": "WIN PLUS HD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Angel City FC Vs Seattle Reign FC",
-      "eventInfo": {
-        "teamA": "Angel City FC",
-        "teamB": "Seattle Reign FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/408169/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "17/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.52/hls/AYYYAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/AYYYAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1923,27 +1686,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Barranquilla vs Millonarios Vs Barranquilla vs Millonarios",
-      "eventInfo": {
-        "teamA": "Barranquilla vs Millonarios",
-        "teamB": "Barranquilla vs Millonarios",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-        "eventName": "Colombia Copa",
-        "event_logo": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-        "startTime": "17/09/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.52/hls/RJJJAAAAQ.m3u?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -4278,6 +4020,42 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "CF Montréal Vs Vancouver Whitecaps",
+      "eventInfo": {
+        "teamA": "CF Montréal",
+        "teamB": "Vancouver Whitecaps",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
+        "eventName": "Canadian Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9230/image/dark",
+        "startTime": "17/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Gimnasia y Esgrima Reserve Vs San Lorenzo Reserve",
       "eventInfo": {
         "teamA": "Gimnasia y Esgrima Reserve",
@@ -4300,6 +4078,35 @@
         {
           "channel_name": "TNT AR HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Columbus Crew Vs Orlando City SC",
+      "eventInfo": {
+        "teamA": "Columbus Crew",
+        "teamB": "Orlando City SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+        "eventName": "US Open Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/495/image/dark",
+        "startTime": "17/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/81757/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/PTTTAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -4670,6 +4477,46 @@
     {
       "status": "ENDED",
       "Category": "Baseball",
+      "event_name": "Cincinnati Reds Vs Los Angeles Dodgers",
+      "eventInfo": {
+        "teamA": "Cincinnati Reds",
+        "teamB": "Los Angeles Dodgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "17/09/2026 04:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56545/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MLB TV + HD",
+          "stream_url": "https://edgestream3.pro/hls/jkzahzadach20.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KHHHaaaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
       "event_name": "St. Louis Cardinals Vs San Francisco Giants",
       "eventInfo": {
         "teamA": "St. Louis Cardinals",
@@ -4691,6 +4538,126 @@
           "stream_url": "https://edgestream7.pro/hls/16yuitzaerghbhc16.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Washington Nationals Vs Philadelphia Phillies",
+      "eventInfo": {
+        "teamA": "Washington Nationals",
+        "teamB": "Philadelphia Phillies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "17/09/2026 04:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56548/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MLB TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/ijfnakfidch22.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KHHHaaaqQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Pittsburgh Pirates Vs Milwaukee Brewers",
+      "eventInfo": {
+        "teamA": "Pittsburgh Pirates",
+        "teamB": "Milwaukee Brewers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "17/09/2026 04:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56546/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MLB TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/ojzkajnach21.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KHHHaaaqQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Tampa Bay Rays Vs Athletics",
+      "eventInfo": {
+        "teamA": "Tampa Bay Rays",
+        "teamB": "Athletics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "17/09/2026 04:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56547/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MLB TV + HD",
+          "stream_url": "https://edgestream3.pro/hls/bzagLHzach19.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KHHHaaaqQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         },
         {
           "channel_name": "HD QUALITY ",
@@ -4799,6 +4766,39 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/FJJJAAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Once Caldas Vs Deportes Tolima",
+      "eventInfo": {
+        "teamA": "Once Caldas",
+        "teamB": "Deportes Tolima",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "17/09/2026 05:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/PTTTAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "WIN SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN2 SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN PLUS HD",
+          "stream_url": ""
         }
       ]
     }
