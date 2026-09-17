@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:25 PM 17-09-2026",
-  "total_matches": 112,
-  "live_match": 17,
+  "last_update_time": "08:00:30 PM 17-09-2026",
+  "total_matches": 116,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -422,6 +422,40 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
+      "event_name": "Afghanistan Vs India",
+      "eventInfo": {
+        "teamA": "Afghanistan",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "eventName": "T20 International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "17/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jiilpnzrrt/out/v1/fe73fae0c76146758ce185e49c411869/cenc.mpd",
+          "kid": "8e802e5373c59195ff0a9838814db6f4",
+          "key": "d76ecf4be947c06874c1b57427f9e85b"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jiilpnzrrt/out/v1/fe73fae0c76146758ce185e49c411869/cenc.mpd",
+          "kid": "8e802e5373c59195ff0a9838814db6f4",
+          "key": "d76ecf4be947c06874c1b57427f9e85b"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
       "event_name": "Pakistan Women Vs Thailand Women",
       "eventInfo": {
         "teamA": "Pakistan Women",
@@ -561,32 +595,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Amasyaspor FK Vs Çankırıgücü",
-      "eventInfo": {
-        "teamA": "Amasyaspor FK",
-        "teamB": "Çankırıgücü",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/206914/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1078462/image",
-        "eventName": "Türkiye Kupası",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-        "startTime": "17/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.52/hls/GRRR.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/GRRR.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Kitchee SC Vs Gangwon FC",
       "eventInfo": {
         "teamA": "Kitchee SC",
@@ -655,6 +663,135 @@
         {
           "channel_name": "BEIN6 ARABIC HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein6ar.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Orenburg Vs FC Krasnodar",
+      "eventInfo": {
+        "teamA": "Orenburg",
+        "teamB": "FC Krasnodar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24118/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34425/image",
+        "eventName": "Russian Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/203/image/dark",
+        "startTime": "17/09/2026 07:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/RDDDZZZ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "RUSSIA TV ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "ZED FC Vs Canal SC",
+      "eventInfo": {
+        "teamA": "ZED FC",
+        "teamB": "Canal SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/373168/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134190/image",
+        "eventName": "Egyptian Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
+        "startTime": "17/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/VAVAVAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/VAVAVAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "PS Kalamata Vs AEL Novibet",
+      "eventInfo": {
+        "teamA": "PS Kalamata",
+        "teamB": "AEL Novibet",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/412056/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3265/image",
+        "eventName": "Superbet Greek Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/375/image/dark",
+        "startTime": "17/09/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/RDDDZZAZ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/RDDDZZAZ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Volleyball",
+      "event_name": "Serbia Vs Belgium",
+      "eventInfo": {
+        "teamA": "Serbia",
+        "teamB": "Belgium",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7509/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "17/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/VAVAVAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/VAVAVAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Volleyball",
+      "event_name": "Slovakia Vs Greece",
+      "eventInfo": {
+        "teamA": "Slovakia",
+        "teamB": "Greece",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7512/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6822/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "17/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/VAVAVAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/VAVAVAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1070,28 +1207,6 @@
           "channel_name": "Tennis US Open --- CH 2",
           "stream_url": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs India",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "T20 International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "17/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
         }
       ]
     },
@@ -1559,32 +1674,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Orenburg Vs FC Krasnodar",
-      "eventInfo": {
-        "teamA": "Orenburg",
-        "teamB": "FC Krasnodar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24118/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34425/image",
-        "eventName": "Russian Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/203/image/dark",
-        "startTime": "17/09/2026 07:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/RDDDZZZ.m3u8?",
+          "stream_url": "http://193.47.62.52/hls/GRRR.m3u8?",
           "referer": "http://www.fawanews.sc/"
         },
         {
-          "channel_name": "RUSSIA TV ",
-          "stream_url": ""
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/GRRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1603,28 +1699,13 @@
       },
       "streams": [
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/ggggaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
           "channel_name": "RUSSIA TV",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "ZED FC Vs Canal SC",
-      "eventInfo": {
-        "teamA": "ZED FC",
-        "teamB": "Canal SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/373168/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134190/image",
-        "eventName": "Egyptian Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-        "startTime": "17/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -1644,7 +1725,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.52/hls/gggga.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/gggga.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -2597,32 +2684,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "PS Kalamata Vs AEL Novibet",
-      "eventInfo": {
-        "teamA": "PS Kalamata",
-        "teamB": "AEL Novibet",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/412056/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3265/image",
-        "eventName": "Superbet Greek Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/375/image/dark",
-        "startTime": "17/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.52/hls/RDDDZZAZ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.52/hls/RDDDZZAZ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "AEK Athens Vs MGS Panserraikos",
       "eventInfo": {
         "teamA": "AEK Athens",
@@ -2632,6 +2693,46 @@
         "eventName": "Superbet Greek Cup",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/375/image/dark",
         "startTime": "17/09/2026 08:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Volleyball",
+      "event_name": "Finland Vs Estonia",
+      "eventInfo": {
+        "teamA": "Finland",
+        "teamB": "Estonia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8113/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "17/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Volleyball",
+      "event_name": "Italy Vs Slovenia",
+      "eventInfo": {
+        "teamA": "Italy",
+        "teamB": "Slovenia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7513/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "18/09/2026 01:05:00 AM"
       },
       "streams": [
         {
@@ -3473,6 +3574,32 @@
         {
           "channel_name": "BEIN5 ARABIC HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Amasyaspor FK Vs Çankırıgücü",
+      "eventInfo": {
+        "teamA": "Amasyaspor FK",
+        "teamB": "Çankırıgücü",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/206914/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1078462/image",
+        "eventName": "Türkiye Kupası",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "startTime": "17/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.52/hls/GRRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.52/hls/GRRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
