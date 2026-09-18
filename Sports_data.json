@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:00:28 AM 18-09-2026",
+  "last_update_time": "12:00:31 PM 18-09-2026",
   "total_matches": 225,
   "live_match": 4,
   "matches": [
@@ -259,39 +259,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Olimpia Vs CD Luis Ángel Firpo",
-      "eventInfo": {
-        "teamA": "CD Olimpia",
-        "teamB": "CD Luis Ángel Firpo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25358/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24388/image",
-        "eventName": "CONCACAF Central American Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark",
-        "startTime": "18/09/2026 09:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/22456/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.53/hls/HOOOQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Japan Women Vs India Women",
       "eventInfo": {
@@ -305,10 +272,15 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "Willow AQ",
+          "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd",
+          "kid": "07dc2346823644f4fc76855ac0b28934",
+          "key": "f390daae70c6db7787471e7790ef55e3"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789708648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a0872a42eb1449d7c4ba465212d5c528",
+          "referer": "https://iframe.rumsport8.live"
         }
       ]
     },
@@ -1686,7 +1658,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Philippines U23 Vs Vietnam U23",
       "eventInfo": {
@@ -6190,6 +6162,39 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.53/hls/FZZZAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CD Olimpia Vs CD Luis Ángel Firpo",
+      "eventInfo": {
+        "teamA": "CD Olimpia",
+        "teamB": "CD Luis Ángel Firpo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24388/image",
+        "eventName": "CONCACAF Central American Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/20695/image/dark",
+        "startTime": "18/09/2026 09:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/22456/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.53/hls/HOOOQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
