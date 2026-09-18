@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:00:26 PM 18-09-2026",
+  "last_update_time": "02:00:28 PM 18-09-2026",
   "total_matches": 225,
   "live_match": 8,
   "matches": [
@@ -158,6 +158,51 @@
     },
     {
       "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "MotorGP Vs MotorGP",
+      "eventInfo": {
+        "teamA": "MotorGP",
+        "teamB": "MotorGP",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "eventName": "MotoGP Evento",
+        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
+        "startTime": "18/09/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SPOTV FHD",
+          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "kid": "7eea72d6075245a99ee3255603d58853",
+          "key": "6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "channel_name": "MotoGP FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "e03f302ec4dabcccca82cc9f76731ec9",
+          "key": "53ea1027d2bf2893a552cf15bc0366de"
+        },
+        {
+          "channel_name": "SPORTS4 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkaAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
       "eventInfo": {
@@ -254,6 +299,90 @@
           "channel_name": "Tennis US Open --- CH 2",
           "stream_url": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Zimbabwe Vs Australia",
+      "eventInfo": {
+        "teamA": "Zimbabwe",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "18/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+          "key": "22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://8gwifi.org/api/pastebin/hscvejv5/raw?e=.m3u8"
+        },
+        {
+          "channel_name": "WWE TV+ HD ",
+          "stream_url": "https://ois.poltumola.xyz/dx14md/index.m3u8",
+          "referer": "https://megatech.com"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "https://ois.poltumola.xyz/dx14sd/index.m3u8",
+          "referer": "https://megatech.com"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Tasman Vs Auckland",
+      "eventInfo": {
+        "teamA": "Tasman",
+        "teamB": "Auckland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42717/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42726/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "18/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://baila-lentoo.pages.dev/nwp/809392.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Hawthorn Hawks Vs North Melbourne",
+      "eventInfo": {
+        "teamA": "Hawthorn Hawks",
+        "teamB": "North Melbourne",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/446333/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/307631/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "18/09/2026 01:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -475,51 +604,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "MotorGP Vs MotorGP",
-      "eventInfo": {
-        "teamA": "MotorGP",
-        "teamB": "MotorGP",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "eventName": "MotoGP Evento",
-        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "startTime": "18/09/2026 02:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "SPOTV FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "kid": "7eea72d6075245a99ee3255603d58853",
-          "key": "6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "channel_name": "MotoGP FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "e03f302ec4dabcccca82cc9f76731ec9",
-          "key": "53ea1027d2bf2893a552cf15bc0366de"
-        },
-        {
-          "channel_name": "SPORTS4 TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/kkkkaAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "One Friday Fights Vs One Friday Fights",
@@ -720,70 +804,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Zimbabwe Vs Australia",
-      "eventInfo": {
-        "teamA": "Zimbabwe",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "18/09/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-          "key": "22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://8gwifi.org/api/pastebin/hscvejv5/raw?e=.m3u8"
-        },
-        {
-          "channel_name": "WWE TV+ HD ",
-          "stream_url": "https://ois.poltumola.xyz/dx14md/index.m3u8",
-          "referer": "https://megatech.com"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY",
-          "stream_url": "https://ois.poltumola.xyz/dx14sd/index.m3u8",
-          "referer": "https://megatech.com"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Tasman Vs Auckland",
-      "eventInfo": {
-        "teamA": "Tasman",
-        "teamB": "Auckland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42717/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42726/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "18/09/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://baila-lentoo.pages.dev/nwp/809392.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "Wests Tigers Vs Canberra Raiders",
@@ -800,26 +820,6 @@
         {
           "channel_name": "SERVER + TV",
           "stream_url": "https://baila-lentoo.pages.dev/nwp/809392.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Hawthorn Hawks Vs North Melbourne",
-      "eventInfo": {
-        "teamA": "Hawthorn Hawks",
-        "teamB": "North Melbourne",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/446333/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/307631/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "18/09/2026 01:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
