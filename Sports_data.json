@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:31 PM 18-09-2026",
+  "last_update_time": "01:00:26 PM 18-09-2026",
   "total_matches": 225,
-  "live_match": 4,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -259,6 +259,32 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Philippines U23 Vs Vietnam U23",
+      "eventInfo": {
+        "teamA": "Philippines U23",
+        "teamB": "Vietnam U23",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/192810/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/49111/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+        "startTime": "18/09/2026 12:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.53/hls/HOOOQQQQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.53/hls/HOOOQQQQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Japan Women Vs India Women",
       "eventInfo": {
@@ -449,7 +475,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
       "eventInfo": {
@@ -694,7 +720,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Zimbabwe Vs Australia",
       "eventInfo": {
@@ -738,7 +764,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Tasman Vs Auckland",
       "eventInfo": {
@@ -778,7 +804,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Hawthorn Hawks Vs North Melbourne",
       "eventInfo": {
@@ -1654,32 +1680,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Philippines U23 Vs Vietnam U23",
-      "eventInfo": {
-        "teamA": "Philippines U23",
-        "teamB": "Vietnam U23",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/192810/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/49111/image",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
-        "startTime": "18/09/2026 12:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.53/hls/HOOOQQQQA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.53/hls/HOOOQQQQA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
