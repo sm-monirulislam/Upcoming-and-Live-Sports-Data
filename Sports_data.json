@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:40:41 PM 19-09-2026",
+  "last_update_time": "12:00:47 AM 20-09-2026",
   "total_matches": 186,
-  "live_match": 57,
+  "live_match": 70,
   "matches": [
     {
       "status": "LIVE",
@@ -617,6 +617,40 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "AFC Ajax Vs Excelsior",
+      "eventInfo": {
+        "teamA": "AFC Ajax",
+        "teamB": "Excelsior",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "20/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Başakşehir FK Vs Gençlerbirliği",
       "eventInfo": {
         "teamA": "Başakşehir FK",
@@ -729,26 +763,22 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Polokwane City Vs AmaZulu FC",
+      "event_name": "Kruger United Vs Stellenbosch",
       "eventInfo": {
-        "teamA": "Polokwane City",
-        "teamB": "AmaZulu FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25002/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7655/image",
+        "teamA": "Kruger United",
+        "teamB": "Stellenbosch",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/828831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/43555/image",
         "eventName": "South African Premier Division",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
-        "startTime": "19/09/2026 09:30:00 PM"
+        "startTime": "20/09/2026 12:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/DTTTVVVV.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DTTTVVVV.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -904,27 +934,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Örgryte IS Vs IK Sirius",
+      "event_name": "FC Cajamarca Vs Cusco FC",
       "eventInfo": {
-        "teamA": "Örgryte IS",
-        "teamB": "IK Sirius",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1766/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1793/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "19/09/2026 09:30:00 PM"
+        "teamA": "FC Cajamarca",
+        "teamB": "Cusco FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1082002/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "20/09/2026 12:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "LIGA MX HD 1",
           "stream_url": ""
         },
         {
-          "channel_name": "HD QUALITY ",
+          "channel_name": "LIGA1 MAX 2",
           "stream_url": ""
         },
         {
-          "channel_name": "SD QUALITY ",
+          "channel_name": "LIGA HD 3",
           "stream_url": ""
         }
       ]
@@ -990,35 +1020,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.59/hls/BUUUAAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "GKS Katowice Vs KS Cracovia",
-      "eventInfo": {
-        "teamA": "GKS Katowice",
-        "teamB": "KS Cracovia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3112/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4901/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "19/09/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Beix Sports XTRA ",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        },
-        {
-          "channel_name": "beiN ES HD",
-          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DTTTV.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
@@ -1181,6 +1182,30 @@
         },
         {
           "channel_name": "HD QUALITY 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Argentina U19 Vs Uruguay U19",
+      "eventInfo": {
+        "teamA": "Argentina U19",
+        "teamB": "Uruguay U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36225/image",
+        "eventName": "South American Games U18",
+        "event_logo": "b",
+        "startTime": "20/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TYC SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TYC SPORTS HD",
           "stream_url": ""
         }
       ]
@@ -1683,7 +1708,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
       "eventInfo": {
@@ -2223,7 +2248,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Toronto Argonauts Vs Edmonton Elks",
       "eventInfo": {
@@ -2612,7 +2637,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sevilla Vs FC Barcelona",
       "eventInfo": {
@@ -2652,7 +2677,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Cádiz Vs Girona FC",
       "eventInfo": {
@@ -2712,7 +2737,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Venezia Vs Lazio",
       "eventInfo": {
@@ -2793,7 +2818,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Toulouse Vs Le Havre",
       "eventInfo": {
@@ -2833,7 +2858,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Olympique Lyonnais Vs Stade Rennais",
       "eventInfo": {
@@ -2873,7 +2898,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Le Mans Vs Lorient",
       "eventInfo": {
@@ -2905,7 +2930,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Angers Vs Troyes",
       "eventInfo": {
@@ -2971,7 +2996,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Willem II Tilburg Vs Fortuna Sittard",
       "eventInfo": {
@@ -2986,40 +3011,6 @@
       "streams": [
         {
           "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "AFC Ajax Vs Excelsior",
-      "eventInfo": {
-        "teamA": "AFC Ajax",
-        "teamB": "Excelsior",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "20/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
           "stream_url": ""
         },
         {
@@ -3716,28 +3707,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kruger United Vs Stellenbosch",
-      "eventInfo": {
-        "teamA": "Kruger United",
-        "teamB": "Stellenbosch",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/828831/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/43555/image",
-        "eventName": "South African Premier Division",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
-        "startTime": "20/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Milford FC Vs Durban City FC",
@@ -3780,7 +3749,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Libertad Vs Sportivo Ameliano",
       "eventInfo": {
@@ -3891,34 +3860,6 @@
         "eventName": "Liga 1 Te Apuesto",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "startTime": "20/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA MX HD 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA HD 3",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Cajamarca Vs Cusco FC",
-      "eventInfo": {
-        "teamA": "FC Cajamarca",
-        "teamB": "Cusco FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1082002/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "20/09/2026 12:00:00 AM"
       },
       "streams": [
         {
@@ -4144,7 +4085,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Millonarios Vs Boyacá Chicó FC",
       "eventInfo": {
@@ -5032,7 +4973,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlético Mineiro Vs Chapecoense",
       "eventInfo": {
@@ -5073,30 +5014,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "9dc40460c93087aea84d6315f08ecb64",
           "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Argentina U19 Vs Uruguay U19",
-      "eventInfo": {
-        "teamA": "Argentina U19",
-        "teamB": "Uruguay U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36225/image",
-        "eventName": "South American Games U18",
-        "event_logo": "b",
-        "startTime": "20/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TYC SPORTS ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TYC SPORTS HD",
-          "stream_url": ""
         }
       ]
     },
@@ -5179,7 +5096,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "RSC Anderlecht Vs SV Zulte Waregem",
       "eventInfo": {
@@ -5201,7 +5118,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Lommel SK Vs KV Mechelen",
       "eventInfo": {
@@ -5223,7 +5140,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Toledo Rockets Vs Temple Owls",
       "eventInfo": {
@@ -5803,6 +5720,60 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Polokwane City Vs AmaZulu FC",
+      "eventInfo": {
+        "teamA": "Polokwane City",
+        "teamB": "AmaZulu FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25002/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7655/image",
+        "eventName": "South African Premier Division",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+        "startTime": "19/09/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/DTTTVVVV.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DTTTVVVV.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Örgryte IS Vs IK Sirius",
+      "eventInfo": {
+        "teamA": "Örgryte IS",
+        "teamB": "IK Sirius",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1766/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1793/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "19/09/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Sampdoria Vs Catanzaro",
       "eventInfo": {
         "teamA": "Sampdoria",
@@ -5822,6 +5793,35 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/DQQQAAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "GKS Katowice Vs KS Cracovia",
+      "eventInfo": {
+        "teamA": "GKS Katowice",
+        "teamB": "KS Cracovia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3112/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4901/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "19/09/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Beix Sports XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "beiN ES HD",
+          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DTTTV.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
