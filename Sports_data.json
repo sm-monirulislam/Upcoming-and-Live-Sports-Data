@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:40 PM 20-09-2026",
-  "total_matches": 190,
-  "live_match": 9,
+  "last_update_time": "12:40:39 PM 20-09-2026",
+  "total_matches": 193,
+  "live_match": 10,
   "matches": [
     {
       "status": "LIVE",
@@ -170,6 +170,37 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "New Zealand Warriors Vs Newcastle Knights",
+      "eventInfo": {
+        "teamA": "New Zealand Warriors",
+        "teamB": "Newcastle Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4267/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
+        "eventName": "NRL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+        "startTime": "20/09/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/ZGGGQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Bangladesh Women Vs India Women",
       "eventInfo": {
@@ -204,93 +235,6 @@
           "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "kid": "290e09c837da78d5cd961978d390515c",
           "key": "b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "UCLA Bruins Vs Purdue Boilermakers",
-      "eventInfo": {
-        "teamA": "UCLA Bruins",
-        "teamB": "Purdue Boilermakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4313/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4317/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "20/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56788/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/poertjnvnev40.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "San Jose State Spartans Vs Fresno State Bulldogs",
-      "eventInfo": {
-        "teamA": "San Jose State Spartans",
-        "teamB": "Fresno State Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4291/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4298/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "20/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
-          "key": "bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56789/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/wnbcnxbcs42.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Oregon State Beavers Vs Montana Grizzlies",
-      "eventInfo": {
-        "teamA": "Oregon State Beavers",
-        "teamB": "Montana Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4299/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/318457/image",
-        "eventName": "NCAA Interdivisional",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
-        "startTime": "20/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56787/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -402,7 +346,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
       "eventInfo": {
@@ -732,7 +676,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
@@ -846,7 +790,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Zimbabwe Vs Australia",
       "eventInfo": {
@@ -890,7 +834,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Brisbane Lions Vs Adelaide Crows",
       "eventInfo": {
@@ -909,37 +853,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "New Zealand Warriors Vs Newcastle Knights",
-      "eventInfo": {
-        "teamA": "New Zealand Warriors",
-        "teamB": "Newcastle Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4267/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-        "eventName": "NRL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-        "startTime": "20/09/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/ZGGGQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
         }
       ]
     },
@@ -1415,8 +1328,15 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "Beix Sports XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
         }
       ]
     },
@@ -1483,8 +1403,11 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
         }
       ]
     },
@@ -1707,8 +1630,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "HYPER 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HYPER 1. 1",
+          "stream_url": ""
         }
       ]
     },
@@ -1747,8 +1674,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "HYPER 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HYPER 1. 1",
+          "stream_url": ""
         }
       ]
     },
@@ -1767,8 +1698,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "HYPER 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HYPER 1. 1",
+          "stream_url": ""
         }
       ]
     },
@@ -1819,6 +1754,20 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "ESPN3 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+          "kid": "8a60d7889ff126ee1895335e92254f8e",
+          "key": "de1b0ce19fa804a1c473eb8ef2d5cf6d"
         }
       ]
     },
@@ -1837,8 +1786,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SPORTS2 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
+        },
+        {
+          "channel_name": "DAZN IT + HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8"
         }
       ]
     },
@@ -1869,6 +1822,14 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
         }
       ]
     },
@@ -1914,6 +1875,16 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
           "kid": "335dad778109954503dcbb21dc92015f",
           "key": "24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "ESPN1 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "kid": "cb004fb100bd92f23793562891e3236b",
+          "key": "b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "SPORT TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
         }
       ]
     },
@@ -2092,8 +2063,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "kid": "a81ee4a694fecd6aa8a682e5024b313c",
+          "key": "6d15568e1dab59e7202ae12e71505185"
         }
       ]
     },
@@ -2112,8 +2085,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TNT AR SPORTS 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR SPORTS 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR SPORTS 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2132,8 +2113,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "ESPN PREMIUM 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PREMIUM 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PRM HD 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2152,8 +2141,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TNT AR SPORTS 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR SPORTS 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR SPORTS 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2176,6 +2173,18 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "kid": "d1a163914db8ffad2c3e94f979896a0d",
           "key": "9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "ESPN PREMIUM 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PREMIUM 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PRM HD 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2194,8 +2203,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TNT AR SPORTS 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR SPORTS 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT AR SPORTS 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2214,8 +2231,14 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "SPORTS3 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8"
         }
       ]
     },
@@ -2234,8 +2257,14 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "SPORTS2 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
         }
       ]
     },
@@ -2254,8 +2283,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SPORT TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
         }
       ]
     },
@@ -2274,8 +2303,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SPORT TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
         }
       ]
     },
@@ -2294,8 +2323,12 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SPORTS3 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8"
+        },
+        {
+          "channel_name": "SPORTS2 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
         }
       ]
     },
@@ -2326,6 +2359,12 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "kid": "d9623774ac5c8c351aafe97c5fe70267",
           "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         }
       ]
     },
@@ -2689,8 +2728,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LIGA MX HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA HD 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2709,8 +2756,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LIGA MX HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA HD 3",
+          "stream_url": ""
         }
       ]
     },
@@ -2729,8 +2784,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LIGA MX HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA HD 3",
+          "stream_url": ""
         }
       ]
     },
@@ -3208,8 +3271,17 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+          "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
         }
       ]
     },
@@ -3228,8 +3300,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "PREMIERER FHD 5",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+          "kid": "332f62eb3cae824e98a4124da29a7d31",
+          "key": "d1698cda3d040f9051125a61745b596b"
         }
       ]
     },
@@ -3268,8 +3342,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "PREMIERER4 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+          "kid": "e23365c2ad97870c871712b73f0d6195",
+          "key": "58709c714320bb862dbd07270df81c94"
         }
       ]
     },
@@ -3293,6 +3369,12 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "1a5df53609ebc9857898c490f4724918",
           "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     },
@@ -4317,6 +4399,66 @@
       ]
     },
     {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Granada Club de Fútbol Vs Real Club Deportivo de A Coruña",
+      "eventInfo": {
+        "teamA": "Granada Club de Fútbol",
+        "teamB": "Real Club Deportivo de A Coruña",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/114819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262253/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "20/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN1 ES HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Costa Adeje Tenerife Vs Sevilla FC",
+      "eventInfo": {
+        "teamA": "Costa Adeje Tenerife",
+        "teamB": "Sevilla FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/202971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77903/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "20/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "SD Eibar Vs Athletic Club",
+      "eventInfo": {
+        "teamA": "SD Eibar",
+        "teamB": "Athletic Club",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/362904/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77877/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "20/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
       "status": "ENDED",
       "Category": "Boxing",
       "event_name": "SmackDown Vs SmackDown",
@@ -4960,6 +5102,33 @@
     {
       "status": "ENDED",
       "Category": "American football",
+      "event_name": "UCLA Bruins Vs Purdue Boilermakers",
+      "eventInfo": {
+        "teamA": "UCLA Bruins",
+        "teamB": "Purdue Boilermakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4313/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4317/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "20/09/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56788/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/poertjnvnev40.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
       "event_name": "Sacramento State Hornets Vs North Dakota State Bison",
       "eventInfo": {
         "teamA": "Sacramento State Hornets",
@@ -5014,6 +5183,39 @@
     {
       "status": "ENDED",
       "Category": "American football",
+      "event_name": "San Jose State Spartans Vs Fresno State Bulldogs",
+      "eventInfo": {
+        "teamA": "San Jose State Spartans",
+        "teamB": "Fresno State Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4291/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4298/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "20/09/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+          "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56789/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/wnbcnxbcs42.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
       "event_name": "Arizona Wildcats Vs Northern Illinois Huskies",
       "eventInfo": {
         "teamA": "Arizona Wildcats",
@@ -5033,6 +5235,33 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream6.pro/hls/ysvbxwnbc38.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Oregon State Beavers Vs Montana Grizzlies",
+      "eventInfo": {
+        "teamA": "Oregon State Beavers",
+        "teamB": "Montana Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4299/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/318457/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "20/09/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56787/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
