@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:42 PM 20-09-2026",
+  "last_update_time": "03:40:42 PM 20-09-2026",
   "total_matches": 193,
-  "live_match": 10,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -283,37 +283,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "New Zealand Warriors Vs Newcastle Knights",
-      "eventInfo": {
-        "teamA": "New Zealand Warriors",
-        "teamB": "Newcastle Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4267/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-        "eventName": "NRL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-        "startTime": "20/09/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/ZGGGQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
         }
       ]
     },
@@ -1808,7 +1777,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Fiorentina Vs SSC Napoli",
       "eventInfo": {
@@ -2625,7 +2594,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Feyenoord Vs FC Utrecht",
       "eventInfo": {
@@ -2773,7 +2742,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Piast Gliwice Vs Pogoń Szczecin",
       "eventInfo": {
@@ -4963,6 +4932,37 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.50/hls/ZGGGQQA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "New Zealand Warriors Vs Newcastle Knights",
+      "eventInfo": {
+        "teamA": "New Zealand Warriors",
+        "teamB": "Newcastle Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4267/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
+        "eventName": "NRL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+        "startTime": "20/09/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/ZGGGQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
