@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:40:43 AM 21-09-2026",
+  "last_update_time": "07:00:43 AM 21-09-2026",
   "total_matches": 115,
   "live_match": 21,
   "matches": [
@@ -415,26 +415,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Athletico Vs Bahia",
-      "eventInfo": {
-        "teamA": "Athletico",
-        "teamB": "Bahia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-        "eventName": "Brasileirão Betano",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "21/09/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Inter Miami CF Vs San Diego FC",
       "eventInfo": {
         "teamA": "Inter Miami CF",
@@ -529,6 +509,35 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Las Vegas Aces Vs Seattle Storm",
+      "eventInfo": {
+        "teamA": "Las Vegas Aces",
+        "teamB": "Seattle Storm",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "21/09/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream6.pro/hls/ioazuryeahrfvzed84.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -889,7 +898,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Querétaro FC Vs Club León",
       "eventInfo": {
@@ -970,35 +979,6 @@
         {
           "channel_name": "WIN SPORTS 3",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Las Vegas Aces Vs Seattle Storm",
-      "eventInfo": {
-        "teamA": "Las Vegas Aces",
-        "teamB": "Seattle Storm",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "21/09/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/ioazuryeahrfvzed84.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -3501,6 +3481,26 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
           "kid": "332f62eb3cae824e98a4124da29a7d31",
           "key": "d1698cda3d040f9051125a61745b596b"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Athletico Vs Bahia",
+      "eventInfo": {
+        "teamA": "Athletico",
+        "teamB": "Bahia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+        "eventName": "Brasileirão Betano",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "21/09/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
