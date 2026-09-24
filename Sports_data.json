@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:37 AM 25-09-2026",
+  "last_update_time": "12:40:40 AM 25-09-2026",
   "total_matches": 163,
-  "live_match": 36,
+  "live_match": 32,
   "matches": [
     {
       "status": "LIVE",
@@ -277,47 +277,84 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "United Arab Emirates Vs Yemen",
+      "Category": "Baseball",
+      "event_name": "Kansas City Royals Vs Chicago White Sox",
       "eventInfo": {
-        "teamA": "United Arab Emirates",
-        "teamB": "Yemen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
-        "eventName": "Gulf Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
-        "startTime": "24/09/2026 09:55:00 PM"
+        "teamA": "Kansas City Royals",
+        "teamB": "Chicago White Sox",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "25/09/2026 12:10:00 AM"
       },
       "streams": [
         {
-          "channel_name": "AD1 SPORTS FHD",
-          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
-          "kid": "e78769d87a41e15036a4fb8bfdf1371e",
-          "key": "37be0375dc9fe544c3c6de6a105f7c0a"
+          "channel_name": "HD QUALITY TV ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56995/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "SPORT DIGITAL FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "OMAN SPORTS ",
-          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/f3106042-bf14-49d8-9d1d-7e43cc77c121.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/f3106042-bf14-49d8-9d1d-7e43cc77c121.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ARRRR.m3u8?",
+          "stream_url": "http://193.47.62.55/hls/ZLLLQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Chicago Cubs Vs Miami Marlins",
+      "eventInfo": {
+        "teamA": "Chicago Cubs",
+        "teamB": "Miami Marlins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "25/09/2026 12:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY MLB ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56997/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/ihfazugfyjcazich17.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -369,215 +406,35 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Andorra Vs Malta",
+      "Category": "Baseball",
+      "event_name": "Texas Rangers Vs New York Mets",
       "eventInfo": {
-        "teamA": "Andorra",
-        "teamB": "Malta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "24/09/2026 10:00:00 PM"
+        "teamA": "Texas Rangers",
+        "teamB": "New York Mets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "25/09/2026 12:35:00 AM"
       },
       "streams": [
         {
-          "channel_name": "Sport 1 CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "kid": "a81ee4a694fecd6aa8a682e5024b313c",
-          "key": "6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "FOX SOCCER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56993/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/120/index.m3u8"
-        },
-        {
-          "channel_name": "DAZN ES HD",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-dBdyn%2BXHLaCG5WR5kvY6n2qHlJuBjSjjbyaokvAcRmP14uWdHUFbA5QtqRJWWkkGRHrBwzNpk%2F13epVMXRMK%2FJFkT0yyN4I%3Da/cfall/s2001/v3b/7418r4q8nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_831165/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV 1",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-IxJ7nbnBL6eGuGZ5wfY6mG7XlMPXjX%2FjPSf%2FkvNOQzan5uaaHUFbA5QtqRJWWkkGRHrBwzNpk%2F13epVPUhMK%2FJFkT0yyN4I%3Da/cfall/s2001/v3b/9848r00qnUE0pQbiY3EmAmphZ3umqT0lYz9hMD%3D%3D/super/3x_830538.m3u",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/af91c0fd-6732-4310-a7ea-01c14768668f.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/veeeAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         },
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
         },
         {
-          "channel_name": "beIN ARABIC",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
-        },
-        {
-          "channel_name": "DISNEY+",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN",
-          "stream_url": ""
-        },
-        {
           "channel_name": "HD QUALITY ",
           "stream_url": ""
         },
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        },
-        {
-          "channel_name": "FOX SOCCER+ HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "VIX ESPANOL ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mauritania Vs Central African Republic",
-      "eventInfo": {
-        "teamA": "Mauritania",
-        "teamB": "Central African Republic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4779/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23470/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "24/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN SPORTS FHD",
-          "stream_url": "https://a68live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WKinAWpwcmltZXZpZGVvBBpqyQ1QBhpqtUbQA2Zha2FtYWkCeD5wcnNpZDp4TnZHOV8tY08tY3l5R2JlQ1pvS0FpTkxFMjF5cUY5RkZncVZhT1R1TFBDYWhQSkNuVy1oUGc9PRkBOKEFoQJ4My9lbHBtcnlmcGlrL291dC92MS8yN2FhYzFmOWRmOTg0ZDY1YTlkNGI5NWQyMzRmNDQ2OBkBPIJiVVNiTFRYICUdfoIFz-bbnicfY5CLRZttg_XEfqr-nchj9M7E8dY6/PDX/964fda913bb84836b14a78d2e4791671/v1/dash/614115858368/beinus_live_amzn1_dv_live_csid_e896949b-9a5e-4d44-8fec-b22b4425c624_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/elpmryfpik/out/v1/27aac1f9df984d65a9d4b95d234f4468/9d1eeeb6-0a64-4c60-82e0-1a5fda329478-cenc.mpd?aws.sessionId=c27ebc47-35db-4633-91f7-ecf59ce48240",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "kid": "74cbe15488783fab07ff8c702fabafcd",
-          "key": "bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/3020d995-508b-4380-8314-a2da5a6513cd.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/veeeAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "beiN ES HD",
-          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/3020d995-508b-4380-8314-a2da5a6513cd.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "DR Congo Vs Equatorial Guinea",
-      "eventInfo": {
-        "teamA": "DR Congo",
-        "teamB": "Equatorial Guinea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8032/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "24/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/d67c7a76-0f59-42d5-b67f-910b77296273.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/d67c7a76-0f59-42d5-b67f-910b77296273.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/veee.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Libya Vs Botswana",
-      "eventInfo": {
-        "teamA": "Libya",
-        "teamB": "Botswana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4747/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "24/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN1 SPORTSFHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "kid": "335dad778109954503dcbb21dc92015f",
-          "key": "24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/09c7c05e-d6e4-4831-9760-c7343be7f3d1.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/09c7c05e-d6e4-4831-9760-c7343be7f3d1.m3u?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": "http://193.47.62.59/hls/veeeA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -603,6 +460,26 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/ZLLL.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Barça Basket Vs Anadolu Efes",
+      "eventInfo": {
+        "teamA": "Barça Basket",
+        "teamB": "Anadolu Efes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3515/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "25/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/d3239995-344c-49ce-b4a3-543bbd833646.m3u8"
         }
       ]
     },
@@ -637,6 +514,57 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/ARRRRAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Panathinaikos BC Vs Paris Basketball",
+      "eventInfo": {
+        "teamA": "Panathinaikos BC",
+        "teamB": "Paris Basketball",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3508/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "25/09/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/91fa1da5-8de5-4091-bb9e-8d9cf8fbda7c.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ZLLLQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Kosner Baskonia Vs Olympiacos BC",
+      "eventInfo": {
+        "teamA": "Kosner Baskonia",
+        "teamB": "Olympiacos BC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3501/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "25/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/c4378061-c5ef-4019-aa24-88e3cc86e811.m3u8"
         }
       ]
     },
@@ -2567,50 +2495,6 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Kansas City Royals Vs Chicago White Sox",
-      "eventInfo": {
-        "teamA": "Kansas City Royals",
-        "teamB": "Chicago White Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "25/09/2026 12:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY TV ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56995/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ZLLLQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
       "event_name": "Colorado Rockies Vs Arizona Diamondbacks",
       "eventInfo": {
         "teamA": "Colorado Rockies",
@@ -2625,79 +2509,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream5.pro/hls/bzagLHzach19.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Chicago Cubs Vs Miami Marlins",
-      "eventInfo": {
-        "teamA": "Chicago Cubs",
-        "teamB": "Miami Marlins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "25/09/2026 12:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY MLB ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56997/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/ihfazugfyjcazich17.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Texas Rangers Vs New York Mets",
-      "eventInfo": {
-        "teamA": "Texas Rangers",
-        "teamB": "New York Mets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "25/09/2026 12:35:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -4222,77 +4033,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Barça Basket Vs Anadolu Efes",
-      "eventInfo": {
-        "teamA": "Barça Basket",
-        "teamB": "Anadolu Efes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3515/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "25/09/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/d3239995-344c-49ce-b4a3-543bbd833646.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Panathinaikos BC Vs Paris Basketball",
-      "eventInfo": {
-        "teamA": "Panathinaikos BC",
-        "teamB": "Paris Basketball",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3508/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "25/09/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/91fa1da5-8de5-4091-bb9e-8d9cf8fbda7c.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ZLLLQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Kosner Baskonia Vs Olympiacos BC",
-      "eventInfo": {
-        "teamA": "Kosner Baskonia",
-        "teamB": "Olympiacos BC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3501/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "25/09/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "key": "ea07b87acdf2e45be824cde4a1cf3504"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/c4378061-c5ef-4019-aa24-88e3cc86e811.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Japan Vs Nepal",
@@ -4762,6 +4502,52 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "United Arab Emirates Vs Yemen",
+      "eventInfo": {
+        "teamA": "United Arab Emirates",
+        "teamB": "Yemen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
+        "eventName": "Gulf Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
+        "startTime": "24/09/2026 09:55:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "AD1 SPORTS FHD",
+          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+          "kid": "e78769d87a41e15036a4fb8bfdf1371e",
+          "key": "37be0375dc9fe544c3c6de6a105f7c0a"
+        },
+        {
+          "channel_name": "SPORT DIGITAL FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "OMAN SPORTS ",
+          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/f3106042-bf14-49d8-9d1d-7e43cc77c121.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/f3106042-bf14-49d8-9d1d-7e43cc77c121.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ARRRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Uzbekistan Vs Iran",
       "eventInfo": {
         "teamA": "Uzbekistan",
@@ -4781,6 +4567,147 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/ELLLAAAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Andorra Vs Malta",
+      "eventInfo": {
+        "teamA": "Andorra",
+        "teamB": "Malta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "24/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport 1 CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "kid": "a81ee4a694fecd6aa8a682e5024b313c",
+          "key": "6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "FOX SOCCER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56993/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/120/index.m3u8"
+        },
+        {
+          "channel_name": "DAZN ES HD",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-dBdyn%2BXHLaCG5WR5kvY6n2qHlJuBjSjjbyaokvAcRmP14uWdHUFbA5QtqRJWWkkGRHrBwzNpk%2F13epVMXRMK%2FJFkT0yyN4I%3Da/cfall/s2001/v3b/7418r4q8nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_831165/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV 1",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-IxJ7nbnBL6eGuGZ5wfY6mG7XlMPXjX%2FjPSf%2FkvNOQzan5uaaHUFbA5QtqRJWWkkGRHrBwzNpk%2F13epVPUhMK%2FJFkT0yyN4I%3Da/cfall/s2001/v3b/9848r00qnUE0pQbiY3EmAmphZ3umqT0lYz9hMD%3D%3D/super/3x_830538.m3u",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/af91c0fd-6732-4310-a7ea-01c14768668f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/veeeAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "beIN ARABIC",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
+        },
+        {
+          "channel_name": "DISNEY+",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SOCCER+ HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "VIX ESPANOL ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Mauritania Vs Central African Republic",
+      "eventInfo": {
+        "teamA": "Mauritania",
+        "teamB": "Central African Republic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4779/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23470/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "24/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN SPORTS FHD",
+          "stream_url": "https://a68live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WKinAWpwcmltZXZpZGVvBBpqyQ1QBhpqtUbQA2Zha2FtYWkCeD5wcnNpZDp4TnZHOV8tY08tY3l5R2JlQ1pvS0FpTkxFMjF5cUY5RkZncVZhT1R1TFBDYWhQSkNuVy1oUGc9PRkBOKEFoQJ4My9lbHBtcnlmcGlrL291dC92MS8yN2FhYzFmOWRmOTg0ZDY1YTlkNGI5NWQyMzRmNDQ2OBkBPIJiVVNiTFRYICUdfoIFz-bbnicfY5CLRZttg_XEfqr-nchj9M7E8dY6/PDX/964fda913bb84836b14a78d2e4791671/v1/dash/614115858368/beinus_live_amzn1_dv_live_csid_e896949b-9a5e-4d44-8fec-b22b4425c624_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/elpmryfpik/out/v1/27aac1f9df984d65a9d4b95d234f4468/9d1eeeb6-0a64-4c60-82e0-1a5fda329478-cenc.mpd?aws.sessionId=c27ebc47-35db-4633-91f7-ecf59ce48240",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "kid": "74cbe15488783fab07ff8c702fabafcd",
+          "key": "bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/3020d995-508b-4380-8314-a2da5a6513cd.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/veeeAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "beiN ES HD",
+          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/3020d995-508b-4380-8314-a2da5a6513cd.m3u8"
         }
       ]
     },
@@ -4813,6 +4740,79 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/ELLLAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "DR Congo Vs Equatorial Guinea",
+      "eventInfo": {
+        "teamA": "DR Congo",
+        "teamB": "Equatorial Guinea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8032/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "24/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/d67c7a76-0f59-42d5-b67f-910b77296273.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/d67c7a76-0f59-42d5-b67f-910b77296273.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/veee.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Libya Vs Botswana",
+      "eventInfo": {
+        "teamA": "Libya",
+        "teamB": "Botswana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4747/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "24/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN1 SPORTSFHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "kid": "335dad778109954503dcbb21dc92015f",
+          "key": "24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/09c7c05e-d6e4-4831-9760-c7343be7f3d1.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/09c7c05e-d6e4-4831-9760-c7343be7f3d1.m3u?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": "http://193.47.62.59/hls/veeeA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
