@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:40:31 AM 27-09-2026",
+  "last_update_time": "01:00:39 AM 27-09-2026",
   "total_matches": 243,
   "live_match": 68,
   "matches": [
@@ -238,6 +238,32 @@
         },
         {
           "channel_name": "NFL SERVER SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Ottawa Redblacks Vs Calgary Stampeders",
+      "eventInfo": {
+        "teamA": "Ottawa Redblacks",
+        "teamB": "Calgary Stampeders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4433/image",
+        "eventName": "CFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
           "stream_url": ""
         }
       ]
@@ -734,36 +760,35 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Celta Fortuna Vs CE Sabadell",
+      "event_name": "Slovakia Vs Moldova",
       "eventInfo": {
-        "teamA": "Celta Fortuna",
-        "teamB": "CE Sabadell",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "26/09/2026 10:30:00 PM"
+        "teamA": "Slovakia",
+        "teamB": "Moldova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "27/09/2026 12:45:00 AM"
       },
       "streams": [
         {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream2.pro/hls/griogoehvn2.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
           "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/541/index.m3u8"
+          "stream_url": "http://162.251.160.53:8089/13/index.m3u8"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HYPER HD TV ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LALIGA HYP",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "DISNEY ",
+          "channel_name": "DISNEY + HD ",
           "stream_url": ""
         }
       ]
@@ -771,36 +796,42 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CD Tenerife Vs Cádiz",
+      "event_name": "Czechia Vs Croatia",
       "eventInfo": {
-        "teamA": "CD Tenerife",
-        "teamB": "Cádiz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "26/09/2026 10:30:00 PM"
+        "teamA": "Czechia",
+        "teamB": "Croatia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "27/09/2026 12:45:00 AM"
       },
       "streams": [
         {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "kid": "0b42be2664d7e811d04f3e504e0924c5",
+          "key": "ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream2.pro/hls/sqdahach1ax.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
           "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/541/index.m3u8"
+          "stream_url": "http://162.251.160.53:8089/50/index.m3u8"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HYPER HD TV ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LALIGA HYP",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "DISNEY ",
+          "channel_name": "DISNEY + HD ",
           "stream_url": ""
         }
       ]
@@ -808,62 +839,184 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kansas City Current Vs Denver Summit FC",
+      "event_name": "North Macedonia Vs Switzerland",
       "eventInfo": {
-        "teamA": "Kansas City Current",
-        "teamB": "Denver Summit FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/377826/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165117/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "26/09/2026 10:30:00 PM"
+        "teamA": "North Macedonia",
+        "teamB": "Switzerland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4777/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "27/09/2026 12:45:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/DADADAQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADAQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/81/index.m3u8"
+        },
+        {
+          "channel_name": "DISNEY + HD ",
+          "stream_url": ""
         }
       ]
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Oldham Athletic Vs Salford City",
+      "event_name": "Albania Vs Belarus",
       "eventInfo": {
-        "teamA": "Oldham Athletic",
-        "teamB": "Salford City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/65/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image",
-        "eventName": "League Two",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "26/09/2026 10:30:00 PM"
+        "teamA": "Albania",
+        "teamB": "Belarus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4743/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "27/09/2026 12:45:00 AM"
       },
       "streams": [
         {
-          "channel_name": "SKY SPORTS EPL - FHD..",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+          "channel_name": "DAZN SPORTS HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57116/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/102/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADA.m3u8?",
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8?",
           "referer": "http://www.fawanews.sc/"
         },
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-J0d5zraRePeGuzAhx%2FY6yziElMDQ0S3ja3GjxKNKFmWj7rXLHUFbA5QtqRJWWkoGRn%2Fa3zVnmv91eJNOUEEY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/4r6np9r0nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_835103/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "SonyLiv (Asia)",
+          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive2609/ENG/master.m3u8",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/24/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/DKKK.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DISNEY + HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "England Vs Spain",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Spain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "27/09/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "kid": "0b42be2664d7e811d04f3e504e0924c5",
+          "key": "ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "ESPN1 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "kid": "cb004fb100bd92f23793562891e3236b",
+          "key": "b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/36/index.m3u8"
+        },
+        {
+          "channel_name": "DISNEY + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "VIX SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD TV ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Montserrat Vs British Virgin Islands",
+      "eventInfo": {
+        "teamA": "Montserrat",
+        "teamB": "British Virgin Islands",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21810/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/213/index.m3u8"
         }
       ]
     },
@@ -970,74 +1123,26 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Madrid CFF Vs Deportivo Alavés",
+      "event_name": "Queen of The South Vs Rangers B U21",
       "eventInfo": {
-        "teamA": "Madrid CFF",
-        "teamB": "Deportivo Alavés",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/253896/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/388473/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "26/09/2026 10:30:00 PM"
+        "teamA": "Queen of The South",
+        "teamB": "Rangers B U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2368/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/386972/image",
+        "eventName": "Scottish Challenge Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/331/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-IUEtkraXK6eG72UuxfY6yD%2BClJrahCHjOXf8wfVNETT347LMHUFbA5QtqRJWWkoGRn%2Fa3zVnmv91eJNPVkQY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/0q967qo6nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_835770/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "PREMIER1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "kid": "1444f4235529f183f0a5a486befe9cdb",
+          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "France Vs Canada",
-      "eventInfo": {
-        "teamA": "France",
-        "teamB": "Canada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/164616/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/164600/image",
-        "eventName": "WXV, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "startTime": "26/09/2026 09:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "abc5b2883121012850ebda05b528c5ec",
-          "key": "e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/FFFFQQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "FOX SOCCER ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TSN HD 4",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIVE EVENTO HD",
-          "stream_url": ""
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1980/index.m3u8"
         }
       ]
     },
@@ -1063,6 +1168,74 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream5.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Buffalo Sabres Vs Pittsburgh Penguins",
+      "eventInfo": {
+        "teamA": "Buffalo Sabres",
+        "teamB": "Pittsburgh Penguins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/xcxvvghzsadau86.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Nashville Predators Vs Carolina Hurricanes",
+      "eventInfo": {
+        "teamA": "Nashville Predators",
+        "teamB": "Carolina Hurricanes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/nbvevzaheafgu87.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -1147,6 +1320,28 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.50/hls/DSSS1QQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Wyoming Cowboys Vs Hawaii Rainbow Warriors",
+      "eventInfo": {
+        "teamA": "Wyoming Cowboys",
+        "teamB": "Hawaii Rainbow Warriors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4347/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4371/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1253,6 +1448,57 @@
         {
           "channel_name": "DISNEY HD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Estudiantes de La Plata Vs Rosario Central",
+      "eventInfo": {
+        "teamA": "Estudiantes de La Plata",
+        "teamB": "Rosario Central",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "eventName": "Supercopa Internacional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19841/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f836853d8eac19446ed9535f5fc568b1",
+          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "D SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY + HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Volleyball",
+      "event_name": "France Vs Poland",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "Poland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6820/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6827/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -1588,32 +1834,6 @@
         "eventName": "CFL",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
         "startTime": "27/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Ottawa Redblacks Vs Calgary Stampeders",
-      "eventInfo": {
-        "teamA": "Ottawa Redblacks",
-        "teamB": "Calgary Stampeders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4433/image",
-        "eventName": "CFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
       },
       "streams": [
         {
@@ -2318,222 +2538,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Slovakia Vs Moldova",
-      "eventInfo": {
-        "teamA": "Slovakia",
-        "teamB": "Moldova",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "27/09/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream2.pro/hls/griogoehvn2.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/13/index.m3u8"
-        },
-        {
-          "channel_name": "DISNEY + HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Czechia Vs Croatia",
-      "eventInfo": {
-        "teamA": "Czechia",
-        "teamB": "Croatia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "27/09/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "kid": "0b42be2664d7e811d04f3e504e0924c5",
-          "key": "ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream2.pro/hls/sqdahach1ax.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/50/index.m3u8"
-        },
-        {
-          "channel_name": "DISNEY + HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "North Macedonia Vs Switzerland",
-      "eventInfo": {
-        "teamA": "North Macedonia",
-        "teamB": "Switzerland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4777/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "27/09/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/81/index.m3u8"
-        },
-        {
-          "channel_name": "DISNEY + HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Albania Vs Belarus",
-      "eventInfo": {
-        "teamA": "Albania",
-        "teamB": "Belarus",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4743/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "27/09/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/24/index.m3u8"
-        },
-        {
-          "channel_name": "DISNEY + HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "England Vs Spain",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Spain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "27/09/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "kid": "0b42be2664d7e811d04f3e504e0924c5",
-          "key": "ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "ESPN1 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-          "kid": "cb004fb100bd92f23793562891e3236b",
-          "key": "b3e4e74ae2080b137e68bbd0ef8a7e05"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/36/index.m3u8"
-        },
-        {
-          "channel_name": "DISNEY + HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "VIX SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "DISNEY HD 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN HD TV ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Halifax Wanderers FC Vs Atlético Ottawa",
       "eventInfo": {
         "teamA": "Halifax Wanderers FC",
@@ -2575,7 +2579,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Asociación Deportiva Tarma Vs FC Cajamarca",
       "eventInfo": {
@@ -2595,7 +2599,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Saint Martin Vs US Virgin Islands",
       "eventInfo": {
@@ -2651,26 +2655,6 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/433/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Montserrat Vs British Virgin Islands",
-      "eventInfo": {
-        "teamA": "Montserrat",
-        "teamB": "British Virgin Islands",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21815/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21810/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/213/index.m3u8"
         }
       ]
     },
@@ -3297,32 +3281,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Queen of The South Vs Rangers B U21",
-      "eventInfo": {
-        "teamA": "Queen of The South",
-        "teamB": "Rangers B U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2368/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/386972/image",
-        "eventName": "Scottish Challenge Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/331/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1980/index.m3u8"
         }
       ]
     },
@@ -3966,7 +3924,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Ice hockey",
       "event_name": "Los Angeles Kings Vs Anaheim Ducks",
       "eventInfo": {
@@ -4012,74 +3970,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/dzaugyvdgazc90.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Buffalo Sabres Vs Pittsburgh Penguins",
-      "eventInfo": {
-        "teamA": "Buffalo Sabres",
-        "teamB": "Pittsburgh Penguins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/xcxvvghzsadau86.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Nashville Predators Vs Carolina Hurricanes",
-      "eventInfo": {
-        "teamA": "Nashville Predators",
-        "teamB": "Carolina Hurricanes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/nbvevzaheafgu87.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -4510,28 +4400,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Wyoming Cowboys Vs Hawaii Rainbow Warriors",
-      "eventInfo": {
-        "teamA": "Wyoming Cowboys",
-        "teamB": "Hawaii Rainbow Warriors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4347/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4371/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Florida Gators Vs Ole Miss Rebels",
       "eventInfo": {
         "teamA": "Florida Gators",
@@ -4794,7 +4662,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Georgia Southern Eagles Vs Houston Cougars",
       "eventInfo": {
@@ -5454,7 +5322,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "East Carolina Pirates Vs North Carolina Central Eagles",
       "eventInfo": {
@@ -5600,57 +5468,6 @@
         {
           "channel_name": "DISNEY HD ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Estudiantes de La Plata Vs Rosario Central",
-      "eventInfo": {
-        "teamA": "Estudiantes de La Plata",
-        "teamB": "Rosario Central",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
-        "eventName": "Supercopa Internacional",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19841/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f836853d8eac19446ed9535f5fc568b1",
-          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "D SPORTS ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "DISNEY + HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Volleyball",
-      "event_name": "France Vs Poland",
-      "eventInfo": {
-        "teamA": "France",
-        "teamB": "Poland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6820/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6827/image",
-        "eventName": "European Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
-        "startTime": "27/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -6410,6 +6227,43 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Celta Fortuna Vs CE Sabadell",
+      "eventInfo": {
+        "teamA": "Celta Fortuna",
+        "teamB": "CE Sabadell",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/541/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HYPER HD TV ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA HYP",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Granada Vs FC Andorra",
       "eventInfo": {
         "teamA": "Granada",
@@ -6447,6 +6301,43 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "CD Tenerife Vs Cádiz",
+      "eventInfo": {
+        "teamA": "CD Tenerife",
+        "teamB": "Cádiz",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/541/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADAQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HYPER HD TV ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA HYP",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Como Vs Milan",
       "eventInfo": {
         "teamA": "Como",
@@ -6461,6 +6352,32 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kansas City Current Vs Denver Summit FC",
+      "eventInfo": {
+        "teamA": "Kansas City Current",
+        "teamB": "Denver Summit FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/377826/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165117/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/DADADAQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADAQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -6860,6 +6777,42 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Oldham Athletic Vs Salford City",
+      "eventInfo": {
+        "teamA": "Oldham Athletic",
+        "teamB": "Salford City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/65/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+        "eventName": "League Two",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS EPL - FHD..",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/102/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-J0d5zraRePeGuzAhx%2FY6yziElMDQ0S3ja3GjxKNKFmWj7rXLHUFbA5QtqRJWWkoGRn%2Fa3zVnmv91eJNOUEEY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/4r6np9r0nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_835103/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Kuwait Vs Iraq",
       "eventInfo": {
         "teamA": "Kuwait",
@@ -6956,6 +6909,80 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.50/hls/ykkkqQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Madrid CFF Vs Deportivo Alavés",
+      "eventInfo": {
+        "teamA": "Madrid CFF",
+        "teamB": "Deportivo Alavés",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/253896/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/388473/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-IUEtkraXK6eG72UuxfY6yD%2BClJrahCHjOXf8wfVNETT347LMHUFbA5QtqRJWWkoGRn%2Fa3zVnmv91eJNPVkQY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/0q967qo6nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_835770/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "France Vs Canada",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "Canada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164616/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/164600/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "26/09/2026 09:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "abc5b2883121012850ebda05b528c5ec",
+          "key": "e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/FFFFQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "FOX SOCCER ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TSN HD 4",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIVE EVENTO HD",
+          "stream_url": ""
         }
       ]
     },
