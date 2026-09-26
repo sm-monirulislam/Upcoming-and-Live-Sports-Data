@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:27 PM 26-09-2026",
-  "total_matches": 201,
-  "live_match": 12,
+  "last_update_time": "04:40:21 PM 26-09-2026",
+  "total_matches": 214,
+  "live_match": 13,
   "matches": [
     {
       "status": "LIVE",
@@ -323,6 +323,26 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Juventus Vs Napoli",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "Napoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/354947/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "26/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "FC Badalona Vs Granada Club de Fútbol",
       "eventInfo": {
         "teamA": "FC Badalona",
@@ -374,32 +394,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "North Harbour Vs Otago",
-      "eventInfo": {
-        "teamA": "North Harbour",
-        "teamB": "Otago",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42720/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "26/09/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "WORLD SBK Vs WORLD SBK",
       "eventInfo": {
@@ -418,6 +412,32 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Japan Vs South Korea",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22789/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6404/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
+        "startTime": "26/09/2026 04:20:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/GNNNAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GNNNAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1820,7 +1840,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Perth Wildcats Vs New Zealand Breakers",
       "eventInfo": {
@@ -2278,26 +2298,6 @@
         "eventName": "Liga 1 Te Apuesto",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "startTime": "27/09/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Juventus Vs Napoli",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "Napoli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/354947/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "26/09/2026 04:30:00 PM"
       },
       "streams": [
         {
@@ -4780,32 +4780,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Japan Vs South Korea",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "South Korea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22789/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6404/image",
-        "eventName": "Asian Games, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
-        "startTime": "26/09/2026 04:20:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/GNNNAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/GNNNAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Pittsburgh Panthers Vs Bucknell Bison",
@@ -4954,6 +4928,292 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Duke Blue Devils Vs William & Mary Tribe",
+      "eventInfo": {
+        "teamA": "Duke Blue Devils",
+        "teamB": "William & Mary Tribe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4296/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296531/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ".m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Michigan Wolverines Vs Iowa Hawkeyes",
+      "eventInfo": {
+        "teamA": "Michigan Wolverines",
+        "teamB": "Iowa Hawkeyes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4310/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4322/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/rzavbdyua57.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Western Michigan Broncos Vs Boise State Broncos",
+      "eventInfo": {
+        "teamA": "Western Michigan Broncos",
+        "teamB": "Boise State Broncos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4356/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4279/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/earzfddshg58.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Miami (Oh) Red Hawks Vs Connecticut Huskies",
+      "eventInfo": {
+        "teamA": "Miami (Oh) Red Hawks",
+        "teamB": "Connecticut Huskies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4311/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4382/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "New Mexico State Aggies Vs New Mexico Lobos",
+      "eventInfo": {
+        "teamA": "New Mexico State Aggies",
+        "teamB": "New Mexico Lobos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4333/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4384/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Buffalo Bulls Vs Robert Morris Colonials",
+      "eventInfo": {
+        "teamA": "Buffalo Bulls",
+        "teamB": "Robert Morris Colonials",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4376/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/324976/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Ohio Bobcats Vs Stonehill Skyhawks",
+      "eventInfo": {
+        "teamA": "Ohio Bobcats",
+        "teamB": "Stonehill Skyhawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4350/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/453874/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ".m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Sharks Vs Ospreys",
+      "eventInfo": {
+        "teamA": "Sharks",
+        "teamB": "Ospreys",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4187/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8082/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "26/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ".m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Munster Vs Glasgow Warriors",
+      "eventInfo": {
+        "teamA": "Munster",
+        "teamB": "Glasgow Warriors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4214/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ".m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Fidelity ADT Lions Vs Leinster Rugby",
+      "eventInfo": {
+        "teamA": "Fidelity ADT Lions",
+        "teamB": "Leinster Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4184/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4210/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "26/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ".m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Zebre Rugby Vs Vodacom Bulls XV",
+      "eventInfo": {
+        "teamA": "Zebre Rugby",
+        "teamB": "Vodacom Bulls XV",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/75331/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245501/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "26/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ".m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Marshall Thundering Herd Vs Gardner-Webb Runnin Bulldogs",
+      "eventInfo": {
+        "teamA": "Marshall Thundering Herd",
+        "teamB": "Gardner-Webb Runnin Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4337/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296560/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Georgia Southern Eagles Vs Houston Cougars",
+      "eventInfo": {
+        "teamA": "Georgia Southern Eagles",
+        "teamB": "Houston Cougars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/46394/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61358/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -5295,6 +5555,32 @@
         "eventName": "National Provincial Championship",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
         "startTime": "26/09/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "North Harbour Vs Otago",
+      "eventInfo": {
+        "teamA": "North Harbour",
+        "teamB": "Otago",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42720/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "26/09/2026 01:10:00 PM"
       },
       "streams": [
         {
