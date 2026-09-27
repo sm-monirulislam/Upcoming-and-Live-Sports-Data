@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:40:24 PM 27-09-2026",
+  "last_update_time": "05:00:22 PM 27-09-2026",
   "total_matches": 125,
-  "live_match": 16,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -358,34 +358,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Sydney Kings Vs Illawarra Hawks",
-      "eventInfo": {
-        "teamA": "Sydney Kings",
-        "teamB": "Illawarra Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "27/09/2026 02:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Athletic Club Vs Club Atlético de Madrid",
       "eventInfo": {
@@ -581,6 +553,32 @@
       ]
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Inter Vs Fiorentina",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "Fiorentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/264911/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "27/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/YAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/YAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Spain U20 Vs North Korea U20",
@@ -718,7 +716,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Cycling Vs Cycling",
       "eventInfo": {
@@ -1521,7 +1519,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Seychelles Vs Sri Lanka",
       "eventInfo": {
@@ -1989,7 +1987,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Manchester United Vs West Ham",
       "eventInfo": {
@@ -2497,7 +2495,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Real Valladolid Vs Córdoba",
       "eventInfo": {
@@ -3597,28 +3595,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Inter Vs Fiorentina",
-      "eventInfo": {
-        "teamA": "Inter",
-        "teamB": "Fiorentina",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/264911/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "27/09/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "South Africa U20 Vs Mozambique U20",
@@ -4048,6 +4024,34 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Sydney Kings Vs Illawarra Hawks",
+      "eventInfo": {
+        "teamA": "Sydney Kings",
+        "teamB": "Illawarra Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "eventName": "NBL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "27/09/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
