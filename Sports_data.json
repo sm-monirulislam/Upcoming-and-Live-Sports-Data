@@ -2,40 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:43 PM 28-09-2026",
+  "last_update_time": "03:40:24 PM 28-09-2026",
   "total_matches": 50,
-  "live_match": 3,
+  "live_match": 4,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Singapore Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "Singapore",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "28/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTS FHD",
-          "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-          "channel_name": "ISCREEN FHD",
-          "stream_url": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8",
-          "referer": "https://iscreen.com.bd/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.zundrixmediapipeline.com/live/channel15.m3u8",
-          "referer": "https://soco.domainkqt.cc/"
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -140,6 +110,36 @@
         {
           "channel_name": "MAX SPORTS 2HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Singapore Vs Bangladesh",
+      "eventInfo": {
+        "teamA": "Singapore",
+        "teamB": "Bangladesh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "28/09/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTS FHD",
+          "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+          "channel_name": "ISCREEN FHD",
+          "stream_url": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8",
+          "referer": "https://iscreen.com.bd/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.zundrixmediapipeline.com/live/channel15.m3u8",
+          "referer": "https://soco.domainkqt.cc/"
         }
       ]
     },
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Japan Vs Venezuela",
       "eventInfo": {
