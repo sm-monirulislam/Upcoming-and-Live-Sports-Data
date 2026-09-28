@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:40:34 PM 28-09-2026",
-  "total_matches": 48,
-  "live_match": 4,
+  "last_update_time": "09:00:37 PM 28-09-2026",
+  "total_matches": 52,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -199,32 +199,25 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Malaysia Vs Indonesia",
+      "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "Snooker Vs Snooker",
       "eventInfo": {
-        "teamA": "Malaysia",
-        "teamB": "Indonesia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "28/09/2026 06:30:00 PM"
+        "teamA": "Snooker",
+        "teamB": "Snooker",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "eventName": "Snooker",
+        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "startTime": "28/09/2026 11:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live1.dyrur1.com/live/73685530_4939e894aac6c1896e88f4178ab8d75b_1080p.m3u8?auth_key=1790607295-0-0-4b8ab6cca8b4026f2a7f899b8597fa8d"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/NUUUQQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4650043.m3u8?txSecret=91de1babd4dcbb747c27873c601c6fd4&txTime=6ABA59FF",
-          "referer": "https://player.online909.com/"
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
         }
       ]
     },
@@ -335,6 +328,30 @@
         },
         {
           "channel_name": "CW PIX HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
+      "eventInfo": {
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "28/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME FHD ",
           "stream_url": ""
         }
       ]
@@ -542,7 +559,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Georgia Vs Ukraine",
       "eventInfo": {
@@ -585,11 +602,15 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Latvia Vs Cyprus",
       "eventInfo": {
@@ -602,6 +623,10 @@
         "startTime": "28/09/2026 10:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
         {
           "channel_name": "HD STREAM ",
           "stream_url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8",
@@ -623,7 +648,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Armenia Vs Montenegro",
       "eventInfo": {
@@ -649,6 +674,12 @@
           "key": "98cff9600995fa381c76fdacf3c7edae"
         },
         {
+          "channel_name": "SPORT 1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
           "channel_name": "HD STREAM ",
           "stream_url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
           "referer": "https://streame.center",
@@ -657,6 +688,10 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/22/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -703,6 +738,10 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -729,6 +768,10 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/60/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
@@ -776,6 +819,10 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/16/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
@@ -829,6 +876,10 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/22/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -855,6 +906,10 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/45/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
@@ -891,7 +946,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Equatorial Guinea Vs Sierra Leone",
       "eventInfo": {
@@ -911,7 +966,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Zimbabwe Vs DR Congo",
       "eventInfo": {
@@ -937,7 +992,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Central African Republic Vs Burkina Faso",
       "eventInfo": {
@@ -1171,6 +1226,56 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Necaxa W Vs Toluca W",
+      "eventInfo": {
+        "teamA": "Necaxa W",
+        "teamB": "Toluca W",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274432/image",
+        "teamBFlag": "j",
+        "eventName": "Liga MX, Apertura Women's",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "29/09/2026 07:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "kid": "d1a163914db8ffad2c3e94f979896a0d",
+          "key": "9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ca Lanus Vs Gimnasia (CR)",
+      "eventInfo": {
+        "teamA": "Ca Lanus",
+        "teamB": "Gimnasia (CR)",
+        "teamAFlag": "b",
+        "teamBFlag": "b",
+        "eventName": "Baloncesto Argentina Liga Nacional",
+        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
+        "startTime": "29/09/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TYC SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TYC SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TYC HD TV",
+          "stream_url": ""
         }
       ]
     },
@@ -1623,6 +1728,36 @@
         {
           "channel_name": "HD QUALITY 2 ",
           "stream_url": "https://live1.dyrur1.com/live/73685530_4939e894aac6c1896e88f4178ab8d75b_1080p.m3u8?auth_key=1790607295-0-0-4b8ab6cca8b4026f2a7f899b8597fa8d"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Malaysia Vs Indonesia",
+      "eventInfo": {
+        "teamA": "Malaysia",
+        "teamB": "Indonesia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "28/09/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live1.dyrur1.com/live/73685530_4939e894aac6c1896e88f4178ab8d75b_1080p.m3u8?auth_key=1790607295-0-0-4b8ab6cca8b4026f2a7f899b8597fa8d"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/NUUUQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4650043.m3u8?txSecret=91de1babd4dcbb747c27873c601c6fd4&txTime=6ABA59FF",
+          "referer": "https://player.online909.com/"
         }
       ]
     },
