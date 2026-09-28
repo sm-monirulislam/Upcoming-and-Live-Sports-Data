@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:48 AM 29-09-2026",
+  "last_update_time": "04:40:34 AM 29-09-2026",
   "total_matches": 94,
-  "live_match": 6,
+  "live_match": 5,
   "matches": [
     {
       "status": "LIVE",
@@ -166,15 +166,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sportivo San Lorenzo Vs Recoleta FC",
+      "event_name": "Libertad Vs Olimpia",
       "eventInfo": {
-        "teamA": "Sportivo San Lorenzo",
-        "teamB": "Recoleta FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90972/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+        "teamA": "Libertad",
+        "teamB": "Olimpia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5996/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5997/image",
         "eventName": "Primera División",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "29/09/2026 02:00:00 AM"
+        "startTime": "29/09/2026 04:15:00 AM"
       },
       "streams": [
         {
@@ -1651,26 +1651,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Libertad Vs Olimpia",
-      "eventInfo": {
-        "teamA": "Libertad",
-        "teamB": "Olimpia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5996/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5997/image",
-        "eventName": "Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "29/09/2026 04:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "DISNEY HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "New York Yankees Vs Boston Red Sox",
@@ -2865,6 +2845,26 @@
         {
           "channel_name": "Link 1",
           "stream_url": "https://no.link"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sportivo San Lorenzo Vs Recoleta FC",
+      "eventInfo": {
+        "teamA": "Sportivo San Lorenzo",
+        "teamB": "Recoleta FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90972/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+        "eventName": "Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "29/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
