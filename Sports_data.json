@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:40:34 AM 29-09-2026",
+  "last_update_time": "05:00:33 AM 29-09-2026",
   "total_matches": 94,
-  "live_match": 5,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -166,6 +166,26 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Montevideo Wanderers Vs Albion FC",
+      "eventInfo": {
+        "teamA": "Montevideo Wanderers",
+        "teamB": "Albion FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3240/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/278204/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "29/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "DISNEY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Libertad Vs Olimpia",
       "eventInfo": {
         "teamA": "Libertad",
@@ -184,7 +204,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "WWE RAW Vs WWE RAW",
       "eventInfo": {
@@ -491,7 +511,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Saint Kitts and Nevis Vs Grenada",
       "eventInfo": {
@@ -545,7 +565,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Jamaica Vs Honduras",
       "eventInfo": {
@@ -571,7 +591,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Saint Lucia Vs Bermuda",
       "eventInfo": {
@@ -1627,26 +1647,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Montevideo Wanderers Vs Albion FC",
-      "eventInfo": {
-        "teamA": "Montevideo Wanderers",
-        "teamB": "Albion FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3240/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/278204/image",
-        "eventName": "Liga AUF Uruguaya",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-        "startTime": "29/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "DISNEY ",
-          "stream_url": ""
         }
       ]
     },
