@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:40:28 AM 28-09-2026",
+  "last_update_time": "11:00:32 AM 28-09-2026",
   "total_matches": 65,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -212,44 +212,6 @@
         },
         {
           "channel_name": "MAX SPORTS 2HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Hong Kong C.",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Hong Kong C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187774/image",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
-        "startTime": "28/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd",
-          "kid": "4a2e91842dcb199f01178ea0c3d63b03",
-          "key": "482194761e3cb8c3e37d09f246a3aa72"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8"
-        },
-        {
-          "channel_name": "HD TV LIVE",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW TV",
           "stream_url": ""
         }
       ]
@@ -1666,6 +1628,44 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Pakistan Vs Hong Kong C.",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Hong Kong C.",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187774/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "startTime": "28/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd",
+          "kid": "4a2e91842dcb199f01178ea0c3d63b03",
+          "key": "482194761e3cb8c3e37d09f246a3aa72"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8"
+        },
+        {
+          "channel_name": "HD TV LIVE",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW TV",
+          "stream_url": ""
         }
       ]
     },
