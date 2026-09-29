@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:02:03 AM 29-09-2026",
+  "last_update_time": "10:40:32 AM 29-09-2026",
   "total_matches": 92,
-  "live_match": 3,
+  "live_match": 2,
   "matches": [
     {
       "status": "LIVE",
@@ -68,40 +68,6 @@
         },
         {
           "channel_name": "HD QUICK 2 ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Guatemala Vs El Salvador",
-      "eventInfo": {
-        "teamA": "Guatemala",
-        "teamB": "El Salvador",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY. ",
-          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
-        },
-        {
-          "channel_name": "TUDN US ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "VIX SPORTS ",
           "stream_url": ""
         }
       ]
@@ -2617,6 +2583,40 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/1609/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Guatemala Vs El Salvador",
+      "eventInfo": {
+        "teamA": "Guatemala",
+        "teamB": "El Salvador",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY. ",
+          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
+        },
+        {
+          "channel_name": "TUDN US ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "VIX SPORTS ",
+          "stream_url": ""
         }
       ]
     },
