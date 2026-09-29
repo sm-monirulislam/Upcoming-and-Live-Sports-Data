@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:40:28 AM 29-09-2026",
+  "last_update_time": "07:00:47 AM 29-09-2026",
   "total_matches": 94,
-  "live_match": 9,
+  "live_match": 10,
   "matches": [
     {
       "status": "LIVE",
@@ -307,6 +307,38 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Ca Lanus Vs Gimnasia (CR)",
+      "eventInfo": {
+        "teamA": "Ca Lanus",
+        "teamB": "Gimnasia (CR)",
+        "teamAFlag": "b",
+        "teamBFlag": "b",
+        "eventName": "Baloncesto Argentina Liga Nacional",
+        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
+        "startTime": "29/09/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TYC SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TYC 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TYC SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TYC HD TV",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Montevideo Wanderers Vs Albion FC",
       "eventInfo": {
         "teamA": "Montevideo Wanderers",
@@ -507,7 +539,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Guatemala Vs El Salvador",
       "eventInfo": {
@@ -599,38 +631,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "kid": "d1a163914db8ffad2c3e94f979896a0d",
           "key": "9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ca Lanus Vs Gimnasia (CR)",
-      "eventInfo": {
-        "teamA": "Ca Lanus",
-        "teamB": "Gimnasia (CR)",
-        "teamAFlag": "b",
-        "teamBFlag": "b",
-        "eventName": "Baloncesto Argentina Liga Nacional",
-        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
-        "startTime": "29/09/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TYC SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TYC 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TYC SPORTS ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TYC HD TV",
-          "stream_url": ""
         }
       ]
     },
