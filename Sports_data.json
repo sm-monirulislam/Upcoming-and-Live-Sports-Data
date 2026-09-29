@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:02:05 AM 30-09-2026",
+  "last_update_time": "02:40:42 AM 30-09-2026",
   "total_matches": 110,
-  "live_match": 31,
+  "live_match": 30,
   "matches": [
     {
       "status": "LIVE",
@@ -1165,20 +1165,20 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Atletico Rafaela Reserve Vs Ferro Carril Oeste Reserve",
+      "event_name": "Deportivo Pereira Vs Independiente Santa Fe",
       "eventInfo": {
-        "teamA": "Atletico Rafaela Reserve",
-        "teamB": "Ferro Carril Oeste Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/256887/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/267566/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "30/09/2026 12:00:00 AM"
+        "teamA": "Deportivo Pereira",
+        "teamB": "Independiente Santa Fe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "30/09/2026 02:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TV QUICK ",
-          "stream_url": "http://162.251.160.53:8089/2456/index.m3u8"
+          "channel_name": "WIN PLUS ",
+          "stream_url": ""
         }
       ]
     },
@@ -2776,26 +2776,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportivo Pereira Vs Independiente Santa Fe",
-      "eventInfo": {
-        "teamA": "Deportivo Pereira",
-        "teamB": "Independiente Santa Fe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "30/09/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WIN PLUS ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Independiente Medellín Vs Millonarios",
@@ -3836,6 +3816,26 @@
           "channel_name": "SPORTV 🇵🇹",
           "stream_url": "https://netanjahu.hls.st/t/21f1d7760c65eac212bfeeabc9131eab/index.m3u8",
           "referer": "https://iplayer.is/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atletico Rafaela Reserve Vs Ferro Carril Oeste Reserve",
+      "eventInfo": {
+        "teamA": "Atletico Rafaela Reserve",
+        "teamB": "Ferro Carril Oeste Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/256887/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/267566/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "30/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUICK ",
+          "stream_url": "http://162.251.160.53:8089/2456/index.m3u8"
         }
       ]
     },
