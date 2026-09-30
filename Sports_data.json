@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:56 PM 30-09-2026",
+  "last_update_time": "04:41:20 PM 30-09-2026",
   "total_matches": 78,
   "live_match": 8,
   "matches": [
@@ -291,31 +291,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "New Zealand Breakers Vs Cairns Taipans",
-      "eventInfo": {
-        "teamA": "New Zealand Breakers",
-        "teamB": "Cairns Taipans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/122090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "30/09/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ARRR.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Sydney Kings Vs Brisbane Bullets",
       "eventInfo": {
         "teamA": "Sydney Kings",
@@ -423,7 +398,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "South Africa Vs Australia",
       "eventInfo": {
@@ -2308,6 +2283,31 @@
         {
           "channel_name": "LALIGA HYP2 HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "New Zealand Breakers Vs Cairns Taipans",
+      "eventInfo": {
+        "teamA": "New Zealand Breakers",
+        "teamB": "Cairns Taipans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/122090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "eventName": "NBL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "30/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ARRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
