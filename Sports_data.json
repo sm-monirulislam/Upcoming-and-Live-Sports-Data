@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:35 AM 01-10-2026",
+  "last_update_time": "05:41:14 AM 01-10-2026",
   "total_matches": 192,
   "live_match": 17,
   "matches": [
@@ -63,23 +63,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Unión Española Vs Universidad Catolica",
+      "event_name": "New York Red Bulls Vs St.Louis City",
       "eventInfo": {
-        "teamA": "Unión Española",
-        "teamB": "Universidad Catolica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/268086/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/458305/image",
-        "eventName": "Chile Primera Division Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/22003/image/dark",
-        "startTime": "01/10/2026 03:00:00 AM"
+        "teamA": "New York Red Bulls",
+        "teamB": "St.Louis City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "01/10/2026 05:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TNT SPORTS",
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1089/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
           "stream_url": ""
         },
         {
-          "channel_name": "TNT CHILE HD",
+          "channel_name": "MLS TV HD",
           "stream_url": ""
         }
       ]
@@ -155,6 +159,65 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream3.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Philadelphia Flyers Vs Pittsburgh Penguins",
+      "eventInfo": {
+        "teamA": "Philadelphia Flyers",
+        "teamB": "Pittsburgh Penguins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "01/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Toronto Maple Leafs Vs New York Islanders",
+      "eventInfo": {
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "New York Islanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "01/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/hjksgdfauzy51.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -252,93 +315,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "New York Red Bulls Vs St.Louis City",
-      "eventInfo": {
-        "teamA": "New York Red Bulls",
-        "teamB": "St.Louis City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "01/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1089/index.m3u8"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "MLS TV HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Philadelphia Flyers Vs Pittsburgh Penguins",
-      "eventInfo": {
-        "teamA": "Philadelphia Flyers",
-        "teamB": "Pittsburgh Penguins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "01/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Toronto Maple Leafs Vs New York Islanders",
-      "eventInfo": {
-        "teamA": "Toronto Maple Leafs",
-        "teamB": "New York Islanders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "01/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
         }
       ]
     },
@@ -545,7 +521,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Oriente Petrolero Vs The Strongest",
       "eventInfo": {
@@ -4483,6 +4459,30 @@
           "channel_name": "FASTER TV ",
           "stream_url": "https://live.vivo155.com/live/hd-en-1-4646517.m3u8?txSecret=e4964621a2a419efb9d3555184b37893&txTime=6ABD6FBF",
           "referer": "https://player.online909.com/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Unión Española Vs Universidad Catolica",
+      "eventInfo": {
+        "teamA": "Unión Española",
+        "teamB": "Universidad Catolica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/268086/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/458305/image",
+        "eventName": "Chile Primera Division Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/22003/image/dark",
+        "startTime": "01/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT CHILE HD",
+          "stream_url": ""
         }
       ]
     },
