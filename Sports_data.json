@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:24 PM 30-09-2026",
+  "last_update_time": "05:41:19 PM 30-09-2026",
   "total_matches": 78,
-  "live_match": 12,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -175,6 +175,55 @@
     },
     {
       "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "South Africa Vs Australia",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "30/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
+          "kid": "a863373d1894da249fd9b4333b7e3815",
+          "key": "34ea0cb8018cc4f6a014eb0c171ee486"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
+          "kid": "a863373d1894da249fd9b4333b7e3815",
+          "key": "34ea0cb8018cc4f6a014eb0c171ee486"
+        },
+        {
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW2 SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "American football Vs American football",
       "eventInfo": {
@@ -315,36 +364,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "East Timor Vs Cambodia",
-      "eventInfo": {
-        "teamA": "East Timor",
-        "teamB": "Cambodia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23497/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "30/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FAST SERVER",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4639762.m3u8?txSecret=aad0878c05db684963f3b436848e4e55&txTime=6ABCE4C6",
-          "referer": "https://player.online909.com/"
-        },
-        {
-          "channel_name": "FAST SERVER 2 ",
-          "stream_url": "https://live1.dyrur1.com/live/74557480_bc0215ab38c282f1c8d6a5e9bf8bb723_1080p.m3u8?auth_key=1790773377-0-0-d48887e5f2f2cf174908e7697b0da5b5"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/ARRRaa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
@@ -394,43 +413,6 @@
           "channel_name": "2 TV Use VPN ",
           "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
           "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Australia",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "30/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW2 SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
@@ -2307,6 +2289,36 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/ARRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "East Timor Vs Cambodia",
+      "eventInfo": {
+        "teamA": "East Timor",
+        "teamB": "Cambodia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23497/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "30/09/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FAST SERVER",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4639762.m3u8?txSecret=aad0878c05db684963f3b436848e4e55&txTime=6ABCE4C6",
+          "referer": "https://player.online909.com/"
+        },
+        {
+          "channel_name": "FAST SERVER 2 ",
+          "stream_url": "https://live1.dyrur1.com/live/74557480_bc0215ab38c282f1c8d6a5e9bf8bb723_1080p.m3u8?auth_key=1790773377-0-0-d48887e5f2f2cf174908e7697b0da5b5"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/ARRRaa.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
