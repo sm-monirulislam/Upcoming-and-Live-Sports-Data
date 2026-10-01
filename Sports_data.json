@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:01:06 PM 01-10-2026",
-  "total_matches": 177,
-  "live_match": 13,
+  "last_update_time": "11:40:52 PM 01-10-2026",
+  "total_matches": 179,
+  "live_match": 15,
   "matches": [
     {
       "status": "LIVE",
@@ -41,6 +41,17 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l0mwmdk5ca/out/v1/9a3c8cab0543471ab00696a87699faa8/26a8fa13-1953-49b1-8d93-e224b2daf226-cenc.mpd?aws_sessionId=61d47e66-c52a-413a-8d94-07116c10c814",
+          "kid": "f54f5db269608dd70b0c968abfd29e99",
+          "key": "4e0b49c71c67f13805e1f658f3853ab7"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4646520.m3u8?txSecret=c735bca9b87c5a1fb46aacca20e3b8ec&txTime=6ABE9DEF",
+          "referer": "https://player.online909.com/"
+        },
+        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/897/index.m3u8"
         },
@@ -69,6 +80,19 @@
         "startTime": "01/10/2026 10:45:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rsawguycf0/out/v1/532e56a5aec14edf92170cfbee5e5ca3/9d9f065e-0aea-4bc9-a25e-eb3bde86013e-cenc.mpd?aws_sessionId=db2f6a15-93ab-403c-ab70-4c156cdf3694",
+          "kid": "a477e9323b693f30c2e203f67363ca61",
+          "key": "ec0a14d47c3069fa21faeafbe5775b5d"
+        },
+        {
+          "channel_name": "FANCODE FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
         {
           "channel_name": "ESPN4 ARGENTINA FHD",
           "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
@@ -369,6 +393,11 @@
         {
           "channel_name": "XTREME FHD4",
           "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ZRRRAAAAAx.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -392,6 +421,19 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f3df7843080ae743bf865dc5fdf64c68",
           "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "NBC SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vdvoy68xd0/out/v1/e20553bb54a2432380925bb88b27b466/cenc.mpd",
+          "kid": "6430e07d1e9b61ec5ad6d162e900f8cd",
+          "key": "00a050917bf6606ef26749bb34dea0bf"
+        },
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -450,7 +492,33 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "San Marino U21 Vs Spain U21",
+      "eventInfo": {
+        "teamA": "San Marino U21",
+        "teamB": "Spain U21",
+        "teamAFlag": "data:image/png;base64,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",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22479/image",
+        "eventName": "Euro U21",
+        "event_logo": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+        "startTime": "02/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/JJJJFAAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/JJJJFAAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Virtus Bologna Vs Olympiacos BC",
       "eventInfo": {
@@ -465,7 +533,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/YFFF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/YFFF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -542,6 +616,10 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY + HD",
+          "stream_url": ""
         }
       ]
     },
@@ -559,6 +637,13 @@
         "startTime": "02/10/2026 12:45:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
+          "key": "78a6c0a41972dfdba2145ae0ad4bd681"
+        },
         {
           "channel_name": "BEIN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
@@ -581,6 +666,14 @@
           "stream_url": "https://edgestream2.pro/hls/sqdahach1ax.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "DISNEY + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "VIX SPORTS+ HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -696,6 +789,10 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY + HD",
+          "stream_url": ""
         }
       ]
     },
@@ -720,6 +817,10 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY + HD",
+          "stream_url": ""
         }
       ]
     },
@@ -739,7 +840,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/YFFFQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/YFFFQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -766,6 +873,12 @@
           "key": "5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "ESPN5 ARGENTINA FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd",
+          "kid": "4e126297fc7af35c736bdffe98eecaaa",
+          "key": "fdb0091cf67d9c596dbfb07cf6f4c8f5"
+        },
+        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/675/index.m3u8"
         },
@@ -780,6 +893,14 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0gsvvx31s/index.m3u8"
+        },
+        {
+          "channel_name": "ESPN HD 5",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN DEPORTES ",
+          "stream_url": ""
         }
       ]
     },
@@ -876,6 +997,10 @@
         {
           "channel_name": "FOX SOCCER  HD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SOCCER",
+          "stream_url": ""
         }
       ]
     },
@@ -931,6 +1056,26 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/45/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Olimpia Vs Sportivo Luqueño",
+      "eventInfo": {
+        "teamA": "Olimpia",
+        "teamB": "Sportivo Luqueño",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5998/image",
+        "eventName": "Copa Paraguay",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13614/image/dark",
+        "startTime": "02/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TIGGO SPORTS ",
+          "stream_url": ""
         }
       ]
     },
@@ -1129,6 +1274,14 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/112/index.m3u8"
+        },
+        {
+          "channel_name": "VIX SPORTS+ HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "VIX SPORTS+ HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1152,6 +1305,10 @@
         },
         {
           "channel_name": "FOX SOCCER  HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "VIX SPORTS+ HD ",
           "stream_url": ""
         }
       ]
@@ -1257,6 +1414,10 @@
         {
           "channel_name": "TYC SPORTS ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "TYC SPORTS ",
+          "stream_url": ""
         }
       ]
     },
@@ -1303,6 +1464,18 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX ONE HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SPORTS ARGENTINA",
           "stream_url": ""
         }
       ]
@@ -1435,6 +1608,10 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/451/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
         }
       ]
     },
@@ -1461,6 +1638,14 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/334/index.m3u8"
+        },
+        {
+          "channel_name": "VIX SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SOCCER ",
+          "stream_url": ""
         }
       ]
     },
@@ -1567,6 +1752,10 @@
         },
         {
           "channel_name": "TUDN US HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US ",
           "stream_url": ""
         }
       ]
