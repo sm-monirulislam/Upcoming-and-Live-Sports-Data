@@ -2,10 +2,36 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:40:57 PM 01-10-2026",
+  "last_update_time": "08:01:15 PM 01-10-2026",
   "total_matches": 163,
   "live_match": 7,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "WRC Rally Vs WRC Rally",
+      "eventInfo": {
+        "teamA": "WRC Rally",
+        "teamB": "WRC Rally",
+        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "eventName": "WRC Rally",
+        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
+        "startTime": "01/10/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RALLY TV HD",
+          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -320,32 +346,6 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "WRC Rally Vs WRC Rally",
-      "eventInfo": {
-        "teamA": "WRC Rally",
-        "teamB": "WRC Rally",
-        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "eventName": "WRC Rally",
-        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
-        "startTime": "01/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RALLY TV HD",
-          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
         }
       ]
     },
