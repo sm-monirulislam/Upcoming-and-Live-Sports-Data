@@ -2,10 +2,64 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:01:04 PM 02-10-2026",
+  "last_update_time": "03:40:39 PM 02-10-2026",
   "total_matches": 151,
-  "live_match": 9,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Illawarra Hawks Vs Adelaide 36ers",
+      "eventInfo": {
+        "teamA": "Illawarra Hawks",
+        "teamB": "Adelaide 36ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "02/10/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/TTTTTa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Richmond Tigers Vs Geelong Cats",
+      "eventInfo": {
+        "teamA": "Richmond Tigers",
+        "teamB": "Geelong Cats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334441/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/307632/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "02/10/2026 03:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -22,7 +76,17 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/TTTTTX.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/TTTTTX.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790931386-0-0-ef622f7a9efb1ae305b3d391347ad973"
         }
       ]
     },
@@ -42,33 +106,43 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/TTTTX.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/TTTTX.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001790931344-0-0-aa77906d1a89b2a15f4cfc7f2a0c5172"
         }
       ]
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Southland Vs Northland",
+      "Category": "Motorsports",
+      "event_name": "WRC Rally Vs WRC Rally",
       "eventInfo": {
-        "teamA": "Southland",
-        "teamB": "Northland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42719/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "02/10/2026 12:10:00 PM"
+        "teamA": "WRC Rally",
+        "teamB": "WRC Rally",
+        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "eventName": "WRC Rally",
+        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
+        "startTime": "02/10/2026 12:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/USSSSAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "RALLY TV HD",
+          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/USSSSAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
         }
       ]
     },
@@ -316,55 +390,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Richmond Tigers Vs Geelong Cats",
-      "eventInfo": {
-        "teamA": "Richmond Tigers",
-        "teamB": "Geelong Cats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334441/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "02/10/2026 03:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Illawarra Hawks Vs Adelaide 36ers",
-      "eventInfo": {
-        "teamA": "Illawarra Hawks",
-        "teamB": "Adelaide 36ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "02/10/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "North Korea Vs Japan",
       "eventInfo": {
@@ -3571,32 +3596,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Motorsports",
-      "event_name": "WRC Rally Vs WRC Rally",
-      "eventInfo": {
-        "teamA": "WRC Rally",
-        "teamB": "WRC Rally",
-        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "eventName": "WRC Rally",
-        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
-        "startTime": "01/10/2026 10:04:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RALLY TV HD",
-          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
@@ -3736,6 +3735,32 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/FEEEa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Southland Vs Northland",
+      "eventInfo": {
+        "teamA": "Southland",
+        "teamB": "Northland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42719/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "02/10/2026 12:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/USSSSAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/USSSSAAAAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
