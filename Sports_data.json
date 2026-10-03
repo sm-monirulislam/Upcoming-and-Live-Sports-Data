@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:40:59 AM 04-10-2026",
+  "last_update_time": "03:01:09 AM 04-10-2026",
   "total_matches": 193,
   "live_match": 43,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sint Maarten Vs Saint Vincent and the Grenadines",
+      "eventInfo": {
+        "teamA": "Sint Maarten",
+        "teamB": "Saint Vincent and the Grenadines",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/298263/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21821/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "04/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Fox Soccer Plus HD ",
+          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1121/index.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "American football",
@@ -1312,50 +1336,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "United Arab Emirates Vs Oman",
-      "eventInfo": {
-        "teamA": "United Arab Emirates",
-        "teamB": "Oman",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
-        "eventName": "Gulf Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/622/image/dark",
-        "startTime": "04/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "AD1 SPORTS FHD",
-          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
-          "kid": "e78769d87a41e15036a4fb8bfdf1371e",
-          "key": "37be0375dc9fe544c3c6de6a105f7c0a"
-        },
-        {
-          "channel_name": "ALKASS ONE HD",
-          "stream_url": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8"
-        },
-        {
-          "channel_name": "KTV Sport",
-          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "channel_name": "OMAN SPORTS HD",
-          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "channel_name": "Bahrain Sports ",
-          "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "American football",
       "event_name": "Ball State Cardinals Vs Toledo Rockets",
       "eventInfo": {
@@ -1516,30 +1496,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sint Maarten Vs Saint Vincent and the Grenadines",
-      "eventInfo": {
-        "teamA": "Sint Maarten",
-        "teamB": "Saint Vincent and the Grenadines",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/298263/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21821/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "04/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Fox Soccer Plus HD ",
-          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1121/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Deportes Tolima Vs Boyacá Chicó FC",
       "eventInfo": {
         "teamA": "Deportes Tolima",
@@ -1590,7 +1546,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Colorado State Rams Vs Oregon State Beavers",
       "eventInfo": {
@@ -5808,6 +5764,50 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/EKKKA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "United Arab Emirates Vs Oman",
+      "eventInfo": {
+        "teamA": "United Arab Emirates",
+        "teamB": "Oman",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
+        "eventName": "Gulf Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/622/image/dark",
+        "startTime": "04/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "AD1 SPORTS FHD",
+          "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+          "kid": "e78769d87a41e15036a4fb8bfdf1371e",
+          "key": "37be0375dc9fe544c3c6de6a105f7c0a"
+        },
+        {
+          "channel_name": "ALKASS ONE HD",
+          "stream_url": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8"
+        },
+        {
+          "channel_name": "KTV Sport",
+          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+        },
+        {
+          "channel_name": "OMAN SPORTS HD",
+          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        },
+        {
+          "channel_name": "Bahrain Sports ",
+          "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
         }
       ]
     }
