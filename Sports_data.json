@@ -2,10 +2,67 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:01:11 PM 03-10-2026",
+  "last_update_time": "08:40:39 PM 03-10-2026",
   "total_matches": 187,
-  "live_match": 37,
+  "live_match": 34,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Almería Vs Burgos Club de Fútbol",
+      "eventInfo": {
+        "teamA": "Almería",
+        "teamB": "Burgos Club de Fútbol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "03/10/2026 08:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/shhhhaAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LALIGA TV HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HYPER 1",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Bristol Bears Vs Northampton Saints",
+      "eventInfo": {
+        "teamA": "Bristol Bears",
+        "teamB": "Northampton Saints",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4191/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4194/image",
+        "eventName": "Prem Rugby",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
+        "startTime": "03/10/2026 08:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YLLLAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -262,6 +319,12 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/b5zby1jbve/out/v1/531c1463c1ee4d8ab101c8b3c329e265/ea1ce94d-d20c-43ff-bd9d-7da7e037159e-cenc.mpd?aws_sessionId=f3b1295a-51c7-4903-945b-ca0c849e5992",
+          "kid": "b79602745d7423aa189d0a5f7e8a7890",
+          "key": "d11257362469a86ab0ee55bd101f6ec2"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "http://193.47.62.50/hls/UBBBQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
@@ -388,6 +451,12 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gr4vwhg4or/out/v1/450824ba21ae42f2ad633c704e22124f/9d80c700-6c6c-4cda-bae1-729f72f5a982-cenc.mpd?aws_sessionId=78027d49-0c67-4582-832c-afc733a5d29d",
+          "kid": "6eeaa4a457390dc570b6a2a08086bc41",
+          "key": "9ddabdf1dae94b3892c2340abb731899"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "http://193.47.62.50/hls/UBBBQQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
@@ -476,6 +545,12 @@
           "key": "98cff9600995fa381c76fdacf3c7edae"
         },
         {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
           "channel_name": "FOX SPORTS HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/57453/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
@@ -556,31 +631,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Albacete Balompié Vs Eibar",
-      "eventInfo": {
-        "teamA": "Albacete Balompié",
-        "teamB": "Eibar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "03/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/shhhhaAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LALIGA TV HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "CYCLING EVENTO Vs CYCLING EVENTO",
       "eventInfo": {
@@ -612,53 +662,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "RB Leipzig Vs 1. FSV Mainz 05",
-      "eventInfo": {
-        "teamA": "RB Leipzig",
-        "teamB": "1. FSV Mainz 05",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/322623/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/484512/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "03/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/shhhhaA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/shhhhaA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Simba Queens Vs YJTK Queens",
-      "eventInfo": {
-        "teamA": "Simba Queens",
-        "teamB": "YJTK Queens",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "eventName": "Tanzanian Premier League W",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "03/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.44/hls/shhhha.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -1335,63 +1338,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Bristol Bears Vs Northampton Saints",
-      "eventInfo": {
-        "teamA": "Bristol Bears",
-        "teamB": "Northampton Saints",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4191/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4194/image",
-        "eventName": "Prem Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
-        "startTime": "03/10/2026 08:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/YLLLAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Almería Vs Burgos Club de Fútbol",
-      "eventInfo": {
-        "teamA": "Almería",
-        "teamB": "Burgos Club de Fútbol",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "03/10/2026 08:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/shhhhaAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LALIGA TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HYPER 1",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Russia Vs Namibia",
       "eventInfo": {
@@ -1738,6 +1684,12 @@
           "key": "ae24090123b8c72ac5404dc152847cb8"
         },
         {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
           "channel_name": "BEIN2 ARABIC HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
         },
@@ -1795,6 +1747,12 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
         },
         {
           "channel_name": "BEIN1 ARABIC HD ",
@@ -2173,6 +2131,12 @@
           "key": "ae24090123b8c72ac5404dc152847cb8"
         },
         {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
           "channel_name": "Fox Soccer Plus HD ",
           "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
         },
@@ -2254,6 +2218,12 @@
         "startTime": "04/10/2026 12:45:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
         {
           "channel_name": "BEIN2 ARABIC HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
@@ -5607,6 +5577,78 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/EPPPPQQQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Albacete Balompié Vs Eibar",
+      "eventInfo": {
+        "teamA": "Albacete Balompié",
+        "teamB": "Eibar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "03/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/shhhhaAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LALIGA TV HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "RB Leipzig Vs 1. FSV Mainz 05",
+      "eventInfo": {
+        "teamA": "RB Leipzig",
+        "teamB": "1. FSV Mainz 05",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/322623/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/484512/image",
+        "eventName": "Frauen-Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
+        "startTime": "03/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/shhhhaA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/shhhhaA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Simba Queens Vs YJTK Queens",
+      "eventInfo": {
+        "teamA": "Simba Queens",
+        "teamB": "YJTK Queens",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "eventName": "Tanzanian Premier League W",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "03/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/shhhha.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
