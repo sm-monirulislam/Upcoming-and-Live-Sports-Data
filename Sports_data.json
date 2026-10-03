@@ -2,10 +2,30 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:45 PM 03-10-2026",
+  "last_update_time": "04:40:37 PM 03-10-2026",
   "total_matches": 199,
   "live_match": 19,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Parma Vs Ternana",
+      "eventInfo": {
+        "teamA": "Parma",
+        "teamB": "Ternana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/424787/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/492465/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "03/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -218,39 +238,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f3df7843080ae743bf865dc5fdf64c68",
           "key": "567c863bc12eb74788ea74888c042e1b"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Brisbane Bullets Vs Tasmania Jackjumpers",
-      "eventInfo": {
-        "teamA": "Brisbane Bullets",
-        "teamB": "Tasmania Jackjumpers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "03/10/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/AAAAqqq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
         }
       ]
     },
@@ -680,26 +667,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Parma Vs Ternana",
-      "eventInfo": {
-        "teamA": "Parma",
-        "teamB": "Ternana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/424787/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/492465/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "03/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
@@ -805,7 +772,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Chesterfield Vs Tranmere Rovers",
       "eventInfo": {
@@ -5590,6 +5557,39 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Brisbane Bullets Vs Tasmania Jackjumpers",
+      "eventInfo": {
+        "teamA": "Brisbane Bullets",
+        "teamB": "Tasmania Jackjumpers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/233139/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "03/10/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/AAAAqqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     }
