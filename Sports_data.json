@@ -2,10 +2,45 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:05 PM 03-10-2026",
-  "total_matches": 199,
-  "live_match": 24,
+  "last_update_time": "05:40:45 PM 03-10-2026",
+  "total_matches": 200,
+  "live_match": 26,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chesterfield Vs Tranmere Rovers",
+      "eventInfo": {
+        "teamA": "Chesterfield",
+        "teamB": "Tranmere Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/68/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/51/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "03/10/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "kid": "0b42be2664d7e811d04f3e504e0924c5",
+          "key": "ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "SKY FOOTBALL HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
+        },
+        {
+          "channel_name": "BEIN2 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EPPPPQQQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -67,36 +102,10 @@
       "eventInfo": {
         "teamA": "WCL 2026",
         "teamB": "WCL 2026",
-        "teamAFlag": "k",
-        "teamBFlag": "k",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
         "eventName": "World Champions Legends 2026 ",
-        "event_logo": "c",
-        "startTime": "03/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "WILLOW2 SPORTS HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "WCL 2026 Vs WCL 2026",
-      "eventInfo": {
-        "teamA": "WCL 2026",
-        "teamB": "WCL 2026",
-        "teamAFlag": "k",
-        "teamBFlag": "k",
-        "eventName": "World Champions Legends 2026 ",
-        "event_logo": "c",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
         "startTime": "03/10/2026 05:00:00 PM"
       },
       "streams": [
@@ -128,7 +137,8 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.41/hls/HOOOQQQQQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -168,13 +178,23 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/HOOOQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "stream_url": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8",
+          "referer": "https://iscreen.com.bd/"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/HOOOQQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY TV",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "referer": "https://tapmad.com/"
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": "https://live2.zundrixmediapipeline.com/live/channel15.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
         }
       ]
     },
@@ -773,31 +793,22 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chesterfield Vs Tranmere Rovers",
+      "Category": "Rugby",
+      "event_name": "Fidelity ADT Lions Vs Ospreys",
       "eventInfo": {
-        "teamA": "Chesterfield",
-        "teamB": "Tranmere Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/68/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/51/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "03/10/2026 05:30:00 PM"
+        "teamA": "Fidelity ADT Lions",
+        "teamB": "Ospreys",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4184/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8082/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "03/10/2026 05:45:00 PM"
       },
       "streams": [
         {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "kid": "0b42be2664d7e811d04f3e504e0924c5",
-          "key": "ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "SKY FOOTBALL HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
-        },
-        {
-          "channel_name": "BEIN2 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/EPPPPQQQQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -918,7 +929,28 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Simba Queens Vs YJTK Queens",
+      "eventInfo": {
+        "teamA": "Simba Queens",
+        "teamB": "YJTK Queens",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "eventName": "Tanzanian Premier League W",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "03/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/shhhha.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Manchester United Vs Liverpool FC",
       "eventInfo": {
