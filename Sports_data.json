@@ -2,10 +2,46 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:37 PM 04-10-2026",
+  "last_update_time": "12:40:37 PM 04-10-2026",
   "total_matches": 136,
-  "live_match": 15,
+  "live_match": 13,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "West Coast Eagles Vs Fremantle Dockers",
+      "eventInfo": {
+        "teamA": "West Coast Eagles",
+        "teamB": "Fremantle Dockers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245077/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "04/10/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+          "key": "552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -304,32 +340,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Bay of Plenty Vs North Harbour",
-      "eventInfo": {
-        "teamA": "Bay of Plenty",
-        "teamB": "North Harbour",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42725/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42715/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "04/10/2026 09:35:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/GNNNNaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/GNNNNaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
       "eventInfo": {
@@ -442,33 +452,6 @@
         {
           "channel_name": "MAX SPORTS 2HD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Arizona Wildcats Vs Cincinnati Bearcats",
-      "eventInfo": {
-        "teamA": "Arizona Wildcats",
-        "teamB": "Cincinnati Bearcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4343/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4316/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "04/10/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/uheyztezgj34.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/UWWWA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -644,42 +627,6 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "West Coast Eagles Vs Fremantle Dockers",
-      "eventInfo": {
-        "teamA": "West Coast Eagles",
-        "teamB": "Fremantle Dockers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245077/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "04/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-          "key": "552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d3250252765347a0c2603c6cb4869f8c",
-          "key": "0c19319460da7e9ed816db46ce839b37"
         }
       ]
     },
@@ -4168,6 +4115,33 @@
     },
     {
       "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Arizona Wildcats Vs Cincinnati Bearcats",
+      "eventInfo": {
+        "teamA": "Arizona Wildcats",
+        "teamB": "Cincinnati Bearcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4343/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4316/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "04/10/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/uheyztezgj34.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/UWWWA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Necaxa Vs Cruz Azul",
       "eventInfo": {
@@ -4189,6 +4163,32 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/tllllQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Bay of Plenty Vs North Harbour",
+      "eventInfo": {
+        "teamA": "Bay of Plenty",
+        "teamB": "North Harbour",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42725/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42715/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "04/10/2026 09:35:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/GNNNNaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GNNNNaq.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
