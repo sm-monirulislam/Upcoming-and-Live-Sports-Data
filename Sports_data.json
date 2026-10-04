@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:40:34 AM 05-10-2026",
+  "last_update_time": "03:00:49 AM 05-10-2026",
   "total_matches": 130,
-  "live_match": 31,
+  "live_match": 33,
   "matches": [
     {
       "status": "LIVE",
@@ -936,35 +936,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "O'Higgins Vs Deportes Concepción",
-      "eventInfo": {
-        "teamA": "O'Higgins",
-        "teamB": "Deportes Concepción",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "05/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RLLLLQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "TNT CHILE HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT CHILE ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Atlanta Dream Vs New York Liberty",
       "eventInfo": {
@@ -1260,7 +1231,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Trinidad and Tobago Vs Curaçao",
       "eventInfo": {
@@ -1286,7 +1257,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Puerto Rico Vs Cayman Islands",
       "eventInfo": {
@@ -1310,7 +1281,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New York Rangers Vs Utah Mammoth",
       "eventInfo": {
@@ -4722,6 +4693,35 @@
         },
         {
           "channel_name": "SD SERVER ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "O'Higgins Vs Deportes Concepción",
+      "eventInfo": {
+        "teamA": "O'Higgins",
+        "teamB": "Deportes Concepción",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "05/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RLLLLQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "TNT CHILE HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT CHILE ",
           "stream_url": ""
         }
       ]
