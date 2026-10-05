@@ -2,10 +2,36 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:40:42 PM 05-10-2026",
+  "last_update_time": "07:00:59 PM 05-10-2026",
   "total_matches": 68,
-  "live_match": 8,
+  "live_match": 7,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Indonesia Vs Thailand",
+      "eventInfo": {
+        "teamA": "Indonesia",
+        "teamB": "Thailand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ekkkkAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -56,32 +82,6 @@
         {
           "channel_name": "2 TV Use VPN ",
           "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Japan Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "05/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ekkkkAAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
@@ -278,32 +278,6 @@
         {
           "channel_name": "NFL SERVER SD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Indonesia Vs Thailand",
-      "eventInfo": {
-        "teamA": "Indonesia",
-        "teamB": "Thailand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "05/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.55/hls/ekkkkAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ekkkkAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -2186,6 +2160,32 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Japan Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "05/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkAAA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
