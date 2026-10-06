@@ -2,10 +2,36 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:41:30 PM 06-10-2026",
+  "last_update_time": "10:02:16 PM 06-10-2026",
   "total_matches": 120,
-  "live_match": 8,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Russia Vs Nigeria",
+      "eventInfo": {
+        "teamA": "Russia",
+        "teamB": "Nigeria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "06/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "http://193.47.62.44/hls/kokoko.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kokoko.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -482,26 +508,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Russia Vs Nigeria",
-      "eventInfo": {
-        "teamA": "Russia",
-        "teamB": "Nigeria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "06/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Jordan Vs Venezuela",
       "eventInfo": {
         "teamA": "Jordan",
@@ -520,7 +526,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Algeria Vs Niger",
       "eventInfo": {
@@ -1558,6 +1564,10 @@
         "startTime": "07/10/2026 06:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2211/index.m3u8"
+        },
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
