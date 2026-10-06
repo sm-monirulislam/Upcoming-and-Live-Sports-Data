@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:41:01 AM 07-10-2026",
+  "last_update_time": "03:01:03 AM 07-10-2026",
   "total_matches": 126,
-  "live_match": 19,
+  "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Saint Vincent and the Grenadines Vs Sint Maarten",
+      "eventInfo": {
+        "teamA": "Saint Vincent and the Grenadines",
+        "teamB": "Sint Maarten",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21821/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/298263/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "07/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -1084,28 +1106,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Saint Vincent and the Grenadines Vs Sint Maarten",
-      "eventInfo": {
-        "teamA": "Saint Vincent and the Grenadines",
-        "teamB": "Sint Maarten",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21821/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/298263/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "07/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Real Potosí Vs CD San Antonio",
       "eventInfo": {
         "teamA": "Real Potosí",
@@ -1124,7 +1124,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Atlanta Braves Vs Los Angeles Dodgers",
       "eventInfo": {
