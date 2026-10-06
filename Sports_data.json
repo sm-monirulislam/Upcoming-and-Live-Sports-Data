@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:40:33 PM 06-10-2026",
+  "last_update_time": "05:00:27 PM 06-10-2026",
   "total_matches": 120,
-  "live_match": 5,
+  "live_match": 6,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "South Korea Vs Uzbekistan",
+      "eventInfo": {
+        "teamA": "South Korea",
+        "teamB": "Uzbekistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "06/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -193,28 +215,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "South Korea Vs Uzbekistan",
-      "eventInfo": {
-        "teamA": "South Korea",
-        "teamB": "Uzbekistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "06/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "CYCLING EVENTO Vs CYCLING EVENTO",
       "eventInfo": {
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
