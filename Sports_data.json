@@ -2,10 +2,65 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:35 PM 06-10-2026",
+  "last_update_time": "07:40:43 PM 06-10-2026",
   "total_matches": 120,
-  "live_match": 9,
+  "live_match": 8,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "India Vs West Indies",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "eventName": "T20 International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "06/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd",
+          "kid": "4a822aaf010c2bd57b138e3733c6a2c0",
+          "key": "f8c4fbf1f95f17a91b19250e573e55fe"
+        },
+        {
+          "channel_name": "TNT SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd",
+          "kid": "4a822aaf010c2bd57b138e3733c6a2c0",
+          "key": "f8c4fbf1f95f17a91b19250e573e55fe"
+        },
+        {
+          "channel_name": "HOTSTAR HIN (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
+          "referer": "https://www.hotstar.com/"
+        },
+        {
+          "channel_name": "HOTSTAR TAM (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd?",
+          "referer": "https://www.hotstar.com/"
+        },
+        {
+          "channel_name": "HOTSTAR TEL (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068283/9fdb797729344658957bd7382590c557/index.mpd?",
+          "referer": "https://www.hotstar.com/"
+        },
+        {
+          "channel_name": "HOTSTAR KAN (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp2/gec-india-1540068325/822fe9161d924f25a8f14d9a4e6f1b34/index.mpd?",
+          "referer": "https://www.hotstar.com/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -118,32 +173,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/GYGYGYAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "South Korea Vs Uzbekistan",
-      "eventInfo": {
-        "teamA": "South Korea",
-        "teamB": "Uzbekistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "06/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/GYGYGYA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ]
@@ -335,35 +364,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "India Vs West Indies",
-      "eventInfo": {
-        "teamA": "India",
-        "teamB": "West Indies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-        "eventName": "T20 International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "06/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "India Vs Uruguay",
       "eventInfo": {
@@ -397,6 +397,13 @@
       },
       "streams": [
         {
+          "channel_name": "beIN3 ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "kid": "09453ce820d65fbc675de3185f9e454c",
@@ -409,8 +416,23 @@
           "key": "dd3f96a94c909da48ff40c92aabf8cf3"
         },
         {
+          "channel_name": "FOX SPORTS HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57664/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "BEIN2 ARABIC HD ",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY FAST",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4518047.m3u8?txSecret=40a9463f21b037ad6388dbab66f3dd02&txTime=6AC50A39",
+          "referer": "https://player.online909.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/VUUUAAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -3631,6 +3653,32 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "South Korea Vs Uzbekistan",
+      "eventInfo": {
+        "teamA": "South Korea",
+        "teamB": "Uzbekistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "06/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/GYGYGYA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     }
