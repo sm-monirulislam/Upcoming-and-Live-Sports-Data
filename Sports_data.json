@@ -2,10 +2,46 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:01:03 AM 07-10-2026",
+  "last_update_time": "06:41:02 AM 07-10-2026",
   "total_matches": 126,
   "live_match": 24,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chicago Fire Vs Vancouver Whitecaps",
+      "eventInfo": {
+        "teamA": "Chicago Fire",
+        "teamB": "Vancouver Whitecaps",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "07/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2211/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "MLS TV HD",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -715,46 +751,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Olimpia Vs Nacional Asunción",
-      "eventInfo": {
-        "teamA": "Olimpia",
-        "teamB": "Nacional Asunción",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/33001/image",
-        "eventName": "Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "07/10/2026 04:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Primera División",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Real Potosí Vs CD San Antonio",
-      "eventInfo": {
-        "teamA": "Real Potosí",
-        "teamB": "CD San Antonio",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7060/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/396625/image",
-        "eventName": "Copa Bolivia",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19891/image/dark",
-        "startTime": "07/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Atlanta Braves Vs Los Angeles Dodgers",
       "eventInfo": {
@@ -874,42 +870,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chicago Fire Vs Vancouver Whitecaps",
-      "eventInfo": {
-        "teamA": "Chicago Fire",
-        "teamB": "Vancouver Whitecaps",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "07/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2211/index.m3u8"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "APPLE TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "APPLE TV SD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "MLS TV HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Utah Jazz Vs Denver Nuggets",
       "eventInfo": {
@@ -941,7 +901,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "San Diego Padres Vs Milwaukee Brewers",
       "eventInfo": {
@@ -992,7 +952,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Seattle Kraken Vs Vegas Golden Knights",
       "eventInfo": {
@@ -4508,6 +4468,46 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "kid": "09453ce820d65fbc675de3185f9e454c",
           "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Real Potosí Vs CD San Antonio",
+      "eventInfo": {
+        "teamA": "Real Potosí",
+        "teamB": "CD San Antonio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7060/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/396625/image",
+        "eventName": "Copa Bolivia",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19891/image/dark",
+        "startTime": "07/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Olimpia Vs Nacional Asunción",
+      "eventInfo": {
+        "teamA": "Olimpia",
+        "teamB": "Nacional Asunción",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33001/image",
+        "eventName": "Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "07/10/2026 04:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Primera División",
+          "stream_url": ""
         }
       ]
     }
