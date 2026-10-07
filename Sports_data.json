@@ -2,35 +2,43 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:07 PM 07-10-2026",
+  "last_update_time": "05:41:02 PM 07-10-2026",
   "total_matches": 100,
-  "live_match": 4,
+  "live_match": 3,
   "matches": [
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Adelaide 36ers Vs Melbourne United",
+      "Category": "Cricket",
+      "event_name": "WCL 2026 Vs WCL 2026",
       "eventInfo": {
-        "teamA": "Adelaide 36ers",
-        "teamB": "Melbourne United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "07/10/2026 02:30:00 PM"
+        "teamA": "WCL 2026",
+        "teamB": "WCL 2026",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+        "eventName": "World Champions Legends 2026 ",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+        "startTime": "07/10/2026 05:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/ZRRR.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": ""
+          "channel_name": "STAR SPORTS HD",
+          "stream_url": "http://51.75.127.199:3141/starsports2/index.m3u8"
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "WILLOW2 SPORTS HD",
           "stream_url": ""
         }
       ]
@@ -225,43 +233,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "WCL 2026 Vs WCL 2026",
-      "eventInfo": {
-        "teamA": "WCL 2026",
-        "teamB": "WCL 2026",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
-        "eventName": "World Champions Legends 2026 ",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
-        "startTime": "07/10/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "STAR SPORTS HD",
-          "stream_url": "http://51.75.127.199:3141/starsports2/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "WILLOW2 SPORTS HD",
-          "stream_url": ""
         }
       ]
     },
@@ -3225,6 +3196,35 @@
         },
         {
           "channel_name": "AZECTA HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Adelaide 36ers Vs Melbourne United",
+      "eventInfo": {
+        "teamA": "Adelaide 36ers",
+        "teamB": "Melbourne United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "07/10/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/ZRRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME FHD ",
           "stream_url": ""
         }
       ]
