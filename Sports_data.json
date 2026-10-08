@@ -2,10 +2,45 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:00 AM 09-10-2026",
+  "last_update_time": "04:41:03 AM 09-10-2026",
   "total_matches": 134,
-  "live_match": 17,
+  "live_match": 22,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Santos Vs Flamengo",
+      "eventInfo": {
+        "teamA": "Santos",
+        "teamB": "Flamengo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "09/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Baseball",
@@ -74,28 +109,6 @@
         {
           "channel_name": "LIGA MX HD 2",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "MAS de Fès Vs Raja Club Athletic",
-      "eventInfo": {
-        "teamA": "MAS de Fès",
-        "teamB": "Raja Club Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55035/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41757/image",
-        "eventName": "Botola Pro",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/937/image/dark",
-        "startTime": "09/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -200,41 +213,6 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Santos Vs Flamengo",
-      "eventInfo": {
-        "teamA": "Santos",
-        "teamB": "Flamengo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "09/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIERER1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         }
       ]
     },
@@ -575,7 +553,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Arkansas State Red Wolves Vs South Alabama Jaguars",
       "eventInfo": {
@@ -597,7 +575,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "UTSA Roadrunners Vs South Florida Bulls",
       "eventInfo": {
@@ -619,7 +597,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Miami Heat Vs New Orleans Pelicans",
       "eventInfo": {
@@ -659,7 +637,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "New York Knicks Vs Washington Wizards",
       "eventInfo": {
@@ -699,7 +677,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Brooklyn Nets Vs Philadelphia 76ers",
       "eventInfo": {
@@ -735,7 +713,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New York Islanders Vs Chicago Blackhawks",
       "eventInfo": {
@@ -4032,6 +4010,28 @@
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/VEEEA.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "MAS de Fès Vs Raja Club Athletic",
+      "eventInfo": {
+        "teamA": "MAS de Fès",
+        "teamB": "Raja Club Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55035/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41757/image",
+        "eventName": "Botola Pro",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/937/image/dark",
+        "startTime": "09/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     }
