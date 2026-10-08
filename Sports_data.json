@@ -2,10 +2,30 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:41:04 PM 08-10-2026",
-  "total_matches": 92,
-  "live_match": 6,
+  "last_update_time": "11:01:21 PM 08-10-2026",
+  "total_matches": 95,
+  "live_match": 11,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Skellefteå AIK Vs Färjestad BK",
+      "eventInfo": {
+        "teamA": "Skellefteå AIK",
+        "teamB": "Färjestad BK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3740/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3728/image",
+        "eventName": "SHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/261/image/dark",
+        "startTime": "08/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkzhk6r3/index.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -166,26 +186,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Skellefteå AIK Vs Färjestad BK",
-      "eventInfo": {
-        "teamA": "Skellefteå AIK",
-        "teamB": "Färjestad BK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3740/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3728/image",
-        "eventName": "SHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/261/image/dark",
-        "startTime": "08/10/2026 11:00:00 PM"
-      },
-      "streams": [
+        },
         {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkzhk6r3/index.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -210,7 +214,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Coastal Union Vs Azam FC",
       "eventInfo": {
@@ -230,7 +234,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CD Moquegua Vs Cienciano",
       "eventInfo": {
@@ -254,7 +258,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlético Tucumán Reserve Vs Talleres de Córdoba Reserve",
       "eventInfo": {
@@ -274,7 +278,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sarmiento Reserve Vs Vélez Sarsfield Reserve",
       "eventInfo": {
@@ -298,7 +302,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Bayern München Vs Virtus Bologna",
       "eventInfo": {
@@ -1159,6 +1163,18 @@
         {
           "channel_name": "PRIME VEDIO SD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "FOX ARGENTINA",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX ONE HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD5",
+          "stream_url": ""
         }
       ]
     },
@@ -1311,6 +1327,14 @@
       },
       "streams": [
         {
+          "channel_name": "ESPN MX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN MX HD2",
+          "stream_url": ""
+        },
+        {
           "channel_name": "ESPN HD 2",
           "stream_url": ""
         }
@@ -1372,16 +1396,16 @@
           "key": "e5250924f4b738905f7163a0134587a7"
         },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bvnzadfvyt59.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
           "channel_name": "PREMIER1 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
           "kid": "1444f4235529f183f0a5a486befe9cdb",
           "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "HD QUALITY ",
@@ -2016,6 +2040,84 @@
     {
       "status": "UPCOMING",
       "Category": "American football",
+      "event_name": "Oklahoma State Cowboys Vs UCF Knights",
+      "eventInfo": {
+        "teamA": "Oklahoma State Cowboys",
+        "teamB": "UCF Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4281/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4309/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "10/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Pittsburgh Panthers Vs North Carolina Tar Heels",
+      "eventInfo": {
+        "teamA": "Pittsburgh Panthers",
+        "teamB": "North Carolina Tar Heels",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4307/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "10/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Pittsburgh Panthers Vs North Carolina Tar Heels",
+      "eventInfo": {
+        "teamA": "Pittsburgh Panthers",
+        "teamB": "North Carolina Tar Heels",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4307/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "10/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
       "event_name": "Winnipeg Blue Bombers Vs Calgary Stampeders",
       "eventInfo": {
         "teamA": "Winnipeg Blue Bombers",
@@ -2054,6 +2156,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2076,6 +2182,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2098,6 +2208,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2120,6 +2234,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2142,6 +2260,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2164,6 +2286,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2186,6 +2312,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2208,6 +2338,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2256,6 +2390,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": " XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2278,6 +2416,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2300,6 +2442,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2322,6 +2468,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
