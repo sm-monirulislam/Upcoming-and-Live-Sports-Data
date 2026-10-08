@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:41:03 AM 09-10-2026",
+  "last_update_time": "02:01:05 AM 09-10-2026",
   "total_matches": 134,
   "live_match": 17,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "MAS de Fès Vs Raja Club Athletic",
+      "eventInfo": {
+        "teamA": "MAS de Fès",
+        "teamB": "Raja Club Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55035/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41757/image",
+        "eventName": "Botola Pro",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/937/image/dark",
+        "startTime": "09/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -321,34 +343,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CFR 1907 Cluj Vs FC Universitatea Cluj",
-      "eventInfo": {
-        "teamA": "CFR 1907 Cluj",
-        "teamB": "FC Universitatea Cluj",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5287/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7734/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "08/10/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1233/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUICK ",
-          "stream_url": "https://live2.dyrur1.com/live/74197348_1e931bfeaf32969a1c3c7b20a9dc9369_1080p.m3u8?auth_key=1791494478-0-0-80853823682beb959b73835c52ccbc96"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Skellefteå AIK Vs Färjestad BK",
       "eventInfo": {
@@ -454,28 +448,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "MAS de Fès Vs Raja Club Athletic",
-      "eventInfo": {
-        "teamA": "MAS de Fès",
-        "teamB": "Raja Club Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55035/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41757/image",
-        "eventName": "Botola Pro",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/937/image/dark",
-        "startTime": "09/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Club Atlético Grau Vs Los Chankas CYC",
       "eventInfo": {
         "teamA": "Club Atlético Grau",
@@ -498,7 +470,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Chicago White Sox Vs Cleveland Guardians",
       "eventInfo": {
@@ -4032,6 +4004,34 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CFR 1907 Cluj Vs FC Universitatea Cluj",
+      "eventInfo": {
+        "teamA": "CFR 1907 Cluj",
+        "teamB": "FC Universitatea Cluj",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5287/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7734/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "08/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1233/index.m3u8"
+        },
+        {
+          "channel_name": "HD QUICK ",
+          "stream_url": "https://live2.dyrur1.com/live/74197348_1e931bfeaf32969a1c3c7b20a9dc9369_1080p.m3u8?auth_key=1791494478-0-0-80853823682beb959b73835c52ccbc96"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": ""
         }
       ]
     }
