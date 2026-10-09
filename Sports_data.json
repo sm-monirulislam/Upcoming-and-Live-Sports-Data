@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:31:39 AM 10-10-2026",
+  "last_update_time": "02:01:46 AM 10-10-2026",
   "total_matches": 260,
   "live_match": 30,
   "matches": [
@@ -650,34 +650,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Aldosivi Vs Sarmiento",
-      "eventInfo": {
-        "teamA": "Aldosivi",
-        "teamB": "Sarmiento",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36836/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "09/10/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1637/index.m3u8"
-        },
-        {
-          "channel_name": "TNT SPORTS ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT1 AR SPORTS",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
       "eventInfo": {
@@ -1011,7 +983,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Gimnasia y Esgrima Vs Atlético Tucumán",
       "eventInfo": {
@@ -7163,6 +7135,34 @@
         {
           "channel_name": "BEIN SPORTS USA",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Aldosivi Vs Sarmiento",
+      "eventInfo": {
+        "teamA": "Aldosivi",
+        "teamB": "Sarmiento",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "09/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1637/index.m3u8"
+        },
+        {
+          "channel_name": "TNT SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT1 AR SPORTS",
+          "stream_url": ""
         }
       ]
     }
