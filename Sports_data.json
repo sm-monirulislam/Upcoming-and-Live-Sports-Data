@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:31:42 AM 09-10-2026",
+  "last_update_time": "12:01:53 PM 09-10-2026",
   "total_matches": 131,
   "live_match": 9,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Afghanistan Vs Bangladesh",
+      "eventInfo": {
+        "teamA": "Afghanistan",
+        "teamB": "Bangladesh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "eventName": "Test Series",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
+        "startTime": "09/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -417,28 +439,6 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "Test Series",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
-        "startTime": "09/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
