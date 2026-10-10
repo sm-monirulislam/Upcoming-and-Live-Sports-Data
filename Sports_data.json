@@ -2,10 +2,72 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:36 AM 11-10-2026",
+  "last_update_time": "04:01:47 AM 11-10-2026",
   "total_matches": 191,
-  "live_match": 40,
+  "live_match": 55,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Florida Panthers Vs Minnesota Wild",
+      "eventInfo": {
+        "teamA": "Florida Panthers",
+        "teamB": "Minnesota Wild",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "11/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY NHL",
+          "stream_url": "https://edgestream5.pro/hls/nbekiurtghjhfza83.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Oregon State Beavers Vs San Diego State Aztecs",
+      "eventInfo": {
+        "teamA": "Oregon State Beavers",
+        "teamB": "San Diego State Aztecs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4299/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4363/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "11/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -439,46 +501,6 @@
           "channel_name": "STREAM TV + LIVE",
           "stream_url": "https://chatgpt.hereisman.net/playlist/57844/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Académico Viseu FC Vs Estoril Praia",
-      "eventInfo": {
-        "teamA": "Académico Viseu FC",
-        "teamB": "Estoril Praia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "11/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Brazil Vs Argentina",
-      "eventInfo": {
-        "teamA": "Brazil",
-        "teamB": "Argentina",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7409/image",
-        "eventName": "International Friendly Games Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/852/image/dark",
-        "startTime": "11/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -984,34 +1006,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Leinster Rugby Vs Cardiff Rugby",
-      "eventInfo": {
-        "teamA": "Leinster Rugby",
-        "teamB": "Cardiff Rugby",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4210/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4215/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "11/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/AMMMAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
@@ -1335,68 +1329,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Florida Panthers Vs Minnesota Wild",
-      "eventInfo": {
-        "teamA": "Florida Panthers",
-        "teamB": "Minnesota Wild",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "11/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY NHL",
-          "stream_url": "https://edgestream5.pro/hls/nbekiurtghjhfza83.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Oregon State Beavers Vs San Diego State Aztecs",
-      "eventInfo": {
-        "teamA": "Oregon State Beavers",
-        "teamB": "San Diego State Aztecs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4299/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4363/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "11/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Tigre Vs Banfield",
       "eventInfo": {
@@ -1473,7 +1405,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Winnipeg Blue Bombers Vs Calgary Stampeders",
       "eventInfo": {
@@ -1507,7 +1439,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Querétaro FC Vs Atlante FC",
       "eventInfo": {
@@ -1549,7 +1481,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Juárez Vs Club Tijuana",
       "eventInfo": {
@@ -1587,7 +1519,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pittsburgh Riverhounds Vs Hartford Athletic",
       "eventInfo": {
@@ -1611,7 +1543,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Universidad Católica Vs Audax Italiano",
       "eventInfo": {
@@ -1631,7 +1563,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Washington Wizards Vs Detroit Pistons",
       "eventInfo": {
@@ -1671,7 +1603,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Indiana Pacers Vs Atlanta Hawks",
       "eventInfo": {
@@ -1711,7 +1643,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Buffalo Sabres Vs Utah Mammoth",
       "eventInfo": {
@@ -1751,7 +1683,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Montréal Canadiens Vs Detroit Red Wings",
       "eventInfo": {
@@ -1791,7 +1723,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Pittsburgh Penguins Vs Dallas Stars",
       "eventInfo": {
@@ -1831,7 +1763,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Carolina Hurricanes",
       "eventInfo": {
@@ -1871,7 +1803,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Colorado Avalanche Vs Toronto Maple Leafs",
       "eventInfo": {
@@ -1918,7 +1850,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Ottawa Senators Vs Nashville Predators",
       "eventInfo": {
@@ -1958,7 +1890,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "St. Louis Blues Vs Columbus Blue Jackets",
       "eventInfo": {
@@ -1994,7 +1926,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Kentucky Wildcats Vs LSU Tigers",
       "eventInfo": {
@@ -2028,7 +1960,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "UTEP Miners Vs Nevada Wolf Pack",
       "eventInfo": {
@@ -2050,7 +1982,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "UNLV Rebels Vs North Dakota State Bison",
       "eventInfo": {
@@ -2072,7 +2004,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Memphis Tigers Vs UAB Blazers",
       "eventInfo": {
@@ -6711,6 +6643,34 @@
     },
     {
       "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Leinster Rugby Vs Cardiff Rugby",
+      "eventInfo": {
+        "teamA": "Leinster Rugby",
+        "teamB": "Cardiff Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4210/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4215/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "11/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "kid": "1444f4235529f183f0a5a486befe9cdb",
+          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/AMMMAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "SV Zulte Waregem Vs KAA Gent",
       "eventInfo": {
@@ -6947,6 +6907,46 @@
         "eventName": "International Friendly Games Women",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/852/image/dark",
         "startTime": "11/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Académico Viseu FC Vs Estoril Praia",
+      "eventInfo": {
+        "teamA": "Académico Viseu FC",
+        "teamB": "Estoril Praia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "11/10/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Brazil Vs Argentina",
+      "eventInfo": {
+        "teamA": "Brazil",
+        "teamB": "Argentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7409/image",
+        "eventName": "International Friendly Games Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "startTime": "11/10/2026 01:30:00 AM"
       },
       "streams": [
         {
