@@ -2,10 +2,58 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:48 PM 10-10-2026",
+  "last_update_time": "04:31:39 PM 10-10-2026",
   "total_matches": 292,
-  "live_match": 16,
+  "live_match": 26,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Perth Wildcats Vs New Zealand Breakers",
+      "eventInfo": {
+        "teamA": "Perth Wildcats",
+        "teamB": "New Zealand Breakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/122090/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "10/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gençlerbirliği Vs Amed Sportif Faaliyetler",
+      "eventInfo": {
+        "teamA": "Gençlerbirliği",
+        "teamB": "Amed Sportif Faaliyetler",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "10/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Aussie rules",
@@ -51,7 +99,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JRRRAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ]
     },
@@ -69,6 +122,10 @@
         "startTime": "10/10/2026 02:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": ""
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": ""
@@ -709,54 +766,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Perth Wildcats Vs New Zealand Breakers",
-      "eventInfo": {
-        "teamA": "Perth Wildcats",
-        "teamB": "New Zealand Breakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/122090/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "10/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Gençlerbirliği Vs Amed Sportif Faaliyetler",
-      "eventInfo": {
-        "teamA": "Gençlerbirliği",
-        "teamB": "Amed Sportif Faaliyetler",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "10/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "1. FC Magdeburg Vs Hannover 96",
       "eventInfo": {
@@ -816,7 +825,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Bengaluru FC Vs Sporting Delhi",
       "eventInfo": {
@@ -836,7 +845,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Arsenal Vs Leeds United",
       "eventInfo": {
@@ -870,7 +879,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Charlton Athletic Vs Bristol City",
       "eventInfo": {
@@ -890,7 +899,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Swansea City Vs Norwich City",
       "eventInfo": {
@@ -910,7 +919,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "West Bromwich Albion Vs Birmingham City",
       "eventInfo": {
@@ -945,7 +954,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Plymouth Argyle Vs AFC Wimbledon",
       "eventInfo": {
@@ -965,7 +974,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Notts County Vs Oxford United",
       "eventInfo": {
@@ -985,7 +994,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Swindon Town Vs Crewe Alexandra",
       "eventInfo": {
@@ -1005,7 +1014,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Oldham Athletic Vs Accrington Stanley",
       "eventInfo": {
@@ -1025,7 +1034,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Vodacom Bulls XV Vs Fidelity ADT Lions",
       "eventInfo": {
