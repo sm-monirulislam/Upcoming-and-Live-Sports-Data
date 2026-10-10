@@ -2,10 +2,58 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:57 PM 10-10-2026",
+  "last_update_time": "12:31:46 PM 10-10-2026",
   "total_matches": 292,
-  "live_match": 10,
+  "live_match": 9,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "New Zealand Vs Australia",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4227/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "eventName": "Int. Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/876/image/dark",
+        "startTime": "10/10/2026 12:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/ffffa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Geelong Cats Vs GWS Giants",
+      "eventInfo": {
+        "teamA": "Geelong Cats",
+        "teamB": "GWS Giants",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "10/10/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -22,23 +70,20 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd",
-          "kid": "effa45e438d4a21939035abc7cf5d3a4",
-          "key": "d2f43abbc17cb5e3c05c5f14fd1e8181"
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "09269747be60ae1f8d4283d6d5d01fd2",
+          "key": "a46879b547df24d568c8f89ae6c3273c"
         },
         {
           "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd",
-          "kid": "effa45e438d4a21939035abc7cf5d3a4",
-          "key": "d2f43abbc17cb5e3c05c5f14fd1e8181"
-        },
-        {
-          "channel_name": " SPORTS HD",
-          "stream_url": "https://playztv-apps.pages.dev/a-sports/index.m3u8"
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd",
+          "kid": "09269747be60ae1f8d4283d6d5d01fd2",
+          "key": "a46879b547df24d568c8f89ae6c3273c"
         },
         {
           "channel_name": "T SPORTS HD",
-          "stream_url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
+          "stream_url": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8"
         },
         {
           "channel_name": "WILLOW HD",
@@ -191,31 +236,6 @@
         },
         {
           "channel_name": "Darts European Tour 14",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Otago Vs Hawke's Bay",
-      "eventInfo": {
-        "teamA": "Otago",
-        "teamB": "Hawke's Bay",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42720/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42723/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "10/10/2026 09:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/ffffa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": ""
         }
       ]
@@ -540,54 +560,6 @@
         },
         {
           "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Geelong Cats Vs GWS Giants",
-      "eventInfo": {
-        "teamA": "Geelong Cats",
-        "teamB": "GWS Giants",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "10/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "New Zealand Vs Australia",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4227/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
-        "eventName": "Int. Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/876/image/dark",
-        "startTime": "10/10/2026 12:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/ffffa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": ""
         }
       ]
@@ -8473,6 +8445,31 @@
         {
           "channel_name": "AZTECA HD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Otago Vs Hawke's Bay",
+      "eventInfo": {
+        "teamA": "Otago",
+        "teamB": "Hawke's Bay",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42720/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42723/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "10/10/2026 09:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/ffffa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
