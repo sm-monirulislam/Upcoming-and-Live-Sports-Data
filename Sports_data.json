@@ -2,10 +2,30 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:31:36 PM 10-10-2026",
+  "last_update_time": "03:01:46 PM 10-10-2026",
   "total_matches": 292,
-  "live_match": 15,
+  "live_match": 14,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "South Melbourne FC Vs Melbourne Victory",
+      "eventInfo": {
+        "teamA": "South Melbourne FC",
+        "teamB": "Melbourne Victory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2944/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "eventName": "Australia Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1786/image/dark",
+        "startTime": "10/10/2026 02:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -232,29 +252,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Geelong Cats Vs GWS Giants",
-      "eventInfo": {
-        "teamA": "Geelong Cats",
-        "teamB": "GWS Giants",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "10/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
         }
       ]
     },
@@ -765,26 +762,6 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "South Melbourne FC Vs Melbourne Victory",
-      "eventInfo": {
-        "teamA": "South Melbourne FC",
-        "teamB": "Melbourne Victory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2944/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "eventName": "Australia Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1786/image/dark",
-        "startTime": "10/10/2026 02:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -8489,6 +8466,29 @@
         "eventName": "AFL, Women",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
         "startTime": "10/10/2026 10:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
+      "event_name": "Geelong Cats Vs GWS Giants",
+      "eventInfo": {
+        "teamA": "Geelong Cats",
+        "teamB": "GWS Giants",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "10/10/2026 12:05:00 PM"
       },
       "streams": [
         {
