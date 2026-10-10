@@ -2,10 +2,39 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:01:46 PM 10-10-2026",
+  "last_update_time": "03:31:46 PM 10-10-2026",
   "total_matches": 292,
   "live_match": 14,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Gold Coast Suns Vs Melbourne Demons",
+      "eventInfo": {
+        "teamA": "Gold Coast Suns",
+        "teamB": "Melbourne Demons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334440/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245150/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "10/10/2026 03:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+          "key": "552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -142,6 +171,11 @@
           "key": "17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
+          "channel_name": "SKY FORMULA HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57720/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "TSN SPORTS D",
           "stream_url": "https://tedesco.formaturamaxi.com.br/tsn.m3u8"
         },
@@ -169,6 +203,25 @@
           "stream_url": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791088034_f~0_g~1_s~2aa71a64-9a1e-470d-a104-24c2be9656fc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~dae629d427e5eb3f6d206f4c0586a1d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
           "kid": "1118a6477fbf274ef4ab397ae762cb61",
           "key": "31ba7c00dc9667233ecb2a6e7e24ee08"
+        },
+        {
+          "channel_name": "DAZN SPORTS FHD",
+          "stream_url": "https://netanjahu.hls.st/t/c1dba79757f1e493804b93b793f031ca/index.m3u8?",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "SKY MAIN EVENT",
+          "stream_url": "https://admin2.formaturamaxi.com.br/f1.m3u8"
+        },
+        {
+          "channel_name": "ELEVEN SPORTS HD",
+          "stream_url": "https://netanjahu.hls.st/t/e8970a1d758868b392308ce095caa041/index.m3u8?",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "RUSSIA FEED",
+          "stream_url": "https://bl.rutube.ru/livestream/4883ca1f298abb3a17eae58fc0532c89/index.m3u8?s=o6oFOpHt6HBBUneuoZAuog&e=1791709072&scheme=https",
+          "user_agent": "Mozilla"
         }
       ]
     },
@@ -188,9 +241,9 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd",
-          "kid": "bf2a8826b3cc5a87caa2b8aa888060db",
-          "key": "c0f33b4323fa41faeff80d202d87627d"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd",
+          "kid": "61b5fe1a7d9d83929d15da6db1c5f427",
+          "key": "6e8231835a24911fd035a47e49f5c53b"
         },
         {
           "channel_name": "SKY CRICKET FHD",
@@ -199,9 +252,10 @@
         },
         {
           "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd",
-          "kid": "bf2a8826b3cc5a87caa2b8aa888060db",
-          "key": "c0f33b4323fa41faeff80d202d87627d"
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
         },
         {
           "channel_name": "FANCODE FHD",
@@ -232,31 +286,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "New Zealand Vs Australia",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4227/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
-        "eventName": "Int. Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/876/image/dark",
-        "startTime": "10/10/2026 12:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/ffffa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Afghanistan Vs Bangladesh",
       "eventInfo": {
@@ -271,8 +300,7 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd",
           "kid": "09269747be60ae1f8d4283d6d5d01fd2",
           "key": "a46879b547df24d568c8f89ae6c3273c"
         },
@@ -474,69 +502,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "MotorGP Vs MotorGP",
-      "eventInfo": {
-        "teamA": "MotorGP",
-        "teamB": "MotorGP",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "eventName": "MotoGP Evento",
-        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "startTime": "10/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "TNT2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "ESPN1 ARGENTINA FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-          "kid": "cb004fb100bd92f23793562891e3236b",
-          "key": "b3e4e74ae2080b137e68bbd0ef8a7e05"
-        },
-        {
-          "channel_name": "MotoGP FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "e03f302ec4dabcccca82cc9f76731ec9",
-          "key": "53ea1027d2bf2893a552cf15bc0366de"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SPOTV FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "kid": "7eea72d6075245a99ee3255603d58853",
-          "key": "6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "channel_name": "TOOL 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TOOL EXTA",
-          "stream_url": ""
         }
       ]
     },
@@ -767,35 +732,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Gold Coast Suns Vs Melbourne Demons",
-      "eventInfo": {
-        "teamA": "Gold Coast Suns",
-        "teamB": "Melbourne Demons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334440/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245150/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "10/10/2026 03:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-          "key": "552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Basketball",
       "event_name": "Perth Wildcats Vs New Zealand Breakers",
       "eventInfo": {
@@ -823,7 +759,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Gençlerbirliği Vs Amed Sportif Faaliyetler",
       "eventInfo": {
@@ -8067,6 +8003,69 @@
     },
     {
       "status": "ENDED",
+      "Category": "Motorsports",
+      "event_name": "MotorGP Vs MotorGP",
+      "eventInfo": {
+        "teamA": "MotorGP",
+        "teamB": "MotorGP",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "eventName": "MotoGP Evento",
+        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
+        "startTime": "10/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "TNT2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "ESPN1 ARGENTINA FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "kid": "cb004fb100bd92f23793562891e3236b",
+          "key": "b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "MotoGP FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "e03f302ec4dabcccca82cc9f76731ec9",
+          "key": "53ea1027d2bf2893a552cf15bc0366de"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SPOTV FHD",
+          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "kid": "7eea72d6075245a99ee3255603d58853",
+          "key": "6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "channel_name": "TOOL 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TOOL EXTA",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "American football",
       "event_name": "San Jose State Spartans Vs Wyoming Cowboys",
       "eventInfo": {
@@ -8497,6 +8496,31 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "New Zealand Vs Australia",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4227/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "eventName": "Int. Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/876/image/dark",
+        "startTime": "10/10/2026 12:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/ffffa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": ""
         }
       ]
     }
