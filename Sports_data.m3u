@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-28 07:04:28 PM (BD Time)
-#  Live Channels Count: 58
+#  Last Updated: 2026-10-28 07:33:27 PM (BD Time)
+#  Live Channels Count: 59
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg" group-title="Other", GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD
@@ -263,8 +263,15 @@ http://162.251.160.53:8089/1366/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.44/hls/I000AAAAQQQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Goa%20Vs%20Sporting%20Delhi.jpg" group-title="Football", FC Goa Vs Sporting Delhi - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Goa%20Vs%20Sporting%20Delhi.jpg" group-title="Football", FC Goa Vs Sporting Delhi - PRIME VIDEO FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08027012b8503449b674c090b486a313:e6109941ae6fcc32db5611870764fc59
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Goa%20Vs%20Sporting%20Delhi.jpg" group-title="Football", FC Goa Vs Sporting Delhi - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/I000AAAAQQQA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mara%20Sugar%20Vs%20Leopards.jpg" group-title="Football", Mara Sugar Vs Leopards - Link 1
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
