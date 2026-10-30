@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:01:14 PM 30-10-2026",
+  "last_update_time": "01:31:13 PM 30-10-2026",
   "total_matches": 250,
-  "live_match": 12,
+  "live_match": 14,
   "matches": [
     {
       "status": "LIVE",
@@ -393,6 +393,14 @@
         {
           "channel_name": "WILLOW2 HD",
           "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "CRICBUZZ HD",
+          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": "http://c8.vfruitfairy.com/HONG6six/index.m3u8"
         }
       ]
     },
@@ -430,35 +438,6 @@
         {
           "channel_name": "RABBITHOLE FHD",
           "stream_url": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793163608~exp=1793192468~acl=/bpk-tv/202/default/*~eti=fa5c4cfd542424a6997eeb9a23402d68~sid=bd517d501743ba42~imax=2~hmac=a93e35b6ba5cd2b8f875372fdddac209b26195fd898d8aacdb59621bf0359000/bpk-tv/202/default/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "England Wheelchair Vs Wales Wheelchair",
-      "eventInfo": {
-        "teamA": "England Wheelchair",
-        "teamB": "Wales Wheelchair",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1293291/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1293293/image",
-        "eventName": "Wheelchair World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38752/image/dark",
-        "startTime": "30/10/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ]
     },
@@ -877,7 +856,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Geelong Cats Vs Western Bulldogs",
       "eventInfo": {
@@ -1011,7 +990,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Brisbane Heat Women Vs Sydney Sixers Women",
       "eventInfo": {
@@ -1032,6 +1011,20 @@
         {
           "channel_name": "FOX CRICKET HD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "EUROSPORTS FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "kid": "12ed56d780abcfebcd23aa27e4ac5015",
+          "key": "6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "XTREME FHD 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW ",
+          "stream_url": "http://51.77.217.114:8089/Wbbl52/index.m3u8"
         }
       ]
     },
@@ -1058,7 +1051,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Tasmania Jackjumpers Vs Sydney Kings",
       "eventInfo": {
@@ -6078,6 +6071,35 @@
         "startTime": "30/10/2026 08:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "kid": "1444f4235529f183f0a5a486befe9cdb",
+          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "England Wheelchair Vs Wales Wheelchair",
+      "eventInfo": {
+        "teamA": "England Wheelchair",
+        "teamB": "Wales Wheelchair",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1293291/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1293293/image",
+        "eventName": "Wheelchair World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38752/image/dark",
+        "startTime": "30/10/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
         {
           "channel_name": "PREMIER1 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
