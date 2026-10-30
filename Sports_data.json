@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:01:17 AM 30-10-2026",
+  "last_update_time": "06:31:15 AM 30-10-2026",
   "total_matches": 97,
-  "live_match": 26,
+  "live_match": 27,
   "matches": [
     {
       "status": "LIVE",
@@ -332,6 +332,63 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "1a5df53609ebc9857898c490f4724918",
           "key": "77f62980d582ec541280796acf8b2d19"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Grêmio Vs Athletico",
+      "eventInfo": {
+        "teamA": "Grêmio",
+        "teamB": "Athletico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "30/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER3 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+          "kid": "d23f7433798a652a7d4f6791d9e1036c",
+          "key": "4942eebd598b5727c5cc484cc62b52e8"
+        },
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+          "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Melgar Vs Comerciantes Unidos",
+      "eventInfo": {
+        "teamA": "Melgar",
+        "teamB": "Comerciantes Unidos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2308/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213609/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "30/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 3",
+          "stream_url": ""
         }
       ]
     },
@@ -1258,63 +1315,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Grêmio Vs Athletico",
-      "eventInfo": {
-        "teamA": "Grêmio",
-        "teamB": "Athletico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "30/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER3 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
-          "kid": "d23f7433798a652a7d4f6791d9e1036c",
-          "key": "4942eebd598b5727c5cc484cc62b52e8"
-        },
-        {
-          "channel_name": "SPORT TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-          "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Melgar Vs Comerciantes Unidos",
-      "eventInfo": {
-        "teamA": "Melgar",
-        "teamB": "Comerciantes Unidos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2308/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213609/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "30/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 3",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Brisbane Roar Vs Auckland FC",
@@ -1394,7 +1394,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlético Nacional Vs Independiente Santa Fe",
       "eventInfo": {
