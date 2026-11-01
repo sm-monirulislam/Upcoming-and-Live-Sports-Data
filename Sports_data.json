@@ -2,10 +2,40 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:11 PM 01-11-2026",
+  "last_update_time": "12:31:16 PM 01-11-2026",
   "total_matches": 160,
-  "live_match": 24,
+  "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Fremantle Dockers Vs Sydney Swans",
+      "eventInfo": {
+        "teamA": "Fremantle Dockers",
+        "teamB": "Sydney Swans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245077/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446334/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "01/11/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/J777AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "FOX SOCCER HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SOCCER HD2",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -313,67 +343,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Central Coast Mariners",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Central Coast Mariners",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5966/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "01/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "SKY SPORT NZ3",
-          "stream_url": "https://admin2.formaturamaxi.com.br/sky3.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/U888.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Canberra United Vs Western Sydney Wanderers",
-      "eventInfo": {
-        "teamA": "Canberra United",
-        "teamB": "Western Sydney Wanderers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174098/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174108/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "01/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/U888AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "South East Melbourne Phoenix Vs Tasmania Jackjumpers",
       "eventInfo": {
@@ -393,28 +362,6 @@
         {
           "channel_name": "XTREME SD ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Yokohama F. Marinos Vs Kawasaki Frontale",
-      "eventInfo": {
-        "teamA": "Yokohama F. Marinos",
-        "teamB": "Kawasaki Frontale",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3137/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5127/image",
-        "eventName": "J1 League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/196/image/dark",
-        "startTime": "01/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/U888AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -548,33 +495,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Fresno State Bulldogs Vs Oregon State Beavers",
-      "eventInfo": {
-        "teamA": "Fresno State Bulldogs",
-        "teamB": "Oregon State Beavers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4299/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "01/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59024/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/A888A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Hong Kong SIXES Vs Hong Kong SIXES",
       "eventInfo": {
@@ -687,36 +607,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Fremantle Dockers Vs Sydney Swans",
-      "eventInfo": {
-        "teamA": "Fremantle Dockers",
-        "teamB": "Sydney Swans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245077/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446334/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "01/11/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/J777AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "FOX SOCCER HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "FOX SOCCER HD2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Lebanon Vs France",
       "eventInfo": {
@@ -791,16 +681,15 @@
       },
       "streams": [
         {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ndvxtmdlol/out/v1/610adecd5fff431bb89ffc7584e21855/cenc.mpd",
-          "kid": "7a3f90a5769802036c18de821735b594",
-          "key": "1412cd88540af73b27e45c9982bc9c78"
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
         },
         {
-          "channel_name": "PRIME HINDI FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
-          "kid": "638eaec11a32364c29f73241769dc3b0",
-          "key": "51ad6ac914e442976749f485354b50fe"
+          "channel_name": "CRICBUZZ HD",
+          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8"
         },
         {
           "channel_name": "TNT1UK SPORTS FHD ",
@@ -810,20 +699,12 @@
           "key": "643e5474d9edd87c7d9091c8c97994ca"
         },
         {
-          "channel_name": "PRIME ENG FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd",
-          "kid": "e9b05390d0d8a3766d720cc0dfa9c1c3",
-          "key": "5b371247b3ec6ae9976204359d781e85"
+          "channel_name": "WILLOW1  HD",
+          "stream_url": ""
         },
         {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ndvxtmdlol/out/v1/610adecd5fff431bb89ffc7584e21855/cenc.mpd",
-          "kid": "7a3f90a5769802036c18de821735b594",
-          "key": "1412cd88540af73b27e45c9982bc9c78"
-        },
-        {
-          "channel_name": "CRICBUZZ HD",
-          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8"
+          "channel_name": "WILLOW2 SPORTS HD",
+          "stream_url": ""
         }
       ]
     },
@@ -850,7 +731,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Seoul Vs Incheon United",
       "eventInfo": {
@@ -4802,6 +4683,33 @@
     },
     {
       "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Fresno State Bulldogs Vs Oregon State Beavers",
+      "eventInfo": {
+        "teamA": "Fresno State Bulldogs",
+        "teamB": "Oregon State Beavers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4299/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "01/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59024/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/A888A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Club América Vs CD Toluca",
       "eventInfo": {
@@ -4874,6 +4782,89 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "kid": "d1a163914db8ffad2c3e94f979896a0d",
           "key": "9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Central Coast Mariners",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Central Coast Mariners",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5966/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "01/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "SKY SPORT NZ3",
+          "stream_url": "https://admin2.formaturamaxi.com.br/sky3.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/U888.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Canberra United Vs Western Sydney Wanderers",
+      "eventInfo": {
+        "teamA": "Canberra United",
+        "teamB": "Western Sydney Wanderers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174098/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174108/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "01/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/U888AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Yokohama F. Marinos Vs Kawasaki Frontale",
+      "eventInfo": {
+        "teamA": "Yokohama F. Marinos",
+        "teamB": "Kawasaki Frontale",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3137/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5127/image",
+        "eventName": "J1 League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "startTime": "01/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/U888AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
