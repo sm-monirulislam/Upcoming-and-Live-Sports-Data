@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:31:15 PM 01-11-2026",
+  "last_update_time": "03:01:21 PM 01-11-2026",
   "total_matches": 160,
   "live_match": 17,
   "matches": [
@@ -335,30 +335,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Adelaide 36ers Vs Brisbane Bullets",
-      "eventInfo": {
-        "teamA": "Adelaide 36ers",
-        "teamB": "Brisbane Bullets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "01/11/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME +FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Sydney Thunder Women Vs Brisbane Heat Women",
       "eventInfo": {
@@ -672,7 +648,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Orenburg Vs CSKA Moscow",
       "eventInfo": {
@@ -4865,6 +4841,30 @@
           "stream_url": "http://193.47.62.41/hls/U888AAAAQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Adelaide 36ers Vs Brisbane Bullets",
+      "eventInfo": {
+        "teamA": "Adelaide 36ers",
+        "teamB": "Brisbane Bullets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "01/11/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME +FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
         }
       ]
     },
