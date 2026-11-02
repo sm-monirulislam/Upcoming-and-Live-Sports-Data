@@ -2,10 +2,70 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:12 AM 02-11-2026",
+  "last_update_time": "07:01:16 AM 02-11-2026",
   "total_matches": 145,
-  "live_match": 22,
+  "live_match": 19,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Anaheim Ducks Vs Ottawa Senators",
+      "eventInfo": {
+        "teamA": "Anaheim Ducks",
+        "teamB": "Ottawa Senators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "02/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "kid": "1444f4235529f183f0a5a486befe9cdb",
+          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Vancouver Rise Vs Montreal Roses FC",
+      "eventInfo": {
+        "teamA": "Vancouver Rise",
+        "teamB": "Montreal Roses FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/463097/image",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "eventName": "CANADA NORTHERN SUPER LEAGUE",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "startTime": "02/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -185,38 +245,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Indiana Pacers Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "Indiana Pacers",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "02/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME FHD 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
       "eventInfo": {
@@ -261,118 +289,6 @@
           "stream_url": "http://193.47.62.59/hls/TTTT.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Miami Dolphins Vs New England Patriots",
-      "eventInfo": {
-        "teamA": "Miami Dolphins",
-        "teamB": "New England Patriots",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "02/11/2026 03:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "abc5b2883121012850ebda05b528c5ec",
-          "key": "e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "kid": "9009b7189e3e68cc09d17811f2beb55a",
-          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Denver Broncos Vs Kansas City Chiefs",
-      "eventInfo": {
-        "teamA": "Denver Broncos",
-        "teamB": "Kansas City Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "02/11/2026 03:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Los Angeles Chargers",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Los Angeles Chargers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4429/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "02/11/2026 03:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "FOX HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "FOX SD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "FOX ONE",
-          "stream_url": ""
         }
       ]
     },
@@ -693,66 +609,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Anaheim Ducks Vs Ottawa Senators",
-      "eventInfo": {
-        "teamA": "Anaheim Ducks",
-        "teamB": "Ottawa Senators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "02/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Vancouver Rise Vs Montreal Roses FC",
-      "eventInfo": {
-        "teamA": "Vancouver Rise",
-        "teamB": "Montreal Roses FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/463097/image",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "eventName": "CANADA NORTHERN SUPER LEAGUE",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "startTime": "02/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d3250252765347a0c2603c6cb4869f8c",
-          "key": "0c19319460da7e9ed816db46ce839b37"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Cruz Azul Vs Club León",
       "eventInfo": {
@@ -888,7 +744,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Los Angeles Lakers Vs Toronto Raptors",
       "eventInfo": {
@@ -4573,6 +4429,42 @@
     },
     {
       "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Los Angeles Rams Vs Los Angeles Chargers",
+      "eventInfo": {
+        "teamA": "Los Angeles Rams",
+        "teamB": "Los Angeles Chargers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "02/11/2026 03:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX ONE",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Deportivo Cali Vs Boyacá Chicó FC",
       "eventInfo": {
@@ -4595,6 +4487,82 @@
         },
         {
           "channel_name": "WIN SPORTS++",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Miami Dolphins Vs New England Patriots",
+      "eventInfo": {
+        "teamA": "Miami Dolphins",
+        "teamB": "New England Patriots",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "02/11/2026 03:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "abc5b2883121012850ebda05b528c5ec",
+          "key": "e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "kid": "9009b7189e3e68cc09d17811f2beb55a",
+          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Denver Broncos Vs Kansas City Chiefs",
+      "eventInfo": {
+        "teamA": "Denver Broncos",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "02/11/2026 03:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN",
           "stream_url": ""
         }
       ]
@@ -4747,6 +4715,38 @@
         },
         {
           "channel_name": "XTREME SD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Indiana Pacers Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "Indiana Pacers",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "02/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME FHD 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD 2",
           "stream_url": ""
         }
       ]
