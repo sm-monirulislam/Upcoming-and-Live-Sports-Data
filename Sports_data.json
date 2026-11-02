@@ -2,10 +2,35 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:31:17 PM 02-11-2026",
+  "last_update_time": "08:01:15 PM 02-11-2026",
   "total_matches": 112,
-  "live_match": 9,
+  "live_match": 11,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pakhtakor Tashkent Vs Al-Nassr",
+      "eventInfo": {
+        "teamA": "Pakhtakor Tashkent",
+        "teamB": "Al-Nassr",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "02/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://162.251.160.53:8089/1004/index.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -352,31 +377,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Pakhtakor Tashkent Vs Al-Nassr",
-      "eventInfo": {
-        "teamA": "Pakhtakor Tashkent",
-        "teamB": "Al-Nassr",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "02/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://162.251.160.53:8089/1004/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Krylya Sovetov Samara Vs Zenit St. Petersburg",
       "eventInfo": {
         "teamA": "Krylya Sovetov Samara",
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Barcelona U19 Vs Aston Villa U19",
       "eventInfo": {
