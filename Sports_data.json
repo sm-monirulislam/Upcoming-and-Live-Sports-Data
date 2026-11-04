@@ -2,10 +2,31 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:31:12 PM 04-11-2026",
+  "last_update_time": "02:01:16 PM 04-11-2026",
   "total_matches": 186,
-  "live_match": 7,
+  "live_match": 8,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Persib Bandung",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Persib Bandung",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "04/11/2026 01:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -300,27 +321,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Persib Bandung",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Persib Bandung",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "04/11/2026 01:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Hobart Hurricanes Women Vs Melbourne Renegades Women",
       "eventInfo": {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Brisbane Bullets Vs Perth Wildcats",
       "eventInfo": {
