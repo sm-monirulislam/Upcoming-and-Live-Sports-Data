@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:18 AM 07-11-2026",
-  "total_matches": 90,
-  "live_match": 13,
+  "last_update_time": "12:31:21 AM 07-11-2026",
+  "total_matches": 93,
+  "live_match": 21,
   "matches": [
     {
       "status": "LIVE",
@@ -27,11 +27,41 @@
           "key": "9728800a3959aafdd5b0bcfbf3768811"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/WAWAWAF.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "ESPN PREMIUM",
           "stream_url": ""
         },
         {
           "channel_name": "ESPN PREMIUM2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hammarby IF Vs IF Elfsborg",
+      "eventInfo": {
+        "teamA": "Hammarby IF",
+        "teamB": "IF Elfsborg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1758/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1762/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "07/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
           "stream_url": ""
         }
       ]
@@ -55,6 +85,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "kid": "0b42be2664d7e811d04f3e504e0924c5",
           "key": "ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/RIIIAAQQQQQA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -560,7 +596,31 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Willem II Tilburg Vs PEC Zwolle",
+      "eventInfo": {
+        "teamA": "Willem II Tilburg",
+        "teamB": "PEC Zwolle",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "07/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "NASCAR Vs NASCAR",
       "eventInfo": {
@@ -599,7 +659,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CD Castellón Vs Eibar",
       "eventInfo": {
@@ -621,7 +681,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Ascoli Vs Palermo",
       "eventInfo": {
@@ -641,7 +701,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hamburger SV Vs Borussia M'gladbach",
       "eventInfo": {
@@ -656,12 +716,16 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Bristol Rovers Vs Cambridge United",
       "eventInfo": {
@@ -681,7 +745,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Wisła Kraków Vs KS Cracovia",
       "eventInfo": {
@@ -777,19 +841,20 @@
       },
       "streams": [
         {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/670/index.m3u8"
         },
         {
           "channel_name": "TV QUALITY 2",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hlrtk623/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
         }
       ]
     },
@@ -928,6 +993,26 @@
         {
           "channel_name": "LIGA MX OP",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Famalicão Vs FC Arouca",
+      "eventInfo": {
+        "teamA": "Famalicão",
+        "teamB": "FC Arouca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "07/11/2026 02:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
