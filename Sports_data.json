@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:01:18 PM 06-11-2026",
-  "total_matches": 90,
-  "live_match": 12,
+  "last_update_time": "08:31:26 PM 06-11-2026",
+  "total_matches": 92,
+  "live_match": 14,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Goa Vs Bengaluru FC",
+      "eventInfo": {
+        "teamA": "FC Goa",
+        "teamB": "Bengaluru FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/118670/image",
+        "eventName": "Indian Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "startTime": "06/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sxig280kfu/out/v1/1d42bf15f0d74aa68535deefc79f9086/cenc.mpd",
+          "kid": "1cf4f357d5b189fc905c8c256e4ca8c6",
+          "key": "de885c6da99744114d0b9569e8d37343"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -86,10 +108,17 @@
           "key": "6848ef60575579bf4d415db1032153ed"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/TTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "SKY TOP EVENT FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "368bd4ebe301406897324bc777650411",
+          "key": "69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "SKY SPORT MIX FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd",
+          "kid": "fa23a7c0d9c82f0c7b113506e202af8c",
+          "key": "a883237ef30932b731f71aa59a0805c0"
         }
       ]
     },
@@ -586,7 +615,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "Formula 1 Vs Formula 1",
       "eventInfo": {
@@ -2053,6 +2082,26 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Inter Kashi FC Vs Sporting Delhi",
+      "eventInfo": {
+        "teamA": "Inter Kashi FC",
+        "teamB": "Sporting Delhi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/494686/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/331840/image",
+        "eventName": "Indian Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "startTime": "07/11/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
