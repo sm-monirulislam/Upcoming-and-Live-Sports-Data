@@ -2,10 +2,30 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:01:16 PM 06-11-2026",
+  "last_update_time": "10:31:19 PM 06-11-2026",
   "total_matches": 90,
-  "live_match": 11,
+  "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lokomotiv Moscow Vs Rubin Kazan",
+      "eventInfo": {
+        "teamA": "Lokomotiv Moscow",
+        "teamB": "Rubin Kazan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2320/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2333/image",
+        "eventName": "Russian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
+        "startTime": "06/11/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Motorsports",
@@ -73,28 +93,6 @@
           "stream_url": "https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
           "kid": "1118d83348830358060d408a72f56f29",
           "key": "648378946f2f70f43af47ff9bf3e329b"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Goa Vs Bengaluru FC",
-      "eventInfo": {
-        "teamA": "FC Goa",
-        "teamB": "Bengaluru FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/118670/image",
-        "eventName": "Indian Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-        "startTime": "06/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sxig280kfu/out/v1/1d42bf15f0d74aa68535deefc79f9086/cenc.mpd",
-          "kid": "1cf4f357d5b189fc905c8c256e4ca8c6",
-          "key": "de885c6da99744114d0b9569e8d37343"
         }
       ]
     },
@@ -438,26 +436,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Lokomotiv Moscow Vs Rubin Kazan",
-      "eventInfo": {
-        "teamA": "Lokomotiv Moscow",
-        "teamB": "Rubin Kazan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2320/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2333/image",
-        "eventName": "Russian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
-        "startTime": "06/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Gaziantep FK Vs Kasımpaşa",
       "eventInfo": {
         "teamA": "Gaziantep FK",
@@ -496,7 +474,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "SG Dynamo Dresden Vs SpVgg Greuther Fürth",
       "eventInfo": {
@@ -518,7 +496,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Eintracht Braunschweig Vs Energie Cottbus",
       "eventInfo": {
@@ -2958,6 +2936,28 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "kid": "0ad4080cdff8c60b1233b22087f0b340",
           "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Goa Vs Bengaluru FC",
+      "eventInfo": {
+        "teamA": "FC Goa",
+        "teamB": "Bengaluru FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/118670/image",
+        "eventName": "Indian Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "startTime": "06/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sxig280kfu/out/v1/1d42bf15f0d74aa68535deefc79f9086/cenc.mpd",
+          "kid": "1cf4f357d5b189fc905c8c256e4ca8c6",
+          "key": "de885c6da99744114d0b9569e8d37343"
         }
       ]
     }
