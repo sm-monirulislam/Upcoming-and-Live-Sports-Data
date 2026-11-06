@@ -2,10 +2,50 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:31:19 PM 06-11-2026",
+  "last_update_time": "11:01:15 PM 06-11-2026",
   "total_matches": 90,
-  "live_match": 12,
+  "live_match": 13,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gaziantep FK Vs Kasımpaşa",
+      "eventInfo": {
+        "teamA": "Gaziantep FK",
+        "teamB": "Kasımpaşa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "06/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://162.251.160.53:8089/146/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Motor Lublin Vs Wisła Płock",
+      "eventInfo": {
+        "teamA": "Motor Lublin",
+        "teamB": "Wisła Płock",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7915/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3122/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "06/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -436,46 +476,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Gaziantep FK Vs Kasımpaşa",
-      "eventInfo": {
-        "teamA": "Gaziantep FK",
-        "teamB": "Kasımpaşa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "06/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://162.251.160.53:8089/146/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Motor Lublin Vs Wisła Płock",
-      "eventInfo": {
-        "teamA": "Motor Lublin",
-        "teamB": "Wisła Płock",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7915/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3122/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "06/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "SG Dynamo Dresden Vs SpVgg Greuther Fürth",
       "eventInfo": {
         "teamA": "SG Dynamo Dresden",
@@ -519,7 +519,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Barracas Central Vs Racing Club",
       "eventInfo": {
