@@ -2,10 +2,39 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:01:16 AM 07-11-2026",
+  "last_update_time": "11:31:15 AM 07-11-2026",
   "total_matches": 214,
-  "live_match": 19,
+  "live_match": 17,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "North Melbourne Vs Carlton Blues",
+      "eventInfo": {
+        "teamA": "North Melbourne",
+        "teamB": "Carlton Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/307631/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245028/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "07/11/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+          "key": "552a78d1aeb74f1650d68255c5749408"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -117,6 +146,13 @@
         "startTime": "07/11/2026 10:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        },
         {
           "channel_name": "STREAM TV + HD ",
           "stream_url": "http://193.47.62.59/hls/HHHHA.m3u8",
@@ -334,73 +370,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlante FC Vs Santos Laguna",
-      "eventInfo": {
-        "teamA": "Atlante FC",
-        "teamB": "Santos Laguna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "07/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TUDN US HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US HD 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN MX",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "San Diego Wave FC Vs Utah Royals FC",
-      "eventInfo": {
-        "teamA": "San Diego Wave FC",
-        "teamB": "Utah Royals FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/408170/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/278067/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "07/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Geelong Cats Vs Melbourne Demons",
       "eventInfo": {
@@ -425,41 +394,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "85b277daf5aae05833fe43a68f587968",
           "key": "d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Nevada Wolf Pack Vs New Mexico Lobos",
-      "eventInfo": {
-        "teamA": "Nevada Wolf Pack",
-        "teamB": "New Mexico Lobos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4384/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "07/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59415/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
         }
       ]
     },
@@ -725,35 +659,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "North Melbourne Vs Carlton Blues",
-      "eventInfo": {
-        "teamA": "North Melbourne",
-        "teamB": "Carlton Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307631/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245028/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "07/11/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-          "key": "552a78d1aeb74f1650d68255c5749408"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Brisbane Roar Vs Melbourne Victory",
       "eventInfo": {
@@ -782,7 +687,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Adelaide 36ers Vs Illawarra Hawks",
       "eventInfo": {
@@ -849,6 +754,13 @@
       },
       "streams": [
         {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
           "channel_name": "STREAM TV + HD ",
           "stream_url": "http://193.47.62.59/hls/HHHHAAAAQQQQQAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -906,6 +818,12 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "SportDigital FussBall",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -5789,6 +5707,41 @@
     },
     {
       "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Nevada Wolf Pack Vs New Mexico Lobos",
+      "eventInfo": {
+        "teamA": "Nevada Wolf Pack",
+        "teamB": "New Mexico Lobos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4384/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "07/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59415/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JJJJAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Miami Hurricanes Vs Wagner Seahawks",
       "eventInfo": {
@@ -5866,6 +5819,73 @@
         {
           "channel_name": "XTREME SD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlante FC Vs Santos Laguna",
+      "eventInfo": {
+        "teamA": "Atlante FC",
+        "teamB": "Santos Laguna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "07/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JJJJAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TUDN US HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US HD 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN MX",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "San Diego Wave FC Vs Utah Royals FC",
+      "eventInfo": {
+        "teamA": "San Diego Wave FC",
+        "teamB": "Utah Royals FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/408170/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/278067/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "07/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JJJJAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     }
