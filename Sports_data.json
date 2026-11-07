@@ -2,10 +2,39 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:01:16 AM 07-11-2026",
+  "last_update_time": "06:31:16 AM 07-11-2026",
   "total_matches": 224,
-  "live_match": 35,
+  "live_match": 36,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Cleveland Cavaliers Vs Philadelphia 76ers",
+      "eventInfo": {
+        "teamA": "Cleveland Cavaliers",
+        "teamB": "Philadelphia 76ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "07/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -884,35 +913,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Cleveland Cavaliers Vs Philadelphia 76ers",
-      "eventInfo": {
-        "teamA": "Cleveland Cavaliers",
-        "teamB": "Philadelphia 76ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "07/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Memphis Grizzlies Vs Oklahoma City Thunder",
       "eventInfo": {
         "teamA": "Memphis Grizzlies",
@@ -1265,7 +1265,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "New Zealand Vs India",
       "eventInfo": {
