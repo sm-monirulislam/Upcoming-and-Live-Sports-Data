@@ -2,10 +2,53 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:31:15 PM 08-11-2026",
+  "last_update_time": "03:31:29 PM 08-11-2026",
   "total_matches": 150,
-  "live_match": 17,
+  "live_match": 16,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Maldives Vs Pakistan",
+      "eventInfo": {
+        "teamA": "Maldives",
+        "teamB": "Pakistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+        "eventName": "SAFF Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+        "startTime": "08/11/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Australia Vs Samoa",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "Samoa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24242/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "08/11/2026 03:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -129,36 +172,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f3df7843080ae743bf865dc5fdf64c68",
           "key": "567c863bc12eb74788ea74888c042e1b"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Perth Wildcats Vs Cairns Taipans",
-      "eventInfo": {
-        "teamA": "Perth Wildcats",
-        "teamB": "Cairns Taipans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "08/11/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/Q333Q.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
         }
       ]
     },
@@ -579,121 +592,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "Waldo Cortes-Acosta Vs Johnny Walker",
-      "eventInfo": {
-        "teamA": "Waldo Cortes-Acosta",
-        "teamB": "Johnny Walker",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/461737/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/467489/image",
-        "eventName": "UFC",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "startTime": "08/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+ FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7rqp7fjnbn/out/v1/c1a42868874346a1a47130ed7f648d4f/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "cf66de6be6a50608700ceaa54a63fd00",
-          "key": "d06489a2cb71f95d2dd3398e841bcc7b"
-        },
-        {
-          "channel_name": "PARAMOUNT+ ES",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aghhxnng56/out/v1/748629d7884e415f8207b32fbd9f66e5/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "87cedc3364a0e6abb8819aeae959a5cd",
-          "key": "d6e59f044d3d67ba0903ed840dec9609"
-        },
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "PARAMOUNT+ PT",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ziwkrv7j5h/out/v1/1f62f2870fb2499e84f125bfbbcf97f2/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d5213d08191dc6ea7ca42efa2ec7d425",
-          "key": "254b908b192412edd97c6efa32ec5f31"
-        },
-        {
-          "channel_name": "UFC TV HD",
-          "stream_url": "https://temp.formaturamaxi.com.br/ufc.m3u8"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPANOL HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPANOL SD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PORTUGAL HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PORTUGAL SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs Samoa",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "Samoa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24242/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "08/11/2026 03:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Maldives Vs Pakistan",
-      "eventInfo": {
-        "teamA": "Maldives",
-        "teamB": "Pakistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-        "eventName": "SAFF Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "startTime": "08/11/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Çaykur Rizespor Vs Erzurumspor FK",
       "eventInfo": {
@@ -4357,6 +4255,78 @@
     },
     {
       "status": "ENDED",
+      "Category": "Boxing",
+      "event_name": "Waldo Cortes-Acosta Vs Johnny Walker",
+      "eventInfo": {
+        "teamA": "Waldo Cortes-Acosta",
+        "teamB": "Johnny Walker",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/461737/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/467489/image",
+        "eventName": "UFC",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "startTime": "08/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7rqp7fjnbn/out/v1/c1a42868874346a1a47130ed7f648d4f/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "cf66de6be6a50608700ceaa54a63fd00",
+          "key": "d06489a2cb71f95d2dd3398e841bcc7b"
+        },
+        {
+          "channel_name": "PARAMOUNT+ ES",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aghhxnng56/out/v1/748629d7884e415f8207b32fbd9f66e5/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "87cedc3364a0e6abb8819aeae959a5cd",
+          "key": "d6e59f044d3d67ba0903ed840dec9609"
+        },
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "PARAMOUNT+ PT",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ziwkrv7j5h/out/v1/1f62f2870fb2499e84f125bfbbcf97f2/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d5213d08191dc6ea7ca42efa2ec7d425",
+          "key": "254b908b192412edd97c6efa32ec5f31"
+        },
+        {
+          "channel_name": "UFC TV HD",
+          "stream_url": "https://temp.formaturamaxi.com.br/ufc.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPANOL HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPANOL SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PORTUGAL HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PORTUGAL SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "American football",
       "event_name": "UNLV Rebels Vs Wyoming Cowboys",
       "eventInfo": {
@@ -4466,6 +4436,36 @@
           "stream_url": "http://193.47.62.55/hls/FVVV.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Perth Wildcats Vs Cairns Taipans",
+      "eventInfo": {
+        "teamA": "Perth Wildcats",
+        "teamB": "Cairns Taipans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "08/11/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/Q333Q.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     }
