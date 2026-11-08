@@ -2,10 +2,60 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:31:19 PM 08-11-2026",
+  "last_update_time": "11:01:16 PM 08-11-2026",
   "total_matches": 165,
-  "live_match": 48,
+  "live_match": 57,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Inter Vs Como",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "Como",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+        "eventName": "Serie A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "08/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vxha8ilkr/out/v1/1a5a110bbe1246eeb1af95456bc7e77e/cenc.mpd",
+          "kid": "38df13df2c20d1fdac35938a37d0b40e",
+          "key": "0e6856b2387be00dc6cda8bbfb6db614"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
+          "key": "552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -22,10 +72,9 @@
       "streams": [
         {
           "channel_name": "FUBO SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "42f72c025dd53039244adc13b7e31dad",
-          "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
+          "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
+          "key": "3e7d40c4b2ca331fe48bd65acae439d7"
         },
         {
           "channel_name": "SKY SPORTS EPL FHD",
@@ -33,6 +82,13 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "1106fb025da5b31657618344099c6c14",
           "key": "788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "channel_name": "FUBO SPORTS ALT",
+          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "42f72c025dd53039244adc13b7e31dad",
+          "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
         },
         {
           "channel_name": "SKY SPORTS EPL",
@@ -44,6 +100,28 @@
           "stream_url": "http://193.47.62.55/hls/RRRR.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "USA NETWORK FHD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59599/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "FASTER QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4558721.m3u8?txSecret=b3a9b851fc77cd7b99cc463c389a9741&txTime=6AF0B4F2",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/512a16c5-bbb9-4932-a173-f068a4aa668e.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RRRR.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "XTREME+ FHD",
@@ -69,6 +147,24 @@
         "startTime": "08/11/2026 10:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "DAZN ENGLISH FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7zd8uemujv/out/v1/7cb02f7f84f3457b9124219ae3dcc112/cenc.mpd",
+          "kid": "c4dd0db0b72637863e1d5c3e2c5bf2cd",
+          "key": "7643ae2a8c5319261c513e2887f7350d"
+        },
+        {
+          "channel_name": "PEACOCK ES FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ebzbf3udt/out/v1/6d939fc4c9124732a031ec455788b8ae/cenc.mpd",
+          "kid": "eaab90e333773b6ff0790199dda4036b",
+          "key": "6ce3fe4260142f675847557382e28a41"
+        },
+        {
+          "channel_name": "DAZN DE FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/co8ff7jxfh/out/v1/3acaab61e726485ca35f8ada51c46555/cenc.mpd",
+          "kid": "4ef679ef8a265c7c3f45f0f2fa337e88",
+          "key": "14441c42a217b3b915ba80c1dd93b975"
+        },
         {
           "channel_name": "SporTV BR FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
@@ -232,6 +328,12 @@
           "key": "ec3d999f9df5060e7c2e575ea91fbfe6"
         },
         {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/penehwquxc/out/v1/e01e96068c20482280b810b34aa66a6e/cenc.mpd",
+          "kid": "4b17f5cd91d6b9dde66cf11dac2c7805",
+          "key": "ffc6dd5e62c688c5f8e131649df94a2d"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/O777AAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -266,6 +368,12 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yigatghesv/out/v1/4d33e812c03c4e2999880ff0c49d7632/cenc.mpd",
           "kid": "5bb1aaadb36e94b379f6e6e045fc64a8",
           "key": "731ecbfab5d73fa2880b69ee1bda944d"
+        },
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/widvcbyhyu/out/v1/f2b6e6971f8842418e19cba76875c208/cenc.mpd",
+          "kid": "6fb0ddc7e384e78dea1868457c21fc7d",
+          "key": "88f26e97ed7f41070644f8519fd4d2ae"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -836,11 +944,11 @@
         },
         {
           "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/01d9a0cb-902a-4045-bc6c-7672230a7cfd/master.m3u8"
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/EAEAEAAAAAA.m3u8",
+          "stream_url": "http://193.47.62.59/hls/ffffn.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -931,84 +1039,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Köln Vs Bayer 04 Leverkusen",
-      "eventInfo": {
-        "teamA": "1. FC Köln",
-        "teamB": "Bayer 04 Leverkusen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "08/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN SPORTS FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd",
-          "kid": "a4f80bd1af6f690babee33ca904a6963",
-          "key": "1c266b79d9282476ee6cd7bffa209571"
-        },
-        {
-          "channel_name": "DAZN DE FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wylvflvruk/out/v1/9660b42e566043ab8e6ef14b24a9f181/cenc.mpd",
-          "kid": "7edfc1581ef7f5d7d290b99458ff7b4e",
-          "key": "c04cf30c7da76c474d111cc599d272ad"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/G555.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "London City Lionesses Vs Birmingham City W.F.C.",
-      "eventInfo": {
-        "teamA": "London City Lionesses",
-        "teamB": "Birmingham City W.F.C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/326573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "08/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+ FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmaqbycjaz/out/v1/8e4d39e0864a4899ab5300c81c2906e7/cenc.mpd",
-          "kid": "c431b5083383d7bcccc5ddd930c03822",
-          "key": "94858b6ff42bc2a902dfb62af1c8da3d"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": " LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/SYYYAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1300,35 +1330,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cray Wanderers Vs Stockport County",
-      "eventInfo": {
-        "teamA": "Cray Wanderers",
-        "teamB": "Stockport County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/45006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image",
-        "eventName": "FA Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19/image/dark",
-        "startTime": "08/11/2026 08:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/SYYYAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Finland Vs Sweden",
       "eventInfo": {
@@ -1373,42 +1374,6 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59592/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "EPL Goal Rush Vs EPL Goal Rush",
-      "eventInfo": {
-        "teamA": "EPL Goal Rush",
-        "teamB": "EPL Goal Rush",
-        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQuK9f83R-ZR8UuTd9cAuDw0iRlnsA6BktkcSzGtkUarFGjxrwrz87NJ6TgcU5c6uDEYC1rGahGofzkMFFfABHpeLggTOmsG3xQDknM3OjWLgdPBfdDFm0dIEXNUp5tYg_wfLREEuE92_3wUz7Kd-kuJtX8aohww70b_xJA0eGKVVPdPUkdXPTUC-xUA/s1600/1000027519.png",
-        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQuK9f83R-ZR8UuTd9cAuDw0iRlnsA6BktkcSzGtkUarFGjxrwrz87NJ6TgcU5c6uDEYC1rGahGofzkMFFfABHpeLggTOmsG3xQDknM3OjWLgdPBfdDFm0dIEXNUp5tYg_wfLREEuE92_3wUz7Kd-kuJtX8aohww70b_xJA0eGKVVPdPUkdXPTUC-xUA/s1600/1000027519.png",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "08/11/2026 07:59:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1106fb025da5b31657618344099c6c14",
-          "key": "788284538616a73b56214e90196a6e0f"
-        },
-        {
-          "channel_name": "PEACOCK FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/13ywhzn7pg/out/v1/79983d5e2c0e40d186b40684827ffe9c/cenc.mpd",
-          "kid": "777a59fc87058b03c8528616e716c62e",
-          "key": "e375242a8bd1ffa44eb7f83ada3db1aa"
-        },
-        {
-          "channel_name": "SKY SPORT FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1106fb025da5b31657618344099c6c14",
-          "key": "788284538616a73b56214e90196a6e0f"
         }
       ]
     },
@@ -1481,50 +1446,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Inter Vs Como",
-      "eventInfo": {
-        "teamA": "Inter",
-        "teamB": "Como",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-        "eventName": "Serie A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "08/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "fa34fa8c90336dd528c7a23871cad1fe",
-          "key": "552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
         }
       ]
     },
@@ -1688,7 +1609,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Baltika Kaliningrad Vs Dinamo Makhachkala",
       "eventInfo": {
@@ -1709,7 +1630,43 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "NFL REDZONE Vs NFL REDZONE",
+      "eventInfo": {
+        "teamA": "NFL REDZONE",
+        "teamB": "NFL REDZONE",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "eventName": "NFL REDZONE",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "08/11/2026 11:59:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER+ 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59596/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59597/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59598/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL BACKUP+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59601/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Miami Dolphins Vs Detroit Lions",
       "eventInfo": {
@@ -1724,7 +1681,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59617/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59618/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -1738,7 +1700,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Indianapolis Colts Vs Dallas Cowboys",
       "eventInfo": {
@@ -1767,7 +1729,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Carolina Panthers Vs Denver Broncos",
       "eventInfo": {
@@ -1796,7 +1758,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "New Orleans Saints Vs Cleveland Browns",
       "eventInfo": {
@@ -1811,7 +1773,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59608/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59609/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -1825,7 +1792,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Kansas City Chiefs Vs New York Jets",
       "eventInfo": {
@@ -1846,7 +1813,12 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59602/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59603/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -1860,7 +1832,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Philadelphia Eagles Vs New York Giants",
       "eventInfo": {
@@ -1889,7 +1861,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Washington Commanders Vs Los Angeles Rams",
       "eventInfo": {
@@ -1904,7 +1876,17 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59606/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59607/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER+ 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59621/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -1918,7 +1900,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Vitória SC Vs FC Porto",
       "eventInfo": {
@@ -1938,7 +1920,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Los Chankas CYC Vs Alianza Lima",
       "eventInfo": {
@@ -1962,7 +1944,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Beşiktaş JK Vs Gençlerbirliği",
       "eventInfo": {
@@ -1985,7 +1967,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Boston Bruins Vs Florida Panthers",
       "eventInfo": {
@@ -4952,47 +4934,6 @@
     {
       "status": "ENDED",
       "Category": "Football",
-      "event_name": "FC Twente Vs AFC Ajax",
-      "eventInfo": {
-        "teamA": "FC Twente",
-        "teamB": "AFC Ajax",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "08/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/dd4556fd-8216-47eb-a684-3d72cdccc086.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/Q222AAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
       "event_name": "Jagiellonia Białystok Vs GKS Katowice",
       "eventInfo": {
         "teamA": "Jagiellonia Białystok",
@@ -5015,6 +4956,42 @@
           "stream_url": "http://193.47.62.44/hls/Q222AAAAAQQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "EPL Goal Rush Vs EPL Goal Rush",
+      "eventInfo": {
+        "teamA": "EPL Goal Rush",
+        "teamB": "EPL Goal Rush",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQuK9f83R-ZR8UuTd9cAuDw0iRlnsA6BktkcSzGtkUarFGjxrwrz87NJ6TgcU5c6uDEYC1rGahGofzkMFFfABHpeLggTOmsG3xQDknM3OjWLgdPBfdDFm0dIEXNUp5tYg_wfLREEuE92_3wUz7Kd-kuJtX8aohww70b_xJA0eGKVVPdPUkdXPTUC-xUA/s1600/1000027519.png",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQuK9f83R-ZR8UuTd9cAuDw0iRlnsA6BktkcSzGtkUarFGjxrwrz87NJ6TgcU5c6uDEYC1rGahGofzkMFFfABHpeLggTOmsG3xQDknM3OjWLgdPBfdDFm0dIEXNUp5tYg_wfLREEuE92_3wUz7Kd-kuJtX8aohww70b_xJA0eGKVVPdPUkdXPTUC-xUA/s1600/1000027519.png",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "08/11/2026 07:59:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1106fb025da5b31657618344099c6c14",
+          "key": "788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "channel_name": "PEACOCK FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/13ywhzn7pg/out/v1/79983d5e2c0e40d186b40684827ffe9c/cenc.mpd",
+          "kid": "777a59fc87058b03c8528616e716c62e",
+          "key": "e375242a8bd1ffa44eb7f83ada3db1aa"
+        },
+        {
+          "channel_name": "SKY SPORT FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1106fb025da5b31657618344099c6c14",
+          "key": "788284538616a73b56214e90196a6e0f"
         }
       ]
     },
@@ -5531,6 +5508,35 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Cray Wanderers Vs Stockport County",
+      "eventInfo": {
+        "teamA": "Cray Wanderers",
+        "teamB": "Stockport County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/45006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image",
+        "eventName": "FA Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19/image/dark",
+        "startTime": "08/11/2026 08:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/SYYYAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
@@ -5563,6 +5569,84 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f3df7843080ae743bf865dc5fdf64c68",
           "key": "567c863bc12eb74788ea74888c042e1b"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "1. FC Köln Vs Bayer 04 Leverkusen",
+      "eventInfo": {
+        "teamA": "1. FC Köln",
+        "teamB": "Bayer 04 Leverkusen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "08/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN SPORTS FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd",
+          "kid": "a4f80bd1af6f690babee33ca904a6963",
+          "key": "1c266b79d9282476ee6cd7bffa209571"
+        },
+        {
+          "channel_name": "DAZN DE FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wylvflvruk/out/v1/9660b42e566043ab8e6ef14b24a9f181/cenc.mpd",
+          "kid": "7edfc1581ef7f5d7d290b99458ff7b4e",
+          "key": "c04cf30c7da76c474d111cc599d272ad"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/G555.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "London City Lionesses Vs Birmingham City W.F.C.",
+      "eventInfo": {
+        "teamA": "London City Lionesses",
+        "teamB": "Birmingham City W.F.C.",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/326573/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "08/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmaqbycjaz/out/v1/8e4d39e0864a4899ab5300c81c2906e7/cenc.mpd",
+          "kid": "c431b5083383d7bcccc5ddd930c03822",
+          "key": "94858b6ff42bc2a902dfb62af1c8da3d"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": " LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/SYYYAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     }
