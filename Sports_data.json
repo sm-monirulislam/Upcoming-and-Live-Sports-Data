@@ -2,10 +2,54 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:31:23 AM 10-11-2026",
+  "last_update_time": "02:01:20 AM 10-11-2026",
   "total_matches": 93,
   "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Club Deportivo de A Coruña Vs Valencia",
+      "eventInfo": {
+        "teamA": "Real Club Deportivo de A Coruña",
+        "teamB": "Valencia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/262253/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "10/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sportivo San Lorenzo Vs Rubio Ñu",
+      "eventInfo": {
+        "teamA": "Sportivo San Lorenzo",
+        "teamB": "Rubio Ñu",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90972/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36438/image",
+        "eventName": "Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "10/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS ",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -1187,50 +1231,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Real Club Deportivo de A Coruña Vs Valencia",
-      "eventInfo": {
-        "teamA": "Real Club Deportivo de A Coruña",
-        "teamB": "Valencia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/262253/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "10/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sportivo San Lorenzo Vs Rubio Ñu",
-      "eventInfo": {
-        "teamA": "Sportivo San Lorenzo",
-        "teamB": "Rubio Ñu",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90972/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36438/image",
-        "eventName": "Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "10/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT SPORTS ",
-          "stream_url": ""
         }
       ]
     },
