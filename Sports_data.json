@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:16 AM 10-11-2026",
+  "last_update_time": "04:01:14 AM 10-11-2026",
   "total_matches": 93,
-  "live_match": 11,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -47,51 +47,6 @@
         {
           "channel_name": "TNT SPORTS ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Plymouth Parkway Vs Berkhamsted Town",
-      "eventInfo": {
-        "teamA": "Plymouth Parkway",
-        "teamB": "Berkhamsted Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/80011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/231/image",
-        "eventName": "FA Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19/image/dark",
-        "startTime": "10/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CE Sabadell Vs Real Sociedad B",
-      "eventInfo": {
-        "teamA": "CE Sabadell",
-        "teamB": "Real Sociedad B",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "10/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LALIGA HYP",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "kid": "a88617e904504ee291f49f0e60a51d49",
-          "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ]
     },
@@ -2742,6 +2697,51 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Plymouth Parkway Vs Berkhamsted Town",
+      "eventInfo": {
+        "teamA": "Plymouth Parkway",
+        "teamB": "Berkhamsted Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/80011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/231/image",
+        "eventName": "FA Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19/image/dark",
+        "startTime": "10/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CE Sabadell Vs Real Sociedad B",
+      "eventInfo": {
+        "teamA": "CE Sabadell",
+        "teamB": "Real Sociedad B",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24335/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "10/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LALIGA HYP",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "kid": "a88617e904504ee291f49f0e60a51d49",
+          "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ]
     }
