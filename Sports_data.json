@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:01:16 AM 12-11-2026",
+  "last_update_time": "01:31:16 AM 12-11-2026",
   "total_matches": 148,
   "live_match": 16,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "UCAM Murcia Vs Bamberg Baskets",
+      "eventInfo": {
+        "teamA": "UCAM Murcia",
+        "teamB": "Bamberg Baskets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "12/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -2276,28 +2298,6 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "UCAM Murcia Vs Bamberg Baskets",
-      "eventInfo": {
-        "teamA": "UCAM Murcia",
-        "teamB": "Bamberg Baskets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "12/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
         }
       ]
     },
