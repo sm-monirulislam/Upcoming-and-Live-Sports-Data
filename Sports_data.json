@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:14 AM 12-11-2026",
+  "last_update_time": "05:31:18 AM 12-11-2026",
   "total_matches": 148,
-  "live_match": 16,
+  "live_match": 17,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Platense Vs Peñarol Mar del Plata",
+      "eventInfo": {
+        "teamA": "Platense",
+        "teamB": "Peñarol Mar del Plata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
+        "eventName": "Argentina Liga Nacional",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
+        "startTime": "12/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS +2 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "kid": "83f81c4cc1443991543de4e22eea7586",
+          "key": "ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Hockey",
@@ -2124,28 +2146,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Platense Vs Peñarol Mar del Plata",
-      "eventInfo": {
-        "teamA": "Platense",
-        "teamB": "Peñarol Mar del Plata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
-        "eventName": "Argentina Liga Nacional",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
-        "startTime": "12/11/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS +2 FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "kid": "83f81c4cc1443991543de4e22eea7586",
-          "key": "ddfd7ca653d6f35543d8edb3c688e20f"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "AEW Vs AEW",
       "eventInfo": {
@@ -2428,7 +2428,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs New York Rangers",
       "eventInfo": {
