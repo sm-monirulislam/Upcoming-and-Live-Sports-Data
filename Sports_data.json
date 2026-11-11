@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:01:27 PM 11-11-2026",
+  "last_update_time": "11:31:17 PM 11-11-2026",
   "total_matches": 148,
-  "live_match": 13,
+  "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Rytas Vilnius Vs Nanterre 92",
+      "eventInfo": {
+        "teamA": "Rytas Vilnius",
+        "teamB": "Nanterre 92",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5858/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/53125/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "11/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -25,26 +47,6 @@
           "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
           "kid": "11223344556677889900112233445566",
           "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mamelodi Sundowns Vs Kawempe Muslim La",
-      "eventInfo": {
-        "teamA": "Mamelodi Sundowns",
-        "teamB": "Kawempe Muslim La",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
-        "teamBFlag": "7",
-        "eventName": "CAF WOMEN'S ",
-        "event_logo": "h",
-        "startTime": "11/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Mamelodi Sundowns vs Kawempe Muslim La",
-          "stream_url": "http://162.251.160.53:8089/1231/index.m3u8"
         }
       ]
     },
@@ -2143,28 +2145,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Rytas Vilnius Vs Nanterre 92",
-      "eventInfo": {
-        "teamA": "Rytas Vilnius",
-        "teamB": "Nanterre 92",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5858/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/53125/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "11/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Oud-Heverlee Leuven Vs HB Køge",
       "eventInfo": {
@@ -4105,6 +4085,26 @@
           "channel_name": "T SPORTS HD",
           "stream_url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8",
           "referer": "https://myco.io/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Mamelodi Sundowns Vs Kawempe Muslim La",
+      "eventInfo": {
+        "teamA": "Mamelodi Sundowns",
+        "teamB": "Kawempe Muslim La",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
+        "teamBFlag": "7",
+        "eventName": "CAF WOMEN'S ",
+        "event_logo": "h",
+        "startTime": "11/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Mamelodi Sundowns vs Kawempe Muslim La",
+          "stream_url": "http://162.251.160.53:8089/1231/index.m3u8"
         }
       ]
     }
