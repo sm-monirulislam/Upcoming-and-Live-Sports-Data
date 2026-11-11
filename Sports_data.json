@@ -2,10 +2,76 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:31:16 AM 12-11-2026",
+  "last_update_time": "02:01:26 AM 12-11-2026",
   "total_matches": 148,
-  "live_match": 16,
+  "live_match": 15,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Juventus Vs OL Lyonnes",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "OL Lyonnes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "12/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkdbcbnv/index.m3u8"
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "UK Armed Forces Vs Belgium U20",
+      "eventInfo": {
+        "teamA": "UK Armed Forces",
+        "teamB": "Belgium U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1291407/image",
+        "eventName": "Rugby Union Friendly",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/39828/image/dark",
+        "startTime": "12/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "UK Armed Forces",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "kid": "1444f4235529f183f0a5a486befe9cdb",
+          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -181,28 +247,6 @@
         {
           "channel_name": "NOVA2 SPORTS FHD",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "SK Slavia Praha Vs Igokea m:tel",
-      "eventInfo": {
-        "teamA": "SK Slavia Praha",
-        "teamB": "Igokea m:tel",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/361678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44467/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "11/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
           "kid": "11223344556677889900112233445566",
           "key": "4b80724d0ef86bcb2c21f7999d67739d"
         }
@@ -2302,72 +2346,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "UK Armed Forces Vs Belgium U20",
-      "eventInfo": {
-        "teamA": "UK Armed Forces",
-        "teamB": "Belgium U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1291407/image",
-        "eventName": "Rugby Union Friendly",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/39828/image/dark",
-        "startTime": "12/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "UK Armed Forces",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Juventus Vs OL Lyonnes",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "OL Lyonnes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "12/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkdbcbnv/index.m3u8"
-        },
-        {
-          "channel_name": "ESPN DEPORTES HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN DEPORTES HD2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN HD 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Basketball",
       "event_name": "Platense Vs Peñarol Mar del Plata",
@@ -4105,6 +4083,28 @@
         {
           "channel_name": "Mamelodi Sundowns vs Kawempe Muslim La",
           "stream_url": "http://162.251.160.53:8089/1231/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "SK Slavia Praha Vs Igokea m:tel",
+      "eventInfo": {
+        "teamA": "SK Slavia Praha",
+        "teamB": "Igokea m:tel",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/361678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/44467/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "11/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
         }
       ]
     }
