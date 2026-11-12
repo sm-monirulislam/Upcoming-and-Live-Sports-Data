@@ -2,10 +2,40 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:17 AM 13-11-2026",
+  "last_update_time": "04:01:29 AM 13-11-2026",
   "total_matches": 113,
-  "live_match": 19,
+  "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Aruba Vs Martinique",
+      "eventInfo": {
+        "teamA": "Aruba",
+        "teamB": "Martinique",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "13/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        },
+        {
+          "channel_name": "FOX2 USA HD",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -3145,36 +3175,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Aruba Vs Martinique",
-      "eventInfo": {
-        "teamA": "Aruba",
-        "teamB": "Martinique",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "13/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
-        },
-        {
-          "channel_name": "FOX2 USA HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Antigua and Barbuda Vs Trinidad and Tobago",
       "eventInfo": {
         "teamA": "Antigua and Barbuda",
@@ -3194,7 +3194,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Estudiantes de La Plata Vs Independiente Rivadavia",
       "eventInfo": {
