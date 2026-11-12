@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:01:15 AM 12-11-2026",
+  "last_update_time": "09:31:18 AM 12-11-2026",
   "total_matches": 145,
-  "live_match": 26,
+  "live_match": 25,
   "matches": [
     {
       "status": "LIVE",
@@ -600,38 +600,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club América Vs Toluca",
-      "eventInfo": {
-        "teamA": "Club América",
-        "teamB": "Toluca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/261128/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/261026/image",
-        "eventName": "Liga MX, Women, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US HD 2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN MX HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Houston Cougars Vs Jacksonville State Gamecocks",
       "eventInfo": {
@@ -681,39 +649,6 @@
         {
           "channel_name": "XTREME+ FHD ",
           "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Calgary Flames Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "Calgary Flames",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59844/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6ad23356-e173-4ef5-a7f8-c4109bc12d06/master.m3u8"
         },
         {
           "channel_name": "XTREME+ SD",
@@ -2834,7 +2769,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Pakistan Vs Sri Lanka",
       "eventInfo": {
@@ -4361,6 +4296,71 @@
         },
         {
           "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Calgary Flames Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "Calgary Flames",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59844/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6ad23356-e173-4ef5-a7f8-c4109bc12d06/master.m3u8"
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Club América Vs Toluca",
+      "eventInfo": {
+        "teamA": "Club América",
+        "teamB": "Toluca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/261128/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/261026/image",
+        "eventName": "Liga MX, Women, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US HD 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN MX HD ",
           "stream_url": ""
         }
       ]
