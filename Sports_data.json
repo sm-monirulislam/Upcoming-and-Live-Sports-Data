@@ -2,10 +2,62 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:01:19 PM 12-11-2026",
+  "last_update_time": "02:31:16 PM 12-11-2026",
   "total_matches": 148,
-  "live_match": 11,
+  "live_match": 9,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Adelaide 36ers Vs Melbourne United",
+      "eventInfo": {
+        "teamA": "Adelaide 36ers",
+        "teamB": "Melbourne United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "12/11/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Melbourne Renegades Women Vs Sydney Sixers Women",
+      "eventInfo": {
+        "teamA": "Melbourne Renegades Women",
+        "teamB": "Sydney Sixers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "12/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -67,41 +119,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "12/11/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VFFFAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Afghanistan Under-19 Vs India Under-19",
       "eventInfo": {
@@ -153,33 +170,6 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v9vh6sx6aa/out/v1/fa0840b9189c43a5b75029161e4f1829/cenc.mpd",
           "kid": "2d895ee3ffc49f5334210c8ee8cccee2",
           "key": "612a73373cbc8a0c795ef02e725ea42e"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Melbourne Stars Women Vs Brisbane Heat Women",
-      "eventInfo": {
-        "teamA": "Melbourne Stars Women",
-        "teamB": "Brisbane Heat Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "12/11/2026 10:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
-          "kid": "c913b1471f49e4025d8d7b9fa1aef810",
-          "key": "a3e85530de55a1f402a099b2ade8808f"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
         }
       ]
     },
@@ -2213,58 +2203,6 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Melbourne Renegades Women Vs Sydney Sixers Women",
-      "eventInfo": {
-        "teamA": "Melbourne Renegades Women",
-        "teamB": "Sydney Sixers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "12/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Adelaide 36ers Vs Melbourne United",
-      "eventInfo": {
-        "teamA": "Adelaide 36ers",
-        "teamB": "Melbourne United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "12/11/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME+ FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
         }
       ]
     },
@@ -4526,6 +4464,68 @@
         },
         {
           "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Melbourne Stars Women Vs Brisbane Heat Women",
+      "eventInfo": {
+        "teamA": "Melbourne Stars Women",
+        "teamB": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "12/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
+          "kid": "c913b1471f49e4025d8d7b9fa1aef810",
+          "key": "a3e85530de55a1f402a099b2ade8808f"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "New Zealand Vs India",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "12/11/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VFFFAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
           "stream_url": ""
         }
       ]
