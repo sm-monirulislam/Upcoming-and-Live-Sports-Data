@@ -2,31 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:01:16 AM 13-11-2026",
+  "last_update_time": "08:31:17 AM 13-11-2026",
   "total_matches": 119,
   "live_match": 29,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Indiana Hoosiers Vs Tennessee Tech Golden Eagles",
-      "eventInfo": {
-        "teamA": "Indiana Hoosiers",
-        "teamB": "Tennessee Tech Golden Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66358/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86656/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "13/11/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59892/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -64,6 +43,36 @@
         {
           "channel_name": "ESPN DEPORTES HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "TNA iMPACT Vs TNA iMPACT",
+      "eventInfo": {
+        "teamA": "TNA iMPACT",
+        "teamB": "TNA iMPACT",
+        "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "eventName": "TNA iMPACT",
+        "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "startTime": "11/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME SD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RIIIAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -219,16 +228,10 @@
       },
       "streams": [
         {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iuqnuk7pr4/out/v1/e3422bcef5ec40a591e96d528b83bdd6/cenc.mpd",
-          "kid": "9daab9f2057ca46ae108997a0886b434",
-          "key": "220b4c0284b9a045c49c8cf1ddbb49a8"
-        },
-        {
-          "channel_name": "PRIME HINDI FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vhf8r60nl/out/v1/5d0ce0e49c454459a1f6c58562ce4884/cenc.mpd",
-          "kid": "2848e6ec50f63a4a5ed5e0c0bb94c870",
-          "key": "c6d49139023938d6a73f6a3141b2ff5e"
+          "channel_name": "PRIME ENG FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcu7rpwyvi/out/v1/05f98d7430fd4ceeb3317fe61cc536b0/cenc.mpd",
+          "kid": "2a074c6c1178670701cbfeca48c0abe5",
+          "key": "d7d84ab8144591ba0a49e443c571bf10"
         },
         {
           "channel_name": "TNT2UK SPORTS FHD",
@@ -238,10 +241,16 @@
           "key": "567c863bc12eb74788ea74888c042e1b"
         },
         {
-          "channel_name": "PRIME ENG FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcu7rpwyvi/out/v1/05f98d7430fd4ceeb3317fe61cc536b0/cenc.mpd",
-          "kid": "2a074c6c1178670701cbfeca48c0abe5",
-          "key": "d7d84ab8144591ba0a49e443c571bf10"
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iuqnuk7pr4/out/v1/e3422bcef5ec40a591e96d528b83bdd6/cenc.mpd",
+          "kid": "9daab9f2057ca46ae108997a0886b434",
+          "key": "220b4c0284b9a045c49c8cf1ddbb49a8"
+        },
+        {
+          "channel_name": "PRIME KAN FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vhf8r60nl/out/v1/5d0ce0e49c454459a1f6c58562ce4884/cenc.mpd",
+          "kid": "2848e6ec50f63a4a5ed5e0c0bb94c870",
+          "key": "c6d49139023938d6a73f6a3141b2ff5e"
         },
         {
           "channel_name": "WILLOW ALT",
@@ -308,11 +317,16 @@
           "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
         },
         {
-          "channel_name": "SKY TOP EVENT",
+          "channel_name": "SKY TOP EVENT FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "368bd4ebe301406897324bc777650411",
           "key": "69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "HD QUALITY ++",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59926/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "HD QUALITY 1",
@@ -335,37 +349,14 @@
           "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "HD QUALITY 4",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59926/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "TNA iMPACT Vs TNA iMPACT",
-      "eventInfo": {
-        "teamA": "TNA iMPACT",
-        "teamB": "TNA iMPACT",
-        "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "eventName": "TNA iMPACT",
-        "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "startTime": "13/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
+          "channel_name": "1.LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/F9999X.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
-          "channel_name": "XTREME SD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/uiii.m3u8",
+          "channel_name": "2 LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/F9999.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -438,6 +429,16 @@
         {
           "channel_name": "XTREME+ SD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/5226f088-43b0-42d3-b1a3-f4f6aabc7486.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/LOLOLOAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -467,6 +468,12 @@
         {
           "channel_name": "XTREME+ SD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/LOLOLOA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -508,6 +515,16 @@
         {
           "channel_name": "XTREME+ SD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/12bd16f1-8696-47f7-83f8-af519d8c6d53.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/LOLOLO.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -526,9 +543,22 @@
       },
       "streams": [
         {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhgeoz3lb3/out/v1/e24fd468c17640d5a79c1399b2cc39b9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "226ecb71811e7e4393e39e5dc1accd81",
+          "key": "a2adf2be5db6096f0fe1f1e37912a06a"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59926/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/LOLOLOAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "XTREME+ FHD ",
@@ -690,6 +720,10 @@
           "referer": "https://gooz.aapmains.net"
         },
         {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7a9cdef1-48b5-4ac7-b40e-c10f4ed49545/master.m3u8"
+        },
+        {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
         },
@@ -803,6 +837,10 @@
           "referer": "https://gooz.aapmains.net"
         },
         {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c592f597-69c9-4877-87ed-8fe596c20a00/master.m3u8"
+        },
+        {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
         },
@@ -830,6 +868,10 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59928/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a9a296fc-8e8c-4359-9194-80ad37d09842/master.m3u8"
         },
         {
           "channel_name": "XTREME FHD ",
@@ -862,6 +904,12 @@
           "key": "98cff9600995fa381c76fdacf3c7edae"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/F1111AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
         },
@@ -887,6 +935,10 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TV QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2178,6 +2230,10 @@
           "key": "4b80724d0ef86bcb2c21f7999d67739d"
         },
         {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/91339adf-3412-4284-82aa-68f031a6e703/master.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
@@ -2485,7 +2541,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Australia Vs England",
       "eventInfo": {
@@ -4097,6 +4153,27 @@
         {
           "channel_name": "ESPN HD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Indiana Hoosiers Vs Tennessee Tech Golden Eagles",
+      "eventInfo": {
+        "teamA": "Indiana Hoosiers",
+        "teamB": "Tennessee Tech Golden Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86656/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "13/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59892/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ]
     }
