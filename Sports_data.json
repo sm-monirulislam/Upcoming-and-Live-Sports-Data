@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:01:24 AM 13-11-2026",
+  "last_update_time": "09:31:16 AM 13-11-2026",
   "total_matches": 119,
-  "live_match": 20,
+  "live_match": 21,
   "matches": [
     {
       "status": "LIVE",
@@ -621,6 +621,27 @@
     },
     {
       "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Australia Vs England",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "eventName": "One Day International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "13/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Atlético Morelia Vs Leones Negros",
       "eventInfo": {
@@ -1198,7 +1219,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Pakistan Vs Sri Lanka",
       "eventInfo": {
@@ -2198,27 +2219,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "290e09c837da78d5cd961978d390515c",
           "key": "b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "13/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
         }
       ]
     },
