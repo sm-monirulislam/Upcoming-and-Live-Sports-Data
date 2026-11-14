@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:31:17 PM 14-11-2026",
+  "last_update_time": "10:01:20 PM 14-11-2026",
   "total_matches": 159,
-  "live_match": 48,
+  "live_match": 53,
   "matches": [
     {
       "status": "LIVE",
@@ -420,40 +420,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Chelsea FC Vs Manchester City",
-      "eventInfo": {
-        "teamA": "Chelsea FC",
-        "teamB": "Manchester City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "14/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+ FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/95tqrua3ps/out/v1/4ed1cbf95628487eb91774f4e609945c/cenc.mpd",
-          "kid": "4da92e61ba4a98f5ecc4389c568f8c8f",
-          "key": "d0e7bb3ca6c3e25042ea1296efbe2677"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/BEEEAAAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BEEEAAAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Tottenham FC Vs Everton",
       "eventInfo": {
         "teamA": "Tottenham FC",
@@ -507,6 +473,37 @@
           "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
           "kid": "a88617e904504ee291f49f0e60a51d49",
           "key": "17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Uganda Vs Botswana",
+      "eventInfo": {
+        "teamA": "Uganda",
+        "teamB": "Botswana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4747/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "14/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS US FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "27759a440e8ad821b800b3de00cd5851",
+          "key": "1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -1326,6 +1323,26 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
+      "event_name": "Spain Vs Chile",
+      "eventInfo": {
+        "teamA": "Spain",
+        "teamB": "Chile",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/132110/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/272449/image",
+        "eventName": "Nations Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
+        "startTime": "14/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + RUGBY",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
       "event_name": "Portugal Vs Samoa",
       "eventInfo": {
         "teamA": "Portugal",
@@ -1735,7 +1752,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Georgia Vs Hungary",
       "eventInfo": {
@@ -1778,7 +1795,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Norway Vs Wales",
       "eventInfo": {
@@ -2430,7 +2447,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Deportivo Alavés Vs SD Eibar",
       "eventInfo": {
@@ -2663,37 +2680,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Uganda Vs Botswana",
-      "eventInfo": {
-        "teamA": "Uganda",
-        "teamB": "Botswana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4726/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4747/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "14/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS US FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "27759a440e8ad821b800b3de00cd5851",
-          "key": "1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "channel_name": "XTREME+ FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Algeria Vs Togo",
@@ -2763,7 +2749,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Fiorentina Vs Lazio",
       "eventInfo": {
@@ -2836,7 +2822,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Washington Spirit Vs Utah Royals FC",
       "eventInfo": {
@@ -3679,7 +3665,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "England Vs Japan",
       "eventInfo": {
@@ -3730,26 +3716,6 @@
         "eventName": "Nations Cup",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
         "startTime": "14/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + RUGBY",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Spain Vs Chile",
-      "eventInfo": {
-        "teamA": "Spain",
-        "teamB": "Chile",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/132110/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/272449/image",
-        "eventName": "Nations Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "startTime": "14/11/2026 10:00:00 PM"
       },
       "streams": [
         {
@@ -4321,6 +4287,40 @@
         {
           "channel_name": "HD QUALITY 4",
           "stream_url": "https://www.rtmpcdn.com/live/p-da7c4d81095e47078b1a0757ee41e04e.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Chelsea FC Vs Manchester City",
+      "eventInfo": {
+        "teamA": "Chelsea FC",
+        "teamB": "Manchester City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "14/11/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/95tqrua3ps/out/v1/4ed1cbf95628487eb91774f4e609945c/cenc.mpd",
+          "kid": "4da92e61ba4a98f5ecc4389c568f8c8f",
+          "key": "d0e7bb3ca6c3e25042ea1296efbe2677"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/BEEEAAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BEEEAAAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
