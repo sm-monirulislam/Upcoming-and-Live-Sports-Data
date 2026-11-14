@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:15 PM 14-11-2026",
+  "last_update_time": "12:31:22 PM 14-11-2026",
   "total_matches": 167,
-  "live_match": 15,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -204,6 +204,24 @@
       },
       "streams": [
         {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "kid": "6d9898b922c715df238b810032f99e04",
+          "key": "24ce2fd66d77c73540f129ae83c967d7"
+        },
+        {
+          "channel_name": "SonyLiv PRIME FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd",
+          "kid": "c32f4ea1b4dd4e4736ee667ee02aa8bb",
+          "key": "3ae921b11d3dcabb54a7433f065c2efa"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "kid": "6d9898b922c715df238b810032f99e04",
+          "key": "24ce2fd66d77c73540f129ae83c967d7"
+        },
+        {
           "channel_name": "WILLOW SPORTS",
           "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "kid": "290e09c837da78d5cd961978d390515c",
@@ -243,10 +261,15 @@
       "streams": [
         {
           "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd",
+          "kid": "9373c3f08c6578544e0ea1999e95418b",
+          "key": "10a7f6e8177486dfca9bb5696779dd02"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd",
+          "kid": "9373c3f08c6578544e0ea1999e95418b",
+          "key": "10a7f6e8177486dfca9bb5696779dd02"
         },
         {
           "channel_name": "FANCODE2 FHD",
@@ -313,64 +336,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Melbourne City Vs Newcastle Jets",
-      "eventInfo": {
-        "teamA": "Melbourne City",
-        "teamB": "Newcastle Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/207680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174102/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "14/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZZZZA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Adelaide United",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Adelaide United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174100/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174076/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "14/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZZZZ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Central Coast Mariners Vs Perth Glory",
       "eventInfo": {
         "teamA": "Central Coast Mariners",
@@ -392,48 +357,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/ZZZZA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Los Angeles Clippers Vs Oklahoma City Thunder",
-      "eventInfo": {
-        "teamA": "Los Angeles Clippers",
-        "teamB": "Oklahoma City Thunder",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "14/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA LEAGUEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lfkqchjfny/out/v1/a7c27e085aa74f91800c984439ff6e74/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "34193d90b22d421857212337573239b3",
-          "key": "568a057cdd8707ec6690f6d2d39d9335"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60016/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/XAXAXAAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -534,27 +457,6 @@
           "stream_url": "http://193.47.62.41/hls/goooaaa.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Portland State Vikings Vs Southern Utah Thunderbirds",
-      "eventInfo": {
-        "teamA": "Portland State Vikings",
-        "teamB": "Southern Utah Thunderbirds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296502/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/296546/image",
-        "eventName": "NCAA Division FCS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32200/image/dark",
-        "startTime": "14/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + RUGBY",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60020/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -3448,6 +3350,14 @@
           "channel_name": "STREAM TV + NHL",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -3475,6 +3385,14 @@
           "channel_name": "STREAM TV + NHL",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -3523,6 +3441,14 @@
           "channel_name": "STREAM TV + NHL",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -3565,6 +3491,14 @@
           "channel_name": "STREAM TV + NHL",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -3607,6 +3541,14 @@
           "channel_name": "STREAM TV + NHL",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -3649,6 +3591,14 @@
           "channel_name": "STREAM TV + NHL",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
         }
       ]
     },
@@ -4240,6 +4190,64 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Melbourne City Vs Newcastle Jets",
+      "eventInfo": {
+        "teamA": "Melbourne City",
+        "teamB": "Newcastle Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/207680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174102/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "14/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/ZZZZA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Adelaide United",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Adelaide United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174100/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174076/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "14/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/ZZZZ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "American football",
       "event_name": "UCLA Bruins Vs Illinois Fighting Illini",
       "eventInfo": {
@@ -4302,6 +4310,48 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/RFRFRFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Los Angeles Clippers Vs Oklahoma City Thunder",
+      "eventInfo": {
+        "teamA": "Los Angeles Clippers",
+        "teamB": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "14/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lfkqchjfny/out/v1/a7c27e085aa74f91800c984439ff6e74/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "34193d90b22d421857212337573239b3",
+          "key": "568a057cdd8707ec6690f6d2d39d9335"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60016/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/XAXAXAAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -4423,6 +4473,27 @@
         {
           "channel_name": "XTREME+ SD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Portland State Vikings Vs Southern Utah Thunderbirds",
+      "eventInfo": {
+        "teamA": "Portland State Vikings",
+        "teamB": "Southern Utah Thunderbirds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296502/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296546/image",
+        "eventName": "NCAA Division FCS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32200/image/dark",
+        "startTime": "14/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + RUGBY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60020/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
