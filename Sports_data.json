@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:31:20 AM 15-11-2026",
+  "last_update_time": "08:01:13 AM 15-11-2026",
   "total_matches": 108,
-  "live_match": 42,
+  "live_match": 44,
   "matches": [
     {
       "status": "LIVE",
@@ -246,6 +246,29 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
+      "event_name": "New Zealand Vs India",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "eventName": "One Day International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "15/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
       "event_name": "WBBL Vs WBBL",
       "eventInfo": {
         "teamA": "WBBL",
@@ -392,29 +415,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chapecoense Vs Vasco da Gama",
-      "eventInfo": {
-        "teamA": "Chapecoense",
-        "teamB": "Vasco da Gama",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "15/11/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER BR",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     },
@@ -899,6 +899,35 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs San Jose Sharks",
+      "eventInfo": {
+        "teamA": "Utah Mammoth",
+        "teamB": "San Jose Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "15/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + NHL",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Dallas Stars Vs Buffalo Sabres",
       "eventInfo": {
         "teamA": "Dallas Stars",
@@ -1050,27 +1079,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Michigan State Spartans Vs Washington Huskies",
-      "eventInfo": {
-        "teamA": "Michigan State Spartans",
-        "teamB": "Washington Huskies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4338/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4370/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60086/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Kentucky Wildcats Vs Florida Gators",
       "eventInfo": {
         "teamA": "Kentucky Wildcats",
@@ -1094,27 +1102,6 @@
         {
           "channel_name": "TV QUALITY+ HD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "UCF Knights Vs Arizona State Sun Devils",
-      "eventInfo": {
-        "teamA": "UCF Knights",
-        "teamB": "Arizona State Sun Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4380/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60085/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -1202,6 +1189,27 @@
         {
           "channel_name": "TV QUALITY+ HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "UTSA Roadrunners Vs North Texas Mean Green",
+      "eventInfo": {
+        "teamA": "UTSA Roadrunners",
+        "teamB": "North Texas Mean Green",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188116/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4302/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -1480,29 +1488,6 @@
           "channel_name": "WWE HD",
           "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?",
           "referer": "https://embedcenter.st/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "15/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
         }
       ]
     },
@@ -1864,7 +1849,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "New Zealand Vs India",
       "eventInfo": {
@@ -1927,7 +1912,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CD Guadalajara Vs FC Juárez",
       "eventInfo": {
@@ -1972,35 +1957,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Utah Mammoth Vs San Jose Sharks",
-      "eventInfo": {
-        "teamA": "Utah Mammoth",
-        "teamB": "San Jose Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "15/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + NHL",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Anaheim Ducks Vs New York Islanders",
       "eventInfo": {
         "teamA": "Anaheim Ducks",
@@ -2028,7 +1984,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Los Angeles Kings Vs Calgary Flames",
       "eventInfo": {
@@ -2097,27 +2053,6 @@
         {
           "channel_name": "XTREME+ SD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "UTSA Roadrunners Vs North Texas Mean Green",
-      "eventInfo": {
-        "teamA": "UTSA Roadrunners",
-        "teamB": "North Texas Mean Green",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/188116/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4302/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -2243,7 +2178,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "UTEP Miners Vs Wyoming Cowboys",
       "eventInfo": {
@@ -2656,6 +2591,29 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "kid": "0ad4080cdff8c60b1233b22087f0b340",
           "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Chapecoense Vs Vasco da Gama",
+      "eventInfo": {
+        "teamA": "Chapecoense",
+        "teamB": "Vasco da Gama",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "15/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER BR",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     },
@@ -3167,6 +3125,27 @@
     {
       "status": "ENDED",
       "Category": "American football",
+      "event_name": "Michigan State Spartans Vs Washington Huskies",
+      "eventInfo": {
+        "teamA": "Michigan State Spartans",
+        "teamB": "Washington Huskies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4338/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4370/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60086/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
       "event_name": "Louisiana Tech Bulldogs Vs Southern Mississippi Golden Eagles",
       "eventInfo": {
         "teamA": "Louisiana Tech Bulldogs",
@@ -3181,6 +3160,27 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/60079/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "UCF Knights Vs Arizona State Sun Devils",
+      "eventInfo": {
+        "teamA": "UCF Knights",
+        "teamB": "Arizona State Sun Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4380/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60085/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ]
