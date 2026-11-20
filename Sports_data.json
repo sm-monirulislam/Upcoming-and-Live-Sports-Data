@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:24 AM 20-11-2026",
+  "last_update_time": "09:01:19 AM 20-11-2026",
   "total_matches": 70,
-  "live_match": 30,
+  "live_match": 22,
   "matches": [
     {
       "status": "LIVE",
@@ -213,6 +213,16 @@
           "channel_name": "FORMULA TV HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST FHD ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a4b8981-9dac-4551-bdfe-b23d10b10693/master.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/R333AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "SporTV3 BR FHD",
@@ -474,29 +484,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "São Paulo Vs Fluminense",
-      "eventInfo": {
-        "teamA": "São Paulo",
-        "teamB": "Fluminense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "20/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "9dc40460c93087aea84d6315f08ecb64",
-          "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "San Antonio Spurs Vs Los Angeles Clippers",
       "eventInfo": {
@@ -672,6 +659,42 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Vegas Golden Knights Vs Dallas Stars",
+      "eventInfo": {
+        "teamA": "Vegas Golden Knights",
+        "teamB": "Dallas Stars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Colorado Avalanche Vs Anaheim Ducks",
       "eventInfo": {
         "teamA": "Colorado Avalanche",
@@ -681,6 +704,35 @@
         "eventName": "NHL",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "20/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Seattle Kraken Vs Vancouver Canucks",
+      "eventInfo": {
+        "teamA": "Seattle Kraken",
+        "teamB": "Vancouver Canucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 08:40:00 AM"
       },
       "streams": [
         {
@@ -714,7 +766,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60494/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60495/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -759,42 +816,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Winnipeg Jets Vs New York Islanders",
-      "eventInfo": {
-        "teamA": "Winnipeg Jets",
-        "teamB": "New York Islanders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d3250252765347a0c2603c6cb4869f8c",
-          "key": "0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "Tampa Bay Lightning Vs Edmonton Oilers",
       "eventInfo": {
         "teamA": "Tampa Bay Lightning",
@@ -814,172 +835,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Ottawa Senators Vs Philadelphia Flyers",
-      "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "Philadelphia Flyers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Carolina Hurricanes Vs Montréal Canadiens",
-      "eventInfo": {
-        "teamA": "Carolina Hurricanes",
-        "teamB": "Montréal Canadiens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "85b277daf5aae05833fe43a68f587968",
-          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Washington Capitals Vs Buffalo Sabres",
-      "eventInfo": {
-        "teamA": "Washington Capitals",
-        "teamB": "Buffalo Sabres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Toronto Maple Leafs Vs Los Angeles Kings",
-      "eventInfo": {
-        "teamA": "Toronto Maple Leafs",
-        "teamB": "Los Angeles Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Pittsburgh Penguins Vs St. Louis Blues",
-      "eventInfo": {
-        "teamA": "Pittsburgh Penguins",
-        "teamB": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60486/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -995,25 +851,31 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Orlando City SC Vs FC Cincinnati",
+      "event_name": "Seattle Sounders FC Vs Real Salt Lake",
       "eventInfo": {
-        "teamA": "Orlando City SC",
-        "teamB": "FC Cincinnati",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/52237/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "teamA": "Seattle Sounders FC",
+        "teamB": "Real Salt Lake",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
         "eventName": "MLS",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "20/11/2026 06:30:00 AM"
+        "startTime": "20/11/2026 09:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "SERVER + LIVE",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_2ffa0691_5fad_4ac0_a3ec_445d453f1e18/index.m3u8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60515/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/R333AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "XTREME+ FHD",
@@ -1024,7 +886,7 @@
           "stream_url": ""
         },
         {
-          "channel_name": "MLS HD",
+          "channel_name": "MLS HD ",
           "stream_url": ""
         }
       ]
@@ -1509,108 +1371,6 @@
         },
         {
           "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Dallas Stars",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Dallas Stars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Vancouver Canucks",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Vancouver Canucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 08:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Seattle Sounders FC Vs Real Salt Lake",
-      "eventInfo": {
-        "teamA": "Seattle Sounders FC",
-        "teamB": "Real Salt Lake",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "20/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + LIVE",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "XTREME+ FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME+ SD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "MLS HD ",
           "stream_url": ""
         }
       ]
@@ -2258,6 +2018,267 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
           "kid": "d23f7433798a652a7d4f6791d9e1036c",
           "key": "4942eebd598b5727c5cc484cc62b52e8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "São Paulo Vs Fluminense",
+      "eventInfo": {
+        "teamA": "São Paulo",
+        "teamB": "Fluminense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "20/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "9dc40460c93087aea84d6315f08ecb64",
+          "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Winnipeg Jets Vs New York Islanders",
+      "eventInfo": {
+        "teamA": "Winnipeg Jets",
+        "teamB": "New York Islanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60484/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Ottawa Senators Vs Philadelphia Flyers",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Carolina Hurricanes Vs Montréal Canadiens",
+      "eventInfo": {
+        "teamA": "Carolina Hurricanes",
+        "teamB": "Montréal Canadiens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "85b277daf5aae05833fe43a68f587968",
+          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Washington Capitals Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Washington Capitals",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60473/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Toronto Maple Leafs Vs Los Angeles Kings",
+      "eventInfo": {
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "Los Angeles Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Pittsburgh Penguins Vs St. Louis Blues",
+      "eventInfo": {
+        "teamA": "Pittsburgh Penguins",
+        "teamB": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Orlando City SC Vs FC Cincinnati",
+      "eventInfo": {
+        "teamA": "Orlando City SC",
+        "teamB": "FC Cincinnati",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "20/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_2ffa0691_5fad_4ac0_a3ec_445d453f1e18/index.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME+ FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME+ SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
         }
       ]
     },
