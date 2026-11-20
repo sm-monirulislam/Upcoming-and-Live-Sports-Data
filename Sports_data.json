@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:15 PM 20-11-2026",
+  "last_update_time": "09:01:16 PM 20-11-2026",
   "total_matches": 92,
-  "live_match": 16,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -524,6 +524,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Italy U17 Vs Jamaica U17",
+      "eventInfo": {
+        "teamA": "Italy U17",
+        "teamB": "Jamaica U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22616/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Spain U17 Vs China U17",
       "eventInfo": {
         "teamA": "Spain U17",
@@ -537,8 +559,14 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/tiiiA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -600,6 +628,12 @@
         {
           "channel_name": "Link 1",
           "stream_url": "http://193.47.62.44/hls/HHHH.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Namungo vs Mbeya City",
+          "stream_url": "http://193.47.62.41/hls/DADADAAAAAQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -987,28 +1021,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Italy U17 Vs Jamaica U17",
-      "eventInfo": {
-        "teamA": "Italy U17",
-        "teamB": "Jamaica U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22616/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Côte d'Ivoire U17 Vs Uzbekistan U17",
       "eventInfo": {
         "teamA": "Côte d'Ivoire U17",
@@ -1028,7 +1040,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Fiji U17 Vs Morocco U17",
       "eventInfo": {
@@ -1091,7 +1103,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Oman U17 Vs Kuwait U17",
       "eventInfo": {
