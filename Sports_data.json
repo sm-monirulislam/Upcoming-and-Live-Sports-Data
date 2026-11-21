@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:31:16 PM 21-11-2026",
+  "last_update_time": "05:01:15 PM 21-11-2026",
   "total_matches": 262,
-  "live_match": 14,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -508,35 +508,40 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Brisbane Roar Vs Sydney FC",
+      "event_name": "Atletico CP Vs Casa Pia",
       "eventInfo": {
-        "teamA": "Brisbane Roar",
-        "teamB": "Sydney FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5971/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "21/11/2026 02:40:00 PM"
+        "teamA": "Atletico CP",
+        "teamB": "Casa Pia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35177/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
+        "eventName": "Taça de Portugal",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
+        "startTime": "21/11/2026 05:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Badalona Women Vs Real Club Deportivo de A Coruña",
+      "eventInfo": {
+        "teamA": "FC Badalona Women",
+        "teamB": "Real Club Deportivo de A Coruña",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262253/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "21/11/2026 05:00:00 PM"
+      },
+      "streams": [
         {
-          "channel_name": "SportDigital FussBall",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/TPPPPAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -783,7 +788,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "College GameDay Vs College GameDay",
       "eventInfo": {
@@ -854,7 +859,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Saracens Vs Harlequin FC",
       "eventInfo": {
@@ -1779,7 +1784,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "1. FC Nürnberg Vs Eintracht Braunschweig",
       "eventInfo": {
@@ -1799,7 +1804,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hannover 96 Vs SpVgg Greuther Fürth",
       "eventInfo": {
@@ -1819,7 +1824,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "VfL Wolfsburg Vs Holstein Kiel",
       "eventInfo": {
@@ -1982,7 +1987,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Östersunds FK Vs Varbergs BoIS",
       "eventInfo": {
@@ -2341,26 +2346,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atletico CP Vs Casa Pia",
-      "eventInfo": {
-        "teamA": "Atletico CP",
-        "teamB": "Casa Pia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35177/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
-        "eventName": "Taça de Portugal",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
-        "startTime": "21/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Estoril Praia Vs Felgueiras",
@@ -2516,26 +2501,6 @@
         "eventName": "Taça de Portugal",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
         "startTime": "22/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Badalona Women Vs Real Club Deportivo de A Coruña",
-      "eventInfo": {
-        "teamA": "FC Badalona Women",
-        "teamB": "Real Club Deportivo de A Coruña",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/262253/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "21/11/2026 05:00:00 PM"
       },
       "streams": [
         {
@@ -6461,6 +6426,41 @@
         {
           "channel_name": "Link 1",
           "stream_url": "http://193.47.62.41/hls/A555A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Brisbane Roar Vs Sydney FC",
+      "eventInfo": {
+        "teamA": "Brisbane Roar",
+        "teamB": "Sydney FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5968/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5971/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "21/11/2026 02:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "SportDigital FussBall",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/TPPPPAAAAQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
