@@ -6,7 +6,7 @@ on:
 jobs:
 
   main_sm_data:
-    uses: ./.github/workflows/main_sm_data.yml
+    uses: ./.github/workflows/sm_main_2nd.yml
     secrets: inherit
 
   wait_1_minute:
