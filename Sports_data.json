@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:20 PM 24-11-2026",
-  "total_matches": 118,
-  "live_match": 8,
+  "last_update_time": "07:01:19 PM 24-11-2026",
+  "total_matches": 120,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -107,6 +107,10 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
           "kid": "5d6c647cd1b56550bd34349b68ec8c82",
           "key": "09f952780ba5b30bc222439aaa3ac09b"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ]
     },
@@ -237,6 +241,32 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Venezuela U17 Vs Romania U17",
+      "eventInfo": {
+        "teamA": "Venezuela U17",
+        "teamB": "Romania U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48841/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22645/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "24/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "kid": "f836853d8eac19446ed9535f5fc568b1",
+          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAA.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Japan U17 Vs Serbia U17",
       "eventInfo": {
         "teamA": "Japan U17",
@@ -249,15 +279,63 @@
       },
       "streams": [
         {
+          "channel_name": "TSN SPORTS AQ ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "HD STREAM ",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8"
+        },
+        {
           "channel_name": "VIX TN",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
           "key": "0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Arsenal U19 Vs Borussia Dortmund U19",
+      "eventInfo": {
+        "teamA": "Arsenal U19",
+        "teamB": "Borussia Dortmund U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90120/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/43719/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "24/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS AQ ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQ.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Mexico U17 Vs Cameroon U17",
       "eventInfo": {
@@ -355,6 +433,10 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8"
         },
         {
           "channel_name": "UNITE8 HIN HD",
@@ -3751,6 +3833,10 @@
         {
           "channel_name": "TAPMAD - AQ",
           "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
         },
         {
           "channel_name": "EURO SPORTS - AQ",
