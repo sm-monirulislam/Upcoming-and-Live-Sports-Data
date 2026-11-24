@@ -35,10 +35,10 @@ jobs:
           rm -rf private_code
 
       - name: Run Sports Scraper
-        run: python sports_ap_sm.py > Sports_data.json
+        run: python sports_app_sm.py > Sports_data.json
 
       - name: Remove Python Script
-        run: rm -f sports_ap_sm.py
+        run: rm -f sports_app_sm.py
 
       - name: Commit and Push
         run: |
