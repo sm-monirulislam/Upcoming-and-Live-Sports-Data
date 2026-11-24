@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:19 PM 24-11-2026",
+  "last_update_time": "04:31:16 PM 24-11-2026",
   "total_matches": 120,
-  "live_match": 5,
+  "live_match": 6,
   "matches": [
     {
       "status": "LIVE",
@@ -151,8 +151,14 @@
           "key": "db72f4347277225954d7170f0ec6992f"
         },
         {
-          "channel_name": "SONYLIV ENG - AQ",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556164~acl=/*~id=83143876600458032276763961949467~hmac=72e5a14c6606af548705e64a24f227a39ca0b5d7ea777f56f844b153cd3ef9a6"
+          "channel_name": "PRIME VIDEO",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfrlbe7fbg/out/v1/639c9067b4a84f7bb2f537e92b3dc7ab/cenc.mpd",
+          "kid": "4dd3868a0b6eee01223b50a94b43587c",
+          "key": "9aafad044ccd8f63a413f0e28561e8b3"
+        },
+        {
+          "channel_name": "TAMASHA AQ",
+          "stream_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8"
         },
         {
           "channel_name": "WILLOW S2 - AQ",
@@ -161,8 +167,8 @@
           "key": "db72f4347277225954d7170f0ec6992f"
         },
         {
-          "channel_name": "TAMASHA AQ",
-          "stream_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8"
+          "channel_name": "SONYLIV ENG - AQ",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556164~acl=/*~id=83143876600458032276763961949467~hmac=72e5a14c6606af548705e64a24f227a39ca0b5d7ea777f56f844b153cd3ef9a6"
         }
       ]
     },
@@ -181,8 +187,24 @@
       },
       "streams": [
         {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+        },
+        {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.41/hls/3GGG.m3u8"
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": "https://www.rtmpcdn.com/live/35c6ffd01084704cbafb61109dc23778a0b9f43a519f6ffe8ab77bf8e0b0cb57.m3u8"
+        },
+        {
+          "channel_name": "PlayZ Live ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": ""
         }
       ]
     },
@@ -201,13 +223,29 @@
       },
       "streams": [
         {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        },
+        {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.41/hls/3GGGA.m3u8"
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": "https://www.rtmpcdn.com/live/236806a923eca1f04e0dbbc31fefe770fbdf8a4d2dc60fe773ecf715090f47e3.m3u8"
+        },
+        {
+          "channel_name": "PlayZ Live ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": ""
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Italia T10 Vs Italia T10",
       "eventInfo": {
