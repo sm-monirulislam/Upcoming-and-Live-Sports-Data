@@ -2,38 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:19 AM 25-11-2026",
+  "last_update_time": "07:01:17 AM 25-11-2026",
   "total_matches": 93,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chapecoense Vs Palmeiras",
-      "eventInfo": {
-        "teamA": "Chapecoense",
-        "teamB": "Palmeiras",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "25/11/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER SPORTS - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "PREMIERE BR - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "WWE",
@@ -3267,6 +3239,34 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd",
           "kid": "acf65afa1e6e1c2fb808dc3e9e737659",
           "key": "ae35255a282fa1645f25e8e9e92d2ae2"
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "Football",
+      "event_name": "Chapecoense Vs Palmeiras",
+      "eventInfo": {
+        "teamA": "Chapecoense",
+        "teamB": "Palmeiras",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "25/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER SPORTS - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "kid": "1444f4235529f183f0a5a486befe9cdb",
+          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "PREMIERE BR - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     }
