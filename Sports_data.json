@@ -2,64 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:31:20 PM 26-11-2026",
+  "last_update_time": "11:01:16 PM 26-11-2026",
   "total_matches": 123,
-  "live_match": 12,
+  "live_match": 11,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "New Zealand U17 Vs Belgium U17",
-      "eventInfo": {
-        "teamA": "New Zealand U17",
-        "teamB": "Belgium U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "26/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Vietnam U17 Vs Mali U17",
-      "eventInfo": {
-        "teamA": "Vietnam U17",
-        "teamB": "Mali U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/468404/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/203876/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "26/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV LIVE",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?"
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -341,6 +287,10 @@
       },
       "streams": [
         {
+          "channel_name": "SM IPTV LIVE",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?"
+        },
+        {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.50/hls/GTGTGTAA.m3u8"
         }
@@ -361,13 +311,17 @@
       },
       "streams": [
         {
+          "channel_name": "SM IPTV LIVE",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?"
+        },
+        {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.50/hls/GTGTGTA.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Faisaly Vs Diriyah",
       "eventInfo": {
@@ -4027,6 +3981,60 @@
         {
           "channel_name": "TAPMAD - AQ",
           "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "Football",
+      "event_name": "New Zealand U17 Vs Belgium U17",
+      "eventInfo": {
+        "teamA": "New Zealand U17",
+        "teamB": "Belgium U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22634/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "26/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?"
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "Football",
+      "event_name": "Vietnam U17 Vs Mali U17",
+      "eventInfo": {
+        "teamA": "Vietnam U17",
+        "teamB": "Mali U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/468404/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/203876/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "26/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV LIVE",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?"
+        },
+        {
+          "channel_name": "PZ TV HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PZ TV HD",
+          "stream_url": ""
         }
       ]
     }
