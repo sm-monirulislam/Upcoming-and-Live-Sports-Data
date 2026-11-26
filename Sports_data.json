@@ -2,32 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:18 AM 26-11-2026",
+  "last_update_time": "09:01:16 AM 26-11-2026",
   "total_matches": 157,
-  "live_match": 28,
+  "live_match": 27,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlético Mineiro Vs Corinthians",
-      "eventInfo": {
-        "teamA": "Atlético Mineiro",
-        "teamB": "Corinthians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "26/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -5297,6 +5275,28 @@
         {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.55/hls/NTTT.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "Football",
+      "event_name": "Atlético Mineiro Vs Corinthians",
+      "eventInfo": {
+        "teamA": "Atlético Mineiro",
+        "teamB": "Corinthians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "26/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     }
