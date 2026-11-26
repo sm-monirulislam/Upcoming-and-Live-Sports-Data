@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:01:15 AM 27-11-2026",
+  "last_update_time": "03:31:23 AM 27-11-2026",
   "total_matches": 85,
-  "live_match": 21,
+  "live_match": 22,
   "matches": [
     {
       "status": "LIVE",
@@ -25,6 +25,10 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9mzqkbpf1d/out/v1/fe39e2b4831e41ae9fce52a28c1baa46/cenc.mpd",
           "kid": "8ffce5bdfb9f1e24dd990efa3a7cd53d",
           "key": "a2be61d34703e9a19d2a8f5b713e2701"
+        },
+        {
+          "channel_name": "SM IPTV Live - AQ",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist"
         },
         {
           "channel_name": "TSN SPORTS - AQ",
@@ -53,10 +57,6 @@
         {
           "channel_name": "SM IPTV FHD",
           "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c4409968-32d7-4250-9f26-e2c9c306ace5/master.m3u8"
-        },
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist"
         },
         {
           "channel_name": "SM IPTV Live [FHD]",
@@ -825,21 +825,41 @@
       },
       "streams": [
         {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "SM IPTV Live - AQ",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61096\\/load-playlist"
+        },
+        {
           "channel_name": "Sky Top Event - AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
           "kid": "368bd4ebe301406897324bc777650411",
           "key": "69d27c2c2b7de927d67aacc973259901"
         },
         {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          "channel_name": "TSN SPORTS 3 - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "TSN SPORTS 4 - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "kid": "abc5b2883121012850ebda05b528c5ec",
+          "key": "e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "New Zealand Vs India",
       "eventInfo": {
