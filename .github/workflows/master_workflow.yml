@@ -15,14 +15,8 @@ jobs:
     uses: ./.github/workflows/sports_data2.yml
     secrets: inherit
 
-  sports_main_com:
-    needs: sports_data2
-    if: ${{ always() }}
-    uses: ./.github/workflows/sports_main_com.yml
-    secrets: inherit
-
   wait_2_minutes:
-    needs: sports_main_com
+    needs: sports_data2
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
