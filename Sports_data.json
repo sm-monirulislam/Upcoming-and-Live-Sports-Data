@@ -2,36 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:15 PM 27-11-2026",
-  "total_matches": 100,
+  "last_update_time": "04:01:17 PM 27-11-2026",
+  "total_matches": 103,
   "live_match": 5,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Italy Vs Chili",
-      "eventInfo": {
-        "teamA": "Italy",
-        "teamB": "Chili",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-        "eventName": "Dubai SVNS International Invitational",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
-        "startTime": "27/11/2026 02:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RUGBYPASS TV AQ",
-          "stream_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795851329~acl=*dash%2flive%2f2001533%2f321898-340023%2f*!*dash%2flive%2f2001533-b%2f321898-340023-b%2f*~id=9b6d1c81-1430-4a46-8681-897e1e2e6484~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTkuNzMuNy4xOTImZXhwPTE3OTU4NTEzNTkmZWlkPTMyMTg5OCZjaWQ9ZGNlLndvcmxkcnVnYnkmb2lkPTM3OCZ0eXBlPUxJVkUmZGFwPTA~hmac=7e3925fb45c6313b427a46091ec73832c4e4bdbb9e8601153c0f3dcbfa774bd9/dash/live/2001533/321898-340023/manifest-d.mpd",
-          "kid": "f2cce52de61b45169ea9221315ff49a3",
-          "key": "5c24503f0e2a4559bcd54b41be962071"
-        },
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -241,10 +215,10 @@
       },
       "streams": [
         {
-          "channel_name": "WILLOW AQ",
-          "stream_url": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
-          "kid": "7341f16081ecb92ed172ef9df6f443ce",
-          "key": "566b8cf0a31255d55785b24ade0a999c"
+          "channel_name": "WILLOW - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+          "kid": "24dea51a9817383c884a175a7bc74549",
+          "key": "86e7bd926119ff53f5eda7457afd8ee3"
         },
         {
           "channel_name": "STARZPLAY FHD",
@@ -253,8 +227,14 @@
           "key": "03483335db81cba5bbcf51b6d31196d9"
         },
         {
+          "channel_name": "WILLOW S2 - AQ",
+          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+          "kid": "24dea51a9817383c884a175a7bc74549",
+          "key": "86e7bd926119ff53f5eda7457afd8ee3"
+        },
+        {
           "channel_name": "SONYLIV ENG - AQ",
-          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040"
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816046~acl=/*~id=20723742361426238784894684349112~hmac=635a5fc7b20eed1f7db4301562129f810d88787d75931312144c184d500aa982"
         },
         {
           "channel_name": "TAMASHA AQ",
@@ -267,6 +247,54 @@
         {
           "channel_name": "HD SERVER",
           "stream_url": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Perth Scorchers Women Vs Hobart Hurricanes Women",
+      "eventInfo": {
+        "teamA": "Perth Scorchers Women",
+        "teamB": "Hobart Hurricanes Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "27/11/2026 04:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd",
+          "kid": "41901192b980eddd911c8cd7e5c516df",
+          "key": "fabf22ee583ee08d1638dc18578d5174"
+        },
+        {
+          "channel_name": "CRICKET AU AQ",
+          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2GapTrGM8HC5WXnbA6bzAozHCCBMY52Y3TC69oRNUsW2vE2ZqcprUHApPAgvNRbeECYmKzYiConP/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=193794596381"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "FOX CRICKET [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TAPMAD HD",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8"
         }
       ]
     },
@@ -371,6 +399,26 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
         "eventName": "U17 World Championship",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "27/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Azam FC Vs Al Ahli Tripoli",
+      "eventInfo": {
+        "teamA": "Azam FC",
+        "teamB": "Al Ahli Tripoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/189124/image",
+        "eventName": "CAF Confederations Cup",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1115/image/dark",
         "startTime": "27/11/2026 07:00:00 PM"
       },
       "streams": [
@@ -603,6 +651,40 @@
         {
           "channel_name": "FANCODE [IND]",
           "stream_url": "https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Tennis",
+      "event_name": "Italy Vs Czechia",
+      "eventInfo": {
+        "teamA": "Italy",
+        "teamB": "Czechia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4714/image",
+        "eventName": "Davis Cup",
+        "event_logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+        "startTime": "27/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "kid": "335dad778109954503dcbb21dc92015f",
+          "key": "24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "TENNIS TV DE AQ",
+          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
+          "kid": "2b8cd782fe332547063317b3f58de936",
+          "key": "98c9c8f4e23e3a7a083d26857d5881ab"
+        },
+        {
+          "channel_name": "TSN SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
         }
       ]
     },
@@ -1050,6 +1132,46 @@
         "eventName": "MLS",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "28/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Melbourne Renegades Women Vs Melbourne Stars Women",
+      "eventInfo": {
+        "teamA": "Melbourne Renegades Women",
+        "teamB": "Melbourne Stars Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "28/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sydney Thunder Women Vs Sydney Sixers Women",
+      "eventInfo": {
+        "teamA": "Sydney Thunder Women",
+        "teamB": "Sydney Sixers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "28/11/2026 02:10:00 PM"
       },
       "streams": [
         {
@@ -3383,68 +3505,6 @@
         {
           "channel_name": "TAMASHA AQ",
           "stream_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "FINISHED",
-      "Category": "Tennis",
-      "event_name": "Austria Vs Spain",
-      "eventInfo": {
-        "teamA": "Austria",
-        "teamB": "Spain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-        "eventName": "Davis Cup",
-        "event_logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-        "startTime": "26/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "kid": "335dad778109954503dcbb21dc92015f",
-          "key": "24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "TENNIS TV DE AQ",
-          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
-          "kid": "2b8cd782fe332547063317b3f58de936",
-          "key": "98c9c8f4e23e3a7a083d26857d5881ab"
-        },
-        {
-          "channel_name": "TSN SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "PZ TV HD",
-          "stream_url": ""
         }
       ]
     },
