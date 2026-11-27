@@ -9,14 +9,28 @@ jobs:
     uses: ./.github/workflows/sports_data1.yml
     secrets: inherit
 
-  main_sm_data:
+  sm_main_2nd:
     needs: sports_data1
     if: ${{ always() }}
     uses: ./.github/workflows/sm_main_2nd.yml
     secrets: inherit
 
+  wait_1_minute:
+    needs: sm_main_2nd
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for 1 minute
+        run: sleep 60
+
+  sports_main_com:
+    needs: wait_1_minute
+    if: ${{ always() }}
+    uses: ./.github/workflows/sports_main_com.yml
+    secrets: inherit
+
   wait_2_minutes:
-    needs: main_sm_data
+    needs: sports_main_com
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
