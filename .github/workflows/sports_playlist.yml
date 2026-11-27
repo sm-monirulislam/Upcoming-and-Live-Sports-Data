@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sports-data-playlist-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
@@ -29,8 +33,9 @@ jobs:
       - name: Fetch Script
         env:
           REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
+          git clone https://${GH_PAT}@github.com/sm-monirulislam/${REPO_NAME}.git private_code
           mkdir -p App
           cp private_code/App/sports_image.py App/
           rm -rf private_code
@@ -48,13 +53,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Sports_data.m3u match_image/
+          git restore --source=HEAD --staged --worktree -- \
+            match_image/Sports_data1.json \
+            match_image/Sports_data2.json
+
+          git add -A -- Sports_data.m3u match_image/
 
           if git diff --cached --quiet; then
             exit 0
           fi
 
           git commit -m "Update Sports Data"
+
           git fetch origin main
-          git rebase origin/main
+
+          if ! git rebase origin/main; then
+            git rebase --abort
+            exit 1
+          fi
+
           git push origin HEAD:main
