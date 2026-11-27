@@ -2,10 +2,36 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:01:15 PM 27-11-2026",
-  "total_matches": 98,
-  "live_match": 2,
+  "last_update_time": "03:31:15 PM 27-11-2026",
+  "total_matches": 100,
+  "live_match": 5,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Italy Vs Chili",
+      "eventInfo": {
+        "teamA": "Italy",
+        "teamB": "Chili",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "eventName": "Dubai SVNS International Invitational",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
+        "startTime": "27/11/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RUGBYPASS TV AQ",
+          "stream_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795851329~acl=*dash%2flive%2f2001533%2f321898-340023%2f*!*dash%2flive%2f2001533-b%2f321898-340023-b%2f*~id=9b6d1c81-1430-4a46-8681-897e1e2e6484~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTkuNzMuNy4xOTImZXhwPTE3OTU4NTEzNTkmZWlkPTMyMTg5OCZjaWQ9ZGNlLndvcmxkcnVnYnkmb2lkPTM3OCZ0eXBlPUxJVkUmZGFwPTA~hmac=7e3925fb45c6313b427a46091ec73832c4e4bdbb9e8601153c0f3dcbfa774bd9/dash/live/2001533/321898-340023/manifest-d.mpd",
+          "kid": "f2cce52de61b45169ea9221315ff49a3",
+          "key": "5c24503f0e2a4559bcd54b41be962071"
+        },
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -107,11 +133,27 @@
           "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
           "kid": "ec7ee27d83764e4b845c48cca31c8eef",
           "key": "9c0e4191203fccb0fde34ee29999129e"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/FRFRFR.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://www.rtmpcdn.com/live/b9149b1d-db70-42f9-a0b9-1581ad9ee25e.m3u8"
+        },
+        {
+          "channel_name": "PZ TV HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsport",
       "event_name": "MotoGP Vs MotoGP",
       "eventInfo": {
@@ -155,13 +197,37 @@
           "key": "3fa354cde4b3a320250387caacebc13e"
         },
         {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
           "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.44/hls/ziii.m3u8"
+          "stream_url": "http://193.47.62.41/hls/FRFRFRV.m3u8"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Bangladesh A Vs Pakistan A",
       "eventInfo": {
@@ -231,6 +297,26 @@
         {
           "channel_name": "TAMASHA PRO AQ",
           "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Ireland 7s Vs Belgium 7's",
+      "eventInfo": {
+        "teamA": "Ireland 7s",
+        "teamB": "Belgium 7's",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/291711/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1316755/image",
+        "eventName": "Dubai SVNS Women's International Invitational",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
+        "startTime": "27/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
         }
       ]
     },
