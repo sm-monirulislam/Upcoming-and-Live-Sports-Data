@@ -1,4 +1,4 @@
-name: Sports Data By SM 2nd
+name: Sports Data Second By SM
 
 on:
   workflow_dispatch:
@@ -31,21 +31,23 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git clone https://x-access-token:${GH_PAT}@github.com/sm-monirulislam/${REPO_NAME}.git private_code
-          cp private_code/App/sports_app_sm.py .
+          cp private_code/App/sports_ap2_sm.py .
           rm -rf private_code
 
       - name: Run Sports Scraper
-        run: python sports_app_sm.py > Sports_data.json
+        run: |
+          mkdir -p match_image
+          python sports_ap2_sm.py > match_image/Sports_data2.json
 
       - name: Remove Python Script
-        run: rm -f sports_app_sm.py
+        run: rm -f sports_ap2_sm.py
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Sports_data.json
+          git add match_image/Sports_data2.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
