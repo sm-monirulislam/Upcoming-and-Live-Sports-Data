@@ -2,38 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:01:15 AM 27-11-2026",
+  "last_update_time": "11:31:16 AM 27-11-2026",
   "total_matches": 90,
-  "live_match": 1,
+  "live_match": 0,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Buffalo Bills Vs Kansas City Chiefs",
-      "eventInfo": {
-        "teamA": "Buffalo Bills",
-        "teamB": "Kansas City Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-        "eventName": "NFL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "27/11/2026 07:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Top Event- AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "kid": "368bd4ebe301406897324bc777650411",
-          "key": "69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
-        }
-      ]
-    },
     {
       "status": "UPCOMING",
       "Category": "Cricket",
@@ -3267,6 +3239,34 @@
         {
           "channel_name": "FANCODE [IND]",
           "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249676_english_hls_fffac9b5e066432_1ta-di_h264/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "American football",
+      "event_name": "Buffalo Bills Vs Kansas City Chiefs",
+      "eventInfo": {
+        "teamA": "Buffalo Bills",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 07:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "kid": "368bd4ebe301406897324bc777650411",
+          "key": "69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "key": "17d2ac8dbc5429bd70af3433aa12158d"
         }
       ]
     }
