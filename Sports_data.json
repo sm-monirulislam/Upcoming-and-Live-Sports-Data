@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:03:17 PM 28-11-2026",
+  "last_update_time": "09:33:12 PM 28-11-2026",
   "total_matches": 148,
   "live_match": 30,
   "matches": [
@@ -478,6 +478,58 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Manchester United Vs Brentford",
+      "eventInfo": {
+        "teamA": "Manchester United",
+        "teamB": "Brentford",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PEACOCK ENG",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ulwuyu4ai4/out/v1/05f1ef0f4a9b4bfc89ec0685d33786a6/cenc.mpd",
+          "kid": "6e88d1e31d904955f910a082d1aff122",
+          "key": "32aeb26c720d15a8d16ae8b488c2734a"
+        },
+        {
+          "channel_name": "FUBO SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
+          "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
+          "key": "3e7d40c4b2ca331fe48bd65acae439d7"
+        },
+        {
+          "channel_name": "SKY SPORT PL - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj8aqoogh/out/v1/b427d030aa6c40b1ab5acccc70497a2f/cenc.mpd",
+          "kid": "1106fb025da5b31657618344099c6c14",
+          "key": "788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "channel_name": "FUBO SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "kid": "42f72c025dd53039244adc13b7e31dad",
+          "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61242/load-playlist"
+        },
+        {
+          "channel_name": "SM IPTV Live [FHD]",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.59/hls/DADADAQ.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Tennis",
       "event_name": "Great Britain Vs Spain",
       "eventInfo": {
@@ -541,42 +593,14 @@
         {
           "channel_name": "HD SERVER",
           "stream_url": "https://chatgpt.hereisman.net/playlist/61253/load-playlist"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Manchester United Vs Brentford",
-      "eventInfo": {
-        "teamA": "Manchester United",
-        "teamB": "Brentford",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
-        "eventName": "Premier League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FUBO SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
-          "kid": "65f9ed4580a4af3c117a339c44cdfe3b",
-          "key": "3e7d40c4b2ca331fe48bd65acae439d7"
-        },
-        {
-          "channel_name": "FUBO SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "kid": "42f72c025dd53039244adc13b7e31dad",
-          "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
         },
         {
           "channel_name": "HD SERVER",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61242/load-playlist"
+          "stream_url": "https://www.rtmpcdn.com/live/57e47c7e-e2ba-4901-b8ed-4c1d1203415f.m3u8"
         },
         {
-          "channel_name": "SM IPTV Live [FHD]",
-          "stream_url": ""
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.59/hls/DADADA.m3u8"
         }
       ]
     },
@@ -918,6 +942,12 @@
         "startTime": "28/11/2026 09:15:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd",
+          "kid": "c977d5dc5dd558690680f51ed66d948d",
+          "key": "b8f0d19112c33479b9cfc6382beba457"
+        },
         {
           "channel_name": "SM IPTV Live [FHD]",
           "stream_url": ""
