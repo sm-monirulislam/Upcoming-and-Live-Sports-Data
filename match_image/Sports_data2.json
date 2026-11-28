@@ -2,38 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:49 AM 28-11-2026",
+  "last_update_time": "09:01:48 AM 28-11-2026",
   "total_matches": 176,
-  "live_match": 17,
+  "live_match": 16,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fluminense Vs Cruzeiro",
-      "eventInfo": {
-        "teamA": "Fluminense",
-        "teamB": "Cruzeiro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "28/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE BR - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -5375,6 +5347,34 @@
         {
           "channel_name": "HD SERVER",
           "stream_url": "https://chatgpt.hereisman.net/playlist/61194/load-playlist"
+        }
+      ]
+    },
+    {
+      "status": "FINISHED",
+      "Category": "Football",
+      "event_name": "Fluminense Vs Cruzeiro",
+      "eventInfo": {
+        "teamA": "Fluminense",
+        "teamB": "Cruzeiro",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "28/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE BR - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         }
       ]
     }
