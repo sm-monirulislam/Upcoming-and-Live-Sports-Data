@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:44 PM 28-11-2026",
+  "last_update_time": "05:31:42 PM 28-11-2026",
   "total_matches": 148,
-  "live_match": 4,
+  "live_match": 7,
   "matches": [
     {
       "status": "LIVE",
@@ -187,14 +187,14 @@
       },
       "streams": [
         {
+          "channel_name": "SM IPTV LIVE",
+          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
+        },
+        {
           "channel_name": "UNBEATEN FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
           "kid": "5d6c647cd1b56550bd34349b68ec8c82",
           "key": "09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
-          "channel_name": "SM IPTV LIVE",
-          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
         },
         {
           "channel_name": "TAMASHA PRO AQ",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hertha BSC Vs Karlsruher SC",
       "eventInfo": {
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Holstein Kiel Vs 1. FC Kaiserslautern",
       "eventInfo": {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "SG Dynamo Dresden Vs FC St. Pauli",
       "eventInfo": {
@@ -257,8 +257,10 @@
       },
       "streams": [
         {
-          "channel_name": "Main Stream",
-          "stream_url": ""
+          "channel_name": "beIN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
       ]
     },
@@ -277,8 +279,16 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "FOX DESPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "kid": "d1a163914db8ffad2c3e94f979896a0d",
+          "key": "9728800a3959aafdd5b0bcfbf3768811"
         }
       ]
     },
