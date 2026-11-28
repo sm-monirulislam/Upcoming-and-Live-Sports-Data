@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:03:12 PM 28-11-2026",
-  "total_matches": 148,
-  "live_match": 30,
+  "last_update_time": "10:33:07 PM 28-11-2026",
+  "total_matches": 150,
+  "live_match": 34,
   "matches": [
     {
       "status": "LIVE",
@@ -961,6 +961,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "CD Eldense Vs Girona FC",
+      "eventInfo": {
+        "teamA": "CD Eldense",
+        "teamB": "Girona FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "28/11/2026 09:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "kid": "5fc8da8b94c447468ffe392157f8c75e",
+          "key": "333b934fdde4c1ee87e7f1c5dac4cb8f"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Excelsior Vs SC Telstar",
       "eventInfo": {
         "teamA": "Excelsior",
@@ -1019,7 +1041,41 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Angers Vs RC Lens",
+      "eventInfo": {
+        "teamA": "Angers",
+        "teamB": "RC Lens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "28/11/2026 10:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ovc9ckljg8/out/v1/76a556891e9447309205972ad4ae6d48/cenc.mpd",
+          "kid": "f6ee12913c97cb9fe2941ba8b81c5bab",
+          "key": "995b153c1d7c8c486c0116e5b45e4a0d"
+        },
+        {
+          "channel_name": "beIN SPORTS - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "kid": "27759a440e8ad821b800b3de00cd5851",
+          "key": "1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "beIN SPANISH - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "kid": "74cbe15488783fab07ff8c702fabafcd",
+          "key": "bb607803a49c2d6104f845e7886c971c"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "England Vs New Zealand",
       "eventInfo": {
@@ -1047,7 +1103,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Torino Vs Lazio",
       "eventInfo": {
@@ -4816,9 +4872,9 @@
       "streams": [
         {
           "channel_name": "WILLOW - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
-          "kid": "93eeb44d1f28ed952f0122a4c9e213af",
-          "key": "ad2fd224bbd23bb898ec346ebf1bd59f"
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saegpmsaey/out/v1/4efa6a026d044bc7b8731477db044d85/cenc.mpd",
+          "kid": "7da4cf4e5d70d08dc105a46fe42944f1",
+          "key": "70b38fae5d9baf9b4cedfd568bb442a6"
         },
         {
           "channel_name": "TNT SPORTS - AQ",
